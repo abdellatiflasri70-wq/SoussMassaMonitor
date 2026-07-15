@@ -1,0 +1,38 @@
+[
+  {
+    "id": "agadir24",
+    "name": "أكادير24",
+    "base_url": "https://agadir24.info",
+    "section_urls": [
+      "https://agadir24.info/topics/agadir-politique"
+    ],
+    "allowed_domains": [
+      "agadir24.info"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "scope": "local",
+    "region": "سوس ماسة",
+    "discovery_method": "category_page",
+    "enabled": true
+  },
+  {
+    "id": "machahid",
+    "name": "مشاهد",
+    "base_url": "https://machahid.info",
+    "section_urls": [
+      "https://machahid.info/category/انتخابات"
+    ],
+    "allowed_domains": [
+      "machahid.info"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "scope": "local",
+    "region": "سوس ماسة",
+    "discovery_method": "category_page",
+    "enabled": true
+  }
+]

@@ -1,0 +1,1308 @@
+[
+  {
+    "id": "person_001",
+    "canonical_name": "عزيز أخنوش",
+    "aliases": [
+      "Aziz Akhannouch",
+      "عزيز أخنوش",
+      "أخنوش",
+      "Akhannouch"
+    ],
+    "tier": "priority",
+    "scope": "national_regional",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_002",
+    "canonical_name": "عبد اللطيف وهبي",
+    "aliases": [
+      "Abdellatif Ouahbi",
+      "Abdellatif Wahbi",
+      "عبد اللطيف وهبي"
+    ],
+    "tier": "priority",
+    "scope": "national_regional",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_003",
+    "canonical_name": "كريم أشنكلي",
+    "aliases": [
+      "Karim Achengli",
+      "Karim Achnkli",
+      "كريم أشنكلي"
+    ],
+    "tier": "priority",
+    "scope": "regional",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_004",
+    "canonical_name": "عبد الصمد قيوح",
+    "aliases": [
+      "Abdessamad Kayouh",
+      "Abdessamad Kiouh",
+      "عبد الصمد قيوح"
+    ],
+    "tier": "priority",
+    "scope": "national_regional",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_005",
+    "canonical_name": "زينب قيوح",
+    "aliases": [
+      "Zineb Kayouh",
+      "Zineb Kiouh",
+      "زينب قيوح"
+    ],
+    "tier": "priority",
+    "scope": "regional",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_006",
+    "canonical_name": "لحسن السعدي",
+    "aliases": [
+      "Lahcen Saadi",
+      "لحسن السعدي"
+    ],
+    "tier": "priority",
+    "scope": "national_regional",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_007",
+    "canonical_name": "عبد اللطيف أعمو",
+    "aliases": [
+      "Abdellatif Amou",
+      "عبد اللطيف أعمو"
+    ],
+    "tier": "priority",
+    "scope": "regional",
+    "province": "تزنيت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_008",
+    "canonical_name": "طارق القباج",
+    "aliases": [
+      "Tarek Kabbaj",
+      "Tariq Kabbaj",
+      "طارق القباج"
+    ],
+    "tier": "priority",
+    "scope": "regional",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_009",
+    "canonical_name": "صالح المالوكي",
+    "aliases": [
+      "Salah El Malouki",
+      "Saleh El Malouki",
+      "صالح المالوكي"
+    ],
+    "tier": "priority",
+    "scope": "regional",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_010",
+    "canonical_name": "إبراهيم حافيدي",
+    "aliases": [
+      "Brahim Hafidi",
+      "Ibrahim Hafidi",
+      "إبراهيم حافيدي"
+    ],
+    "tier": "priority",
+    "scope": "regional",
+    "province": "اشتوكة أيت باها",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_011",
+    "canonical_name": "حميد البهجة",
+    "aliases": [
+      "Hamid Bahja",
+      "Hamid El Bahja",
+      "حميد البهجة"
+    ],
+    "tier": "priority",
+    "scope": "regional",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_012",
+    "canonical_name": "هشام المهاجري",
+    "aliases": [
+      "Hicham El Mahajri",
+      "Hicham El Mhajri",
+      "هشام المهاجري"
+    ],
+    "tier": "priority",
+    "scope": "regional",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_013",
+    "canonical_name": "ياسين الراضي",
+    "aliases": [
+      "Yassine Radi",
+      "ياسين الراضي"
+    ],
+    "tier": "priority",
+    "scope": "regional",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_014",
+    "canonical_name": "حميد وهبي",
+    "aliases": [
+      "Hamid Ouahbi",
+      "Hamid Wahbi",
+      "حميد وهبي"
+    ],
+    "tier": "priority",
+    "scope": "regional",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_015",
+    "canonical_name": "عبد العزيز البهجة",
+    "aliases": [
+      "Abdelaziz Bahja",
+      "Abdelaziz El Bahja",
+      "عبد العزيز البهجة"
+    ],
+    "tier": "priority",
+    "scope": "regional",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_016",
+    "canonical_name": "أحمد أوزيك",
+    "aliases": [
+      "Ahmed Ouzik",
+      "أحمد أوزيك"
+    ],
+    "tier": "priority",
+    "scope": "regional",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_017",
+    "canonical_name": "سعيد أمزازي",
+    "aliases": [
+      "Said Amzazi",
+      "Saïd Amzazi",
+      "سعيد أمزازي",
+      "أمزازي",
+      "Amzazi"
+    ],
+    "tier": "priority",
+    "scope": "national_regional",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_018",
+    "canonical_name": "محمد بوهضوض",
+    "aliases": [
+      "Mohamed Bouhdoud",
+      "محمد بوهضوض"
+    ],
+    "tier": "priority",
+    "scope": "regional",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_019",
+    "canonical_name": "نزار بركة",
+    "aliases": [
+      "Nizar Baraka",
+      "نزار بركة"
+    ],
+    "tier": "priority",
+    "scope": "national",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_020",
+    "canonical_name": "إدريس لشكر",
+    "aliases": [
+      "Driss Lachgar",
+      "Idriss Lachgar",
+      "إدريس لشكر",
+      "لشكر",
+      "Lachgar"
+    ],
+    "tier": "priority",
+    "scope": "national",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_021",
+    "canonical_name": "نبيل بنعبد الله",
+    "aliases": [
+      "Mohamed Nabil Benabdallah",
+      "Nabil Benabdallah",
+      "نبيل بنعبد الله"
+    ],
+    "tier": "priority",
+    "scope": "national",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_022",
+    "canonical_name": "عبد الإله بنكيران",
+    "aliases": [
+      "Abdelilah Benkirane",
+      "عبد الإله بنكيران",
+      "بنكيران",
+      "Benkirane"
+    ],
+    "tier": "priority",
+    "scope": "national",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_023",
+    "canonical_name": "فاطمة الزهراء المنصوري",
+    "aliases": [
+      "Fatim-Zahra Mansouri",
+      "Fatima Zahra Mansouri",
+      "فاطمة الزهراء المنصوري"
+    ],
+    "tier": "priority",
+    "scope": "national",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_024",
+    "canonical_name": "محمد أوزين",
+    "aliases": [
+      "Mohamed Ouzzine",
+      "محمد أوزين"
+    ],
+    "tier": "priority",
+    "scope": "national",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_025",
+    "canonical_name": "محمد ساجد",
+    "aliases": [
+      "Mohamed Sajid",
+      "محمد ساجد"
+    ],
+    "tier": "priority",
+    "scope": "national",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_026",
+    "canonical_name": "نبيلة منيب",
+    "aliases": [
+      "Nabila Mounib",
+      "نبيلة منيب"
+    ],
+    "tier": "priority",
+    "scope": "national",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_027",
+    "canonical_name": "عبد الوافي لفتيت",
+    "aliases": [
+      "Abdelouafi Laftit",
+      "عبد الوافي لفتيت"
+    ],
+    "tier": "priority",
+    "scope": "national",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_028",
+    "canonical_name": "رشيد الطالبي العلمي",
+    "aliases": [
+      "Rachid Talbi Alami",
+      "رشيد الطالبي العلمي"
+    ],
+    "tier": "priority",
+    "scope": "national",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_029",
+    "canonical_name": "إدريس الأزمي",
+    "aliases": [
+      "Idriss Azami",
+      "Idriss Azami Al Idrissi",
+      "إدريس الأزمي"
+    ],
+    "tier": "priority",
+    "scope": "national",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_030",
+    "canonical_name": "مصطفى بنعلي",
+    "aliases": [
+      "Mustapha Benali",
+      "مصطفى بنعلي"
+    ],
+    "tier": "priority",
+    "scope": "national",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_031",
+    "canonical_name": "فوزي لقجع",
+    "aliases": [
+      "Fouzi Lakjaa",
+      "Fouzi Lekjaa",
+      "فوزي لقجع",
+      "لقجع",
+      "Lekjaa"
+    ],
+    "tier": "priority",
+    "scope": "national",
+    "province": null,
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_032",
+    "canonical_name": "مصطفى بودرقة",
+    "aliases": [
+      "مصطفى بودرقة"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_033",
+    "canonical_name": "البشير بنحماد",
+    "aliases": [
+      "البشير بنحماد"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_034",
+    "canonical_name": "عبد الغني بوعيشي",
+    "aliases": [
+      "عبد الغني بوعيشي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_035",
+    "canonical_name": "الحسين ابدرار",
+    "aliases": [
+      "الحسين ابدرار"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_036",
+    "canonical_name": "محند أكرنان",
+    "aliases": [
+      "محند أكرنان"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_037",
+    "canonical_name": "الحبيب أغريس",
+    "aliases": [
+      "الحبيب أغريس"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_038",
+    "canonical_name": "جمال ديواني",
+    "aliases": [
+      "جمال ديواني"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_039",
+    "canonical_name": "رشيد بوخنفر",
+    "aliases": [
+      "رشيد بوخنفر"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_040",
+    "canonical_name": "الحسن المراش",
+    "aliases": [
+      "الحسن المراش"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_041",
+    "canonical_name": "عبد الله أبلعظيم",
+    "aliases": [
+      "عبد الله أبلعظيم"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_042",
+    "canonical_name": "ابتسام الحرمة",
+    "aliases": [
+      "ابتسام الحرمة"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_043",
+    "canonical_name": "أمال ماهر",
+    "aliases": [
+      "أمال ماهر"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_044",
+    "canonical_name": "محمد لعوينة",
+    "aliases": [
+      "محمد لعوينة"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_045",
+    "canonical_name": "رشيد الشناق",
+    "aliases": [
+      "رشيد الشناق"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_046",
+    "canonical_name": "خديجة الفلاكي",
+    "aliases": [
+      "خديجة الفلاكي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_047",
+    "canonical_name": "حسن مرزوقي",
+    "aliases": [
+      "حسن مرزوقي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_048",
+    "canonical_name": "سناء فوزي",
+    "aliases": [
+      "سناء فوزي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "أكادير إداوتنان",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_049",
+    "canonical_name": "إسماعيل الزيتوني",
+    "aliases": [
+      "إسماعيل الزيتوني"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "إنزكان أيت ملول",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_050",
+    "canonical_name": "محمد أودمين",
+    "aliases": [
+      "محمد أودمين"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "إنزكان أيت ملول",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_051",
+    "canonical_name": "خالد الشناق",
+    "aliases": [
+      "خالد الشناق"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "إنزكان أيت ملول",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_052",
+    "canonical_name": "عمر أمين",
+    "aliases": [
+      "عمر أمين"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "إنزكان أيت ملول",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_053",
+    "canonical_name": "إبراهيم أيت بنعلي",
+    "aliases": [
+      "إبراهيم أيت بنعلي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "إنزكان أيت ملول",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_054",
+    "canonical_name": "نسيبة كوسعيد",
+    "aliases": [
+      "نسيبة كوسعيد"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "إنزكان أيت ملول",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_055",
+    "canonical_name": "محمد بيكز",
+    "aliases": [
+      "محمد بيكز"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "إنزكان أيت ملول",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_056",
+    "canonical_name": "لطيفة أهرام",
+    "aliases": [
+      "لطيفة أهرام"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "إنزكان أيت ملول",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_057",
+    "canonical_name": "حميد أوفقير",
+    "aliases": [
+      "حميد أوفقير"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "إنزكان أيت ملول",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_058",
+    "canonical_name": "العربي كانسي",
+    "aliases": [
+      "العربي كانسي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "إنزكان أيت ملول",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_059",
+    "canonical_name": "المهدي الحسان",
+    "aliases": [
+      "المهدي الحسان"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "إنزكان أيت ملول",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_060",
+    "canonical_name": "محمد لعبوبي",
+    "aliases": [
+      "محمد لعبوبي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "إنزكان أيت ملول",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_061",
+    "canonical_name": "إسماعيل كرام",
+    "aliases": [
+      "إسماعيل كرام"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "اشتوكة أيت باها",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_062",
+    "canonical_name": "أحمد بومكوك",
+    "aliases": [
+      "أحمد بومكوك"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "اشتوكة أيت باها",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_063",
+    "canonical_name": "الحسين أزوغاغ",
+    "aliases": [
+      "الحسين أزوغاغ"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "اشتوكة أيت باها",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_064",
+    "canonical_name": "عديل المفاكر",
+    "aliases": [
+      "عديل المفاكر"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "اشتوكة أيت باها",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_065",
+    "canonical_name": "محمد اليوربوعي",
+    "aliases": [
+      "محمد اليوربوعي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "اشتوكة أيت باها",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_066",
+    "canonical_name": "السعدية نعمة",
+    "aliases": [
+      "السعدية نعمة"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "اشتوكة أيت باها",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_067",
+    "canonical_name": "علي البرهيشي",
+    "aliases": [
+      "علي البرهيشي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "اشتوكة أيت باها",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_068",
+    "canonical_name": "خديجة رضواني",
+    "aliases": [
+      "خديجة رضواني"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "اشتوكة أيت باها",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_069",
+    "canonical_name": "مولاي مسعود أكناو",
+    "aliases": [
+      "مولاي مسعود أكناو"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "اشتوكة أيت باها",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_070",
+    "canonical_name": "هاجر متوكل",
+    "aliases": [
+      "هاجر متوكل"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "اشتوكة أيت باها",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_071",
+    "canonical_name": "حميد نعمان",
+    "aliases": [
+      "حميد نعمان"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "اشتوكة أيت باها",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_072",
+    "canonical_name": "لطيفة ويداين",
+    "aliases": [
+      "لطيفة ويداين"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "اشتوكة أيت باها",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_073",
+    "canonical_name": "إبراهيم أجنين",
+    "aliases": [
+      "إبراهيم أجنين"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_074",
+    "canonical_name": "خالد حتيمي",
+    "aliases": [
+      "خالد حتيمي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_075",
+    "canonical_name": "محمد باسعايد",
+    "aliases": [
+      "محمد باسعايد"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_076",
+    "canonical_name": "الحسين بورحيم",
+    "aliases": [
+      "الحسين بورحيم"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_077",
+    "canonical_name": "محمد أوريش",
+    "aliases": [
+      "محمد أوريش"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_078",
+    "canonical_name": "مولاي عبد الرحمن أبليلا",
+    "aliases": [
+      "مولاي عبد الرحمن أبليلا"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_079",
+    "canonical_name": "عبد الله أفلا",
+    "aliases": [
+      "عبد الله أفلا"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_080",
+    "canonical_name": "حسن أيت داود",
+    "aliases": [
+      "حسن أيت داود"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_081",
+    "canonical_name": "عبد الحفيظ بوسيف",
+    "aliases": [
+      "عبد الحفيظ بوسيف"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_082",
+    "canonical_name": "نادية الطالبي",
+    "aliases": [
+      "نادية الطالبي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_083",
+    "canonical_name": "السعيد الماسي",
+    "aliases": [
+      "السعيد الماسي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تارودانت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_084",
+    "canonical_name": "عبد الله غازي",
+    "aliases": [
+      "عبد الله غازي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تزنيت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_085",
+    "canonical_name": "حنان عدباوي",
+    "aliases": [
+      "حنان عدباوي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تزنيت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_086",
+    "canonical_name": "أنس مصدق",
+    "aliases": [
+      "أنس مصدق"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تزنيت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_087",
+    "canonical_name": "السعدية أكردوس",
+    "aliases": [
+      "السعدية أكردوس"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تزنيت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_088",
+    "canonical_name": "حسن مرحوم",
+    "aliases": [
+      "حسن مرحوم"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تزنيت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_089",
+    "canonical_name": "إبراهيم بوخادن",
+    "aliases": [
+      "إبراهيم بوخادن"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تزنيت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_090",
+    "canonical_name": "عبد الله أحجام",
+    "aliases": [
+      "عبد الله أحجام"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تزنيت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_091",
+    "canonical_name": "محمد لطفي",
+    "aliases": [
+      "محمد لطفي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تزنيت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_092",
+    "canonical_name": "عائشة أبودميعة",
+    "aliases": [
+      "عائشة أبودميعة"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "تزنيت",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_093",
+    "canonical_name": "مصطفى تادومانت",
+    "aliases": [
+      "مصطفى تادومانت"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "طاطا",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_094",
+    "canonical_name": "حسن طابي",
+    "aliases": [
+      "حسن طابي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "طاطا",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_095",
+    "canonical_name": "محمد الضور",
+    "aliases": [
+      "محمد الضور"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "طاطا",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_096",
+    "canonical_name": "سكينة تضومانت",
+    "aliases": [
+      "سكينة تضومانت"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "طاطا",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_097",
+    "canonical_name": "علي تادومانت",
+    "aliases": [
+      "علي تادومانت"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "طاطا",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_098",
+    "canonical_name": "الحسين بوزيحاي",
+    "aliases": [
+      "الحسين بوزيحاي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "طاطا",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_099",
+    "canonical_name": "سناء عكي",
+    "aliases": [
+      "سناء عكي"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "طاطا",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_100",
+    "canonical_name": "سعدية أجدور",
+    "aliases": [
+      "سعدية أجدور"
+    ],
+    "tier": "secondary",
+    "scope": "local",
+    "province": "طاطا",
+    "verified": true,
+    "notes": null
+  },
+  {
+    "id": "person_101",
+    "canonical_name": "محمد معايط",
+    "aliases": [
+      "Mohamed Maait",
+      "Mohammed Maait",
+      "محمد أمعيط",
+      "محمد امعيط",
+      "محمد معايط"
+    ],
+    "tier": "manual_unverified",
+    "scope": "regional_unknown",
+    "province": null,
+    "verified": false,
+    "notes": "اسم مضاف يدويًا؛ لا يُنسب إليه حزب أو منصب دون مصدر."
+  },
+  {
+    "id": "person_102",
+    "canonical_name": "محمود الضعزيز",
+    "aliases": [
+      "Mahmoud Al Azizi",
+      "Mahmoud El Aziz",
+      "محمود الضعزيز",
+      "محمود العزيز",
+      "محمود العزيزي"
+    ],
+    "tier": "manual_unverified",
+    "scope": "regional_unknown",
+    "province": null,
+    "verified": false,
+    "notes": "اسم مضاف يدويًا؛ لا يُنسب إليه حزب أو منصب دون مصدر."
+  },
+  {
+    "id": "person_103",
+    "canonical_name": "محمد باكيري",
+    "aliases": [
+      "Mohamed Bakiri",
+      "Mohamed El Bakiri",
+      "Mohammed Bakiri",
+      "محمد الباكيري",
+      "محمد باكيري"
+    ],
+    "tier": "manual_unverified",
+    "scope": "regional_unknown",
+    "province": null,
+    "verified": false,
+    "notes": "اسم مضاف يدويًا؛ لا يُنسب إليه حزب أو منصب دون مصدر."
+  }
+]

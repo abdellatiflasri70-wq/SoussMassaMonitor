@@ -1,0 +1,43 @@
+{
+  "project_name": "Souss Massa Political Monitor",
+  "timezone": "Africa/Casablanca",
+  "update_interval_hours": 6,
+  "collection_mode": "selected_sources_only",
+  "languages": [
+    "ar",
+    "fr"
+  ],
+  "geographic_scope": {
+    "region": "سوس ماسة",
+    "provinces": [
+      "أكادير إداوتنان",
+      "إنزكان أيت ملول",
+      "اشتوكة أيت باها",
+      "تارودانت",
+      "تزنيت",
+      "طاطا"
+    ]
+  },
+  "time_filters": [
+    "last_hour",
+    "last_24_hours",
+    "last_3_days",
+    "last_7_days",
+    "last_30_days",
+    "all",
+    "custom"
+  ],
+  "collection_rules": {
+    "respect_robots_txt": true,
+    "request_timeout_seconds": 20,
+    "delay_between_requests_seconds": 2,
+    "maximum_articles_per_source_per_run": 30
+  },
+  "storage": {
+    "save_full_article_text": false,
+    "excerpt_max_characters": 500,
+    "save_csv": true,
+    "save_json": true,
+    "generate_html": true
+  }
+}

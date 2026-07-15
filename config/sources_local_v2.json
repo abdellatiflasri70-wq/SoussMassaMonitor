@@ -1,0 +1,395 @@
+{
+  "version": 4,
+  "generated_at": "2026-07-15T19:35:04.428549+00:00",
+  "sources": [
+    {
+      "id": "agadir24",
+      "name": "أكادير24",
+      "base_url": "https://agadir24.info",
+      "start_urls": [
+        "https://agadir24.info/topics/agadir-politique"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar"
+      ],
+      "scope": "local",
+      "enabled": true,
+      "collection_status": "ready",
+      "rss_urls": [
+        "https://agadir24.info/feed",
+        "https://agadir24.info/comments/feed",
+        "https://agadir24.info/topics/agadir-politique/feed"
+      ],
+      "sitemap_urls": [
+        "https://agadir24.info/sitemap_index.xml",
+        "https://agadir24.info/news-sitemap.xml"
+      ]
+    },
+    {
+      "id": "agadirino",
+      "name": "أكاديرينو",
+      "base_url": "https://agadirino.ma",
+      "start_urls": [
+        "https://agadirino.ma/category/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar"
+      ],
+      "scope": "local",
+      "enabled": true,
+      "collection_status": "ready",
+      "rss_urls": [
+        "https://agadirino.ma/feed/",
+        "https://agadirino.ma/comments/feed/",
+        "https://agadirino.ma/category/%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9/feed/"
+      ],
+      "sitemap_urls": []
+    },
+    {
+      "id": "machahid",
+      "name": "مشاهد أنفو",
+      "base_url": "https://machahid.info",
+      "start_urls": [
+        "https://machahid.info/category/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar"
+      ],
+      "scope": "local",
+      "enabled": true,
+      "collection_status": "ready",
+      "rss_urls": [
+        "https://machahid.info/category/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa/feed"
+      ],
+      "sitemap_urls": []
+    },
+    {
+      "id": "tizpress",
+      "name": "تيزبريس",
+      "base_url": "https://www.tizpress.com",
+      "start_urls": [
+        "https://www.tizpress.com/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar"
+      ],
+      "scope": "local",
+      "enabled": true,
+      "collection_status": "ready",
+      "rss_urls": [
+        "https://www.tizpress.com/feed/",
+        "https://www.tizpress.com/comments/feed/"
+      ],
+      "sitemap_urls": []
+    },
+    {
+      "id": "chtoukapress",
+      "name": "اشتوكة بريس",
+      "base_url": "https://www.chtoukapress.com",
+      "start_urls": [
+        "https://www.chtoukapress.com/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar"
+      ],
+      "scope": "local",
+      "enabled": true,
+      "collection_status": "ready",
+      "rss_urls": [],
+      "sitemap_urls": [
+        "https://www.chtoukapress.com/sitemap_index.xml"
+      ]
+    },
+    {
+      "id": "taroudantalaan",
+      "name": "تارودانت الآن",
+      "base_url": "https://taroudantalaan.ma",
+      "start_urls": [
+        "https://taroudantalaan.ma/politique/"
+      ],
+      "article_path_prefixes": [
+        "/politique/"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "scope": "local",
+      "enabled": true,
+      "collection_status": "ready",
+      "rss_urls": [
+        "https://taroudantalaan.ma/feed/"
+      ],
+      "sitemap_urls": [
+        "https://taroudantalaan.ma/sitemap.xml",
+        "https://taroudantalaan.ma/sitemap.rss"
+      ]
+    },
+    {
+      "id": "agadirinfo",
+      "name": "أكادير أنفو",
+      "base_url": "https://agadirinfo.ma",
+      "start_urls": [
+        "https://agadirinfo.ma/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar"
+      ],
+      "scope": "local",
+      "enabled": true,
+      "collection_status": "ready",
+      "rss_urls": [],
+      "sitemap_urls": []
+    },
+    {
+      "id": "tiznit24",
+      "name": "تيزنيت24",
+      "base_url": "https://tiznit24.com",
+      "start_urls": [
+        "https://tiznit24.com/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar"
+      ],
+      "scope": "local",
+      "enabled": true,
+      "collection_status": "ready",
+      "rss_urls": [
+        "https://tiznit24.com/?feed=rss2",
+        "https://tiznit24.com/?feed=comments-rss2"
+      ],
+      "sitemap_urls": []
+    },
+    {
+      "id": "mapnews",
+      "name": "وكالة المغرب العربي للأنباء",
+      "base_url": "https://www.mapnews.ma",
+      "start_urls": [
+        "https://www.mapnews.ma/ar",
+        "https://www.mapnews.ma/fr"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar",
+        "fr"
+      ],
+      "scope": "national",
+      "region": "المغرب",
+      "enabled": false,
+      "collection_status": "disabled_robots_or_access_policy"
+    },
+    {
+      "id": "snrtnews",
+      "name": "SNRTnews",
+      "base_url": "https://snrtnews.com",
+      "start_urls": [
+        "https://snrtnews.com/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar"
+      ],
+      "scope": "national",
+      "region": "المغرب",
+      "enabled": true,
+      "collection_status": "ready_homepage_fallback",
+      "allowed_domains": [
+        "snrtnews.com"
+      ]
+    },
+    {
+      "id": "hespress",
+      "name": "هسبريس",
+      "base_url": "https://www.hespress.com",
+      "start_urls": [
+        "https://www.hespress.com/politique"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar"
+      ],
+      "scope": "national",
+      "region": "المغرب",
+      "enabled": true,
+      "collection_status": "pending_first_run"
+    },
+    {
+      "id": "le360",
+      "name": "Le360",
+      "base_url": "https://le360.ma",
+      "start_urls": [
+        "https://ar.le360.ma/politique/",
+        "https://fr.le360.ma/politique/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar",
+        "fr"
+      ],
+      "scope": "national",
+      "region": "المغرب",
+      "enabled": true,
+      "collection_status": "pending_first_run",
+      "allowed_domains": [
+        "ar.le360.ma",
+        "fr.le360.ma"
+      ]
+    },
+    {
+      "id": "lesiteinfo",
+      "name": "LeSiteInfo",
+      "base_url": "https://lesiteinfo.com",
+      "start_urls": [
+        "https://www.lesiteinfo.com/category/politique",
+        "https://ar.lesiteinfo.com/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar",
+        "fr"
+      ],
+      "scope": "national",
+      "region": "المغرب",
+      "enabled": true,
+      "collection_status": "pending_first_run",
+      "allowed_domains": [
+        "lesiteinfo.com",
+        "ar.lesiteinfo.com"
+      ]
+    },
+    {
+      "id": "alyaoum24",
+      "name": "اليوم24",
+      "base_url": "https://alyaoum24.com",
+      "start_urls": [
+        "https://alyaoum24.com/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar"
+      ],
+      "scope": "national",
+      "region": "المغرب",
+      "enabled": true,
+      "collection_status": "pending_first_run"
+    },
+    {
+      "id": "al3omk",
+      "name": "العمق المغربي",
+      "base_url": "https://al3omk.com",
+      "start_urls": [
+        "https://al3omk.com/",
+        "https://www.al3omk.com/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar"
+      ],
+      "scope": "national",
+      "region": "المغرب",
+      "enabled": true,
+      "collection_status": "ready_with_fallback",
+      "allowed_domains": [
+        "al3omk.com"
+      ]
+    },
+    {
+      "id": "yabiladi",
+      "name": "Yabiladi",
+      "base_url": "https://yabiladi.com",
+      "start_urls": [
+        "https://www.yabiladi.com/",
+        "https://ar.yabiladi.com/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar",
+        "fr"
+      ],
+      "scope": "national",
+      "region": "المغرب",
+      "enabled": true,
+      "collection_status": "pending_first_run",
+      "allowed_domains": [
+        "yabiladi.com",
+        "ar.yabiladi.com"
+      ]
+    },
+    {
+      "id": "ledesk",
+      "name": "Le Desk",
+      "base_url": "https://ledesk.ma",
+      "start_urls": [
+        "https://ledesk.ma/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "fr"
+      ],
+      "scope": "national",
+      "region": "المغرب",
+      "enabled": false,
+      "collection_status": "disabled_robots_or_access_policy"
+    },
+    {
+      "id": "barlamane",
+      "name": "برلمان",
+      "base_url": "https://barlamane.com",
+      "start_urls": [
+        "https://barlamane.com/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar"
+      ],
+      "scope": "national",
+      "region": "المغرب",
+      "enabled": true,
+      "collection_status": "pending_first_run"
+    },
+    {
+      "id": "assahifa",
+      "name": "الصحيفة",
+      "base_url": "https://assahifa.com",
+      "start_urls": [
+        "https://assahifa.com/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar"
+      ],
+      "scope": "national",
+      "region": "المغرب",
+      "enabled": true,
+      "collection_status": "pending_first_run"
+    },
+    {
+      "id": "thepress",
+      "name": "ThePress",
+      "base_url": "https://thepress.ma",
+      "start_urls": [
+        "https://thepress.ma/category/politique/",
+        "https://fr.thepress.ma/"
+      ],
+      "article_path_prefixes": [],
+      "languages": [
+        "ar",
+        "fr"
+      ],
+      "scope": "national",
+      "region": "المغرب",
+      "enabled": true,
+      "collection_status": "pending_first_run",
+      "allowed_domains": [
+        "thepress.ma",
+        "fr.thepress.ma"
+      ]
+    }
+  ]
+}

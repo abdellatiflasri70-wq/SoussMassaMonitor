@@ -1,0 +1,357 @@
+{
+  "region": {
+    "name_ar": "سوس ماسة",
+    "name_fr": "Souss-Massa",
+    "aliases": [
+      "سوس ماسة",
+      "جهة سوس ماسة",
+      "Souss-Massa",
+      "Souss Massa",
+      "région Souss-Massa"
+    ]
+  },
+  "provinces": [
+    {
+      "id": "agadir_ida_outanane",
+      "name_ar": "أكادير إداوتنان",
+      "name_fr": "Agadir Ida-Outanane",
+      "aliases": [
+        "أكادير إداوتنان",
+        "أكادير إدا أوتنان",
+        "عمالة أكادير إداوتنان",
+        "Agadir Ida-Outanane",
+        "Agadir Ida Ou Tanane"
+      ],
+      "places": [
+        {
+          "name": "أكادير",
+          "aliases": [
+            "أكادير",
+            "Agadir"
+          ]
+        },
+        {
+          "name": "أورير",
+          "aliases": [
+            "أورير",
+            "Aourir"
+          ]
+        },
+        {
+          "name": "تغازوت",
+          "aliases": [
+            "تغازوت",
+            "Taghazout"
+          ]
+        },
+        {
+          "name": "الدراركة",
+          "aliases": [
+            "الدراركة",
+            "Drarga"
+          ]
+        },
+        {
+          "name": "أنزا",
+          "aliases": [
+            "أنزا",
+            "Anza"
+          ]
+        },
+        {
+          "name": "تيكيوين",
+          "aliases": [
+            "تيكيوين",
+            "Tikiouine"
+          ]
+        },
+        {
+          "name": "إيموزار إداوتنان",
+          "aliases": [
+            "إيموزار إداوتنان",
+            "Imouzzer Ida-Outanane"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inezgane_ait_melloul",
+      "name_ar": "إنزكان أيت ملول",
+      "name_fr": "Inezgane Ait Melloul",
+      "aliases": [
+        "إنزكان أيت ملول",
+        "عمالة إنزكان أيت ملول",
+        "Inezgane Ait Melloul",
+        "Inezgane-Aït Melloul"
+      ],
+      "places": [
+        {
+          "name": "إنزكان",
+          "aliases": [
+            "إنزكان",
+            "Inezgane"
+          ]
+        },
+        {
+          "name": "أيت ملول",
+          "aliases": [
+            "أيت ملول",
+            "Ait Melloul",
+            "Aït Melloul"
+          ]
+        },
+        {
+          "name": "الدشيرة الجهادية",
+          "aliases": [
+            "الدشيرة",
+            "الدشيرة الجهادية",
+            "Dcheira",
+            "Dcheira El Jihadia"
+          ]
+        },
+        {
+          "name": "القليعة",
+          "aliases": [
+            "القليعة",
+            "Lqliaa"
+          ]
+        },
+        {
+          "name": "التمسية",
+          "aliases": [
+            "التمسية",
+            "Temsia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chtouka_ait_baha",
+      "name_ar": "اشتوكة أيت باها",
+      "name_fr": "Chtouka Ait Baha",
+      "aliases": [
+        "اشتوكة أيت باها",
+        "شتوكة أيت باها",
+        "إقليم اشتوكة أيت باها",
+        "Chtouka Ait Baha",
+        "Chtouka-Aït Baha"
+      ],
+      "places": [
+        {
+          "name": "بيوكرى",
+          "aliases": [
+            "بيوكرى",
+            "Biougra"
+          ]
+        },
+        {
+          "name": "أيت باها",
+          "aliases": [
+            "أيت باها",
+            "Ait Baha",
+            "Aït Baha"
+          ]
+        },
+        {
+          "name": "أيت عميرة",
+          "aliases": [
+            "أيت عميرة",
+            "أيت اعميرة",
+            "Ait Amira",
+            "Aït Amira"
+          ]
+        },
+        {
+          "name": "بلفاع",
+          "aliases": [
+            "بلفاع",
+            "Belfaa"
+          ]
+        },
+        {
+          "name": "ماسة",
+          "aliases": [
+            "ماسة",
+            "Massa"
+          ]
+        },
+        {
+          "name": "سيدي بيبي",
+          "aliases": [
+            "سيدي بيبي",
+            "Sidi Bibi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taroudant",
+      "name_ar": "تارودانت",
+      "name_fr": "Taroudant",
+      "aliases": [
+        "تارودانت",
+        "إقليم تارودانت",
+        "Taroudant",
+        "province de Taroudant"
+      ],
+      "places": [
+        {
+          "name": "تارودانت",
+          "aliases": [
+            "تارودانت",
+            "Taroudant"
+          ]
+        },
+        {
+          "name": "أولاد تايمة",
+          "aliases": [
+            "أولاد تايمة",
+            "هوارة",
+            "Oulad Teima",
+            "Oulad Teïma"
+          ]
+        },
+        {
+          "name": "أولاد برحيل",
+          "aliases": [
+            "أولاد برحيل",
+            "Oulad Berhil"
+          ]
+        },
+        {
+          "name": "أولوز",
+          "aliases": [
+            "أولوز",
+            "Aoulouz"
+          ]
+        },
+        {
+          "name": "تالوين",
+          "aliases": [
+            "تالوين",
+            "Taliouine"
+          ]
+        },
+        {
+          "name": "إغرم",
+          "aliases": [
+            "إغرم",
+            "Ighrem"
+          ]
+        },
+        {
+          "name": "الكردان",
+          "aliases": [
+            "الكردان",
+            "El Guerdane",
+            "Sebt El Guerdane"
+          ]
+        },
+        {
+          "name": "سيدي موسى الحمري",
+          "aliases": [
+            "سيدي موسى الحمري",
+            "Sidi Moussa El Hamri"
+          ]
+        },
+        {
+          "name": "الكدية البيضاء",
+          "aliases": [
+            "الكدية البيضاء",
+            "Koudia El Beida",
+            "El Koudia El Baida"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tiznit",
+      "name_ar": "تزنيت",
+      "name_fr": "Tiznit",
+      "aliases": [
+        "تزنيت",
+        "إقليم تزنيت",
+        "Tiznit",
+        "province de Tiznit"
+      ],
+      "places": [
+        {
+          "name": "تزنيت",
+          "aliases": [
+            "تزنيت",
+            "Tiznit"
+          ]
+        },
+        {
+          "name": "تافراوت",
+          "aliases": [
+            "تافراوت",
+            "Tafraout"
+          ]
+        },
+        {
+          "name": "أنزي",
+          "aliases": [
+            "أنزي",
+            "Anzi"
+          ]
+        },
+        {
+          "name": "أكلو",
+          "aliases": [
+            "أكلو",
+            "Aglou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tata",
+      "name_ar": "طاطا",
+      "name_fr": "Tata",
+      "aliases": [
+        "طاطا",
+        "إقليم طاطا",
+        "Tata",
+        "province de Tata"
+      ],
+      "places": [
+        {
+          "name": "طاطا",
+          "aliases": [
+            "طاطا",
+            "Tata"
+          ]
+        },
+        {
+          "name": "أقا",
+          "aliases": [
+            "أقا",
+            "Akka"
+          ]
+        },
+        {
+          "name": "فم زكيد",
+          "aliases": [
+            "فم زكيد",
+            "Foum Zguid"
+          ]
+        },
+        {
+          "name": "تيسينت",
+          "aliases": [
+            "تيسينت",
+            "Tissint"
+          ]
+        },
+        {
+          "name": "فم الحصن",
+          "aliases": [
+            "فم الحصن",
+            "Fam El Hisn"
+          ]
+        }
+      ]
+    }
+  ]
+}

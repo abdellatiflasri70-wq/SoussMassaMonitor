@@ -1,0 +1,245 @@
+[
+  {
+    "id": "RNI",
+    "name_ar": "التجمع الوطني للأحرار",
+    "name_fr": "Rassemblement National des Indépendants",
+    "acronyms": [
+      "RNI"
+    ],
+    "strong_aliases": [
+      "التجمع الوطني للأحرار",
+      "حزب التجمع الوطني للأحرار",
+      "التجمعيون",
+      "الأحرار"
+    ],
+    "context_aliases": [
+      "الحمامة"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "PAM",
+    "name_ar": "حزب الأصالة والمعاصرة",
+    "name_fr": "Parti Authenticité et Modernité",
+    "acronyms": [
+      "PAM"
+    ],
+    "strong_aliases": [
+      "حزب الأصالة والمعاصرة",
+      "الأصالة والمعاصرة",
+      "البام"
+    ],
+    "context_aliases": [
+      "الجرار"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "PI",
+    "name_ar": "حزب الاستقلال",
+    "name_fr": "Parti de l'Istiqlal",
+    "acronyms": [
+      "PI",
+      "Istiqlal"
+    ],
+    "strong_aliases": [
+      "حزب الاستقلال",
+      "الاستقلاليون",
+      "الاستقلالي",
+      "الاستقلالية"
+    ],
+    "context_aliases": [
+      "الميزان",
+      "الاستقلال"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "PJD",
+    "name_ar": "حزب العدالة والتنمية",
+    "name_fr": "Parti de la Justice et du Développement",
+    "acronyms": [
+      "PJD"
+    ],
+    "strong_aliases": [
+      "حزب العدالة والتنمية",
+      "العدالة والتنمية",
+      "البيجيدي"
+    ],
+    "context_aliases": [
+      "المصباح"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "USFP",
+    "name_ar": "الاتحاد الاشتراكي للقوات الشعبية",
+    "name_fr": "Union Socialiste des Forces Populaires",
+    "acronyms": [
+      "USFP"
+    ],
+    "strong_aliases": [
+      "الاتحاد الاشتراكي للقوات الشعبية",
+      "الاتحاد الاشتراكي",
+      "الاتحاديون",
+      "الاتحادي"
+    ],
+    "context_aliases": [
+      "الوردة"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "PPS",
+    "name_ar": "حزب التقدم والاشتراكية",
+    "name_fr": "Parti du Progrès et du Socialisme",
+    "acronyms": [
+      "PPS"
+    ],
+    "strong_aliases": [
+      "حزب التقدم والاشتراكية",
+      "التقدم والاشتراكية"
+    ],
+    "context_aliases": [
+      "الكتاب"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "MP",
+    "name_ar": "الحركة الشعبية",
+    "name_fr": "Mouvement Populaire",
+    "acronyms": [
+      "MP"
+    ],
+    "strong_aliases": [
+      "حزب الحركة الشعبية",
+      "الحركة الشعبية",
+      "الحركيون"
+    ],
+    "context_aliases": [
+      "السنبلة"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "UC",
+    "name_ar": "الاتحاد الدستوري",
+    "name_fr": "Union Constitutionnelle",
+    "acronyms": [
+      "UC"
+    ],
+    "strong_aliases": [
+      "حزب الاتحاد الدستوري",
+      "الاتحاد الدستوري"
+    ],
+    "context_aliases": [
+      "الحصان"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "FGD",
+    "name_ar": "فيدرالية اليسار الديمقراطي",
+    "name_fr": "Fédération de la Gauche Démocratique",
+    "acronyms": [
+      "FGD"
+    ],
+    "strong_aliases": [
+      "فيدرالية اليسار الديمقراطي",
+      "فدرالية اليسار الديمقراطي",
+      "فيدرالية اليسار"
+    ],
+    "context_aliases": [],
+    "priority": 2
+  },
+  {
+    "id": "PSU",
+    "name_ar": "الحزب الاشتراكي الموحد",
+    "name_fr": "Parti Socialiste Unifié",
+    "acronyms": [
+      "PSU"
+    ],
+    "strong_aliases": [
+      "الحزب الاشتراكي الموحد",
+      "الاشتراكي الموحد"
+    ],
+    "context_aliases": [
+      "الشمعة"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "PND",
+    "name_ar": "حزب الديمقراطيين الجدد",
+    "name_fr": "Parti des Néo-Démocrates",
+    "acronyms": [
+      "PND"
+    ],
+    "strong_aliases": [
+      "حزب الديمقراطيين الجدد",
+      "الديمقراطيون الجدد",
+      "الديمقراطيين الجدد"
+    ],
+    "context_aliases": [],
+    "priority": 2
+  },
+  {
+    "id": "MDS",
+    "name_ar": "الحركة الديمقراطية الاجتماعية",
+    "name_fr": "Mouvement Démocratique et Social",
+    "acronyms": [
+      "MDS"
+    ],
+    "strong_aliases": [
+      "الحركة الديمقراطية الاجتماعية"
+    ],
+    "context_aliases": [
+      "النخلة"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "FFD",
+    "name_ar": "جبهة القوى الديمقراطية",
+    "name_fr": "Front des Forces Démocratiques",
+    "acronyms": [
+      "FFD"
+    ],
+    "strong_aliases": [
+      "جبهة القوى الديمقراطية"
+    ],
+    "context_aliases": [
+      "الزيتونة"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "CNI",
+    "name_ar": "المؤتمر الوطني الاتحادي",
+    "name_fr": "Congrès National Ittihadi",
+    "acronyms": [
+      "CNI"
+    ],
+    "strong_aliases": [
+      "المؤتمر الوطني الاتحادي"
+    ],
+    "context_aliases": [],
+    "priority": 2
+  },
+  {
+    "id": "PADS",
+    "name_ar": "حزب الطليعة الديمقراطي الاشتراكي",
+    "name_fr": "Parti de l'Avant-Garde Démocratique et Socialiste",
+    "acronyms": [
+      "PADS"
+    ],
+    "strong_aliases": [
+      "حزب الطليعة الديمقراطي الاشتراكي",
+      "الطليعة الديمقراطي الاشتراكي",
+      "حزب الطليعة"
+    ],
+    "context_aliases": [],
+    "priority": 2
+  }
+]
