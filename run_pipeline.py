@@ -1405,7 +1405,13 @@ class Monitor:
     def generate_dashboard(self) -> None:
         safe_json = json.dumps(self.news, ensure_ascii=False).replace("</", "<\\/")
         generated = html.escape(self.run_at)
-        template = DASHBOARD_TEMPLATE.replace("__NEWS_JSON__", safe_json).replace(
+        template_path = self.root / "templates" / "dashboard.html"
+        template_source = (
+            template_path.read_text(encoding="utf-8")
+            if template_path.exists()
+            else DASHBOARD_TEMPLATE
+        )
+        template = template_source.replace("__NEWS_JSON__", safe_json).replace(
             "__GENERATED_AT__", generated
         )
         atomic_write_text(self.html_path, template)

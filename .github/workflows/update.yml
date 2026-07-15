@@ -2,6 +2,14 @@ name: Update SoussMassaMonitor
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "run_pipeline.py"
+      - "templates/**"
+      - "config/**"
+      - "requirements.txt"
+      - ".github/workflows/update.yml"
   schedule:
     - cron: "17 */6 * * *"
 
