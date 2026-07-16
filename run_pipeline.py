@@ -289,6 +289,8 @@ class Monitor:
 
         self.news_path = self.data_dir / "news.json"
         self.csv_path = self.data_dir / "news.csv"
+        self.crawl_state_path = self.data_dir / "crawl_state.json"
+        self.run_status_path = self.data_dir / "run_status.json"
         self.html_path = self.output_dir / "index.html"
         # Keep the experimental notebook log untouched because its columns may
         # differ from the unified pipeline log.
@@ -296,6 +298,9 @@ class Monitor:
         self.source_health_path = self.logs_dir / "source_health.csv"
 
         self.news: list[dict[str, Any]] = load_json(self.news_path, [])
+        self.crawl_state: dict[str, Any] = load_json(self.crawl_state_path, {})
+        if not isinstance(self.crawl_state, dict):
+            self.crawl_state = {}
         self.by_url = {
             canonicalize_url(item.get("url", "")): item
             for item in self.news
@@ -603,9 +608,10 @@ class Monitor:
                 }
             )
 
-        return output[
-            : self.maximum_per_source
-        ]
+        # Do not truncate here. The per-source limit must be applied only after
+        # already inspected URLs are removed; otherwise the monitor can keep
+        # revisiting the same first links and never reach newer links below.
+        return output
 
     def fallback_extract(self, html_text: str, url: str) -> dict[str, Any] | None:
         soup = BeautifulSoup(html_text, "lxml")
@@ -1177,11 +1183,13 @@ class Monitor:
             "pages_opened": 0,
             "links_discovered": 0,
             "known_skipped": 0,
+            "new_candidates": 0,
             "extraction_success": 0,
             "extraction_failed": 0,
             "accepted": 0,
             "excluded": 0,
             "articles": [],
+            "crawl_updates": [],
             "errors": [],
         }
         try:
@@ -1210,16 +1218,24 @@ class Monitor:
                     if canonical not in seen:
                         seen.add(canonical)
                         discovered.append({"title": item["title"], "url": canonical})
-            discovered = discovered[: self.maximum_per_source]
             result["links_discovered"] = len(discovered)
 
+            candidates: list[dict[str, str]] = []
             for article in discovered:
                 canonical = canonicalize_url(article["url"])
                 existing = self.by_url.get(canonical)
-                if existing and not self.reprocess_existing:
-                    existing["last_checked_at"] = self.run_at
+                inspected = canonical in self.crawl_state
+                if (existing or inspected) and not self.reprocess_existing:
                     result["known_skipped"] += 1
                     continue
+                candidates.append(article)
+
+            result["new_candidates"] = len(candidates)
+
+            # The configured limit applies to genuinely new candidates, not to
+            # the complete page that is mostly made of already known links.
+            for article in candidates[: self.maximum_per_source]:
+                canonical = canonicalize_url(article["url"])
                 extracted, error = self.extract_article(
                     session, article, source, parser, robots_status
                 )
@@ -1233,8 +1249,20 @@ class Monitor:
                 if processed["relevance"]["accepted"]:
                     result["accepted"] += 1
                     result["articles"].append(processed)
+                    crawl_status = "accepted"
                 else:
                     result["excluded"] += 1
+                    crawl_status = "excluded"
+                result["crawl_updates"].append(
+                    {
+                        "url": canonical,
+                        "source_id": source.get("id"),
+                        "source_name": source.get("name"),
+                        "title": processed.get("title") or article.get("title"),
+                        "status": crawl_status,
+                        "checked_at": self.run_at,
+                    }
+                )
                 if self.delay > 0:
                     time.sleep(self.delay)
         finally:
@@ -1362,6 +1390,8 @@ class Monitor:
         updated_count: int,
     ) -> None:
         total_links = sum(item.get("links_discovered", 0) for item in source_results)
+        known_skipped = sum(item.get("known_skipped", 0) for item in source_results)
+        new_candidates = sum(item.get("new_candidates", 0) for item in source_results)
         extraction_success = sum(item.get("extraction_success", 0) for item in source_results)
         extraction_failed = sum(item.get("extraction_failed", 0) for item in source_results)
         excluded = sum(item.get("excluded", 0) for item in source_results)
@@ -1373,6 +1403,8 @@ class Monitor:
                 "version": APP_VERSION,
                 "sources": len(source_results),
                 "links_discovered": total_links,
+                "known_skipped": known_skipped,
+                "new_candidates": new_candidates,
                 "extraction_success": extraction_success,
                 "extraction_failed": extraction_failed,
                 "new_articles": new_count,
@@ -1393,6 +1425,7 @@ class Monitor:
                     "pages_opened": item.get("pages_opened", 0),
                     "links_discovered": item.get("links_discovered", 0),
                     "known_skipped": item.get("known_skipped", 0),
+                    "new_candidates": item.get("new_candidates", 0),
                     "extraction_success": item.get("extraction_success", 0),
                     "extraction_failed": item.get("extraction_failed", 0),
                     "accepted": item.get("accepted", 0),
@@ -1402,8 +1435,9 @@ class Monitor:
                 },
             )
 
-    def generate_dashboard(self) -> None:
+    def generate_dashboard(self, run_status: dict[str, Any]) -> None:
         safe_json = json.dumps(self.news, ensure_ascii=False).replace("</", "<\\/")
+        safe_status = json.dumps(run_status, ensure_ascii=False).replace("</", "<\\/")
         generated = html.escape(self.run_at)
         template_path = self.root / "templates" / "dashboard.html"
         template_source = (
@@ -1411,8 +1445,10 @@ class Monitor:
             if template_path.exists()
             else DASHBOARD_TEMPLATE
         )
-        template = template_source.replace("__NEWS_JSON__", safe_json).replace(
-            "__GENERATED_AT__", generated
+        template = (
+            template_source.replace("__NEWS_JSON__", safe_json)
+            .replace("__RUN_STATUS_JSON__", safe_status)
+            .replace("__GENERATED_AT__", generated)
         )
         atomic_write_text(self.html_path, template)
 
@@ -1456,13 +1492,21 @@ class Monitor:
 
         new_count, updated_count = self.merge_articles(source_results)
         self.assign_events()
-        atomic_write_json(self.news_path, self.news)
-        self.save_csv()
-        self.generate_dashboard()
-        self.save_logs(source_results, new_count, updated_count)
+
+        for result in source_results:
+            for item in result.get("crawl_updates", []):
+                canonical = canonicalize_url(item.get("url", ""))
+                if canonical:
+                    self.crawl_state[canonical] = {
+                        key: value for key, value in item.items() if key != "url"
+                    }
+
         summary = {
+            "run_at": self.run_at,
             "sources": len(source_results),
             "links_discovered": sum(item.get("links_discovered", 0) for item in source_results),
+            "known_skipped": sum(item.get("known_skipped", 0) for item in source_results),
+            "new_candidates": sum(item.get("new_candidates", 0) for item in source_results),
             "extraction_success": sum(item.get("extraction_success", 0) for item in source_results),
             "extraction_failed": sum(item.get("extraction_failed", 0) for item in source_results),
             "new_articles": new_count,
@@ -1470,10 +1514,36 @@ class Monitor:
             "excluded": sum(item.get("excluded", 0) for item in source_results),
             "total_saved": len(self.news),
             "events": len({item.get("event_id") for item in self.news if item.get("event_id")}),
+            "errors": sum(len(item.get("errors", [])) for item in source_results),
+            "source_details": [
+                {
+                    "source_name": item.get("source_name"),
+                    "links_discovered": item.get("links_discovered", 0),
+                    "known_skipped": item.get("known_skipped", 0),
+                    "new_candidates": item.get("new_candidates", 0),
+                    "extraction_success": item.get("extraction_success", 0),
+                    "accepted": item.get("accepted", 0),
+                    "excluded": item.get("excluded", 0),
+                    "errors": len(item.get("errors", [])),
+                }
+                for item in sorted(
+                    source_results,
+                    key=lambda value: str(value.get("source_name", "")),
+                )
+            ],
         }
+
+        atomic_write_json(self.news_path, self.news)
+        atomic_write_json(self.crawl_state_path, self.crawl_state)
+        atomic_write_json(self.run_status_path, summary)
+        self.save_csv()
+        self.generate_dashboard(summary)
+        self.save_logs(source_results, new_count, updated_count)
         print("\n" + "=" * 72)
         print("✅ انتهى التشغيل الموحد")
         print(f"• الروابط المكتشفة: {summary['links_discovered']}")
+        print(f"• الروابط المعروفة المتجاوزة: {summary['known_skipped']}")
+        print(f"• الروابط الجديدة المرشحة: {summary['new_candidates']}")
         print(f"• نجح استخراجها: {summary['extraction_success']}")
         print(f"• فشل استخراجها: {summary['extraction_failed']}")
         print(f"• أخبار جديدة: {summary['new_articles']}")
