@@ -257,6 +257,98 @@
     "stance_analyzed_at": "2026-07-17T07:36:41.894175+00:00"
   },
   {
+    "id": "b8631894a903b067",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "أخنوش: الشراكة الاستثنائية الوطيدة التي أرادها جلالة الملك والرئيس الفرنسي قد دخلت مرحلة التنفيذ الكامل - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/133296.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-07-15",
+    "first_seen_at": "2026-07-17T16:40:52.129217+00:00",
+    "last_checked_at": "2026-07-17T16:40:52.129217+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديأخنوش: الشراكة الاستثنائية الوطيدة التي أرادها جلالة الملك والرئيس الفرنسي قد دخلت مرحلة التنفيذ الكامل أكد رئيس الحكومة، عزيز أخنوش، اليوم الخميس بالرباط، أن",
+    "word_count": 381,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "اعتبر"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: التصريحات والمواقف السياسية, السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 4,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_b8631894a903",
+    "stance_analyzed_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  {
     "id": "d172859631ec925b",
     "source_id": "agadir24",
     "source_name": "أكادير24",

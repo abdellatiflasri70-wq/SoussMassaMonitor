@@ -936,5 +936,103 @@
     "title": "الحروني يكشف عن اختفاء 10 ملايين سنتيم من مالية الاشتراكي الموحد -فيديو",
     "status": "excluded",
     "checked_at": "2026-07-17T07:36:41.894175+00:00"
+  },
+  "https://tiznit24.com/?p=194420": {
+    "source_id": "tiznit24",
+    "source_name": "تيزنيت24",
+    "title": "اكادير :إفتتاح فعاليات دورة جماعة تقي لمهرجان العسل",
+    "status": "excluded",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://snrtnews.com/article/155489": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "عبد الوافي لفتيت يجري مباحثات بالرباط مع نظيره الموريتاني",
+    "status": "excluded",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://agadirinfo.ma/133296.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "أخنوش: الشراكة الاستثنائية الوطيدة التي أرادها جلالة الملك والرئيس الفرنسي قد دخلت مرحلة التنفيذ الكامل - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://agadirinfo.ma/133191.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "وثيقة تكشف ملامح مشروع سياسي لإدارة المرحلة الانتقالية في السودان - أكادير انفو - Agadir info",
+    "status": "excluded",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://ar.le360.ma/politique/TTH2U72DNBEVZBT6KUMYKYLRAI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الملك يقيم مأدبة غداء على شرف الوزير الأول الفرنسي والوفد المرافق له",
+    "status": "excluded",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://fr.le360.ma/politique/mondial-2030-le-maroc-un-modele-footballistique-couronne-de-succes-grace-a-la-vision-royale-affirme_3EGCJBFOMVGYNO3XCUN3GKXBIA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Mondial 2030: le Maroc, un modèle footballistique «couronné de succès» grâce à la vision royale, affirme Youssef Amrani",
+    "status": "excluded",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://fr.le360.ma/politique/parlement-2021-2026-un-bilan-en-demi-teinte_ZQMRA3HLNBHEBNUD5LEZOY3A5A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Parlement 2021-2026: un bilan en demi-teinte",
+    "status": "excluded",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://fr.le360.ma/politique/maroc-france-le-partenariat-dexception-entre-dans-sa-phase-de-pleine-mise-en-oeuvre_QXIHAEPWAFGQTPVJJEQ6622OKQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Maroc-France: «Le Partenariat d’exception entre dans sa phase de pleine mise en œuvre»",
+    "status": "excluded",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d9%84%d9%8a-%d8%b3%d8%a8%d8%a7%d9%82-%d9%85%d8%b9-%d8%a7%d9%84%d8%b2%d9%85%d9%86": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لليوم الثاني على التوالي.. سباق مع الزمن لاحتواء حريق غابوي ضخم بتارودانت وكَنَدير تواصل التدخل الجوي",
+    "status": "excluded",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://www.assahifa.com/%d8%a2%d9%86%d8%af%d9%8a-%d8%a8%d9%88%d8%b1%d9%86%d9%87%d8%a7%d9%85-%d9%8a%d8%aa%d9%88%d9%84%d9%89-%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84-%d8%a7%d8%b3": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "آندي بورنهام يتولى قيادة حزب العمال استعدادا لتعيينه رئيسا للوزراء في بريطانيا",
+    "status": "excluded",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://al3omk.com/1174837.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "عبد الوافي لفتيت يجري مباحثات بالرباط مع نظيره الموريتاني",
+    "status": "excluded",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://al3omk.com/1174694.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "زيارة رئيس الحكومة الفرنسية للمغرب بين الدلالات والرهانات",
+    "status": "excluded",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://al3omk.com/1174704.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "هل نحتاج فعلا إلى انتخابات؟",
+    "status": "excluded",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://al3omk.com/1174702.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "ماذا يريد مغاربة العالم من الحكومة المغربية؟ رسالة بمناسبة الاستحقاقات الانتخابية",
+    "status": "excluded",
+    "checked_at": "2026-07-17T16:40:52.129217+00:00"
   }
 }
