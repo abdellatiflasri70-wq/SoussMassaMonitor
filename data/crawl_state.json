@@ -1034,5 +1034,61 @@
     "title": "ماذا يريد مغاربة العالم من الحكومة المغربية؟ رسالة بمناسبة الاستحقاقات الانتخابية",
     "status": "excluded",
     "checked_at": "2026-07-17T16:40:52.129217+00:00"
+  },
+  "https://agadirinfo.ma/133328.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "وزير الداخلية عبد الوافي لفتيت يجري مباحثات بالرباط مع نظيره الموريتاني - أكادير انفو - Agadir info",
+    "status": "excluded",
+    "checked_at": "2026-07-17T21:12:27.756616+00:00"
+  },
+  "https://www.assahifa.com/%d8%b2%d8%b9%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%a7%d9%83-%d9%8a%d8%aa%d9%87%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%a8%d8%aa%d8%ad%d9%88%d9%8a%d9%84-%d8%ad%d8%b1%d8%a7%d8%a6%d9%82": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "زعيم الماك يتهم الجزائر بتحويل حرائق القبائل إلى أداة عقاب سياسي بسبب المطالبة بالاستقلال ويدعو الاتحاد الأوروبي والمنظمات الدولية إلى التدخل العاجل",
+    "status": "excluded",
+    "checked_at": "2026-07-17T21:12:27.756616+00:00"
+  },
+  "https://ar.le360.ma/politique/MAB6KJUCDVGH3NU7FIOEFCLG64": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "مع اقتراب الانتخابات.. صراع كبار الأحزاب بالصحراء المغربية",
+    "status": "excluded",
+    "checked_at": "2026-07-17T21:12:27.756616+00:00"
+  },
+  "https://ar.le360.ma/politique/FXKRDMP2A5CX7BGCTELSHO4GZ4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "«إلغاء الربط البحري المباشر» بين الحسيمة وإسبانيا يسائل قيوح أمام البرلمان",
+    "status": "excluded",
+    "checked_at": "2026-07-17T21:12:27.756616+00:00"
+  },
+  "https://ar.le360.ma/politique/H67OHFWXQFAC5IRPZZ4EY5DTZE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلماني يسائل بركة حول «الإنقطاع المتكرر» للماء الصالح للشرب بسطات",
+    "status": "excluded",
+    "checked_at": "2026-07-17T21:12:27.756616+00:00"
+  },
+  "https://ar.le360.ma/politique/OTJDD7VJGBE2FMFL6Q7TDVVFCQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "التدقيق المالي يغضب زعماء أحزاب",
+    "status": "excluded",
+    "checked_at": "2026-07-17T21:12:27.756616+00:00"
+  },
+  "https://fr.le360.ma/politique/education-nationale-les-ecoles-pionnieres-sous-le-feu-des-critiques-des-enseignants_B6GQNZ2ZVBHOXMIOFZJ4R3SY2I": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Éducation nationale: les écoles pionnières sous le feu des critiques des enseignants",
+    "status": "excluded",
+    "checked_at": "2026-07-17T21:12:27.756616+00:00"
+  },
+  "https://fr.le360.ma/politique/maroc-france-paris-attend-la-visite-de-mohammed-vi-pour-la-signature-dun-traite-dexception_QGORGTPZ2ZDA5DLWFBAQTGOHTE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Maroc-France: Paris attend la visite de Mohammed VI pour la signature d’un traité d’exception",
+    "status": "excluded",
+    "checked_at": "2026-07-17T21:12:27.756616+00:00"
   }
 }
