@@ -1139,5 +1139,61 @@
     "title": "Loi sur les avocats: qui est habilité à saisir la Cour constitutionnelle?",
     "status": "excluded",
     "checked_at": "2026-07-18T15:35:59.063417+00:00"
+  },
+  "https://www.hespress.com/%d8%b4%d9%88%d9%83%d9%8a-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d9%82%d9%88%d8%af-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a7-%d8%ac%d8%af%d9%8a%d8%af-1779199.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "شوكي: \"الأحرار\" يقود مشروعا سياسيا جديدا ويواجه حملات التشويش",
+    "status": "excluded",
+    "checked_at": "2026-07-18T21:09:04.043139+00:00"
+  },
+  "https://snrtnews.com/article/155540": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "مونديال 2026: فينغر يقرّ بانقسام الآراء حول استراحة شرب المياه",
+    "status": "excluded",
+    "checked_at": "2026-07-18T21:09:04.043139+00:00"
+  },
+  "https://alyaoum24.com/2033911.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "مباراة السد: التعادل السلبي ينهي مباراة أمل تزنيت وأولمبيك الدشيرة والحسم يتأجل إلى موقعة الإياب – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-07-18T21:09:04.043139+00:00"
+  },
+  "https://al3omk.com/1175097.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "التناظر المفاهيمي وصراع الشرعيات.. تشريح بنيوي لجدلية المشاركة والمقاطعة",
+    "status": "excluded",
+    "checked_at": "2026-07-18T21:09:04.043139+00:00"
+  },
+  "https://ar.le360.ma/politique/DQULD6DAQFAELIKB5UEG5A2YFY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "قانون المحاماة: من يملك صلاحية إحالة النص على المحكمة الدستورية؟",
+    "status": "excluded",
+    "checked_at": "2026-07-18T21:09:04.043139+00:00"
+  },
+  "https://ar.le360.ma/politique/GKNWECTRCFFIDKOM6VONUQUP2Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "وزير الداخلية يتباحث بالرباط مع نظيره الموريتاني",
+    "status": "excluded",
+    "checked_at": "2026-07-18T21:09:04.043139+00:00"
+  },
+  "https://fr.le360.ma/politique/la-cour-constitutionnelle-acte-la-demission-du-depute-istiqlalien-abdelmajid-fassi-fihri_PYK6E2IYA5FC5O5EQPOCQA65YE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "La Cour constitutionnelle acte la démission du député istiqlalien Abdelmajid Fassi Fihri",
+    "status": "excluded",
+    "checked_at": "2026-07-18T21:09:04.043139+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%aa%d9%88%d8%a7%d9%84%d9%8a%d8%a7-%d8%aa%d8%b9%d8%a8%d8%a6%d8%a9-%d8%a8%d8%b1%d9%8a%d8%a9-%d9%88%d8%ac%d9%88%d9%8a%d8%a9-%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لليوم الثالث تواليا.. تعبئة برية وجوية للسيطرة على حريق غابة تارودانت",
+    "status": "excluded",
+    "checked_at": "2026-07-18T21:09:04.043139+00:00"
   }
 }
