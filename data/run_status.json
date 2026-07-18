@@ -1,26 +1,26 @@
 {
-  "run_at": "2026-07-18T07:12:50.036082+00:00",
+  "run_at": "2026-07-18T15:35:59.063417+00:00",
   "sources": 18,
-  "links_discovered": 128,
-  "known_skipped": 120,
-  "new_candidates": 8,
-  "extraction_success": 4,
-  "extraction_failed": 4,
+  "links_discovered": 127,
+  "known_skipped": 121,
+  "new_candidates": 6,
+  "extraction_success": 3,
+  "extraction_failed": 3,
   "new_articles": 0,
   "updated_articles": 0,
-  "excluded": 4,
+  "excluded": 3,
   "total_saved": 39,
   "events": 34,
-  "errors": 8,
+  "errors": 7,
   "source_details": [
     {
       "source_name": "Le360",
-      "links_discovered": 18,
+      "links_discovered": 19,
       "known_skipped": 17,
-      "new_candidates": 1,
-      "extraction_success": 1,
+      "new_candidates": 2,
+      "extraction_success": 2,
       "accepted": 0,
-      "excluded": 1,
+      "excluded": 2,
       "errors": 0
     },
     {
@@ -55,13 +55,13 @@
     },
     {
       "source_name": "Yabiladi",
-      "links_discovered": 3,
+      "links_discovered": 2,
       "known_skipped": 0,
-      "new_candidates": 3,
+      "new_candidates": 2,
       "extraction_success": 0,
       "accepted": 0,
       "excluded": 0,
-      "errors": 4
+      "errors": 3
     },
     {
       "source_name": "أكادير أنفو",
@@ -105,32 +105,32 @@
     },
     {
       "source_name": "الصحيفة",
-      "links_discovered": 5,
-      "known_skipped": 4,
-      "new_candidates": 1,
-      "extraction_success": 1,
+      "links_discovered": 3,
+      "known_skipped": 3,
+      "new_candidates": 0,
+      "extraction_success": 0,
       "accepted": 0,
-      "excluded": 1,
+      "excluded": 0,
       "errors": 0
     },
     {
       "source_name": "العمق المغربي",
       "links_discovered": 6,
-      "known_skipped": 5,
-      "new_candidates": 1,
-      "extraction_success": 1,
-      "accepted": 0,
-      "excluded": 1,
-      "errors": 0
-    },
-    {
-      "source_name": "اليوم24",
-      "links_discovered": 1,
-      "known_skipped": 1,
+      "known_skipped": 6,
       "new_candidates": 0,
       "extraction_success": 0,
       "accepted": 0,
       "excluded": 0,
+      "errors": 0
+    },
+    {
+      "source_name": "اليوم24",
+      "links_discovered": 2,
+      "known_skipped": 1,
+      "new_candidates": 1,
+      "extraction_success": 1,
+      "accepted": 0,
+      "excluded": 1,
       "errors": 0
     },
     {
@@ -186,11 +186,11 @@
     {
       "source_name": "هسبريس",
       "links_discovered": 1,
-      "known_skipped": 0,
-      "new_candidates": 1,
-      "extraction_success": 1,
+      "known_skipped": 1,
+      "new_candidates": 0,
+      "extraction_success": 0,
       "accepted": 0,
-      "excluded": 1,
+      "excluded": 0,
       "errors": 0
     }
   ]

@@ -1118,5 +1118,26 @@
     "title": "لقجع يدعو إلى آلية للاستفادة المثلى من اللاعبين الشباب وتعزيز رصيد المنتخبات الوطنية",
     "status": "excluded",
     "checked_at": "2026-07-18T07:12:50.036082+00:00"
+  },
+  "https://alyaoum24.com/2033815.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "أكادير تستعد لاستقبال الدورة الحادية والعشرين لمهرجان تيميتار – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-07-18T15:35:59.063417+00:00"
+  },
+  "https://ar.le360.ma/politique/JLUIAQX47FHY7L5LFGXXHYVSOY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الموسم الثاني من «بيغاسوس»: كواليس مسلسل إعلامي مشوّه انتهى بفشل صناعي ذريع",
+    "status": "excluded",
+    "checked_at": "2026-07-18T15:35:59.063417+00:00"
+  },
+  "https://fr.le360.ma/politique/loi-sur-les-avocats-qui-est-habilite-a-saisir-la-cour-constitutionnelle_OVBAODKSDFEVRKAOD2B3JMSSTE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Loi sur les avocats: qui est habilité à saisir la Cour constitutionnelle?",
+    "status": "excluded",
+    "checked_at": "2026-07-18T15:35:59.063417+00:00"
   }
 }
