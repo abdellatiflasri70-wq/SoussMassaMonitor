@@ -1244,5 +1244,26 @@
     "title": "أوجار من زاكورة: الحكومة تُقيَّم بمدى وفائها بالتزاماتها والحزب يدخل الانتخابات بثقة",
     "status": "excluded",
     "checked_at": "2026-07-19T15:36:51.331015+00:00"
+  },
+  "https://fr.le360.ma/societe/le-gouvernement-durcit-les-criteres-de-selection-des-presidents-duniversites_5HE44YZJAJDU3GR4PZPS6VDD2Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le gouvernement durcit les critères de sélection des présidents d’université",
+    "status": "excluded",
+    "checked_at": "2026-07-19T21:10:57.778539+00:00"
+  },
+  "https://al3omk.com/1175210.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "شوكي يقدم مرشح “الأحرار” للانتخابات بجرسيف ويتعهد بمواصلة “سياسة القرب”",
+    "status": "excluded",
+    "checked_at": "2026-07-19T21:10:57.778539+00:00"
+  },
+  "https://al3omk.com/1175195.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "مطالب برلمانية لتعويض متضرري حريق واحة انضفيان بإقليم طاطا",
+    "status": "accepted",
+    "checked_at": "2026-07-19T21:10:57.778539+00:00"
   }
 }

@@ -1,5 +1,79 @@
 [
   {
+    "id": "f6af11a3e2d06c6e",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "مطالب برلمانية لتعويض متضرري حريق واحة انضفيان بإقليم طاطا",
+    "url": "https://al3omk.com/1175195.html",
+    "author": "جمال زروال",
+    "published_at": "2026-07-18",
+    "first_seen_at": "2026-07-19T21:10:57.778539+00:00",
+    "last_checked_at": "2026-07-19T21:10:57.778539+00:00",
+    "language": "ar",
+    "excerpt": "وجّه النائب البرلماني عن فريق الأصالة والمعاصرة، حسان التابي، سؤالا كتابيا إلى وزير الفلاحة والصيد البحري والتنمية القروية والمياه والغابات، أحمد البواري، حول الحريق الذي",
+    "word_count": 442,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "طاطا"
+      ],
+      "primary_places": [
+        "طاطا"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f6af11a3e2d0",
+    "stance_analyzed_at": "2026-07-19T21:10:57.778539+00:00"
+  },
+  {
     "id": "f9b50b82701eb3aa",
     "source_id": "machahid",
     "source_name": "مشاهد أنفو",
