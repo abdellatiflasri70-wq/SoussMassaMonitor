@@ -1265,5 +1265,19 @@
     "title": "مطالب برلمانية لتعويض متضرري حريق واحة انضفيان بإقليم طاطا",
     "status": "accepted",
     "checked_at": "2026-07-19T21:10:57.778539+00:00"
+  },
+  "https://ar.le360.ma/politique/XU2HWP4U5NHYDEGYY35T7KPRFU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بنطلحة يكتب: الحقيبة أو التابوت.. جرح الهوية الجزائرية",
+    "status": "excluded",
+    "checked_at": "2026-07-20T17:11:50.381693+00:00"
+  },
+  "https://al3omk.com/1175363.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "المحامون يعلنون مواصلة الإضراب عن العمل والترافع ضد مشروع قانون المهنة",
+    "status": "accepted",
+    "checked_at": "2026-07-20T17:11:50.381693+00:00"
   }
 }

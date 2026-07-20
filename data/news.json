@@ -1,5 +1,95 @@
 [
   {
+    "id": "52c542406991e872",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "المحامون يعلنون مواصلة الإضراب عن العمل والترافع ضد مشروع قانون المهنة",
+    "url": "https://al3omk.com/1175363.html",
+    "author": "إسماعيل التزارني",
+    "published_at": "2026-07-19",
+    "first_seen_at": "2026-07-20T17:11:50.381693+00:00",
+    "last_checked_at": "2026-07-20T17:11:50.381693+00:00",
+    "language": "ar",
+    "excerpt": "أعلن مكتب جمعية هيئات المحامين بالمغرب، في بيان، استمرار التوقف الشامل عن تقديم جميع الخدمات، والاستمرار في تعليق العمل بنظام المساعدة القضائية، ومواصلة الترافع ضد",
+    "word_count": 187,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "مشروع قانون"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بيان"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_52c542406991",
+    "stance_analyzed_at": "2026-07-20T17:11:50.381693+00:00"
+  },
+  {
     "id": "f6af11a3e2d06c6e",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",
