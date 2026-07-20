@@ -1279,5 +1279,61 @@
     "title": "المحامون يعلنون مواصلة الإضراب عن العمل والترافع ضد مشروع قانون المهنة",
     "status": "accepted",
     "checked_at": "2026-07-20T17:11:50.381693+00:00"
+  },
+  "https://ar.le360.ma/politique/EKIDNY3SWNARHAT26ERXVFSWCQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "رسميا: البرلماني إدريس السنتيسي يغادر حزب الحركة الشعبية",
+    "status": "excluded",
+    "checked_at": "2026-07-20T21:53:40.382339+00:00"
+  },
+  "https://ar.le360.ma/politique/G4BPIFRTS5DVBLWDG6WNOM4PWU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "منظمة تطالب بإقرار التسجيل التلقائي في اللوائح الانتخابية وتدعو لتجاوز «عقبة الإدارة»",
+    "status": "excluded",
+    "checked_at": "2026-07-20T21:53:40.382339+00:00"
+  },
+  "https://ar.le360.ma/politique/7DDAIQW3AVHYHNOAEQDHPTGUXM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بتعليمات ملكية.. تفعيل اللجنة المركزية واللجان الجهوية والإقليمية لتتبع الانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-07-20T21:53:40.382339+00:00"
+  },
+  "https://ar.le360.ma/politique/3V3KHVHWGJGAHKWSH7QB246MPU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "وزير خارجية سيراليون: أنبوب الغاز الإفريقي الأطلسي مشروع مهيكل في خدمة إندماج منطقة غرب إفريقيا",
+    "status": "excluded",
+    "checked_at": "2026-07-20T21:53:40.382339+00:00"
+  },
+  "https://fr.le360.ma/politique/projet-de-loi-sur-les-avocats-les-robes-noires-maintiennent-la-pression_6MJP57HPOVHW5JKRZIJ5CQMWEQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Projet de loi sur les avocats: les robes noires maintiennent la pression",
+    "status": "excluded",
+    "checked_at": "2026-07-20T21:53:40.382339+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-le-ministere-de-linterieur-active-des-commissions-chargees-de-veiller-a-la_P3QDGFYW3JFV5LJBZCK6AMU6AI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: le ministère de l’Intérieur active des commissions chargées de veiller à la transparence du scrutin",
+    "status": "excluded",
+    "checked_at": "2026-07-20T21:53:40.382339+00:00"
+  },
+  "https://fr.le360.ma/politique/bachir-mustapha-sayyed-jette-un-pave-dans-la-mare-les-sahraouis-des-camps-de-tindouf-sont-victimes_EHVYUH2PEZHIVG2SLJEHZLOPOI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Bachir Mustapha Sayyed jette un pavé dans la mare: les Sahraouis des camps de Tindouf sont victimes d’un déplacement forcé",
+    "status": "excluded",
+    "checked_at": "2026-07-20T21:53:40.382339+00:00"
+  },
+  "https://fr.le360.ma/politique/les-pays-de-la-cedeao-adherent-au-gazoduc-africain-atlantique-nigeria-maroc_WPL7SYZV5VAADMRVBSUYHFAFSI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Les pays de la CEDEAO adhèrent au Gazoduc Africain Atlantique Nigéria-Maroc",
+    "status": "excluded",
+    "checked_at": "2026-07-20T21:53:40.382339+00:00"
   }
 }
