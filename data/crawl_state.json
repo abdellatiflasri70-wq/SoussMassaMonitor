@@ -1398,5 +1398,68 @@
     "title": "«La base la plus appropriée, sérieuse, crédible et réaliste»: la Roumanie appuie le plan d’autonomie sous souveraineté marocaine",
     "status": "excluded",
     "checked_at": "2026-07-21T17:01:34.508261+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d8%a6%d8%aa%d9%84%d8%a7%d9%81-%d8%b3%d9%88%d9%85%d8%a7%d8%b1-%d9%8a%d9%88%d8%b8%d9%81-%d9%85%d9%84%d9%81-%d8%a7%d9%83%d8%af%d9%8a%d9%85-%d8%a5%d9%8a%d8%b2%d9%8a%d9%83-%d9%84%d8%a7%d8%b3-1780126.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "ائتلاف \"سومار\" يوظف ملف \"اكديم إيزيك\" لاستهداف علاقات المغرب وإسبانيا",
+    "status": "excluded",
+    "checked_at": "2026-07-21T21:47:18.921419+00:00"
+  },
+  "https://alyaoum24.com/2034432.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "مباراة السد: تواركة يضمن البقاء في قسم الصفوة وأمل تزنيت يحقق صعودا تاريخيا إلى القسم الاحترافي الأول – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-07-21T21:47:18.921419+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/679024-fouzi-lekjaa-va-rejoindre-les-rangs-du-pam.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Fouzi Lekjaa va rejoindre les rangs du PAM",
+    "status": "excluded",
+    "checked_at": "2026-07-21T21:47:18.921419+00:00"
+  },
+  "https://thepress.ma/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%8a%d8%b7%d9%84%d9%82-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d9%85%d8%b3%d8%aa%d8%b4%d9%81%d9%89-%d8%aa%d9%85%d9%86%d8%a7%d8%b1-%d9%88%d9%8a%d8%aa%d8%a7%d8%a8%d8%b9-%d9%85": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "أخنوش يطلق خدمات مستشفى تمنار ويتابع مشاريع صحية كبرى بالصويرة",
+    "status": "excluded",
+    "checked_at": "2026-07-21T21:47:18.921419+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-listiqlal-appelle-a-renforcer-la-lutte-contre-la-prevarication_4T4TIWBDNBEABNFRBQFBTY3BUQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: l’Istiqlal appelle à renforcer la lutte contre la prévarication",
+    "status": "excluded",
+    "checked_at": "2026-07-21T21:47:18.921419+00:00"
+  },
+  "https://fr.le360.ma/politique/reforme-de-la-profession-davocat-le-bras-de-fer-continue-malgre-le-renvoi-de-la-loi-devant-la-cour_O3MSVBCY55CZVHC4LSGK6XPH3Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Réforme de la profession d’avocat: le bras de fer continue malgré le renvoi de la loi devant la Cour constitutionnelle",
+    "status": "excluded",
+    "checked_at": "2026-07-21T21:47:18.921419+00:00"
+  },
+  "https://fr.le360.ma/politique/une-collaboration-renforcee-entre-rabat-et-paris-gerald-darmanin-remercie-le-maroc-apres_J5VBAEXHGBHNZDXYASI5HHV4X4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Une «collaboration renforcée» entre Rabat et Paris: Gérald Darmanin remercie le Maroc après l’arrestation de 16 suspects",
+    "status": "excluded",
+    "checked_at": "2026-07-21T21:47:18.921419+00:00"
+  },
+  "https://fr.le360.ma/politique/parlement-une-vague-de-demissions-secoue-les-deux-chambres_OBXYXTX43JG3DCK45IG2HFVQDQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Parlement: une vague de démissions secoue les deux Chambres",
+    "status": "accepted",
+    "checked_at": "2026-07-21T21:47:18.921419+00:00"
+  },
+  "https://fr.le360.ma/politique/prix-des-medicaments-des-pressions-pour-retarder-le-nouveau-decret_CQ4OV54PAZHFRGCT3UCRTCWSQM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Prix des médicaments: des pressions pour retarder le nouveau décret",
+    "status": "excluded",
+    "checked_at": "2026-07-21T21:47:18.921419+00:00"
   }
 }
