@@ -1545,5 +1545,54 @@
     "title": "قانون الطوارئ الزراعية يثير أزمة في فرنسا.. وماكرون يرفض استقالة وزيرة البيئة",
     "status": "excluded",
     "checked_at": "2026-07-22T17:02:30.623957+00:00"
+  },
+  "https://agadirinfo.ma/133467.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مجلس الحكومة يصادق على مشروع قانون يتعلق بالمنظومة المعلوماتية الصحية الوطنية المندمجة - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-07-22T21:49:39.193019+00:00"
+  },
+  "https://www.assahifa.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a3%d8%b5%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b5%d8%b1%d8%a9-%d9%8a%d8%b7%d9%84%d9%82-%d9%85%d9%86%d8%b5%d8%a9-%d8%a5%d8%b9%d9%84%d8%a7%d9%85": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "حزب الأصالة والمعاصرة يطلق منصة إعلامية رقمية تحت اسم AM+ MEDIA",
+    "status": "excluded",
+    "checked_at": "2026-07-22T21:49:39.193019+00:00"
+  },
+  "https://ar.le360.ma/politique/4SB5BZ4DI5B3LJTGSTQZO7NUD4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بكلفة إجمالية تفوق 28 مليون درهم.. تدشين البناية الجديدة لقسم قضاء الأسرة بصفرو",
+    "status": "excluded",
+    "checked_at": "2026-07-22T21:49:39.193019+00:00"
+  },
+  "https://fr.le360.ma/politique/le-pam-lance-a-rabat-son-nouveau-media-am-media-a-lapproche-des-legislatives_O4E2RYPG2VAZJGL3MXQCH5GGPM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le PAM lance à Rabat son nouveau média AM+ Media à l’approche des législatives",
+    "status": "excluded",
+    "checked_at": "2026-07-22T21:49:39.193019+00:00"
+  },
+  "https://fr.le360.ma/politique/elections-legislatives-plusieurs-elus-fugitifs-traques-par-les-lois-sur-la-transhumance_YLJDKKVQKBG7VA7PXDHGTUTY5M": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Élections législatives: plusieurs élus «fugitifs» traqués par les lois sur la transhumance",
+    "status": "excluded",
+    "checked_at": "2026-07-22T21:49:39.193019+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-du-deni-au-precipice-comment-le-polisario-refuse-de-negocier-et-accelere-sa-propre-fin_XDPZGLBWFFEABBYV7VHDZPPDBM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara. Du déni au précipice: comment le Polisario refuse de négocier et accélère sa propre fin",
+    "status": "excluded",
+    "checked_at": "2026-07-22T21:49:39.193019+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-le-ghana-reaffirme-son-soutien-au-plan-marocain-dautonomie_3T6H56PUA5DQTKD54SWESEK5TE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: le Ghana réaffirme son soutien au plan marocain d’autonomie",
+    "status": "excluded",
+    "checked_at": "2026-07-22T21:49:39.193019+00:00"
   }
 }

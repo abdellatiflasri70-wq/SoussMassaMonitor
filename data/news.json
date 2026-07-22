@@ -318,6 +318,76 @@
     "stance_analyzed_at": "2026-07-22T17:02:30.623957+00:00"
   },
   {
+    "id": "c50569eb9a009444",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مجلس الحكومة يصادق على مشروع قانون يتعلق بالمنظومة المعلوماتية الصحية الوطنية المندمجة - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/133467.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-07-21",
+    "first_seen_at": "2026-07-22T21:49:39.193019+00:00",
+    "last_checked_at": "2026-07-22T21:49:39.193019+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديمجلس الحكومة يصادق على مشروع قانون يتعلق بالمنظومة المعلوماتية الصحية الوطنية المندمجة صادق مجلس الحكومة، اليوم الأربعاء، على مشروع القانون رقم 52.26 يتعلق بالمنظومة",
+    "word_count": 87,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "مشروع قانون"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_c50569eb9a00",
+    "stance_analyzed_at": "2026-07-22T21:49:39.193019+00:00"
+  },
+  {
     "id": "52c542406991e872",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",

@@ -1,26 +1,26 @@
 {
-  "run_at": "2026-07-22T17:02:30.623957+00:00",
+  "run_at": "2026-07-22T21:49:39.193019+00:00",
   "sources": 18,
   "links_discovered": 120,
-  "known_skipped": 104,
-  "new_candidates": 16,
-  "extraction_success": 8,
+  "known_skipped": 105,
+  "new_candidates": 15,
+  "extraction_success": 7,
   "extraction_failed": 8,
   "new_articles": 1,
   "updated_articles": 0,
-  "excluded": 7,
-  "total_saved": 45,
-  "events": 40,
+  "excluded": 6,
+  "total_saved": 46,
+  "events": 41,
   "errors": 12,
   "source_details": [
     {
       "source_name": "Le360",
-      "links_discovered": 15,
-      "known_skipped": 13,
-      "new_candidates": 2,
-      "extraction_success": 2,
+      "links_discovered": 14,
+      "known_skipped": 9,
+      "new_candidates": 5,
+      "extraction_success": 5,
       "accepted": 0,
-      "excluded": 2,
+      "excluded": 5,
       "errors": 0
     },
     {
@@ -65,11 +65,11 @@
     },
     {
       "source_name": "أكادير أنفو",
-      "links_discovered": 5,
+      "links_discovered": 6,
       "known_skipped": 4,
-      "new_candidates": 1,
-      "extraction_success": 0,
-      "accepted": 0,
+      "new_candidates": 2,
+      "extraction_success": 1,
+      "accepted": 1,
       "excluded": 0,
       "errors": 1
     },
@@ -96,17 +96,7 @@
     {
       "source_name": "اشتوكة بريس",
       "links_discovered": 3,
-      "known_skipped": 2,
-      "new_candidates": 1,
-      "extraction_success": 1,
-      "accepted": 1,
-      "excluded": 0,
-      "errors": 0
-    },
-    {
-      "source_name": "الصحيفة",
-      "links_discovered": 0,
-      "known_skipped": 0,
+      "known_skipped": 3,
       "new_candidates": 0,
       "extraction_success": 0,
       "accepted": 0,
@@ -114,13 +104,23 @@
       "errors": 0
     },
     {
-      "source_name": "العمق المغربي",
-      "links_discovered": 4,
+      "source_name": "الصحيفة",
+      "links_discovered": 1,
       "known_skipped": 0,
-      "new_candidates": 4,
-      "extraction_success": 4,
+      "new_candidates": 1,
+      "extraction_success": 1,
       "accepted": 0,
-      "excluded": 4,
+      "excluded": 1,
+      "errors": 0
+    },
+    {
+      "source_name": "العمق المغربي",
+      "links_discovered": 3,
+      "known_skipped": 3,
+      "new_candidates": 0,
+      "extraction_success": 0,
+      "accepted": 0,
+      "excluded": 0,
       "errors": 0
     },
     {
@@ -186,11 +186,11 @@
     {
       "source_name": "هسبريس",
       "links_discovered": 2,
-      "known_skipped": 1,
-      "new_candidates": 1,
-      "extraction_success": 1,
+      "known_skipped": 2,
+      "new_candidates": 0,
+      "extraction_success": 0,
       "accepted": 0,
-      "excluded": 1,
+      "excluded": 0,
       "errors": 0
     }
   ]
