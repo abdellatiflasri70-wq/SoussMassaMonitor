@@ -252,6 +252,72 @@
     "stance_analyzed_at": "2026-07-22T09:38:25.760304+00:00"
   },
   {
+    "id": "7a97a41ff53f6747",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "رئيس مجلس جماعة سيدي بيبي يعلن عن تاريخ إنعقاد موسم الولي الصالح “سيدي بيبي”",
+    "url": "https://www.chtoukapress.com/305437.html",
+    "author": "Amikkk",
+    "published_at": "2026-07-21",
+    "first_seen_at": "2026-07-22T17:02:30.623957+00:00",
+    "last_checked_at": "2026-07-22T17:02:30.623957+00:00",
+    "language": "ar",
+    "excerpt": "توصل موقع اشتوكة بريس، بمراسلة من مجلس جماعة سيدي بيبي، بإقليم اشتوكة آيت باها، يعلن من خلالها عن تاريخ إنعقاد موسم الولي الصالح “سيدي بيبي”.",
+    "word_count": 210,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "سيدي بيبي"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أيت باها",
+        "أيت عميرة"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي",
+            "رئيس المجلس"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_7a97a41ff53f",
+    "stance_analyzed_at": "2026-07-22T17:02:30.623957+00:00"
+  },
+  {
     "id": "52c542406991e872",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",

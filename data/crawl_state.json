@@ -1489,5 +1489,61 @@
     "title": "حزب الوردة يتهم رئيس جماعة تزنيت بتنظيم حملة انتخابية سابقة لأوانها – اليوم 24",
     "status": "accepted",
     "checked_at": "2026-07-22T09:38:25.760304+00:00"
+  },
+  "https://www.chtoukapress.com/305437.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "رئيس مجلس جماعة سيدي بيبي يعلن عن تاريخ إنعقاد موسم الولي الصالح “سيدي بيبي”",
+    "status": "accepted",
+    "checked_at": "2026-07-22T17:02:30.623957+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-%d8%aa%d8%b4%d9%8a%d8%af%d8%a7%d9%86-%d8%a8%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d9%84%d8%ac%d8%a7-1780458.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "الأغلبية والمعارضة تشيدان بتشكيل لجان إقليمية لتتبع وضمان نزاهة الانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-07-22T17:02:30.623957+00:00"
+  },
+  "https://ar.le360.ma/politique/3X2JD7Z4GBH6BFNRD3LTP2MXHM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "تشريعيات 2026: «الأحرار» يزكي الرميلي على رأس اللائحة النسائية بالدار البيضاء",
+    "status": "excluded",
+    "checked_at": "2026-07-22T17:02:30.623957+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-nabila-rmili-en-tete-de-liste-regionale-a-casablanca_LB3SCSQ6UJFWRPOABQZ6FJNQTE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: Nabila Rmili en tête de liste régionale à Casablanca",
+    "status": "excluded",
+    "checked_at": "2026-07-22T17:02:30.623957+00:00"
+  },
+  "https://al3omk.com/1175764.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "“تافوكت” تفتح باب الترشح لجائزة الثقافة الأمازيغية أمام الفرق المسرحية",
+    "status": "excluded",
+    "checked_at": "2026-07-22T17:02:30.623957+00:00"
+  },
+  "https://al3omk.com/1175716.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الكلاب الضالة تؤرق سكان أنزا بأكادير وتهدد سلامة المصطافين والسياح",
+    "status": "excluded",
+    "checked_at": "2026-07-22T17:02:30.623957+00:00"
+  },
+  "https://al3omk.com/1175715.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "حزب الاصالة والمعاصرة واستقطاب فوزي لقجع",
+    "status": "excluded",
+    "checked_at": "2026-07-22T17:02:30.623957+00:00"
+  },
+  "https://al3omk.com/1175712.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "قانون الطوارئ الزراعية يثير أزمة في فرنسا.. وماكرون يرفض استقالة وزيرة البيئة",
+    "status": "excluded",
+    "checked_at": "2026-07-22T17:02:30.623957+00:00"
   }
 }
