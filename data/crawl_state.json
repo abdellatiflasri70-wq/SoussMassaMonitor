@@ -1461,5 +1461,33 @@
     "title": "Prix des médicaments: des pressions pour retarder le nouveau décret",
     "status": "excluded",
     "checked_at": "2026-07-21T21:47:18.921419+00:00"
+  },
+  "https://agadir24.info/%d8%b9%d8%b6%d9%88-%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d8%a9-%d9%84%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d8%a8%d8%a3.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "عضو اللجنة المركزية لحزب الاستقلال بأكادير خديجة الفلاكي السباعي تعلن استقالتها \"النهائية\" من الحزب | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-07-22T09:38:25.760304+00:00"
+  },
+  "https://snrtnews.com/article/155724": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "شهيد في \"نقطة إلى السطر\": الحكومة فشلت في الوفاء بالتزاماتها والاتحاد الاشتراكي مستعد للمنافسة",
+    "status": "excluded",
+    "checked_at": "2026-07-22T09:38:25.760304+00:00"
+  },
+  "https://ar.le360.ma/politique/P7SJXIA5ANGPLCJPNV4PFJMC4U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بعد شكاو متجددة للسكان.. سؤال برلماني يعيد ملف مطرح عين بيضا بفاس إلى الواجهة",
+    "status": "excluded",
+    "checked_at": "2026-07-22T09:38:25.760304+00:00"
+  },
+  "https://alyaoum24.com/2034357.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "حزب الوردة يتهم رئيس جماعة تزنيت بتنظيم حملة انتخابية سابقة لأوانها – اليوم 24",
+    "status": "accepted",
+    "checked_at": "2026-07-22T09:38:25.760304+00:00"
   }
 }

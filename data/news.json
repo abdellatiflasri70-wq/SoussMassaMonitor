@@ -1,5 +1,257 @@
 [
   {
+    "id": "0b1c7d994976eaba",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "عضو اللجنة المركزية لحزب الاستقلال بأكادير خديجة الفلاكي السباعي تعلن استقالتها \"النهائية\" من الحزب | agadir24.info",
+    "url": "https://agadir24.info/%D8%B9%D8%B6%D9%88-%D8%A7%D9%84%D9%84%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9-%D9%84%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A8%D8%A3.html",
+    "author": "أكادير",
+    "published_at": "2026-07-21",
+    "first_seen_at": "2026-07-22T09:38:25.760304+00:00",
+    "last_checked_at": "2026-07-22T09:38:25.760304+00:00",
+    "language": "ar",
+    "excerpt": "بعد أيام من تقديم استقالتها من مجلس جهة سوس ماسة ، أعلنت خديجة الفلاكي السباعي، عضو اللجنة المركزية لحزب الاستقلال و عضو المكتب التنفيذي لمنظمة",
+    "word_count": 212,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_046",
+          "name": "خديجة الفلاكي",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "استقالتها",
+            "مغادرة الحزب"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال",
+        "شخصيات رئيسية: خديجة الفلاكي",
+        "مواضيع سياسية: الاستقالة وتغيير الانتماء"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_046",
+        "target_type": "person",
+        "target_name": "خديجة الفلاكي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_0b1c7d994976",
+    "stance_analyzed_at": "2026-07-22T09:38:25.760304+00:00"
+  },
+  {
+    "id": "6415325c4a92405b",
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "حزب الوردة يتهم رئيس جماعة تزنيت بتنظيم حملة انتخابية سابقة لأوانها – اليوم 24",
+    "url": "https://alyaoum24.com/2034357.html",
+    "author": "سعيد أبدرار",
+    "published_at": "2026-07-21",
+    "first_seen_at": "2026-07-22T09:38:25.760304+00:00",
+    "last_checked_at": "2026-07-22T09:38:25.760304+00:00",
+    "language": "ar",
+    "excerpt": "اتهم المكتب المحلي لحزب الاتحاد الاشتراكي للقوات الشعبية، رئيس جماعة تزنيت، بتسخير إمكانيات الجماعة لتنظيم حملة انتخابية سابقة لأوانها، عقب جدل تنظيم الرئيس للقاء صحفي",
+    "word_count": 302,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تزنيت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "person_084",
+          "name": "عبد الله غازي",
+          "tier": "secondary"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي",
+            "رئيس المجلس"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "حملة انتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اتهم"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: الاتحاد الاشتراكي للقوات الشعبية, التجمع الوطني للأحرار",
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي, الانتخابات والاقتراع, الحملة الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_084",
+        "target_type": "person",
+        "target_name": "عبد الله غازي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_6415325c4a92",
+    "stance_analyzed_at": "2026-07-22T09:38:25.760304+00:00"
+  },
+  {
     "id": "52c542406991e872",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",
