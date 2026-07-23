@@ -1,5 +1,234 @@
 [
   {
+    "id": "1f942bc15883b983",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "إجراء قرعة توزيع تدخلات الأحزاب السياسية في وسائل الإعلام العمومية خلال الحملة الانتخابية - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/133508.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-07-22",
+    "first_seen_at": "2026-07-23T21:47:35.856453+00:00",
+    "last_checked_at": "2026-07-23T21:47:35.856453+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربإجراء قرعة توزيع تدخلات الأحزاب السياسية في وسائل الإعلام العمومية خلال الحملة الانتخابية تم اليوم الخميس بمقر قطاع التواصل – وزارة الشباب والثقافة والتواصل،",
+    "word_count": 340,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الحملة الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_1f942bc15883",
+    "stance_analyzed_at": "2026-07-23T21:47:35.856453+00:00"
+  },
+  {
+    "id": "147297b7a4b440cb",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: l’Istiqlal dévoile une première liste de 70 candidats dans 10 régions",
+    "url": "https://fr.le360.ma/politique/legislatives-2026-listiqlal-devoile-une-premiere-liste-de-70-candidats-dans-10-regions_5FBR3RVX3VCPDJTLXGMJBRNEFE",
+    "author": "Mohamed Chakir Alaoui",
+    "published_at": "2026-07-22",
+    "first_seen_at": "2026-07-23T21:47:35.856453+00:00",
+    "last_checked_at": "2026-07-23T21:47:35.856453+00:00",
+    "language": "fr",
+    "excerpt": "En vue des élections législatives, le Parti de l’Istiqlal vient de publier une première liste de 70 candidats, dont celle de Nizar Baraka, son secrétaire",
+    "word_count": 360,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_004",
+          "name": "عبد الصمد قيوح",
+          "tier": "priority"
+        },
+        {
+          "id": "person_019",
+          "name": "نزار بركة",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "candidats",
+            "tête de liste",
+            "candidat",
+            "candidature",
+            "candidatures"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "législatives",
+            "élections",
+            "électorale",
+            "scrutin"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "ministre"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "communiqué"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال",
+        "شخصيات رئيسية: عبد الصمد قيوح, نزار بركة",
+        "مواضيع سياسية: الترشح والتزكية, الانتخابات والاقتراع, السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_004",
+        "target_type": "person",
+        "target_name": "عبد الصمد قيوح",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_019",
+        "target_type": "person",
+        "target_name": "نزار بركة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_147297b7a4b4",
+    "stance_analyzed_at": "2026-07-23T21:47:35.856453+00:00"
+  },
+  {
     "id": "0b1c7d994976eaba",
     "source_id": "agadir24",
     "source_name": "أكادير24",

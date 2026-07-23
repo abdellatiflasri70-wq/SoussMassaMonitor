@@ -1664,5 +1664,61 @@
     "title": "التقدم والاشتراكية: النمو الاقتصادي غير كاف لمعالجة الاختلالات البنيوية",
     "status": "excluded",
     "checked_at": "2026-07-23T17:05:55.784411+00:00"
+  },
+  "https://agadirinfo.ma/133508.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "إجراء قرعة توزيع تدخلات الأحزاب السياسية في وسائل الإعلام العمومية خلال الحملة الانتخابية - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-07-23T21:47:35.856453+00:00"
+  },
+  "https://agadir24.info/%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%a8-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d8%a8%d9%86-%d9%88%d9%85%d9%86-%d8%a7%d9%84%d8%b2%d9%88%d8%ac-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b2%d9%88%d8%ac%d8%a9.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "من الأب إلى الابن ومن الزوج إلى الزوجة.. هل تحولت بعض الأحزاب إلى ملكيات عائلية؟ | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-07-23T21:47:35.856453+00:00"
+  },
+  "https://agadir24.info/%d9%85%d9%86-9-%d8%a5%d9%84%d9%89-21-%d8%af%d9%82%d9%8a%d9%82%d8%a9-%d8%a7%d9%84%d9%82%d8%b1%d8%b9%d8%a9-%d8%aa%d8%ad%d8%af%d8%af-%d8%ad%d8%b6%d9%88%d8%b1-27-%d8%ad%d8%b2%d8%a8%d8%a7%d9%8b-%d9%81.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "من 9 إلى 21 دقيقة.. القرعة تحدد حضور 27 حزباً في الإعلام العمومي خلال الحملة الانتخابية | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-07-23T21:47:35.856453+00:00"
+  },
+  "https://www.hespress.com/%d9%82%d8%b1%d8%b9%d8%a9-%d8%aa%d9%88%d8%b2%d9%8a%d8%b9-%d8%aa%d8%af%d8%ae%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d8%a8%d8%a7-1781665.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "قرعة توزيع تدخلات الأحزاب السياسية بالإعلام العمومي خلال الحملة الانتخابية",
+    "status": "excluded",
+    "checked_at": "2026-07-23T21:47:35.856453+00:00"
+  },
+  "https://snrtnews.com/article/155810": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "إجراء القرعة الخاصة بتوزيع تدخلات الأحزاب السياسية في وسائل الاتصال السمعي البصري العمومية خلال الحملة الانتخابية لاقتراع 23 شتنبر 2026",
+    "status": "excluded",
+    "checked_at": "2026-07-23T21:47:35.856453+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-listiqlal-devoile-une-premiere-liste-de-70-candidats-dans-10-regions_5FBR3RVX3VCPDJTLXGMJBRNEFE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: l’Istiqlal dévoile une première liste de 70 candidats dans 10 régions",
+    "status": "accepted",
+    "checked_at": "2026-07-23T21:47:35.856453+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-les-partis-face-au-test-de-la-representation-politique-des-femmes_HYX4AZOYWJALZNU542CNORVUR4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: les partis face au test de la représentation politique des femmes",
+    "status": "excluded",
+    "checked_at": "2026-07-23T21:47:35.856453+00:00"
+  },
+  "https://fr.le360.ma/politique/port-de-casablanca-colere-des-importateurs-face-a-la-congestion_35UJY4HJQRGUDBQLY6HB2TAV6A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Port de Casablanca: colère des importateurs face à la congestion",
+    "status": "excluded",
+    "checked_at": "2026-07-23T21:47:35.856453+00:00"
   }
 }
