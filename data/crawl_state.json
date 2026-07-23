@@ -1643,5 +1643,26 @@
     "title": "الصحراء: جبهة «بوليساريو» تلجأ للعرقلة وتقود نفسها نحو الهاوية",
     "status": "excluded",
     "checked_at": "2026-07-23T09:32:16.715958+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/679192-le-pam-lance-am-media-une-nouvelle-plateforme-dediee-a-lanalyse-et-au-fact-checking.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Le PAM lance « AM+ MEDIA », une nouvelle plateforme dédiée à l’analyse et au fact-checking",
+    "status": "excluded",
+    "checked_at": "2026-07-23T17:05:55.784411+00:00"
+  },
+  "https://fr.le360.ma/politique/un-vaste-mouvement-attendu-dans-les-rangs-des-agents-dautorite_MGKEA7PNWNDNJATYMIJB5NHHQM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Un vaste mouvement attendu dans les rangs des agents d’autorité",
+    "status": "excluded",
+    "checked_at": "2026-07-23T17:05:55.784411+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a%d8%a9-%d8%a7%d9%84%d9%86%d9%85%d9%88-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a-%d8%ba": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "التقدم والاشتراكية: النمو الاقتصادي غير كاف لمعالجة الاختلالات البنيوية",
+    "status": "excluded",
+    "checked_at": "2026-07-23T17:05:55.784411+00:00"
   }
 }
