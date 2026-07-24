@@ -1734,5 +1734,75 @@
     "title": "تقرير: تراجع الاهتمام بالسياسة واستمرار الضغوط الاقتصادية يغذيان الهجرة في تونس",
     "status": "excluded",
     "checked_at": "2026-07-24T09:13:18.280095+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%84%d9%86%d8%a7%d8%a6%d8%a8%d8%a9-%d9%86%d8%b9%d9%8a%d9%85%d8%a9-%d8%a7%d9%84%d9%81%d8%aa%d8%ad%d8%a7%d9%88%d9%8a-%d8%aa%d8%b9%d8%b1%d8%b6-%d8%ad%d8%b5%d9%8a%d9%84%d8%aa.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "النائبة نعيمة الفتحاوي تعرض حصيلتها البرلمانية | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-07-24T17:59:04.346603+00:00"
+  },
+  "https://snrtnews.com/article/155841": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "انتخابات 2026.. الكشف عن ضوابط صارمة تؤطر عمل مئات الملاحظين",
+    "status": "excluded",
+    "checked_at": "2026-07-24T17:59:04.346603+00:00"
+  },
+  "https://www.assahifa.com/%d9%88%d8%b6%d8%b9%d9%8a%d8%a9-%d8%ae%d8%b2%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9-%d9%82%d8%a8%d9%84-%d8%b7%d9%8a-%d8%b5%d9%81%d8%ad%d8%a9-%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a3": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "وضعية خزينة المملكة قبل طي صفحة حكومة أخنوش: عجز الميزانية يتراجع إلى 24 مليار درهم.. وحاجيات التمويل تتخطى 23 مليارا",
+    "status": "excluded",
+    "checked_at": "2026-07-24T17:59:04.346603+00:00"
+  },
+  "https://fr.le360.ma/politique/le-mali-reitere-son-soutien-a-lintegrite-territoriale-et-a-la-souverainete-du-maroc-sur-le-sahara_ODHZXX2D3FETHA2YJC34ULYUXQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le Mali réitère son soutien à l’intégrité territoriale et à la souveraineté du Maroc sur le Sahara",
+    "status": "excluded",
+    "checked_at": "2026-07-24T17:59:04.346603+00:00"
+  },
+  "https://fr.le360.ma/societe/lombre-de-la-politique-plane-sur-les-festivals-de-lete_PCEEMLKNTNATVDID5FQUT2TCBI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "L’ombre de la politique plane sur les festivals de l’été",
+    "status": "excluded",
+    "checked_at": "2026-07-24T17:59:04.346603+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d8%b3%d8%aa%d8%b9%d8%af%d8%a7%d8%af%d8%a7-%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a%d8%a7%d8%aa-2026-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d9%8a%d8%b9%d8%aa%d9%85%d8%af": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "استعدادا لتشريعيات 2026.. الاستقلال يعتمد الدفعة الأولى من مرشحيه",
+    "status": "excluded",
+    "checked_at": "2026-07-24T17:59:04.346603+00:00"
+  },
+  "https://al3omk.com/1176183.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الأحرار يوقف نائب رئيس مقاطعة الحي الحسني لـ 6 أشهر بسبب تصريحات “مسيئة”",
+    "status": "excluded",
+    "checked_at": "2026-07-24T17:59:04.346603+00:00"
+  },
+  "https://al3omk.com/1176170.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الحملة الانتخابية الرقمية: مشاركة حقيقية أم مجرد محاكاة لها؟",
+    "status": "excluded",
+    "checked_at": "2026-07-24T17:59:04.346603+00:00"
+  },
+  "https://al3omk.com/1176166.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "اليمين الترامبي وتأثيره على انتخابات المغرب",
+    "status": "excluded",
+    "checked_at": "2026-07-24T17:59:04.346603+00:00"
+  },
+  "https://al3omk.com/1176150.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أراضي كيش الأوداية.. صراع الذاكرة والاعتراف في زمن التحولات العمرانية",
+    "status": "excluded",
+    "checked_at": "2026-07-24T17:59:04.346603+00:00"
   }
 }

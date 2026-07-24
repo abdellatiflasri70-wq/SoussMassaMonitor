@@ -229,6 +229,80 @@
     "stance_analyzed_at": "2026-07-23T21:47:35.856453+00:00"
   },
   {
+    "id": "4e6bab1b6b6bf964",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "النائبة نعيمة الفتحاوي تعرض حصيلتها البرلمانية | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8%D8%A9-%D9%86%D8%B9%D9%8A%D9%85%D8%A9-%D8%A7%D9%84%D9%81%D8%AA%D8%AD%D8%A7%D9%88%D9%8A-%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AD%D8%B5%D9%8A%D9%84%D8%AA.html",
+    "author": "أكادير",
+    "published_at": "2026-07-22",
+    "first_seen_at": "2026-07-24T17:59:04.346603+00:00",
+    "last_checked_at": "2026-07-24T17:59:04.346603+00:00",
+    "language": "ar",
+    "excerpt": "تنظم الكتابة الإقليمية لحزب العدالة والتنمية، يوم السبت 25 يوليوز 2026، لقاءً تواصليا مع عموم المواطنين لتقديم الحصيلة البرلمانية للنائبة نعيمة الفتحاوي. وسينعقد اللقاء بغرفة",
+    "word_count": 163,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب العدالة والتنمية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_4e6bab1b6b6b",
+    "stance_analyzed_at": "2026-07-24T17:59:04.346603+00:00"
+  },
+  {
     "id": "0b1c7d994976eaba",
     "source_id": "agadir24",
     "source_name": "أكادير24",
