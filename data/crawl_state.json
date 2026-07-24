@@ -1804,5 +1804,40 @@
     "title": "أراضي كيش الأوداية.. صراع الذاكرة والاعتراف في زمن التحولات العمرانية",
     "status": "excluded",
     "checked_at": "2026-07-24T17:59:04.346603+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d9%86%d8%b4%d9%82%d8%a7%d9%82-%d8%b9%d9%86-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8-%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بعد الانشقاق عن الشعب الجمهوري.. عشرات النواب الأتراك يسعون لإنشاء حزب جديد",
+    "status": "excluded",
+    "checked_at": "2026-07-24T21:48:16.506250+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d9%82%d8%b1%d8%b9%d8%a9-%d8%aa%d8%ad%d8%af%d8%af-%d8%ad%d8%b5%d8%b5-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%b9": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "القرعة تحدد حصص الأحزاب في الإعلام العمومي خلال الحملة الانتخابية",
+    "status": "excluded",
+    "checked_at": "2026-07-24T21:48:16.506250+00:00"
+  },
+  "https://fr.le360.ma/politique/circonscriptions-electorales-du-sahara-listiqlal-peine-a-choisir-ses-candidats-aux-legislatives_G3AYURB6LBALFF5BALCGNGHPPE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Circonscriptions électorales du Sahara: l’Istiqlal peine à choisir ses candidats aux législatives",
+    "status": "excluded",
+    "checked_at": "2026-07-24T21:48:16.506250+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-le-cndh-forme-1000-observateurs-pour-superviser-le-scrutin_NTTDL6EILVHAXAT2WIP46QFOLQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: le CNDH forme 1.000 observateurs pour superviser le scrutin",
+    "status": "excluded",
+    "checked_at": "2026-07-24T21:48:16.506250+00:00"
+  },
+  "https://fr.le360.ma/politique/assimi-goita-remercie-le-roi-pour-la-position-du-maroc-en-faveur-de-la-souverainete-de-lunite-et-de_VHZXXTFKRZCDPG62MGQ3GAWLXA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Assimi Goita remercie le Roi pour la position du Maroc en faveur de la souveraineté, de l’unité et de l’intégrité territoriale du Mali",
+    "status": "excluded",
+    "checked_at": "2026-07-24T21:48:16.506250+00:00"
   }
 }
