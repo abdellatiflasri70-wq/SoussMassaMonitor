@@ -1839,5 +1839,26 @@
     "title": "Assimi Goita remercie le Roi pour la position du Maroc en faveur de la souveraineté, de l’unité et de l’intégrité territoriale du Mali",
     "status": "excluded",
     "checked_at": "2026-07-24T21:48:16.506250+00:00"
+  },
+  "https://www.chtoukapress.com/305503.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بلاغ هام من المديرية العامة للضرائب",
+    "status": "excluded",
+    "checked_at": "2026-07-25T07:36:10.531252+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%b2%d9%83%d9%8a%d8%a9-%d8%a3%d8%b3%d9%85%d8%a7%d8%a1-%d9%88%d8%a7%d8%b2%d9%86%d8%a9-%d8%aa%d8%b1%d8%a8%d9%83-%d8%af%d9%88%d8%a7%d8%a6%d8%b1-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-1782085.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "تزكية أسماء وازنة تربك دوائر انتخابية",
+    "status": "excluded",
+    "checked_at": "2026-07-25T07:36:10.531252+00:00"
+  },
+  "https://ar.le360.ma/politique/4K7X3UNOVRF5XAO4ICCGRS5C7M": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلمانية تسائل قيوح حول أسباب «ضعف الربط الجوي» بالصويرة رغم ازدهارها سياحيا",
+    "status": "excluded",
+    "checked_at": "2026-07-25T07:36:10.531252+00:00"
   }
 }
