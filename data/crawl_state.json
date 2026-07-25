@@ -1993,5 +1993,103 @@
     "title": "Affaire Abderrahim Fakir: l’ambassadeur d’Italie au Maroc promet toute l’assistance nécessaire à la famille",
     "status": "excluded",
     "checked_at": "2026-07-25T15:52:43.761623+00:00"
+  },
+  "https://agadirinfo.ma/133546.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انعقاد المجلس الوطني لحزب الأصالة والمعاصرة.. والإعلان عن التحاق فوزي لقجع بالمكتب السياسي للحزب - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/679320-mansouri-ladhesion-de-fouzi-lekjaa-renforce-notre-projet-politique-video.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Mansouri : « L’adhésion de Fouzi Lekjaa renforce notre projet politique » (VIDEO)",
+    "status": "excluded",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
+  },
+  "https://agadir24.info/%d9%85%d9%86-%d9%8a%d9%85%d8%ab%d9%84-%d8%a7%d9%84%d9%86%d8%a7%d8%a6%d8%a8-%d8%a7%d9%84%d8%af%d8%a7%d8%a6%d8%b1%d8%a9-%d8%a3%d9%85-%d8%a7%d9%84%d8%ad%d8%b2%d8%a8%d8%9f-%d8%ad%d9%8a%d9%86-%d9%8a%d8%ae.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "من يمثل النائب: الدائرة أم الحزب؟ حين يختلط دور البرلمان باختصاصات الجماعات وتتحول الوعود إلى مشاريع بلا مفاتيح | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
+  },
+  "https://agadir24.info/%d9%84%d8%b4%d9%83%d8%b1-%d9%8a%d9%86%d8%a8%d9%87-%d8%a5%d9%84%d9%89-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%b9%d8%a7%d8%a6%d9%84%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b4%d9%87%d8%af-2.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "لشكر ينبه إلى هيمنة عائلات على المشهد الانتخابي بالصحراء ويدعو إلى بعث رسائل الطمأنينة لنزاهة الاستحقاقات. | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
+  },
+  "https://agadir24.info/%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d9%8a-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d9%84%d8%a7%d9%81-%d8%a7%d9%84.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "من «التحالف الثلاثي» إلى «الاختلاف الثلاثي».. حرب المقعدين بتيزنيت تفتح المعركة بين السياسة والمال والكرة والمعارضة تترقب | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
+  },
+  "https://ar.le360.ma/politique/WL2QJHZQXBDZRHWUYOCBLTJDXM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بـ6 وزراء و7 نساء و42 رجل أعمال.. «البام» يكشف أوراق ترشيحاته لتشريعيات 23 شتنبر",
+    "status": "accepted",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
+  },
+  "https://ar.le360.ma/politique/TS2AQNT4K5DH5B6J5A3X3AC7ZA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الأصالة والمعاصرة يصادق على لوائح مرشحيه ويزكي انضمام لقجع والخطاط لمكتبه السياسي",
+    "status": "excluded",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
+  },
+  "https://ar.le360.ma/politique/7ABKMFPKP5GJZOEJ77T4V45FPA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الاستقلال يتكتم عن مرشحي الصحراء",
+    "status": "excluded",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%a8%d8%b1%d8%b1-%d8%b9%d8%b6%d9%88%d9%8a%d8%a9-%d9%8a%d9%86%d8%ac%d8%a7-%d9%88%d9%81%d9%88%d8%b2%d9%8a-%d9%84%d9%82%d8%ac%d8%b9-1782713.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"البام\" يبرر عضوية ينجا وفوزي لقجع",
+    "status": "excluded",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
+  },
+  "https://www.hespress.com/%d9%83%d9%88%d9%83%d9%88%d8%b3-%d8%aa%d8%b4%d9%8a%d8%af-%d8%a8%d9%85%d8%b3%d8%a7%d9%87%d9%85%d8%a7%d8%aa-%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%a3%d8%b5%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84-1782661.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "كوكوس تشيد بالمساهمة النوعية لوزراء \"البام\" في الائتلاف الحكومي",
+    "status": "excluded",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%b1%d9%81%d8%b9%d9%88%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d8%a9-%d8%b4%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%a5%d9%86%d8%ac-1782638.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"الأحرار\" يرفعون من الداخلة شعار الإنجاز ويرفضون استقطابات \"الدقيقة 90\"",
+    "status": "excluded",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d9%8a-%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d8%a8%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1782621.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "السعدي: اهتمام \"البام\" بالصحراء المغربية يسمو فوق الحسابات الانتخابية",
+    "status": "excluded",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
+  },
+  "https://www.assahifa.com/%d8%b1%d8%b3%d8%a7%d8%a6%d9%84-%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d8%a8%d8%b9%d8%af-%d8%a7%d9%86%d8%b6%d9%85%d8%a7%d9%85-%d9%84%d9%82%d8%ac%d8%b9-%d9%88%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%b7-%d8%a5%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لسنا في ميركاتو.. رسائل أخنوش بعد انضمام لقجع والخطاط إلى البام تعلن بداية المعركة الانتخابية داخل الأغلبية",
+    "status": "excluded",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
+  },
+  "https://www.assahifa.com/%d8%b5%d8%b1%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a%d8%a7-%d8%a8%d9%8a%d9%86-%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d9%88%d8%a8%d9%83%d9%8a%d9%86-%d9%8a%d8%b5%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "صراع التكنولوجيا بين واشنطن وبكين يصل إلى مضيق جبل طارق.. الولايات المتحدة تمنع تركيب جهاز صيني بميناء الجزيرة الخضراء لمراقبة المخدرات والأسلحة",
+    "status": "excluded",
+    "checked_at": "2026-07-25T21:12:46.325492+00:00"
   }
 }
