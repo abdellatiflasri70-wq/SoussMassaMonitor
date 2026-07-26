@@ -2133,5 +2133,54 @@
     "title": "من أزمة الكهرباء إلى سجون المعارضين.. احتجاجات تونسية تطالب برحيل قيس سعيد والتوتر يمتد إلى فرنسا",
     "status": "excluded",
     "checked_at": "2026-07-26T15:48:43.346760+00:00"
+  },
+  "https://agadir24.info/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d9%8f%d8%b3%d9%85%d9%91%d9%89-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a-%d9%85%d9%85%d8%ab%d9%84-%d8%a7%d9%84%d8%a3%d9%85%d8%a9%d8%9f.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "لماذا يُسمّى البرلماني «ممثل الأمة»؟ وما دوره الحقيقي وفق الدستور المغربي؟ | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-07-26T21:39:47.212641+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%8a%d9%86%d8%aa%d9%82%d8%af-%d8%a7%d9%84%d8%aa%d8%af%d8%a8%d9%8a%d8%b1-%d8%a7%d9%84%d8%ad%d9%83%d9%88.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "العدالة والتنمية ينتقد التدبير الحكومي ويطالب بضمان نزاهة الانتخابات واستعادة الثقة في المؤسسات | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-07-26T21:39:47.212641+00:00"
+  },
+  "https://agadir24.info/%d8%ac%d9%85%d8%b9%d9%8a%d8%a9-%d8%b5%d9%8a%d8%a7%d8%af%d9%84%d8%a9-%d8%b3%d9%88%d8%b3-%d8%aa%d8%aa%d9%88%d8%ac-%d8%a8%d9%84%d9%82%d8%a8-%d8%af%d9%88%d8%b1%d9%8a-%d9%85%d9%84%d8%aa%d9%82%d9%89-%d8%a7.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "جمعية صيادلة سوس تتوج بلقب دوري ملتقى التاجر... وقدماء حسنية أكادير يوقعون على مشاركة مشرفة. | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-07-26T21:39:47.212641+00:00"
+  },
+  "https://fr.le360.ma/politique/transhumance-politique-lunion-constitutionnelle-decimee-par-une-vague-de-demissions-au-profit-du-mp_MCBFZQTL2NFOVHEYDYB55VDHPE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Transhumance politique: l’Union Constitutionnelle décimée par une vague de démissions au profit du MP",
+    "status": "excluded",
+    "checked_at": "2026-07-26T21:39:47.212641+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-apres-ladhesion-de-fouzi-lekjaa-au-pam-des-questionnements-fusent_5VPLRE3W2JBYVHFXVZGNGTJ4VU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: après l’adhésion de Fouzi Lekjaa au PAM, des questionnements fusent",
+    "status": "excluded",
+    "checked_at": "2026-07-26T21:39:47.212641+00:00"
+  },
+  "https://fr.le360.ma/politique/archives-militaires-de-vincennes-ep-3-les-telegrammes-de-lyautey-en-1916-sur-le-sahara-occidental_7WNNRVUH5RDOTGGH62BGYNYQ6Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Archives militaires de Vincennes. Ep 3. Les télégrammes de Lyautey en 1916 sur le Sahara occidental",
+    "status": "accepted",
+    "checked_at": "2026-07-26T21:39:47.212641+00:00"
+  },
+  "https://www.assahifa.com/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%b4%d9%83%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%85%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3-%d8%b9%d9%84%d9%89-%d8%a5%d8%b7%d9%84%d8%a7%d9%82": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "ترامب يشكر الملك محمد السادس على إطلاق اسمه على طريق تزنيت–الداخلة.. ويعتبر ذلك شرفا عظيما",
+    "status": "excluded",
+    "checked_at": "2026-07-26T21:39:47.212641+00:00"
   }
 }

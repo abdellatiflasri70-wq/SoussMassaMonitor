@@ -1,5 +1,80 @@
 [
   {
+    "id": "ced13199836d24a4",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Archives militaires de Vincennes. Ep 3. Les télégrammes de Lyautey en 1916 sur le Sahara occidental",
+    "url": "https://fr.le360.ma/politique/archives-militaires-de-vincennes-ep-3-les-telegrammes-de-lyautey-en-1916-sur-le-sahara-occidental_7WNNRVUH5RDOTGGH62BGYNYQ6Q",
+    "author": "Karim Serraj",
+    "published_at": "2026-07-25",
+    "first_seen_at": "2026-07-26T21:39:47.212641+00:00",
+    "last_checked_at": "2026-07-26T21:39:47.212641+00:00",
+    "language": "fr",
+    "excerpt": "Les télégrammes d’Hubert Lyautey nos 302, 302 bis, 302 ter et 3550¹, expédiés de Marrakech et de Rabat en septembre 1916, ne défendent pas les",
+    "word_count": 2627,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تزنيت"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "conflit",
+            "dissidence",
+            "rupture"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "gouvernement"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التحالفات والخلافات السياسية, السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_ced13199836d",
+    "stance_analyzed_at": "2026-07-26T21:39:47.212641+00:00"
+  },
+  {
     "id": "8030d80f767abadb",
     "source_id": "hespress",
     "source_name": "هسبريس",
