@@ -1,5 +1,76 @@
 [
   {
+    "id": "97f5b258c05d72c3",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "المجلس الجماعي لأيت عميرة يكرم قائد مركز الدرك الملكي",
+    "url": "https://www.chtoukapress.com/305546.html",
+    "author": "اشتوكة بريس",
+    "published_at": "2026-07-26",
+    "first_seen_at": "2026-07-27T12:43:03.842854+00:00",
+    "last_checked_at": "2026-07-27T12:43:03.842854+00:00",
+    "language": "ar",
+    "excerpt": "احتضن مقر المجلس الجماعي لأيت عميرة حفل تكريم على شرف قائد المركز الترابي للدرك الملكي، وذلك بمناسبة صدور قرار إحالته على التقاعد، وسط أجواء طبعتها",
+    "word_count": 188,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت عميرة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي",
+            "رئيس المجلس"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_97f5b258c05d",
+    "stance_analyzed_at": "2026-07-27T12:43:03.842854+00:00"
+  },
+  {
     "id": "ced13199836d24a4",
     "source_id": "le360",
     "source_name": "Le360",

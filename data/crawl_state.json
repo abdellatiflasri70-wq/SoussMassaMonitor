@@ -2182,5 +2182,40 @@
     "title": "ترامب يشكر الملك محمد السادس على إطلاق اسمه على طريق تزنيت–الداخلة.. ويعتبر ذلك شرفا عظيما",
     "status": "excluded",
     "checked_at": "2026-07-26T21:39:47.212641+00:00"
+  },
+  "https://www.chtoukapress.com/305546.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "المجلس الجماعي لأيت عميرة يكرم قائد مركز الدرك الملكي",
+    "status": "accepted",
+    "checked_at": "2026-07-27T12:43:03.842854+00:00"
+  },
+  "https://www.hespress.com/%d8%b5%d9%82%d9%88%d8%b1-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d9%8a%d8%aa%d8%b1%d8%a8%d8%b9%d9%88%d9%86-%d8%b9%d9%84%d9%89-%d8%b1%d8%a4%d9%88%d8%b3-%d8%a7%d9%84%d9%84%d9%88%d8%a7%d8%a6-1783196.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"صقور السياسة\" يتربعون على رؤوس اللوائح الإنتخابية بإقليم سطات",
+    "status": "excluded",
+    "checked_at": "2026-07-27T12:43:03.842854+00:00"
+  },
+  "https://www.hespress.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d8%a7%d9%84%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-%d9%8a%d8%b1%d9%8a%d8%af%d9%88%d9%86-%d9%85%d9%88%d8%a7%d8%b5%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d9%88%d8%a7-1783222.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أخنوش: المغاربة يريدون مواصلة العمل والإنجازات على أرض الواقع",
+    "status": "excluded",
+    "checked_at": "2026-07-27T12:43:03.842854+00:00"
+  },
+  "https://thepress.ma/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%b4%d9%83%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%85%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3-%d8%a8%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "ترامب يشكر الملك محمد السادس بعد إطلاق اسمه على طريق تزنيت–الداخلة",
+    "status": "excluded",
+    "checked_at": "2026-07-27T12:43:03.842854+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%8a%d8%ac%d8%af%d8%af-%d8%af%d8%b9%d9%85%d9%87-%d9%84%d9%84%d9%82%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d9%81": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "العدالة والتنمية يجدد دعمه للقضية الفلسطينية وينتقد تدبير الحكومة لعدد من الملفات الوطنية",
+    "status": "excluded",
+    "checked_at": "2026-07-27T12:43:03.842854+00:00"
   }
 }
