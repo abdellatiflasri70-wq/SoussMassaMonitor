@@ -71,6 +71,76 @@
     "stance_analyzed_at": "2026-07-27T12:43:03.842854+00:00"
   },
   {
+    "id": "efd7ae404889cee2",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Donald J. Trump Highway, OTAN, mission économique présidée par la reine Mathilde: la Belgique met le paquet sur le Maroc",
+    "url": "https://fr.le360.ma/politique/donald-j-trump-highway-otan-mission-economique-presidee-par-la-reine-mathilde-la-belgique-met-le_OIFX6QFZPFG2FCDGGNGQIR3TSU",
+    "author": "Tarik Qattab",
+    "published_at": "2026-07-26",
+    "first_seen_at": "2026-07-27T22:16:47.756998+00:00",
+    "last_checked_at": "2026-07-27T22:16:47.756998+00:00",
+    "language": "fr",
+    "excerpt": "Par la voix de son ministre de la défense, la Belgique réagit au message adressé par le président américain Donald J. Trump au roi Mohammed",
+    "word_count": 654,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تزنيت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "ministre"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "alliance"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_efd7ae404889",
+    "stance_analyzed_at": "2026-07-27T22:16:47.756998+00:00"
+  },
+  {
     "id": "ced13199836d24a4",
     "source_id": "le360",
     "source_name": "Le360",
