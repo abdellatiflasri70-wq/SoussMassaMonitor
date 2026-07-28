@@ -2287,5 +2287,54 @@
     "title": "الغموض يلي التحاق لقجع بـالبام: هل يصل إلى رئاسة الحكومة دون المرور عبر صناديق الاقتراع.. أم سيجلس قريبا على كرسي قيادة الحزب؟",
     "status": "excluded",
     "checked_at": "2026-07-27T22:16:47.756998+00:00"
+  },
+  "https://www.chtoukapress.com/305559.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "عيد العرش المجيد..تهنئة عبد الحق أرخاوي رئيس غرفة الصناعة التقليدية لجهة سوس ماسة مرفوعة إلى السدة العالية بالله",
+    "status": "excluded",
+    "checked_at": "2026-07-28T10:13:24.332890+00:00"
+  },
+  "https://snrtnews.com/article/154089": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "الأحزاب والانتخابات.. هل ستنتصر حسابات الفوز على شعارات تمكين النساء؟",
+    "status": "excluded",
+    "checked_at": "2026-07-28T10:13:24.332890+00:00"
+  },
+  "https://al3omk.com/1176836.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "فوزي لقجع والبام .. بين إشكالية تجديد النخب وفقدان الثقة في العملية السياسية وحتمية المشاركة السياسية",
+    "status": "excluded",
+    "checked_at": "2026-07-28T10:13:24.332890+00:00"
+  },
+  "https://ar.le360.ma/politique/263QHFXDEJDLLJVALFYW6Q4264": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "تشريعيات 2026 (1): بين التحاق فوزي لقجع والخطاط ينجا.. عبقري يبرز كواليس ما بعد المجلس الوطني لـ«البام»",
+    "status": "excluded",
+    "checked_at": "2026-07-28T10:13:24.332890+00:00"
+  },
+  "https://ar.le360.ma/politique/UVXGO74QHRAH7LJZQISTQL6A3E": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "نائب بريطاني: المغرب يفرض نفسه بلدا للاستقرار والفرص",
+    "status": "excluded",
+    "checked_at": "2026-07-28T10:13:24.332890+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%a4%d9%82%d8%aa%d8%a9-%d8%a7%d9%84%d9%85%d9%83%d9%84%d9%81%d8%a9-%d8%a8%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%88%d8%b7%d9%86": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "اللجنة المؤقتة المكلفة بالمجلس الوطني للصحافة تشرع في التحضير لانتخاب أعضائه",
+    "status": "excluded",
+    "checked_at": "2026-07-28T10:13:24.332890+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%8a%d8%b3-%d8%a7%d9%84%d8%b3%d8%a4%d8%a7%d9%84-%d9%85%d9%86-%d8%b3%d9%8a%d9%81%d9%88%d8%b2-%d9%81%d9%8a-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%b4%d8%aa%d9%86%d8%a8%d8%b1%d8%8c": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "ليس السؤال من سيفوز في انتخابات شتنبر، بل كم بقي للمغاربة من ثقة في الأحزاب؟",
+    "status": "excluded",
+    "checked_at": "2026-07-28T10:13:24.332890+00:00"
   }
 }
