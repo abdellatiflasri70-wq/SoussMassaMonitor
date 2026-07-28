@@ -2420,5 +2420,47 @@
     "title": "انتخابات المغرب 2026: صراع الأضواء والخوارزميات",
     "status": "excluded",
     "checked_at": "2026-07-28T17:47:53.703342+00:00"
+  },
+  "https://agadirinfo.ma/133589.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخابات 23 شتنبر.. “الهاكا” تصدر دليلا لفهم التعددية السياسية في وسائل الإعلام السمعية البصرية - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-07-28T21:51:41.970925+00:00"
+  },
+  "https://al3omk.com/1177129.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "التقدم والاشتراكية يحسم في وكيلات لوائحه التشريعية بتسع جهات ويرجئ البت في ثلاث أخرى",
+    "status": "accepted",
+    "checked_at": "2026-07-28T21:51:41.970925+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-lusfp-a-accredite-ses-candidats-dans-80-des-circonscriptions_HP2YIKKRRBDQDET3VZWXMAYFYY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: l’USFP a accrédité ses candidats dans 80% des circonscriptions",
+    "status": "accepted",
+    "checked_at": "2026-07-28T21:51:41.970925+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-fouzi-lekjaa-annoncera-lui-meme-sa-candidature-a-berkane_JM2M233LRRBAPNOEF3X4IWVLSU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: Fouzi Lekjaa annoncera lui-même sa candidature à Berkane",
+    "status": "excluded",
+    "checked_at": "2026-07-28T21:51:41.970925+00:00"
+  },
+  "https://fr.le360.ma/politique/fete-du-trone-le-roi-adresse-mercredi-un-discours_IGSKEQAAV5A67HRLJT5PLL7D6M": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fête du Trône: le Roi adresse mercredi un discours à la Nation",
+    "status": "excluded",
+    "checked_at": "2026-07-28T21:51:41.970925+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-la-bulgarie-reitere-son-soutien-au-plan-marocain-dautonomie_J6QN72PWVBBWFEA7EJJYUSRGZY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: la Bulgarie réitère son soutien au plan marocain d’autonomie",
+    "status": "excluded",
+    "checked_at": "2026-07-28T21:51:41.970925+00:00"
   }
 }
