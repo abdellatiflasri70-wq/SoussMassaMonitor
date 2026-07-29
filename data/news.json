@@ -1,5 +1,92 @@
 [
   {
+    "id": "56dff301a2cdf795",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "السيد جمال ديواني رئيس مجموعة الجماعات الترابية أكادير الكبير للنقل والتنقلات الحضرية يهنئ جلالة الملك بمناسبة الذكرى السابعة والعشرين لاعتلاء جلالته عرش أسلافه المنعمين - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/123236.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-07-28",
+    "first_seen_at": "2026-07-29T21:32:36.335793+00:00",
+    "last_checked_at": "2026-07-29T21:32:36.335793+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةالسيد جمال ديواني رئيس مجموعة الجماعات الترابية أكادير الكبير للنقل والتنقلات الحضرية يهنئ جلالة الملك بمناسبة الذكرى السابعة والعشرين لاعتلاء جلالته عرش أسلافه المنعمين",
+    "word_count": 314,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_038",
+          "name": "جمال ديواني",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "مجموعة الجماعات"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: جمال ديواني",
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_038",
+        "target_type": "person",
+        "target_name": "جمال ديواني",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_56dff301a2cd",
+    "stance_analyzed_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  {
     "id": "66b815fc39214ebd",
     "source_id": "agadir24",
     "source_name": "أكادير24",

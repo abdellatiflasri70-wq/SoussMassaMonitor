@@ -2511,5 +2511,103 @@
     "title": "الملك محمد السادس رائد ثقة إفريقيا في إفريقيا.. حين يصبح التضامن قصة إنسان قبل أن يكون سياسة دولة – اليوم 24",
     "status": "excluded",
     "checked_at": "2026-07-29T16:56:33.996340+00:00"
+  },
+  "https://snrtnews.com/article/156101": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "سياسية ألمانية: المغرب فاعل سياسي واقتصادي واجتماعي بارز على الساحة الدولية",
+    "status": "excluded",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://agadirinfo.ma/133643.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "السيد كريم أشنكلي رئيس مجلس جهة سوس ماسة يهنئ جلالة الملك بمناسبة الذكرى السابعة والعشرين لاعتلاء جلالته عرش أسلافه المنعمين - أكادير انفو - Agadir info",
+    "status": "excluded",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://agadirinfo.ma/123236.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "السيد جمال ديواني رئيس مجموعة الجماعات الترابية أكادير الكبير للنقل والتنقلات الحضرية يهنئ جلالة الملك بمناسبة الذكرى السابعة والعشرين لاعتلاء جلالته عرش أسلافه المنعمين - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://www.assahifa.com/%d9%88%d9%82%d8%b9%d9%87-%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d9%88%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a%d9%88%d9%86-%d8%b3%d8%a7%d8%a8%d9%82%d9%88%d9%86-%d8%a8%d9%8a%d8%a7%d9%86-%d9%88%d8%b7%d9%86": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "وقعه وزراء وبرلمانيون سابقون.. بيان وطني في تونس يرفض تصريحات تبون ويؤكد: السيادة الوطنية خط أحمر",
+    "status": "excluded",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://ar.le360.ma/politique/Z6TG7TJBRFFB3L4DZDS2KXPROA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انشار المختليين عقليا في الفضاء العام يسائل التهراوي",
+    "status": "excluded",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://ar.le360.ma/politique/E4NXQ5ID6BAWXP3FN6SOBGGJPI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بنطلحة يكتب: الجزائر هشاشة دولة وعقيدة سوء الجوار",
+    "status": "excluded",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://fr.le360.ma/politique/discours-du-trone-le-prochain-gouvernement-appele-a-ouvrir-un-nouveau-cycle-de-developpement_RAMQ2XGE5VH55HTIHO4CQASXSA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Discours du Trône: le prochain gouvernement appelé à ouvrir un nouveau cycle de développement",
+    "status": "excluded",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://fr.le360.ma/politique/financement-des-partis-un-nouveau-referentiel-de-controle-avant-les-legislatives-de-2026_KPMKRWXCRRGWVLOWRZRY2LPV44": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Financement des partis: un nouveau référentiel de contrôle avant les législatives de 2026",
+    "status": "excluded",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-le-parti-du-livre-investit-sept-femmes-tetes-de-liste_YALNBP4S7RBQ3CJ5UFEIFL2XBU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: le parti du Livre investit sept femmes têtes de liste",
+    "status": "excluded",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://fr.le360.ma/politique/le-roi-presidera-jeudi-et-vendredi-les-ceremonies-commemorant-la-fete-du-trone_EXB7WNJ4BJDTZAY4HS4VR4O3MI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le Roi présidera, jeudi et vendredi, les cérémonies commémorant la fête du Trône",
+    "status": "excluded",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://fr.le360.ma/politique/fete-du-trone-grace-royale-au-profit-de-1788-personnes_QJMEF4CLHRC55FW4HRVRXLWHNU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fête du Trône: grâce royale au profit de 1.788 personnes",
+    "status": "excluded",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://fr.le360.ma/politique/usine-geante-dammoniac-a-laayoune-le-premier-financement-americain-au-sahara-vu-par-lambassadeur_GPVKN4DSWJFZPPX42NMM4HEI2Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Usine géante d’ammoniac à Laâyoune: le premier financement américain au Sahara vu par l’ambassadeur Buchan et l’USTDA",
+    "status": "excluded",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://fr.le360.ma/politique/la-mosquee-de-paris-est-elle-algerienne_UTNDXICX2FHAPFPLFOUZRO32ZM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "La mosquée de Paris est-elle algérienne?",
+    "status": "excluded",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://fr.le360.ma/economie/les-finances-des-partis-politiques-sous-haute-surveillance_ENJCH7WVJFAZHP3SGZNBZPYHXI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Les finances des partis politiques sous haute surveillance",
+    "status": "excluded",
+    "checked_at": "2026-07-29T21:32:36.335793+00:00"
   }
 }
