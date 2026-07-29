@@ -2462,5 +2462,33 @@
     "title": "Sahara: la Bulgarie réitère son soutien au plan marocain d’autonomie",
     "status": "excluded",
     "checked_at": "2026-07-28T21:51:41.970925+00:00"
+  },
+  "https://www.hespress.com/%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%b9%d8%b1%d8%b4-%d9%8a%d8%b7%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%8a%d9%83%d8%b1-1784041.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "عيد العرش يطل على الانتخابات.. الملك يكرس نزاهة وشفافية الاستحقاقات",
+    "status": "excluded",
+    "checked_at": "2026-07-29T10:17:00.591089+00:00"
+  },
+  "https://ar.le360.ma/politique/LBNGYXWFP5F5RD4FNFKHLSTUL4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلماني يسائل التهراوي حول «الخصاص» في الأطباء بالمؤسسات السجنية",
+    "status": "excluded",
+    "checked_at": "2026-07-29T10:17:00.591089+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/679537-legislatives-2026-pourquoi-fouzi-lekjaa.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Législatives 2026: pourquoi Fouzi Lekjaa",
+    "status": "excluded",
+    "checked_at": "2026-07-29T10:17:00.591089+00:00"
+  },
+  "https://al3omk.com/1177142.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "خنيفرة.. الاشتراكي الموحد يطالب بمنع المنتخبين من حضور التدشينات الرسمية قبيل الانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-07-29T10:17:00.591089+00:00"
   }
 }
