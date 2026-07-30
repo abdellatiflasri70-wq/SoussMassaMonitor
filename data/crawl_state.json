@@ -2742,5 +2742,26 @@
     "title": "Législatives 2026: Noureddine Médiane renonce officiellement à briguer un nouveau mandat",
     "status": "excluded",
     "checked_at": "2026-07-30T17:11:17.197050+00:00"
+  },
+  "https://al3omk.com/1177669.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أخنوش يقيم مأدبة غداء بتطوان بحضور ولي العهد الأمير مولاي الحسن والأمير مولاي رشيد",
+    "status": "excluded",
+    "checked_at": "2026-07-30T22:18:51.495962+00:00"
+  },
+  "https://ar.le360.ma/politique/XA663PXOJVEZNHPB4KNUTTEVQI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الملك محمد السادس: تقوية السيادة الوطنية والاكتفاء الاستراتيجي محور التنمية الصناعية",
+    "status": "excluded",
+    "checked_at": "2026-07-30T22:18:51.495962+00:00"
+  },
+  "https://fr.le360.ma/politique/discours-du-trone-zakaria-firano-appelle-a-consolider-les-acquis-pour-accelerer-le-developpement-du_GLMY25DU6BA27K7JM7G54BF4A4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Discours du Trône: Zakaria Firano appelle à consolider les acquis pour accélérer le développement du Maroc",
+    "status": "excluded",
+    "checked_at": "2026-07-30T22:18:51.495962+00:00"
   }
 }
