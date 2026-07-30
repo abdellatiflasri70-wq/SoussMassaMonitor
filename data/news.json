@@ -1,5 +1,97 @@
 [
   {
+    "id": "61717e89cb074426",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "عيد العرش المجيد.. رئيس الحكومة يقيم مأدبة غداء بحضور ولي العهد الأمير مولاي الحسن والأمير مولاي رشيد - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/133727.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-07-29",
+    "first_seen_at": "2026-07-30T17:11:17.197050+00:00",
+    "last_checked_at": "2026-07-30T17:11:17.197050+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديعيد العرش المجيد.. رئيس الحكومة يقيم مأدبة غداء بحضور ولي العهد الأمير مولاي الحسن والأمير مولاي رشيد بمناسبة الذكرى السابعة والعشرين لاعتلاء صاحب الجلالة",
+    "word_count": 162,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "مجلس الجهة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_61717e89cb07",
+    "stance_analyzed_at": "2026-07-30T17:11:17.197050+00:00"
+  },
+  {
     "id": "56dff301a2cdf795",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
