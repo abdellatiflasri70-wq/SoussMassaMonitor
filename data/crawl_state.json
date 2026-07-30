@@ -2609,5 +2609,61 @@
     "title": "Les finances des partis politiques sous haute surveillance",
     "status": "excluded",
     "checked_at": "2026-07-29T21:32:36.335793+00:00"
+  },
+  "https://www.chtoukapress.com/305633.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "عيد العرش المجيد..تهنئة السيد سعيد ضور رئيس غرفة التجارة والصناعة سوس ماسة مرفوعة إلى السدة العالية بالله",
+    "status": "excluded",
+    "checked_at": "2026-07-30T09:44:55.211719+00:00"
+  },
+  "https://snrtnews.com/article/156105": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "صراع الصدارة يشعل \"الديربي\" المغاربي بين المغرب والجزائر في \"كان السيدات\"",
+    "status": "excluded",
+    "checked_at": "2026-07-30T09:44:55.211719+00:00"
+  },
+  "https://snrtnews.com/article/156150": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "روما: اجتماع للتحالف العالمي من أجل حل الدولتين بمشاركة المغرب",
+    "status": "excluded",
+    "checked_at": "2026-07-30T09:44:55.211719+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-marocain-le-realisme-politique-simpose-a-lonu_BPDT3FRGIJCT7OKH6P3ID2IZHM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara marocain: le réalisme politique s’impose à l’ONU",
+    "status": "excluded",
+    "checked_at": "2026-07-30T09:44:55.211719+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%86-%d8%ad%d9%85%d8%b2%d8%a9-%d8%aa%d8%ac%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d8%aa%d8%b6%d9%84%d9%8a%d9%84-%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7-1784231.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بن حمزة: تجريم التضليل بالذكاء الاصطناعي يحصن \"انتخابات 2026\"",
+    "status": "excluded",
+    "checked_at": "2026-07-30T09:44:55.211719+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d8%a9-%d9%8a%d8%b4%d9%8a%d8%af-%d8%a8%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d8%a9-1784677.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"الحركة الشعبية\" يشيد بالرسائل الملكية",
+    "status": "excluded",
+    "checked_at": "2026-07-30T09:44:55.211719+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%b5%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b5%d8%b1%d8%a9-%d9%8a%d8%b9%d8%aa%d8%b2-%d8%a8%d9%85%d9%86%d8%ac%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84%d9%88%d8%b7%d9%86-1784672.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"الأصالة والمعاصرة\" يعتز بالمنجزات",
+    "status": "excluded",
+    "checked_at": "2026-07-30T09:44:55.211719+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%ab%d9%85%d9%86-%d9%85%d8%b6%d8%a7%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-1784640.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"الأحرار\" يثمن مضامين الخطاب الملكي",
+    "status": "excluded",
+    "checked_at": "2026-07-30T09:44:55.211719+00:00"
   }
 }
