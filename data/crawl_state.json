@@ -2784,5 +2784,40 @@
     "title": "السعودية تكشف عن خطط لتشكيل تحالف بحري دفاعي متعدد الجنسيات",
     "status": "excluded",
     "checked_at": "2026-07-31T10:11:15.750231+00:00"
+  },
+  "https://al3omk.com/1177785.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "حين يصبح البحر مرآة للسياسة.. أزمة الهجرة نحو سبتة بين تقصير الحكومة وتهور الشباب",
+    "status": "excluded",
+    "checked_at": "2026-07-31T18:07:28.622190+00:00"
+  },
+  "https://thepress.ma/%d8%ba%d8%b6%d8%a8-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a-%d9%81%d9%8a-%d8%aa%d9%88%d9%86%d8%b3-%d8%a8%d8%b9%d8%af-%d8%aa%d8%b5%d8%b1%d9%8a%d8%ad%d8%a7%d8%aa-%d8%aa%d8%a8%d9%88%d9%86-%d8%a8%d8%b4%d8%a3%d9%86": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "غضب سياسي في تونس بعد تصريحات تبون بشأن أمن البلاد",
+    "status": "excluded",
+    "checked_at": "2026-07-31T18:07:28.622190+00:00"
+  },
+  "https://ar.le360.ma/politique/OZO6AWWA6FARRCVAKPKRQF5ABU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلمانية تسائل التهراوي حول «الخصاص» في خدمات الإسعاف والنقل الصحي بإقليم ورزازات",
+    "status": "excluded",
+    "checked_at": "2026-07-31T18:07:28.622190+00:00"
+  },
+  "https://fr.le360.ma/politique/crise-migratoire-a-sebta-pedro-sanchez-remercie-le-maroc-pres-de-25000-personnes-de-retour-41-morts_PHPUND2TRJGVBEHG4MGZTVHF34": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Crise migratoire à Sebta: Pedro Sánchez remercie le Maroc, près de 25.000 personnes de retour, 41 morts dans les traversées",
+    "status": "excluded",
+    "checked_at": "2026-07-31T18:07:28.622190+00:00"
+  },
+  "https://fr.le360.ma/politique/les-raisons-du-chaos-migratoire-a-fnideq-sebta-et-pourquoi-le-statut-des-villes-occupees-devient-une_SBOBX5GVRVDPNBA5OZNUTJZVHQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Les raisons du chaos migratoire à Fnideq-Sebta et pourquoi le statut des villes occupées devient une urgence",
+    "status": "excluded",
+    "checked_at": "2026-07-31T18:07:28.622190+00:00"
   }
 }
