@@ -2819,5 +2819,26 @@
     "title": "Les raisons du chaos migratoire à Fnideq-Sebta et pourquoi le statut des villes occupées devient une urgence",
     "status": "excluded",
     "checked_at": "2026-07-31T18:07:28.622190+00:00"
+  },
+  "https://ar.le360.ma/politique/ZIJZCYAHKZDIZBKZUBCKUD2EE4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلماني يسائل بركة حول أسباب «الانقطاع» المتكرر للماء بسطات ونواحيها",
+    "status": "excluded",
+    "checked_at": "2026-07-31T21:53:27.288974+00:00"
+  },
+  "https://fr.le360.ma/politique/guerre-des-chefs-au-sein-de-la-majorite-la-coalition-gouvernementale-au-bord-de-lexplosion_HPCYMRCUDFFCJMDTFMSMHM5SAI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Guerre des chefs au sein de la majorité: la coalition gouvernementale au bord de l’explosion",
+    "status": "excluded",
+    "checked_at": "2026-07-31T21:53:27.288974+00:00"
+  },
+  "https://fr.le360.ma/politique/sale-les-transhumances-de-derniere-minute-chamboulent-la-carte-electorale-locale_ZKTKBJ3U3FFU7LS5RLAUC522KY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Salé: les transhumances de dernière minute chamboulent la carte électorale locale",
+    "status": "excluded",
+    "checked_at": "2026-07-31T21:53:27.288974+00:00"
   }
 }
