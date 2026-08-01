@@ -2847,5 +2847,61 @@
     "title": "\"التقدم والاشتراكية\" يطالب بتدخل عاجل",
     "status": "excluded",
     "checked_at": "2026-08-01T08:42:28.809963+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d9%86%d8%b5-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84-%d9%84%d8%a8%d9%84%d8%a7%d8%ba-%d9%85%d9%86-%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-1785952.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بلاغ الديوان الملكي حول برقية ترامب",
+    "status": "excluded",
+    "checked_at": "2026-08-01T15:44:24.649382+00:00"
+  },
+  "https://www.chtoukapress.com/305705.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بلاغ هام من الديوان الملكي",
+    "status": "excluded",
+    "checked_at": "2026-08-01T15:44:24.649382+00:00"
+  },
+  "https://ar.le360.ma/politique/QYSLRED645DVHLMNJFJENFKE7M": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "أزمة الهجرة بسبتة المحتلة.. سانشيز ينوه بتعاون الرباط وإعادة 25 ألف شخص وسط حصيلة مؤلمة",
+    "status": "excluded",
+    "checked_at": "2026-08-01T15:44:24.649382+00:00"
+  },
+  "https://fr.le360.ma/politique/discours-du-trone-pour-badr-zaher-lazrak-lheure-est-a-la-souverainete-economique-et-a-une-croissance_OUSJXSKW4ZC5JFZA3APIFE7WHI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Discours du Trône: pour Badr Zaher Lazrak, l’heure est à la souveraineté économique et à une croissance plus productive",
+    "status": "excluded",
+    "checked_at": "2026-08-01T15:44:24.649382+00:00"
+  },
+  "https://al3omk.com/1177995.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "إدارية بني ملال تُنصف ورثة ضد رئيس الجماعة وتُجمّد رخصة تعلية بناية بـ “دمنات”",
+    "status": "excluded",
+    "checked_at": "2026-08-01T15:44:24.649382+00:00"
+  },
+  "https://al3omk.com/1177973.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "خمس سنوات من الوعود.. “فيدرالية اليسار” تفتح النار على التردي التنموي بجماعة فم أودي",
+    "status": "excluded",
+    "checked_at": "2026-08-01T15:44:24.649382+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d9%86%d8%aa%d8%b4%d9%84-67-%d8%ac%d8%ab%d8%a9-%d9%85%d9%86-%d8%b3%d9%88%d8%a7%d8%ad%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "السلطات الإسبانية تنتشل 67 جثة من سواحل سبتة.. والرقم مرشح للارتفاع في ظل استمرار عمليات البحث",
+    "status": "excluded",
+    "checked_at": "2026-08-01T15:44:24.649382+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d8%b4%d8%a8%d9%8a%d8%a8%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%81%d8%b1%d8%b5%d8%a9": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "الشبيبة الاستقلالية: الانتخابات فرصة أمام الشباب ونحذر من أوهام الهجرة غير النظامية",
+    "status": "excluded",
+    "checked_at": "2026-08-01T15:44:24.649382+00:00"
   }
 }
