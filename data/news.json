@@ -1,5 +1,67 @@
 [
   {
+    "id": "9118a79dca1ba65f",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الطريق السريع تزنيت – الداخلة: خلفيات إطلاق الملك محمد السادس اسم «دونالد ترامب» على أطول شريان أطلسي يربط أوروبا بإفريقيا",
+    "url": "https://ar.le360.ma/politique/7NIWKSHZVRBNLFUAT3HEFRUU5U",
+    "author": "وكالة المغرب العربي للأنباء",
+    "published_at": "2026-07-31",
+    "first_seen_at": "2026-08-01T21:17:11.514520+00:00",
+    "last_checked_at": "2026-08-01T21:17:11.514520+00:00",
+    "language": "ar",
+    "excerpt": "ففي رسالة بتاريخ 2 يوليوز 2026، أبلغ الملك محمد السادس، الرئيس الأمريكي بالقرار الملكي السامي بإطلاق اسم \" الطريق السريع دونالد ج. ترامب \" على",
+    "word_count": 646,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تزنيت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_9118a79dca1b",
+    "stance_analyzed_at": "2026-08-01T21:17:11.514520+00:00"
+  },
+  {
     "id": "61717e89cb074426",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
