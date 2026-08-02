@@ -2959,5 +2959,47 @@
     "title": "لقجع يشيد بتراجع إنفانتينو عن مشروع خوصصة كأس العالم",
     "status": "excluded",
     "checked_at": "2026-08-02T15:48:10.378494+00:00"
+  },
+  "https://www.chtoukapress.com/305728.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "حزب “الأحرار” يرفض المزايدات في أحداث سبتة ويحذر من تداعيات حكم قضائي إسباني",
+    "status": "excluded",
+    "checked_at": "2026-08-02T21:15:29.320303+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%b1%d9%81%d8%b6-%d8%a7%d9%84%d9%85%d8%b2%d8%a7%d9%8a%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-1786550.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"الأحرار\" يرفض المزايدات السياسية",
+    "status": "excluded",
+    "checked_at": "2026-08-02T21:15:29.320303+00:00"
+  },
+  "https://fr.le360.ma/politique/elections-legislatives-a-rabat-les-grands-partis-abattent-leurs-cartes_OG2SEXHTDNBO7E2ODFQB52UTWM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Élections législatives à Rabat: les grands partis abattent leurs cartes",
+    "status": "excluded",
+    "checked_at": "2026-08-02T21:15:29.320303+00:00"
+  },
+  "https://fr.le360.ma/politique/message-de-donald-trump-au-roi-mohammed-vi-les-etats-unis-sont-clairs-nous-reconnaissons-la_C6YFWLOQ7BDWTDIVJ42NBKA3VI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Message de Donald Trump au roi Mohammed VI: «Les États-Unis sont clairs: nous reconnaissons la souveraineté du Maroc sur le Sahara occidental»",
+    "status": "excluded",
+    "checked_at": "2026-08-02T21:15:29.320303+00:00"
+  },
+  "https://thepress.ma/%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%aa%d9%88%d9%84%d9%89-%d9%85%d9%86%d8%b5%d8%a8-%d9%86%d8%a7%d8%a6%d8%a8%d8%a9-%d9%85%d9%86%d8%b3%d9%82%d8%a9-%d8%ad%d8%b2%d8%a8-%d9%81%d9%88": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "مغربية تتولى منصب نائبة منسقة حزب “فورزا إيطاليا” بمدينة كازاتينوفو الإيطالية",
+    "status": "excluded",
+    "checked_at": "2026-08-02T21:15:29.320303+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d8%a7%d8%b0%d8%a7-%d8%a8%d8%b9%d8%af-%d8%a8%d9%8a%d8%a7%d9%86-%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "ماذا بعد بيان وزارة الداخلية المغربية؟",
+    "status": "excluded",
+    "checked_at": "2026-08-02T21:15:29.320303+00:00"
   }
 }
