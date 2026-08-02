@@ -2931,5 +2931,33 @@
     "title": "العدالة والتنمية يطالب بلجنة ملكية للتحقيق في أحداث الهجرة الجماعية بالشمال | agadir24.info",
     "status": "excluded",
     "checked_at": "2026-08-02T08:58:56.275917+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%84%d8%b4%d8%a8%d9%8a%d8%a8%d8%a9-%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a3%d8%b9%d9%82%d8%a7%d8%a8-%d8%a3%d8%ad%d8%af%d8%a7%d8%ab-%d8%b3%d8%a8%d8%aa%d8%a9-%d9%85.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "الشبيبة التجمعية في أعقاب أحداث سبتة: مأساة إنسانية تستوجب حماية الشباب ومواجهة شبكات التضليل | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-08-02T15:48:10.378494+00:00"
+  },
+  "https://snrtnews.com/article/156108": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "ترشيد النفقات عنوان \"الميركاتو\" والأندية تراهن على اللاعبين الأحرار",
+    "status": "accepted",
+    "checked_at": "2026-08-02T15:48:10.378494+00:00"
+  },
+  "https://snrtnews.com/article/156348": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "تحالف \"أوبك بلس\" يتفق على زيادة طفيفة في إنتاج النفط في شتنبر المقبل",
+    "status": "excluded",
+    "checked_at": "2026-08-02T15:48:10.378494+00:00"
+  },
+  "https://thepress.ma/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%b4%d9%8a%d8%af-%d8%a8%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%a5%d9%86%d9%81%d8%a7%d9%86%d8%aa%d9%8a%d9%86%d9%88-%d8%b9%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%ae%d9%88": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "لقجع يشيد بتراجع إنفانتينو عن مشروع خوصصة كأس العالم",
+    "status": "excluded",
+    "checked_at": "2026-08-02T15:48:10.378494+00:00"
   }
 }

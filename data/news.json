@@ -7400,5 +7400,79 @@
     ],
     "event_id": "evt_67a87854c9ba",
     "stance_analyzed_at": "2026-07-16T22:08:46.412508+00:00"
+  },
+  {
+    "id": "80090a53c4a90cfb",
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "ترشيد النفقات عنوان \"الميركاتو\" والأندية تراهن على اللاعبين الأحرار",
+    "url": "https://snrtnews.com/article/156108",
+    "author": null,
+    "published_at": "2021-04-07",
+    "first_seen_at": "2026-08-02T15:48:10.378494+00:00",
+    "last_checked_at": "2026-08-02T15:48:10.378494+00:00",
+    "language": "ar",
+    "excerpt": "رياضة ترشيد النفقات عنوان \"الميركاتو\" والأندية تراهن على اللاعبين الأحرار 02/08/2026 - 15:12 رضى زروقعلى غير العادة، لا تشهد فترة الانتقالات الصيفية الحالية في البطولة",
+    "word_count": 604,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_80090a53c4a9",
+    "stance_analyzed_at": "2026-08-02T15:48:10.378494+00:00"
   }
 ]
