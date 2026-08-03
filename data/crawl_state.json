@@ -3036,5 +3036,75 @@
     "title": "صحيفة لاراثون: رئيس الحكومة عزيز أحنوش يقضي عطلته في مايوركا التي وصلها بطائرة خاصة",
     "status": "excluded",
     "checked_at": "2026-08-03T12:43:02.163770+00:00"
+  },
+  "https://alyaoum24.com/2036477.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "لقجع يعلن استقلالية العصب الوطنية ويطلق إصلاحات جديدة لتطوير الكرة النسوية والشاطئية – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-08-03T22:16:42.398630+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d9%8e%d8%b5%d8%af%d8%b1-%d8%a8%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a8%d8%b9%d8%b6-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "مَصدر بالخارجية المغربية: بعض السياسيين الإسبان قاموا بتوظيف أحداث سبتة لخدمة مصالح انتخابية داخلية.. والمغرب لا يتعاون تحت الضغط أو الابتزاز",
+    "status": "excluded",
+    "checked_at": "2026-08-03T22:16:42.398630+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%81%d8%aa%d8%aa%d8%a7%d8%ad%d9%8a%d8%a9-%d8%a8%d9%84%d8%a7%d8%ba-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%aa%d8%b9%d8%a7%d8%a8%d9%8a%d8%b1-%d8%a8%d8%a7%d8%b1%d8%af%d8%a9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بلاغ الداخلية.. تعابير باردة تربك مغربية سبتة ومليلية",
+    "status": "excluded",
+    "checked_at": "2026-08-03T22:16:42.398630+00:00"
+  },
+  "https://ar.le360.ma/politique/QEEWOXY7BFHZ5KB2S232XWFBVI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "كتاب جديد يكشف آخر المستجدات القانونية للانتخابات التشريعية القادمة",
+    "status": "excluded",
+    "checked_at": "2026-08-03T22:16:42.398630+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-le-choix-des-candidats-critique-sur-fond-de-soupcons-de-favoritisme_ZSMRA4P46FFENE5NGSR5BCPHPE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: le choix des candidats critiqué sur fond de soupçons de favoritisme",
+    "status": "excluded",
+    "checked_at": "2026-08-03T22:16:42.398630+00:00"
+  },
+  "https://fr.le360.ma/politique/discours-du-trone-le-prochain-gouvernement-devra-accelerer-la-dynamique-de-developpement-selon_BP3FKJTKTFGGJCY7FNP6RA2Q3I": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Discours du Trône: «Le prochain gouvernement devra accélérer la dynamique de développement», selon Mohamed Bouden",
+    "status": "excluded",
+    "checked_at": "2026-08-03T22:16:42.398630+00:00"
+  },
+  "https://fr.le360.ma/politique/terrorisme-letau-americain-se-resserre-davantage-sur-le-polisario_USAQQG6KFRED5PTYRBLKL6AO6A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Terrorisme: l’étau américain se resserre davantage sur le Polisario",
+    "status": "excluded",
+    "checked_at": "2026-08-03T22:16:42.398630+00:00"
+  },
+  "https://fr.le360.ma/politique/officiel-les-tentatives-de-traversee-vers-sebta-et-melilla-expliquees-par-le-ministere-de-linterieur_O4T5BMA2EZCVJAQVZKNUF4YYEU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Officiel: les tentatives de traversée vers Sebta et Melilla expliquées par le ministère de l’Intérieur",
+    "status": "excluded",
+    "checked_at": "2026-08-03T22:16:42.398630+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-marocain-lheure-de-la-clarte-americaine-sous-donald-trump-et-le-cap-du-denouement-final_EN556YNBWBABTKQS5N2VU4UIXM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara marocain: l’heure de la clarté américaine sous Donald Trump et le cap du dénouement final",
+    "status": "excluded",
+    "checked_at": "2026-08-03T22:16:42.398630+00:00"
+  },
+  "https://fr.le360.ma/politique/archives-militaires-de-vincennes-ep-4-digli-a-el-arja-comment-lalgerie-a-separe-les-terres-de-leurs_L2Z2NHP4IFCOTIYNTD6T5ZA57U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Archives militaires de Vincennes. Ep 4. D’Igli à El Arja: comment l’Algérie a séparé les terres de leurs propriétaires marocains",
+    "status": "excluded",
+    "checked_at": "2026-08-03T22:16:42.398630+00:00"
   }
 }
