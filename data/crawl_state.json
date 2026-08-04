@@ -3113,5 +3113,26 @@
     "title": "أحزاب الأغلبية والمعارضة تراجع البرامج الانتخابية على ضوء \"خطاب العرش\"",
     "status": "excluded",
     "checked_at": "2026-08-04T10:18:23.971461+00:00"
+  },
+  "https://snrtnews.com/article/156424": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "انهيار عمارتين بفاس.. الشروع في محاكمة 21 متهما",
+    "status": "excluded",
+    "checked_at": "2026-08-04T18:17:49.481959+00:00"
+  },
+  "https://www.hespress.com/%d8%af%d9%88%d8%a7%d8%a6%d8%b1-%d8%b3%d8%a7%d8%ae%d9%86%d8%a9-%d8%aa%d8%b5%d8%b9%d8%a8-%d8%aa%d9%88%d9%82%d8%b9-%d8%a7%d9%84%d8%a3%d8%b3%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d9%81%d8%a7%d8%a6%d8%b2-1786302.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"دوائر ساخنة\" تصعب توقع الأسماء الفائزة في \"انتخابات 23 شتنبر\"",
+    "status": "excluded",
+    "checked_at": "2026-08-04T18:17:49.481959+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-driss-sentissi-ex-mp-officiellement-investi-par-listiqlal-a-sale-medina_4ERRMFASJFFLRENC4SEXGVBPSE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: Driss Sentissi, ex-MP, officiellement investi par l’Istiqlal à Salé Médina",
+    "status": "excluded",
+    "checked_at": "2026-08-04T18:17:49.481959+00:00"
   }
 }
