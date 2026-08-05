@@ -3169,5 +3169,40 @@
     "title": "«تدهور» طريق وطنية بجماعة سيدي محمد لحمر بإقليم القنطيرة يسائل بركة بالبرلمان",
     "status": "excluded",
     "checked_at": "2026-08-05T18:08:04.019124+00:00"
+  },
+  "https://snrtnews.com/article/156494": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "مشروع قانون المالية 2027 .. رئيس الحكومة يحدد 4 أولويات",
+    "status": "excluded",
+    "checked_at": "2026-08-05T22:31:46.904830+00:00"
+  },
+  "https://al3omk.com/1178851.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أخنوش يراهن على استثمارات ضخمة في البنية التحتية والماء وخلق فرص الشغل خلال 2027",
+    "status": "accepted",
+    "checked_at": "2026-08-05T22:31:46.904830+00:00"
+  },
+  "https://ar.le360.ma/politique/5Z6MFU254NBFNLIYMN4HM5BMSU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلماني يسائل المنصوري عن أسباب «تأخر» استكمال البنية التحتية بحي الوحدة بسيدي يحيى الغرب",
+    "status": "excluded",
+    "checked_at": "2026-08-05T22:31:46.904830+00:00"
+  },
+  "https://ar.le360.ma/politique/37NKD4PDIVCDXLK6QU7QWWHLTY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الإرهاب: القبضة الأمريكية تشتد أكثر فأكثر حول عنق البوليساريو",
+    "status": "excluded",
+    "checked_at": "2026-08-05T22:31:46.904830+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%ba%d9%85%d9%88%d8%b6-%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a-%d9%84%d8%b3%d8%a8%d8%aa%d8%a9-%d9%88%d9%85%d9%84%d9%8a%d9%84%d9%8a%d8%a9-%d9%8a%d8%ab%d9%8a%d8%b1-%d8%ac%d8%af": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الغموض الدستوري لسبتة ومليلية يثير جدلا متصاعدا في إسبانيا ويتحول إلى عبء سياسي على الدولة",
+    "status": "excluded",
+    "checked_at": "2026-08-05T22:31:46.904830+00:00"
   }
 }

@@ -1,5 +1,100 @@
 [
   {
+    "id": "aef9aaf93819f4cb",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أخنوش يراهن على استثمارات ضخمة في البنية التحتية والماء وخلق فرص الشغل خلال 2027",
+    "url": "https://al3omk.com/1178851.html",
+    "author": "خالد فاتيحي",
+    "published_at": "2026-08-04",
+    "first_seen_at": "2026-08-05T22:31:46.904830+00:00",
+    "last_checked_at": "2026-08-05T22:31:46.904830+00:00",
+    "language": "ar",
+    "excerpt": "أعلن رئيس الحكومة، عزيز أخنوش، أن مشروع قانون المالية لسنة 2027، يضع ضمن أولوياته مواصلة إنجاز وتطوير الأوراش الكبرى للبنية التحتية، باعتبارها دعامة أساسية لتعزيز",
+    "word_count": 243,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير",
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة",
+            "مشروع قانون"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات",
+            "استحقاقات"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية, الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_aef9aaf93819",
+    "stance_analyzed_at": "2026-08-05T22:31:46.904830+00:00"
+  },
+  {
     "id": "9118a79dca1ba65f",
     "source_id": "le360",
     "source_name": "Le360",
