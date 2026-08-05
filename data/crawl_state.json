@@ -3134,5 +3134,19 @@
     "title": "Législatives 2026: Driss Sentissi, ex-MP, officiellement investi par l’Istiqlal à Salé Médina",
     "status": "excluded",
     "checked_at": "2026-08-04T18:17:49.481959+00:00"
+  },
+  "https://snrtnews.com/article/156450": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "بلجيكا.. المهاجم المغربي إبراهيم صلاح يلتحق بنادي أنتويرب",
+    "status": "excluded",
+    "checked_at": "2026-08-05T10:14:42.749123+00:00"
+  },
+  "https://ar.le360.ma/politique/QFORVWVRABB5VOY73KCBUYFT4U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "مصدر حكومي مغربي: لا يمكن لقاض إسباني تقويض منظومة مكافحة الهجرة غير النظامية ثم مطالبة المغرب بتحمل التبعات",
+    "status": "excluded",
+    "checked_at": "2026-08-05T10:14:42.749123+00:00"
   }
 }
