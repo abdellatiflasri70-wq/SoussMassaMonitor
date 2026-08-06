@@ -1,5 +1,278 @@
 [
   {
+    "id": "4bfe87769b5f87dd",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "لقجع يحط الرحال حزبياً بتيزنيت.. ماذا يعني ذلك للخصوم وهل دخلت الدائرة رسمياً نادي «دوائر الموت»؟ | agadir24.info",
+    "url": "https://agadir24.info/%D9%84%D9%82%D8%AC%D8%B9-%D9%8A%D8%AD%D8%B7-%D8%A7%D9%84%D8%B1%D8%AD%D8%A7%D9%84-%D8%AD%D8%B2%D8%A8%D9%8A%D8%A7%D9%8B-%D8%A8%D8%AA%D9%8A%D8%B2%D9%86%D9%8A%D8%AA-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B9.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-08-05",
+    "first_seen_at": "2026-08-06T10:17:13.080122+00:00",
+    "last_checked_at": "2026-08-06T10:17:13.080122+00:00",
+    "language": "ar",
+    "excerpt": "قبل أسابيع قليلة من الانتخابات التشريعية المقررة يوم 23 شتنبر 2026، تستعد تيزنيت لاستقبال واحد من أثقل الأسماء التي التحقت حديثاً بحزب الأصالة والمعاصرة، فوزي",
+    "word_count": 920,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "أيت ملول",
+        "إنزكان"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        },
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        },
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_084",
+          "name": "عبد الله غازي",
+          "tier": "secondary"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح",
+            "تزكية",
+            "دائرة انتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "انتخابية"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "الأغلبية الحكومية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, التجمع الوطني للأحرار, حزب الاستقلال",
+        "شخصيات رئيسية: فوزي لقجع, عزيز أخنوش",
+        "مواضيع سياسية: الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 13,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 9,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": [
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 21,
+        "editorial_segment_count": 10,
+        "reported_segment_count": 11,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_084",
+        "target_type": "person",
+        "target_name": "عبد الله غازي",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فاز"
+        ]
+      }
+    ],
+    "event_id": "evt_4bfe87769b5f",
+    "stance_analyzed_at": "2026-08-06T10:17:13.080122+00:00"
+  },
+  {
     "id": "aef9aaf93819f4cb",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",
