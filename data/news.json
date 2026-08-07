@@ -273,6 +273,260 @@
     "stance_analyzed_at": "2026-08-06T10:17:13.080122+00:00"
   },
   {
+    "id": "c0e251bf628ec894",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تحفة معمارية وثقافية ترى النور بالقليعة: محمد بيكز يشرف على افتتاح المركب الثقافي ويطلق الدورة الأولى لملتقى القليعة للفنون. | agadir24.info",
+    "url": "https://agadir24.info/%D8%AA%D8%AD%D9%81%D8%A9-%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9-%D8%AA%D8%B1%D9%89-%D8%A7%D9%84%D9%86%D9%88%D8%B1-%D8%A8%D8%A7%D9%84%D9%82%D9%84%D9%8A.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-08-05",
+    "first_seen_at": "2026-08-07T04:14:20.309848+00:00",
+    "last_checked_at": "2026-08-07T04:14:20.309848+00:00",
+    "language": "ar",
+    "excerpt": "شهدت مدينة القليعة حدثا ثقافيا بارزا تمثل في افتتاح المركب الثقافي الجديد، الذي أشرف عليه رئيس المجلس الجماعي محمد بيكز في خطوة تشكل محطة نوعية",
+    "word_count": 374,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "القليعة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_055",
+          "name": "محمد بيكز",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي",
+            "رئيس المجلس"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: محمد بيكز",
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_055",
+        "target_type": "person",
+        "target_name": "محمد بيكز",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": [
+          "إنجاز"
+        ]
+      }
+    ],
+    "event_id": "evt_c0e251bf628e",
+    "stance_analyzed_at": "2026-08-07T04:14:20.309848+00:00"
+  },
+  {
+    "id": "4657ab7e82b868aa",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مشروع قانون المالية 2027 .. أخنوش يدعو إلى ترشيد النفقات وضبط التوظيف - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/133869.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-08-05",
+    "first_seen_at": "2026-08-07T04:14:20.309848+00:00",
+    "last_checked_at": "2026-08-07T04:14:20.309848+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديمشروع قانون المالية 2027 .. أخنوش يدعو إلى ترشيد النفقات وضبط التوظيف دعت رئاسة الحكومة مختلف القطاعات الوزارية والمؤسسات العمومية إلى اعتماد مقاربة أكثر",
+    "word_count": 510,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "مشروع قانون",
+            "رئيس الحكومة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "دعا إلى"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_4657ab7e82b8",
+    "stance_analyzed_at": "2026-08-07T04:14:20.309848+00:00"
+  },
+  {
+    "id": "f32dcf2a454d12af",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Budget 2027: les ministères à nouveau sommés de se serrer la ceinture",
+    "url": "https://fr.le360.ma/politique/budget-2027-les-ministeres-a-nouveau-sommes-de-se-serrer-la-ceinture_DHTKUQF4RZBJHGADLSAEXBEDLI",
+    "author": "Wadie El Mouden",
+    "published_at": "2026-08-05",
+    "first_seen_at": "2026-08-07T04:14:20.309848+00:00",
+    "last_checked_at": "2026-08-07T04:14:20.309848+00:00",
+    "language": "fr",
+    "excerpt": "Comme en 2021, le Maroc semble se diriger vers un scénario où le projet de loi de finances sera élaboré par le gouvernement sortant, tandis",
+    "word_count": 1136,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "projet de loi",
+            "gouvernement"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "majorité"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_f32dcf2a454d",
+    "stance_analyzed_at": "2026-08-07T04:14:20.309848+00:00"
+  },
+  {
     "id": "aef9aaf93819f4cb",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",
@@ -7842,5 +8096,67 @@
     ],
     "event_id": "evt_80090a53c4a9",
     "stance_analyzed_at": "2026-08-02T15:48:10.378494+00:00"
+  },
+  {
+    "id": "15a218fa8abff402",
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "إعداد مشروع قانون مالية 2027.. مشاريع تستحضر مونديال 2030",
+    "url": "https://snrtnews.com/article/156537",
+    "author": null,
+    "published_at": "2021-04-07",
+    "first_seen_at": "2026-08-07T04:14:20.309848+00:00",
+    "last_checked_at": "2026-08-07T04:14:20.309848+00:00",
+    "language": "ar",
+    "excerpt": "اقتصاد إعداد مشروع قانون مالية 2027.. مشاريع تستحضر مونديال 2030 06/08/2026 - 22:41 مراد كراخيلم يعد تنظيم كأس العالم لكرة القدم 2030 في المغرب، إلى",
+    "word_count": 484,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "مشروع قانون"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_15a218fa8abf",
+    "stance_analyzed_at": "2026-08-07T04:14:20.309848+00:00"
   }
 ]
