@@ -3365,5 +3365,40 @@
     "title": "Paralysie des tribunaux: la grève des avocats suspendue à une décision de la Cour constitutionnelle",
     "status": "excluded",
     "checked_at": "2026-08-07T04:14:20.309848+00:00"
+  },
+  "https://al3omk.com/1179254.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "مستشار جماعي بكلميمة يعتصم للمطالبة بفتح تحقيق في توزيع المشاريع الفلاحية",
+    "status": "excluded",
+    "checked_at": "2026-08-07T15:14:45.881378+00:00"
+  },
+  "https://ar.le360.ma/politique/7J3FBBKWOJANXAUJHUNBKJPDEE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بعد رفض تزكيته بـ «السنبلة».. مصطفى لخصم يخوض الانتخابات التشريعية مع حزب «النخلة»",
+    "status": "excluded",
+    "checked_at": "2026-08-07T15:14:45.881378+00:00"
+  },
+  "https://ar.le360.ma/politique/QB3UJ4SK3FD3XDEH2NMSF4GHKM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "السنتيسي يكسر الصمت ويفتح النار على حليمة العسالي: لهذه الأسباب غادرت الحركة نحو الاستقلال",
+    "status": "excluded",
+    "checked_at": "2026-08-07T15:14:45.881378+00:00"
+  },
+  "https://thepress.ma/%d8%a8%d8%b9%d8%af-%d8%ad%d8%af%d9%8a%d8%ab%d9%87-%d8%b9%d9%86-%d8%ae%d9%88%d8%b6-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%85%d8%b3%d8%aa%d9%82%d9%84%d8%a7-%d9%85%d8%b5%d8%b7": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "بعد حديثه عن خوض الانتخابات مستقلا.. مصطفى لخصم يختار حزب “النخلة\"",
+    "status": "excluded",
+    "checked_at": "2026-08-07T15:14:45.881378+00:00"
+  },
+  "https://thepress.ma/%d8%b6%d9%85%d9%86-%d8%a7%d8%b3%d8%aa%d8%b9%d8%af%d8%a7%d8%af%d8%a7%d8%aa%d9%87-%d9%84%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%ae": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "ضمن استعداداته للانتخابات.. الأحرار يختار نبيلة الرميلي وكيلة للائحته الجهوية",
+    "status": "excluded",
+    "checked_at": "2026-08-07T15:14:45.881378+00:00"
   }
 }
