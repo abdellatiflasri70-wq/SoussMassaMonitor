@@ -3400,5 +3400,40 @@
     "title": "ضمن استعداداته للانتخابات.. الأحرار يختار نبيلة الرميلي وكيلة للائحته الجهوية",
     "status": "excluded",
     "checked_at": "2026-08-07T15:14:45.881378+00:00"
+  },
+  "https://www.hespress.com/%d8%b4%d9%88%d9%83%d9%8a-%d8%ae%d8%b7%d8%a7%d8%a8-%d8%a7%d9%84%d8%aa%d9%8a%d8%a6%d9%8a%d8%b3-%d9%8a%d9%84%d9%88%d9%91%d8%ab-%d8%a7%d9%84%d9%85%d8%b4%d9%87%d8%af-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3-1788971.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "شوكي: خطاب التيئيس يلوّث المشهد السياسي .. و\"الأحرار\" ينصت للمغاربة",
+    "status": "excluded",
+    "checked_at": "2026-08-07T20:23:49.203301+00:00"
+  },
+  "https://al3omk.com/1179366.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "جمعيات أنزا ترفض الترخيص لـ”الجيت سكي” وتحذر من تهديد سلامة المصطافين",
+    "status": "excluded",
+    "checked_at": "2026-08-07T20:23:49.203301+00:00"
+  },
+  "https://fr.le360.ma/politique/transhumance-politique-la-cour-constitutionnelle-valide-les-demissions-de-plusieurs-parlementaires_NTEOFLUUXZGC3GDNANEIA3BKZI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Transhumance politique: la Cour constitutionnelle valide les démissions de plusieurs parlementaires",
+    "status": "excluded",
+    "checked_at": "2026-08-07T20:23:49.203301+00:00"
+  },
+  "https://fr.le360.ma/politique/sale-vague-de-demissions-au-pjd-a-lapproche-des-legislatives_BKGY5TSSPJATJNEFVL26YLTLDE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Salé: vague de démissions au PJD à l’approche des législatives",
+    "status": "excluded",
+    "checked_at": "2026-08-07T20:23:49.203301+00:00"
+  },
+  "https://fr.le360.ma/societe/enquete-a-tetouan-sur-les-fausses-images-du-drame-de-gaza-attribuees-aux-recents-evenements-de_VNEXKXOTIBA3LB777R4TZKFAD4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Enquête à Tétouan sur les fausses images du drame de Gaza attribuées aux récents événements de Fnideq",
+    "status": "excluded",
+    "checked_at": "2026-08-07T20:23:49.203301+00:00"
   }
 }
