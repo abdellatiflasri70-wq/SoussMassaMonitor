@@ -3512,5 +3512,26 @@
     "title": "Crise migratoire: le CNDH dénonce de graves violations des droits humains",
     "status": "excluded",
     "checked_at": "2026-08-08T14:16:56.383046+00:00"
+  },
+  "https://snrtnews.com/article/156633": {
+    "source_id": "snrtnews",
+    "source_name": "SNRTnews",
+    "title": "وفاة والد ميسي عن 68 عاما بعد صراع مع المرض",
+    "status": "excluded",
+    "checked_at": "2026-08-08T19:47:53.190540+00:00"
+  },
+  "https://fr.le360.ma/politique/evenements-de-sebta-un-rapport-alerte-sur-une-crise-de-confiance-et-appelle-a-un-nouveau-contrat_NJVIFEPJJVFNBM4EML2ZRGGM7I": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Évènements de Sebta: un rapport alerte sur une crise de confiance et appelle à un nouveau contrat avec la jeunesse",
+    "status": "excluded",
+    "checked_at": "2026-08-08T19:47:53.190540+00:00"
+  },
+  "https://fr.le360.ma/politique/tribunaux-a-larret-un-procureur-general-tire-la-sonnette-dalarme_MIOXAKJPAVC2XBWWUQCCBI27X4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Tribunaux à l’arrêt: un procureur général tire la sonnette d’alarme",
+    "status": "excluded",
+    "checked_at": "2026-08-08T19:47:53.190540+00:00"
   }
 }
