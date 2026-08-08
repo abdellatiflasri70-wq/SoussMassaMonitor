@@ -3470,5 +3470,47 @@
     "title": "تحالف اليسار يرفض رسوم “التوقيت الميسر” ويعتبره “مدخلا لتسليع التعليم العالي”",
     "status": "excluded",
     "checked_at": "2026-08-08T04:32:32.155628+00:00"
+  },
+  "https://www.chtoukapress.com/305872.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "العرائش: متابعة قضائية لامرأة اتهمت جهات رسمية زورا بفتح الحدود أمام مهاجرين نحو سبتة",
+    "status": "excluded",
+    "checked_at": "2026-08-08T14:16:56.383046+00:00"
+  },
+  "https://thepress.ma/%d8%b1%d8%b3%d9%88%d9%85-%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%b8%d9%81%d9%8a%d9%86-%d8%aa%d8%ab%d9%8a%d8%b1-%d8%ba%d8%b6%d8%a8-%d8%aa%d8%ad%d8%a7": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "رسوم الطلبة الموظفين تثير غضب تحالف اليسار.. مطالب بالتراجع عن القرار",
+    "status": "excluded",
+    "checked_at": "2026-08-08T14:16:56.383046+00:00"
+  },
+  "https://ar.le360.ma/politique/WQIADC36UBHBPAQNS5PPVX7O6U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انتخابات 2026 (3): عن أحداث سبتة وتصدع اليسار والترحال السياسي.. المهدي مزواري يوضّح «ماذا وقع داخل حزب «الاتحاد الاشتراكي",
+    "status": "excluded",
+    "checked_at": "2026-08-08T14:16:56.383046+00:00"
+  },
+  "https://ar.le360.ma/politique/CIPPC5SGHBCAHMEEIN2FYVTFLU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "المحكمة الدستورية تجرد البرلماني التجمعي امبارك حمية من مقعده النيابي",
+    "status": "excluded",
+    "checked_at": "2026-08-08T14:16:56.383046+00:00"
+  },
+  "https://ar.le360.ma/politique/EDUNHGZOIZBP3EJAM7XNUSRNRI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "«تأخير» منح رخص لمستثمرين مغاربة في صناعة الأدوية يسائل التهراوي أمام البرلمان",
+    "status": "excluded",
+    "checked_at": "2026-08-08T14:16:56.383046+00:00"
+  },
+  "https://fr.le360.ma/politique/crise-migratoire-le-cndh-denonce-de-graves-violations-des-droits-humains_LZYUHBSCOZAPRB2RSG2OTJLMCA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Crise migratoire: le CNDH dénonce de graves violations des droits humains",
+    "status": "excluded",
+    "checked_at": "2026-08-08T14:16:56.383046+00:00"
   }
 }
