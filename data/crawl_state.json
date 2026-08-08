@@ -3435,5 +3435,40 @@
     "title": "Enquête à Tétouan sur les fausses images du drame de Gaza attribuées aux récents événements de Fnideq",
     "status": "excluded",
     "checked_at": "2026-08-07T20:23:49.203301+00:00"
+  },
+  "https://www.chtoukapress.com/305845.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بلاغ هام لوزارة التعليم بشأن الدخول المدرسي",
+    "status": "excluded",
+    "checked_at": "2026-08-08T04:32:32.155628+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%af%d9%82%d9%8a%d9%82-%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d9%8a%d8%b9%d8%b2%d8%b2-%d8%ad%d9%83%d8%a7%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d9%84-1788948.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "تدقيق حسابات الأحزاب يعزز حكامة المال السياسي قبل \"انتخابات 23 شتنبر\"",
+    "status": "excluded",
+    "checked_at": "2026-08-08T04:32:32.155628+00:00"
+  },
+  "https://ar.le360.ma/politique/T26I4ALG7RACLGD6NDU737UUD4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "استقالات تضرب حزب العدالة والتنمية",
+    "status": "excluded",
+    "checked_at": "2026-08-08T04:32:32.155628+00:00"
+  },
+  "https://fr.le360.ma/politique/mairie-de-casablanca-recuperation-de-plus-de-13-millions-de-dirhams-indument-attribues-par-la_TN2BJ5HZRVGBHPWXDB3P737F2A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Mairie de Casablanca: récupération de plus de 13 millions de dirhams indûment attribués par la justice à une avocate",
+    "status": "excluded",
+    "checked_at": "2026-08-08T04:32:32.155628+00:00"
+  },
+  "https://al3omk.com/1179377.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تحالف اليسار يرفض رسوم “التوقيت الميسر” ويعتبره “مدخلا لتسليع التعليم العالي”",
+    "status": "excluded",
+    "checked_at": "2026-08-08T04:32:32.155628+00:00"
   }
 }
