@@ -244,6 +244,679 @@
     "stance_analyzed_at": "2026-08-09T14:19:34.342550+00:00"
   },
   {
+    "id": "5ca1138e2ae6c704",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: à Agadir, Fouzi Lekjaa anime son premier meeting sous les couleurs du PAM",
+    "url": "https://fr.le360.ma/politique/legislatives-2026-a-agadir-fouzi-lekjaa-anime-son-premier-meeting-sous-les-couleurs-du-pam_SFUAS4WEQZFMLGWNAISLKTDJAE",
+    "author": "Mohamed Chakir Alaoui",
+    "published_at": "2026-08-08",
+    "first_seen_at": "2026-08-09T19:52:19.216070+00:00",
+    "last_checked_at": "2026-08-09T19:52:19.216070+00:00",
+    "language": "fr",
+    "excerpt": "C’est sous des applaudissements nourris que Fouzi Lekjaa, nouvelle recrue du Parti authenticité et modernité (PAM, majorité), a co-présidé, ce dimanche, un meeting partisan à",
+    "word_count": 380,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        },
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "législatives",
+            "élections",
+            "électoral",
+            "électorale",
+            "scrutin"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "majorité"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "chef du gouvernement",
+            "gouvernement",
+            "ministre"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "bureau politique"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع, عزيز أخنوش",
+        "مواضيع سياسية: الانتخابات والاقتراع, التحالفات والخلافات السياسية, السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 7,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_5ca1138e2ae6",
+    "stance_analyzed_at": "2026-08-09T19:52:19.216070+00:00"
+  },
+  {
+    "id": "89065161d44ce65d",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "لقجع: لم آت إلى \"البام\" بحثا عن منصب .. والقدرة الشرائية أولى بالنقاش",
+    "url": "https://www.hespress.com/%D9%84%D9%82%D8%AC%D8%B9-%D9%84%D9%85-%D8%A2%D8%AA-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D8%A7%D9%85-%D8%A8%D8%AD%D8%AB%D8%A7-%D8%B9%D9%86-%D9%85%D9%86%D8%B5%D8%A8-%D9%88%D8%A7%D9%84%D9%82-1789891.html",
+    "author": "هسبريس من أكادير",
+    "published_at": "2026-08-08",
+    "first_seen_at": "2026-08-09T19:52:19.216070+00:00",
+    "last_checked_at": "2026-08-09T19:52:19.216070+00:00",
+    "language": "ar",
+    "excerpt": "شكل الظهور الأول لفوزي لقجع، الوزير المنتدب لدى وزيرة الاقتصاد والمالية المكلف بالميزانية، بعد انضمامه إلى المكتب السياسي لحزب الأصالة والمعاصرة، أبرز محطات اللقاء التواصلي",
+    "word_count": 890,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير",
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات الانتخابية",
+            "صناديق الاقتراع",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "اعتبر",
+            "دعا إلى"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "يلتحق"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "مشروع قانون"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 14,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 11,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_89065161d44c",
+    "stance_analyzed_at": "2026-08-09T19:52:19.216070+00:00"
+  },
+  {
+    "id": "115913bce52e3672",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انضمام لقجع و\"الصدق والمعقول\".. أبرز رسائل \"البام\" من جهة سوس ماسة",
+    "url": "https://www.hespress.com/%D9%84%D9%82%D8%AC%D8%B9-%D9%88-%D8%B4%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%AF%D9%82-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D9%82%D9%88%D9%84-%D8%A3%D8%A8%D8%B1%D8%B2-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-1789820.html",
+    "author": "هسبريس من الرباط",
+    "published_at": "2026-08-08",
+    "first_seen_at": "2026-08-09T19:52:19.216070+00:00",
+    "last_checked_at": "2026-08-09T19:52:19.216070+00:00",
+    "language": "ar",
+    "excerpt": "حضر انضمام فوزي لقجع، الوزير المنتدب لدى وزيرة الاقتصاد والمالية المكلف بالميزانية، إلى المكتب السياسي لحزب الأصالة والمعاصرة بقوة في اللقاء التواصلي الذي نظمته الأمانة",
+    "word_count": 321,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "استحقاقات",
+            "الاستحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 1,
+        "evidence": [
+          "كفاءات"
+        ]
+      }
+    ],
+    "event_id": "evt_115913bce52e",
+    "stance_analyzed_at": "2026-08-09T19:52:19.216070+00:00"
+  },
+  {
+    "id": "eadcbecd8cd110ab",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "من أكادير.. فوزي لقجع: انضمامنا لـ \"البام\" ممارسة لحق دستوري، ورهاننا الحقيقي على الشباب لإعادة الثقة للعمل السياسي | agadir24.info",
+    "url": "https://agadir24.info/%D9%85%D9%86-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D9%81%D9%88%D8%B2%D9%8A-%D9%84%D9%82%D8%AC%D8%B9-%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85%D9%86%D8%A7-%D9%84%D9%80-%D8%A7%D9%84%D8%A8%D8%A7%D9%85.html",
+    "author": "أكادير",
+    "published_at": "2026-08-08",
+    "first_seen_at": "2026-08-09T19:52:19.216070+00:00",
+    "last_checked_at": "2026-08-09T19:52:19.216070+00:00",
+    "language": "ar",
+    "excerpt": "أكد فوزي لقجع، عضو المكتب السياسي لحزب الأصالة والمعاصرة وجوكير الميزانية، أن التحديات الوطنية الراهنة أكبر من أن تُختزل في تجاذبات سياسية ضيقة، مشدداً خلال",
+    "word_count": 286,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 3,
+        "evidence": [
+          "أشاد"
+        ]
+      }
+    ],
+    "event_id": "evt_eadcbecd8cd1",
+    "stance_analyzed_at": "2026-08-09T19:52:19.216070+00:00"
+  },
+  {
+    "id": "5ab4c505e2b89109",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "لقجع يختار أكادير لتدشين تحركاته الميدانية رفقة قيادات «البام» | agadir24.info",
+    "url": "https://agadir24.info/%D9%84%D9%82%D8%AC%D8%B9-%D9%8A%D8%AE%D8%AA%D8%A7%D8%B1-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D9%84%D8%AA%D8%AF%D8%B4%D9%8A%D9%86-%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D9%85%D9%8A.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-08-08",
+    "first_seen_at": "2026-08-09T19:52:19.216070+00:00",
+    "last_checked_at": "2026-08-09T19:52:19.216070+00:00",
+    "language": "ar",
+    "excerpt": "اختار فوزي لقجع مدينة أكادير لتدشين تحركاته الميدانية رفقة قيادات حزب الأصالة والمعاصرة، في أولى المحطات السياسية البارزة التي يخوضها تحت مظلة «البام» بعد انضمامه",
+    "word_count": 355,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "الأغلبية الحكومية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 4,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 7,
+        "editorial_segment_count": 5,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_5ab4c505e2b8",
+    "stance_analyzed_at": "2026-08-09T19:52:19.216070+00:00"
+  },
+  {
     "id": "4bfe87769b5f87dd",
     "source_id": "agadir24",
     "source_name": "أكادير24",
@@ -926,6 +1599,114 @@
     "stances": [],
     "event_id": "evt_9118a79dca1b",
     "stance_analyzed_at": "2026-08-01T21:17:11.514520+00:00"
+  },
+  {
+    "id": "fd8094285a451111",
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "في أول لقاء حزبي بعد انضمامه.. لقجع يحضر تعبئة البام بأكادير استعدادا للانتخابات التشريعية",
+    "url": "https://www.assahifa.com/%D9%81%D9%8A-%D8%A3%D9%88%D9%84-%D9%84%D9%82%D8%A7%D8%A1-%D8%AD%D8%B2%D8%A8%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85%D9%87-%D9%84%D9%82%D8%AC%D8%B9-%D9%8A%D8%AD%D8%B6%D8%B1",
+    "author": null,
+    "published_at": "2026-07-31",
+    "first_seen_at": "2026-08-09T19:52:19.216070+00:00",
+    "last_checked_at": "2026-08-09T19:52:19.216070+00:00",
+    "language": "ar",
+    "excerpt": "في أول لقاء حزبي بعد انضمامه.. لقجع يحضر تعبئة \"البام\" بأكادير استعدادا للانتخابات التشريعية انطلقت بمدينة أكادير أشغال اللقاء التواصلي الذي نظمته الأمانة الجهوية لحزب",
+    "word_count": 242,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "استحقاقات"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_fd8094285a45",
+    "stance_analyzed_at": "2026-08-09T19:52:19.216070+00:00"
   },
   {
     "id": "61717e89cb074426",
