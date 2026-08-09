@@ -3533,5 +3533,26 @@
     "title": "Tribunaux à l’arrêt: un procureur général tire la sonnette d’alarme",
     "status": "excluded",
     "checked_at": "2026-08-08T19:47:53.190540+00:00"
+  },
+  "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d9%86%d9%87%d8%ac-%d9%8a%d8%ae%d8%aa%d8%a7%d8%b1-%d8%a8%d8%b1%d8%a7%d8%ac%d8%b9-%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a9-%d8%ab%d8%a7%d9%86%d9%8a%d8%a9-1789506.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"حزب النهج\" يختار براجع لولاية ثانية",
+    "status": "excluded",
+    "checked_at": "2026-08-09T04:48:43.311611+00:00"
+  },
+  "https://ar.le360.ma/politique/F6PBOBBVYBE4BLGARYJL2I2KIE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "«نوكليو ناسيونال».. النيونازية الإسبانية تخلع قناعها",
+    "status": "excluded",
+    "checked_at": "2026-08-09T04:48:43.311611+00:00"
+  },
+  "https://al3omk.com/1179564.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "ككوس تحذر من توظيف التشهير في انتخابات 2026 وتعلن اللجوء إلى القضاء",
+    "status": "excluded",
+    "checked_at": "2026-08-09T04:48:43.311611+00:00"
   }
 }
