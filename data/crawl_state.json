@@ -3659,5 +3659,26 @@
     "title": "في أول لقاء حزبي بعد انضمامه.. لقجع يحضر تعبئة البام بأكادير استعدادا للانتخابات التشريعية",
     "status": "accepted",
     "checked_at": "2026-08-09T19:52:19.216070+00:00"
+  },
+  "https://ar.le360.ma/politique/GKJADYARHFG7VLX54VRNFEPWHM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "مطالب برلمانية ببرمجة طلقات مائية من سد الحسن الثاني لإنقاذ الزراعات",
+    "status": "excluded",
+    "checked_at": "2026-08-10T05:12:01.016242+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-les-partis-se-dotent-de-listes-de-secours-en-prevision-du-rejet-de-certaines_CD7TKYCLFFFMVA73VEIF26KCIE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: les partis se dotent de listes de secours en prévision du rejet de certaines candidatures",
+    "status": "excluded",
+    "checked_at": "2026-08-10T05:12:01.016242+00:00"
+  },
+  "https://fr.le360.ma/politique/archives-militaires-de-vincennes-ep-5-quand-larmee-francaise-recensait-des-caids-marocains-dans-le_ZMZ5QFFT7BH2BLLNSLQP5B27FI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Archives militaires de Vincennes. Ep 5. Quand l’armée française recensait des caïds marocains dans le Sahara oriental",
+    "status": "excluded",
+    "checked_at": "2026-08-10T05:12:01.016242+00:00"
   }
 }
