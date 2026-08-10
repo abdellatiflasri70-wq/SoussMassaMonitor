@@ -1,5 +1,141 @@
 [
   {
+    "id": "7d2fe087a739a839",
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Fouzi Lekjaa : « Je n’ai pas rejoint le PAM pour obtenir un poste »",
+    "url": "https://www.lesiteinfo.com/politique/680075-fouzi-lekjaa-je-nai-pas-rejoint-le-pam-pour-obtenir-un-poste.html",
+    "author": "Rédaction N",
+    "published_at": "2026-08-09",
+    "first_seen_at": "2026-08-10T10:45:25.108365+00:00",
+    "last_checked_at": "2026-08-10T10:45:25.108365+00:00",
+    "language": "fr",
+    "excerpt": "Fouzi Lekjaa, ministre délégué chargé du Budget et membre du bureau politique du PAM, a adressé plusieurs messages lors d’une rencontre organisée dimanche, à Agadir,",
+    "word_count": 476,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير",
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "bureau politique",
+            "secrétariat"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "ministre"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "rejoint le parti"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "électorales"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "sièges"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: الأنشطة والتنظيمات الحزبية, السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 7,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 3,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_7d2fe087a739",
+    "stance_analyzed_at": "2026-08-10T10:45:25.108365+00:00"
+  },
+  {
     "id": "0dfea9470f2fc854",
     "source_id": "agadir24",
     "source_name": "أكادير24",
