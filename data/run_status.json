@@ -1,26 +1,26 @@
 {
-  "run_at": "2026-08-10T15:35:22.995216+00:00",
+  "run_at": "2026-08-10T20:25:17.194069+00:00",
   "sources": 18,
-  "links_discovered": 122,
+  "links_discovered": 120,
   "known_skipped": 118,
-  "new_candidates": 4,
-  "extraction_success": 3,
+  "new_candidates": 2,
+  "extraction_success": 1,
   "extraction_failed": 1,
   "new_articles": 0,
   "updated_articles": 0,
-  "excluded": 3,
+  "excluded": 1,
   "total_saved": 79,
   "events": 74,
   "errors": 6,
   "source_details": [
     {
       "source_name": "Le360",
-      "links_discovered": 11,
-      "known_skipped": 11,
-      "new_candidates": 0,
-      "extraction_success": 0,
+      "links_discovered": 10,
+      "known_skipped": 9,
+      "new_candidates": 1,
+      "extraction_success": 1,
       "accepted": 0,
-      "excluded": 0,
+      "excluded": 1,
       "errors": 0
     },
     {
@@ -36,11 +36,11 @@
     {
       "source_name": "SNRTnews",
       "links_discovered": 6,
-      "known_skipped": 4,
-      "new_candidates": 2,
-      "extraction_success": 2,
+      "known_skipped": 6,
+      "new_candidates": 0,
+      "extraction_success": 0,
       "accepted": 0,
-      "excluded": 2,
+      "excluded": 0,
       "errors": 0
     },
     {
@@ -116,11 +116,11 @@
     {
       "source_name": "العمق المغربي",
       "links_discovered": 2,
-      "known_skipped": 1,
-      "new_candidates": 1,
-      "extraction_success": 1,
+      "known_skipped": 2,
+      "new_candidates": 0,
+      "extraction_success": 0,
       "accepted": 0,
-      "excluded": 1,
+      "excluded": 0,
       "errors": 0
     },
     {
@@ -185,8 +185,8 @@
     },
     {
       "source_name": "هسبريس",
-      "links_discovered": 3,
-      "known_skipped": 3,
+      "links_discovered": 2,
+      "known_skipped": 2,
       "new_candidates": 0,
       "extraction_success": 0,
       "accepted": 0,
