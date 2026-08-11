@@ -3743,5 +3743,26 @@
     "title": "Législatives: l’Istiqlal dévoile ses têtes de listes à Rabat-Salé",
     "status": "excluded",
     "checked_at": "2026-08-10T20:25:17.194069+00:00"
+  },
+  "https://www.hespress.com/%d8%b4%d9%88%d9%83%d9%8a-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%b9%d8%aa%d8%b2-%d8%a8%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d9%81%d9%8a%d9%86-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%88-1790381.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "شوكي: \"الأحرار\" يعتز بالحليفين \"البام\" و\"الاستقلال\" في التدبير الحكومي",
+    "status": "excluded",
+    "checked_at": "2026-08-11T04:52:17.755980+00:00"
+  },
+  "https://fr.le360.ma/politique/fouzi-lekjaa-explique-pourquoi-il-a-rallie-le-pam_KXEOAQNTXZFY3LBINYX2JV5BSQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fouzi Lekjaa explique pourquoi il a rallié le PAM",
+    "status": "accepted",
+    "checked_at": "2026-08-11T04:52:17.755980+00:00"
+  },
+  "https://www.assahifa.com/%d8%aa%d9%8f%d8%b9%d8%aa%d8%a8%d8%b1-%d9%85%d9%86-%d9%85%d8%b3%d8%a7%d9%88%d8%a6-%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d8%aa%d8%b1%d8%a7%d9%86%d8%b3%d8%a8%d8%b1%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "تُعتبر من مساوئ حكومة أخنوش.. ترانسبرانسي تسائل الأحزاب عن مواقفها من تضارب المصالح قبل انتخابات 23 شتنبر",
+    "status": "excluded",
+    "checked_at": "2026-08-11T04:52:17.755980+00:00"
   }
 }

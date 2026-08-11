@@ -1,5 +1,146 @@
 [
   {
+    "id": "b218e94a9853fdaa",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fouzi Lekjaa explique pourquoi il a rallié le PAM",
+    "url": "https://fr.le360.ma/politique/fouzi-lekjaa-explique-pourquoi-il-a-rallie-le-pam_KXEOAQNTXZFY3LBINYX2JV5BSQ",
+    "author": "La Rédaction",
+    "published_at": "2026-08-10",
+    "first_seen_at": "2026-08-11T04:52:17.755980+00:00",
+    "last_checked_at": "2026-08-11T04:52:17.755980+00:00",
+    "language": "fr",
+    "excerpt": "Le choix par Fouzi Lekjaa de son déplacement à Agadir n’est pas anodin. Ayant pendant longtemps fait montre d’une proximité avec le RNI, il a",
+    "word_count": 420,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "électoral"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "programme électoral"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "ralliement"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, التجمع الوطني للأحرار",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع, الحملة الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 11,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 8,
+        "evidence": [
+          "réalisations"
+        ]
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "proximité"
+        ]
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 3,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_b218e94a9853",
+    "stance_analyzed_at": "2026-08-11T04:52:17.755980+00:00"
+  },
+  {
     "id": "7d2fe087a739a839",
     "source_id": "lesiteinfo",
     "source_name": "LeSiteInfo",
