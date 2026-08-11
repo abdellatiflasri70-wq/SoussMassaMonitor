@@ -141,6 +141,313 @@
     "stance_analyzed_at": "2026-08-11T04:52:17.755980+00:00"
   },
   {
+    "id": "735a61376d16f34a",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "معركة المقعدين بتيزنيت.. هل يعيد تنافس لقجع وأخنوش سيناريو 2016 ويمنح الاستقلال فرصة قلب الموازين؟ | agadir24.info",
+    "url": "https://agadir24.info/%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%B9%D8%AF%D9%8A%D9%86-%D8%A8%D8%AA%D9%8A%D8%B2%D9%86%D9%8A%D8%AA-%D9%87%D9%84-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%AA%D9%86%D8%A7%D9%81%D8%B3-%D9%84.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-08-10",
+    "first_seen_at": "2026-08-11T16:08:19.205771+00:00",
+    "last_checked_at": "2026-08-11T16:08:19.205771+00:00",
+    "language": "ar",
+    "excerpt": "لم تعد الانتخابات التشريعية المقبلة في دائرة تيزنيت مجرد منافسة تقليدية على مقعدين برلمانيين، بعدما أدت التحركات الحزبية الأخيرة، وانتقال عدد من الفاعلين بين التنظيمات",
+    "word_count": 2898,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        },
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        },
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_084",
+          "name": "عبد الله غازي",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "انتخابية",
+            "اقتراع",
+            "التصويت",
+            "صناديق الاقتراع"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح",
+            "تزكية",
+            "مرشحا"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "التحالفات",
+            "أغلبية",
+            "معارضة",
+            "صراع",
+            "انقسام"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "عدد الأصوات",
+            "نسبة المشاركة",
+            "المقاعد"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "بلاغ"
+          ]
+        },
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "يلتحق"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "الأغلبية الحكومية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال, حزب الأصالة والمعاصرة, التجمع الوطني للأحرار, حزب العدالة والتنمية",
+        "شخصيات رئيسية: فوزي لقجع, عزيز أخنوش, عبد الله غازي",
+        "مواضيع سياسية: الانتخابات والاقتراع, الترشح والتزكية, التحالفات والخلافات السياسية, النتائج والاستطلاعات الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 10,
+        "editorial_segment_count": 9,
+        "reported_segment_count": 1,
+        "evidence": [
+          "نجاح"
+        ]
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 1,
+        "mention_count": 35,
+        "editorial_segment_count": 10,
+        "reported_segment_count": 25,
+        "evidence": [
+          "تراجع"
+        ]
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "mixed",
+        "label_ar": "مختلط",
+        "confidence": "high",
+        "positive_score": 6,
+        "negative_score": 4,
+        "mention_count": 49,
+        "editorial_segment_count": 32,
+        "reported_segment_count": 17,
+        "evidence": [
+          "يفوز",
+          "فاز",
+          "ثقة"
+        ]
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 2,
+        "negative_score": 1,
+        "mention_count": 10,
+        "editorial_segment_count": 5,
+        "reported_segment_count": 5,
+        "evidence": [
+          "يفوز",
+          "تراجع",
+          "نجح"
+        ]
+      },
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 1,
+        "mention_count": 5,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 1,
+        "evidence": [
+          "تراجع",
+          "نجح"
+        ]
+      },
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 1,
+        "mention_count": 4,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 0,
+        "evidence": [
+          "تراجع",
+          "نجح"
+        ]
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 13,
+        "editorial_segment_count": 6,
+        "reported_segment_count": 7,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 8,
+        "editorial_segment_count": 6,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_084",
+        "target_type": "person",
+        "target_name": "عبد الله غازي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_735a61376d16",
+    "stance_analyzed_at": "2026-08-11T16:08:19.205771+00:00"
+  },
+  {
     "id": "7d2fe087a739a839",
     "source_id": "lesiteinfo",
     "source_name": "LeSiteInfo",
