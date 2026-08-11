@@ -3820,5 +3820,68 @@
     "title": "الفنان نبيل عطيف يكشف حقيقة انتمائه لحزب “الاتحاد الدستوري”",
     "status": "excluded",
     "checked_at": "2026-08-11T16:08:19.205771+00:00"
+  },
+  "https://alyaoum24.com/2037873.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "عامل تارودانت يدعو إلى تعزيز انخراط مغاربة العالم في تحقيق التنمية بالإقليم – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-08-11T20:28:03.389616+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84-%d8%a7%d9%84%d8%b2%d9%8a%d8%aa%d9%88%d9%86%d9%8a-%d9%8a%d9%86%d9%81%d9%8a-%d9%85%d8%ba%d8%a7%d8%af%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d8%ad%d8%b1%d8%a7%d8%b1.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "اسماعيل الزيتوني ينفي مغادرة \"الاحرار \"ويؤكد دعمه للحزب في جهة سوس ماسة | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-08-11T20:28:03.389616+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a%d8%a9-2026-%d8%b5%d8%b1%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d8%b2%d9%83%d9%8a%d8%a9-%d8%a8.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "الانتخابات التشريعية 2026.. صراع التزكية بين عزيز الإدريسي وحسن أومريبط قد يهدد مقعد الحزب بعمالة أكادير إداوتنان | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-08-11T20:28:03.389616+00:00"
+  },
+  "https://agadir24.info/%d8%aa%d8%af%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%ad%d9%8a%d9%86-%d9%88%d8%a7%d9%84%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%b5%d8%a7%d8%ad%d8%a8-%d8%a7%d9%84%d8%b4%d9%83%d8%a7%d8%b1.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تدوير المرشحين والبحث عن «صاحب الشكارة».. حين يتحول الناخب إلى رقم بلا موقف | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-08-11T20:28:03.389616+00:00"
+  },
+  "https://agadir24.info/%d8%ad%d8%b6%d9%88%d8%b1-%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1%d9%8a-%d9%84%d8%a7%d9%81%d8%aa-%d8%a8%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "حضور جماهيري لافت بأكادير.. الاتحاد الاشتراكي يفتح ملف العدالة المجالية ورهانات التنمية بإقليم أكادير إداوتنان. | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-08-11T20:28:03.389616+00:00"
+  },
+  "https://al3omk.com/1180135.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "إقليم تارودانت.. كلب ضال ينهش وجه طفل بأحمر الكلالشة",
+    "status": "excluded",
+    "checked_at": "2026-08-11T20:28:03.389616+00:00"
+  },
+  "https://fr.le360.ma/politique/inondations-pas-de-recuperation-electorale-pour-les-aides-durgence_4IWXNJTDQ5HONFVTCHGUFPHICU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Inondations: pas de récupération électorale pour les aides d’urgence",
+    "status": "excluded",
+    "checked_at": "2026-08-11T20:28:03.389616+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-a-rabat-la-bataille-des-tenors-est-lancee_FZW3PGRZBNFKNMUMXKI2P3ZQDU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives à Rabat: la bataille des ténors est lancée",
+    "status": "excluded",
+    "checked_at": "2026-08-11T20:28:03.389616+00:00"
+  },
+  "https://www.assahifa.com/%d8%a3%d9%84%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%85%d9%84%d8%aa%d8%b2%d9%85-%d8%a8%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%ac%d9%85%d9%8a%d8%b9-%d9%85%d9%86-%d8%af%d8%ae": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "ألباريس: المغرب ملتزم بإعادة جميع من دخلوا إلى سبتة ولا يوجد أي خلاف بين البلدين وأتواصل مع بوريطة بشكل مستمر",
+    "status": "excluded",
+    "checked_at": "2026-08-11T20:28:03.389616+00:00"
   }
 }

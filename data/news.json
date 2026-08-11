@@ -448,6 +448,292 @@
     "stance_analyzed_at": "2026-08-11T16:08:19.205771+00:00"
   },
   {
+    "id": "a91ca33d7c66f0b9",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "اسماعيل الزيتوني ينفي مغادرة \"الاحرار \"ويؤكد دعمه للحزب في جهة سوس ماسة | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86%D9%8A-%D9%8A%D9%86%D9%81%D9%8A-%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%B1%D8%A7%D8%B1.html",
+    "author": "أكادير",
+    "published_at": "2026-08-10",
+    "first_seen_at": "2026-08-11T20:28:03.389616+00:00",
+    "last_checked_at": "2026-08-11T20:28:03.389616+00:00",
+    "language": "ar",
+    "excerpt": "نفى مصدر مقرب من إسماعيل الزيتوني، رئيس فريق أولمبيك الدشيرة، ما يتم تداوله بخصوص نية هذا الأخير مغادرة حزب التجمع الوطني للأحرار والالتحاق بحزب الأصالة",
+    "word_count": 112,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "إنزكان أيت ملول",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "الدشيرة الجهادية"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_049",
+          "name": "إسماعيل الزيتوني",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: عزيز أخنوش, إسماعيل الزيتوني"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_049",
+        "target_type": "person",
+        "target_name": "إسماعيل الزيتوني",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_a91ca33d7c66",
+    "stance_analyzed_at": "2026-08-11T20:28:03.389616+00:00"
+  },
+  {
+    "id": "d29dcf9c6bd0c2c0",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "الانتخابات التشريعية 2026.. صراع التزكية بين عزيز الإدريسي وحسن أومريبط قد يهدد مقعد الحزب بعمالة أكادير إداوتنان | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9-2026-%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B2%D9%83%D9%8A%D8%A9-%D8%A8.html",
+    "author": "أكادير",
+    "published_at": "2026-08-10",
+    "first_seen_at": "2026-08-11T20:28:03.389616+00:00",
+    "last_checked_at": "2026-08-11T20:28:03.389616+00:00",
+    "language": "ar",
+    "excerpt": "مع اقتراب موعد الانتخابات التشريعية لسنة 2026، حُسمت التزكية الحزبية بعمالة أكادير إداوتنان لصالح حسن أومريبط، بعد صراع داخلي مع عزيز الإدريسي، رئيس جماعة تدرارت،",
+    "word_count": 124,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "صراع"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_d29dcf9c6bd0",
+    "stance_analyzed_at": "2026-08-11T20:28:03.389616+00:00"
+  },
+  {
+    "id": "a2944b914d22cff5",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "حضور جماهيري لافت بأكادير.. الاتحاد الاشتراكي يفتح ملف العدالة المجالية ورهانات التنمية بإقليم أكادير إداوتنان. | agadir24.info",
+    "url": "https://agadir24.info/%D8%AD%D8%B6%D9%88%D8%B1-%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1%D9%8A-%D9%84%D8%A7%D9%81%D8%AA-%D8%A8%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF.html",
+    "author": "أكادير",
+    "published_at": "2026-08-10",
+    "first_seen_at": "2026-08-11T20:28:03.389616+00:00",
+    "last_checked_at": "2026-08-11T20:28:03.389616+00:00",
+    "language": "ar",
+    "excerpt": "احتضنت غرفة التجارة والصناعة والخدمات بأكادير مساء الأحد 9 غشت 2026، لقاء تواصليا نظمته الكتابة الإقليمية للاتحاد الاشتراكي للقوات الشعبية بأكادير إداوتنان تحت شعار: «العدالة",
+    "word_count": 329,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: الاتحاد الاشتراكي للقوات الشعبية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_a2944b914d22",
+    "stance_analyzed_at": "2026-08-11T20:28:03.389616+00:00"
+  },
+  {
     "id": "7d2fe087a739a839",
     "source_id": "lesiteinfo",
     "source_name": "LeSiteInfo",
