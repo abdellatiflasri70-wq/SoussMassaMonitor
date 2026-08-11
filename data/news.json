@@ -1986,6 +1986,208 @@
     "stance_analyzed_at": "2026-08-09T19:52:19.216070+00:00"
   },
   {
+    "id": "2d32a40d25cbe528",
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "من ميركاتو أخنوش إلى المعقول والعمل عند لقجع.. صراع إعادة ترتيب موازين القوة داخل الأغلبية قبل انتخابات شتنبر",
+    "url": "https://www.assahifa.com/%D9%85%D9%86-%D9%85%D9%8A%D8%B1%D9%83%D8%A7%D8%AA%D9%88-%D8%A3%D8%AE%D9%86%D9%88%D8%B4-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B9%D9%82%D9%88%D9%84-%D9%88%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%B9",
+    "author": null,
+    "published_at": "2026-07-31",
+    "first_seen_at": "2026-08-11T09:44:00.045388+00:00",
+    "last_checked_at": "2026-08-11T09:44:00.045388+00:00",
+    "language": "ar",
+    "excerpt": "من \"ميركاتو\" أخنوش إلى \"المعقول والعمل\" عند لقجع.. صراع إعادة ترتيب موازين القوة داخل الأغلبية قبل انتخابات شتنبر لم يكن ظهور فوزي لقجع، الوزير المنتدب",
+    "word_count": 595,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "استحقاقات",
+            "انتخابية",
+            "اقتراع"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "صراع",
+            "تحالف",
+            "أغلبية"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة",
+            "الأغلبية الحكومية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "تجمع انتخابي"
+          ]
+        },
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "يلتحق"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "انتقد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, حزب الاستقلال",
+        "شخصيات رئيسية: عزيز أخنوش, فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع, التحالفات والخلافات السياسية, السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 8,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 8,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 5,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 10,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 9,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_2d32a40d25cb",
+    "stance_analyzed_at": "2026-08-11T09:44:00.045388+00:00"
+  },
+  {
     "id": "61717e89cb074426",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",

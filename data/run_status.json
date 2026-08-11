@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-08-11T04:52:17.755980+00:00",
+  "run_at": "2026-08-11T09:44:00.045388+00:00",
   "sources": 18,
   "links_discovered": 119,
   "known_skipped": 115,
@@ -9,18 +9,18 @@
   "new_articles": 1,
   "updated_articles": 0,
   "excluded": 2,
-  "total_saved": 80,
-  "events": 75,
-  "errors": 7,
+  "total_saved": 81,
+  "events": 76,
+  "errors": 6,
   "source_details": [
     {
       "source_name": "Le360",
-      "links_discovered": 11,
-      "known_skipped": 10,
-      "new_candidates": 1,
-      "extraction_success": 1,
-      "accepted": 1,
-      "excluded": 0,
+      "links_discovered": 13,
+      "known_skipped": 11,
+      "new_candidates": 2,
+      "extraction_success": 2,
+      "accepted": 0,
+      "excluded": 2,
       "errors": 0
     },
     {
@@ -95,8 +95,8 @@
     },
     {
       "source_name": "اشتوكة بريس",
-      "links_discovered": 4,
-      "known_skipped": 4,
+      "links_discovered": 0,
+      "known_skipped": 0,
       "new_candidates": 0,
       "extraction_success": 0,
       "accepted": 0,
@@ -105,12 +105,12 @@
     },
     {
       "source_name": "الصحيفة",
-      "links_discovered": 1,
-      "known_skipped": 0,
+      "links_discovered": 2,
+      "known_skipped": 1,
       "new_candidates": 1,
       "extraction_success": 1,
-      "accepted": 0,
-      "excluded": 1,
+      "accepted": 1,
+      "excluded": 0,
       "errors": 0
     },
     {
@@ -165,13 +165,13 @@
     },
     {
       "source_name": "تيزنيت24",
-      "links_discovered": 0,
-      "known_skipped": 0,
+      "links_discovered": 1,
+      "known_skipped": 1,
       "new_candidates": 0,
       "extraction_success": 0,
       "accepted": 0,
       "excluded": 0,
-      "errors": 1
+      "errors": 0
     },
     {
       "source_name": "مشاهد أنفو",
@@ -186,11 +186,11 @@
     {
       "source_name": "هسبريس",
       "links_discovered": 2,
-      "known_skipped": 1,
-      "new_candidates": 1,
-      "extraction_success": 1,
+      "known_skipped": 2,
+      "new_candidates": 0,
+      "extraction_success": 0,
       "accepted": 0,
-      "excluded": 1,
+      "excluded": 0,
       "errors": 0
     }
   ]
