@@ -3974,5 +3974,47 @@
     "title": "Loi sur les avocats: la Cour constitutionnelle dans l’impossibilité de statuer",
     "status": "excluded",
     "checked_at": "2026-08-12T15:34:11.353348+00:00"
+  },
+  "https://ar.le360.ma/politique/RGLRLTOEGRBDDIWLGKIQFFOSYE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لشكر: لقجع ليس بديلا عن أخنوش",
+    "status": "excluded",
+    "checked_at": "2026-08-12T20:25:21.454676+00:00"
+  },
+  "https://ar.le360.ma/politique/OJXIWOL47JDYHIUWWIPOWTLIJA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلماني يسائل بركة عن أسباب توقف أشغال تأهيل طريق وطينة بإقليم الحسيمة رغم أهميتها للسكان",
+    "status": "excluded",
+    "checked_at": "2026-08-12T20:25:21.454676+00:00"
+  },
+  "https://fr.le360.ma/politique/projet-de-loi-sur-la-profession-davocat-incertitude-majeure-sur-le-sort-de-la-reforme_SDLR4ZTEGBBGLPMZY2OEL5KIXQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Projet de loi sur la profession d’avocat: incertitude majeure sur le sort de la réforme",
+    "status": "excluded",
+    "checked_at": "2026-08-12T20:25:21.454676+00:00"
+  },
+  "https://fr.le360.ma/politique/investitures-a-rabat-le-casse-tete-des-partis-a-trois-mois-des-elections-legislatives_4Y4GIQHG3NFNHJM7AQNQVQAL4M": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Investitures à Rabat: le casse-tête des partis à trois mois des élections législatives",
+    "status": "excluded",
+    "checked_at": "2026-08-12T20:25:21.454676+00:00"
+  },
+  "https://fr.le360.ma/politique/le-pp-accuse-desormais-le-maroc-et-marche-sur-les-pas-de-vox_BC7MY56YPFGXLNCXWL3OZI76BY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le PP accuse désormais le Maroc et marche sur les pas de Vox",
+    "status": "excluded",
+    "checked_at": "2026-08-12T20:25:21.454676+00:00"
+  },
+  "https://fr.le360.ma/politique/diplomatie-christopher-deutsch-prend-la-tete-du-consulat-americain-a-casablanca_TQEP3IPAXNCYRH65RTLEMKFNKQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Diplomatie: Christopher Deutsch prend la tête du consulat américain à Casablanca",
+    "status": "excluded",
+    "checked_at": "2026-08-12T20:25:21.454676+00:00"
   }
 }
