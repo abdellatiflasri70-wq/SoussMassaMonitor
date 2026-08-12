@@ -3883,5 +3883,33 @@
     "title": "ألباريس: المغرب ملتزم بإعادة جميع من دخلوا إلى سبتة ولا يوجد أي خلاف بين البلدين وأتواصل مع بوريطة بشكل مستمر",
     "status": "excluded",
     "checked_at": "2026-08-11T20:28:03.389616+00:00"
+  },
+  "https://al3omk.com/1180188.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "مشروع قانون المالية لسنة 2027 بدون التمويلات المبتكرة: كيف ولماذا الآن؟ (2/2)",
+    "status": "excluded",
+    "checked_at": "2026-08-12T09:48:38.399436+00:00"
+  },
+  "https://al3omk.com/1180185.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "مذكرة تأطير مشروع قانون المالية لسنة 2027: أي رهانات للحكامة الميزانياتية؟",
+    "status": "excluded",
+    "checked_at": "2026-08-12T09:48:38.399436+00:00"
+  },
+  "https://ar.le360.ma/politique/IABG5GHMNBH73MSFYX3J457GPY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "حزب الحركة الديمقراطية والاجتماعية يخوض التشريعيات بـ60% من الدوائر و3 نساء على رأس اللوائح",
+    "status": "excluded",
+    "checked_at": "2026-08-12T09:48:38.399436+00:00"
+  },
+  "https://fr.le360.ma/politique/a-sebta-albares-salue-la-cooperation-pleine-et-entiere-du-maroc_GLURJJLOQBDK3DX6S3DDNYPCHY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "À Sebta, Albares salue la coopération pleine et entière du Maroc",
+    "status": "excluded",
+    "checked_at": "2026-08-12T09:48:38.399436+00:00"
   }
 }
