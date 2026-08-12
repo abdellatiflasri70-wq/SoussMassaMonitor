@@ -3911,5 +3911,68 @@
     "title": "À Sebta, Albares salue la coopération pleine et entière du Maroc",
     "status": "excluded",
     "checked_at": "2026-08-12T09:48:38.399436+00:00"
+  },
+  "https://www.chtoukapress.com/305966.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بيان لوزارة الداخلية بشأن الدعوات لاقتحام سبتة ومليلية يوم 15 غشت 2026",
+    "status": "excluded",
+    "checked_at": "2026-08-12T15:34:11.353348+00:00"
+  },
+  "https://alyaoum24.com/2038049.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "أزمة إحالة قانون المحاماة: حين يتحول تصلب الأغلبية إلى عجز سياسي ومؤسساتي و قانوني – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-08-12T15:34:11.353348+00:00"
+  },
+  "https://al3omk.com/1180152.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الاتحاد الوطني للتعليم يطرح 15 التزاما لتسوية ملفات الشغيلة التعليمية قبل تشريعيات 2026",
+    "status": "excluded",
+    "checked_at": "2026-08-12T15:34:11.353348+00:00"
+  },
+  "https://al3omk.com/1180260.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تطورات حالة الطفل “زكرياء” بتارودانت.. جراحة مستعجلة وتحسن تدريجي بعد هجوم مباغت لكلب ضال",
+    "status": "excluded",
+    "checked_at": "2026-08-12T15:34:11.353348+00:00"
+  },
+  "https://ar.le360.ma/politique/WNRNMTWRERHCDNESFVVRLKLSFM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "وزراء سابقون وحاليون في سباق مفتوح على أربعة مقاعد بدائرة «المحيط»",
+    "status": "excluded",
+    "checked_at": "2026-08-12T15:34:11.353348+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-le-pps-annoncera-son-programme-electoral-le-1-septembre_Y3GVZI5YZ5DX3OHHLC6Y4BEILU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: le PPS annoncera son programme électoral le 1ᵉʳ septembre",
+    "status": "excluded",
+    "checked_at": "2026-08-12T15:34:11.353348+00:00"
+  },
+  "https://fr.le360.ma/politique/le-general-pakistanais-jawwad-ahmed-nomme-a-la-tete-de-la-minurso_CWJ2X73XZNA5RJP3NBUXJJE7RY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le général pakistanais Jawwad Ahmed nommé à la tête de la MINURSO",
+    "status": "excluded",
+    "checked_at": "2026-08-12T15:34:11.353348+00:00"
+  },
+  "https://fr.le360.ma/politique/tan-tan-le-maroc-et-les-etats-unis-inaugurent-une-nouvelle-ere-dessais-militaires_4CKKBZMB35EBPJM7IE6DQORUSA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Tan-Tan: le Maroc et les États-Unis inaugurent une nouvelle ère d’essais militaires",
+    "status": "excluded",
+    "checked_at": "2026-08-12T15:34:11.353348+00:00"
+  },
+  "https://fr.le360.ma/politique/loi-sur-les-avocats-la-cour-constitutionnelle-dans-limpossibilite-de-statuer_POSHWJVZGRCRRCHRR2ERKSJYEE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Loi sur les avocats: la Cour constitutionnelle dans l’impossibilité de statuer",
+    "status": "excluded",
+    "checked_at": "2026-08-12T15:34:11.353348+00:00"
   }
 }
