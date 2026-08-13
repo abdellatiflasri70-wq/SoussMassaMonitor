@@ -4030,5 +4030,33 @@
     "title": "بامتيازات ضريبية وتسهيلات جمركية.. لقجع يكشف تحفيزات حكومية جديدة للفنانين",
     "status": "excluded",
     "checked_at": "2026-08-13T09:50:16.507111+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-mohamed-el-gharass-ex-secretaire-detat-une-candidature-de-poids-pour-le-mds_CJDRBIODEFFPFNJRY7XNE5NJWQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: Mohamed El Gharass, ex-secrétaire d’État, une candidature de poids pour le MDS",
+    "status": "excluded",
+    "checked_at": "2026-08-13T15:37:16.791383+00:00"
+  },
+  "https://al3omk.com/1180567.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "سوفان يفاجئ بركة ويسحب ترشحه بألوان “الاستقلال” بإقليم تاونات",
+    "status": "excluded",
+    "checked_at": "2026-08-13T15:37:16.791383+00:00"
+  },
+  "https://www.assahifa.com/%d8%ac%d9%8a%d9%84-%d8%b2%d8%af-%d9%81%d9%8a-%d8%aa%d9%88%d9%86%d8%b3-%d9%8a%d8%b7%d9%84%d9%82-%d8%b9%d8%b1%d9%8a%d8%b6%d8%a9-%d9%84%d9%84%d9%85%d8%b7%d8%a7%d9%84%d8%a8%d8%a9-%d8%a8%d8%b1%d8%ad": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "جيل زد في تونس يطلق عريضة للمطالبة برحيل قيس سعيّد وتنظيم انتخابات مبكرة",
+    "status": "excluded",
+    "checked_at": "2026-08-13T15:37:16.791383+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%81%d8%aa%d8%aa%d8%a7%d8%ad%d9%8a%d8%a9-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%b3%d9%86%d8%b0%d9%87%d8%a8-%d8%a5%d9%84%d9%89-%d8%b5%d9%86%d8%a7%d8%af%d9%8a%d9%82-%d8%a7%d9%84%d8%a7%d9%82%d8%aa": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لماذا سنذهب إلى صناديق الاقتراع لننتخب؟",
+    "status": "excluded",
+    "checked_at": "2026-08-13T15:37:16.791383+00:00"
   }
 }
