@@ -4058,5 +4058,47 @@
     "title": "لماذا سنذهب إلى صناديق الاقتراع لننتخب؟",
     "status": "excluded",
     "checked_at": "2026-08-13T15:37:16.791383+00:00"
+  },
+  "https://al3omk.com/1180535.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "“قايد الواد”.. مسرحية تفكك صراع السلطة والكرامة على خشبة “محمد الخامس”",
+    "status": "excluded",
+    "checked_at": "2026-08-13T20:07:02.046652+00:00"
+  },
+  "https://al3omk.com/1180598.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تأجيل محاكمة الرابور T-FLOW بفاس على خلفية إهانة موظفين عموميين",
+    "status": "excluded",
+    "checked_at": "2026-08-13T20:07:02.046652+00:00"
+  },
+  "https://thepress.ma/%d9%85%d9%86%d8%b8%d9%85%d8%a7%d8%aa-%d9%85%d9%87%d9%86%d9%8a%d8%a9-%d8%aa%d8%b7%d8%a7%d9%84%d8%a8-%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d8%a8%d8%a7%d9%84%d8%aa%d8%af%d8%ae%d9%84-%d9%84%d8%aa%d8%a3%d8%ac": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "منظمات مهنية تطالب أخنوش بالتدخل لتأجيل انتخابات المجلس الوطني للصحافة",
+    "status": "excluded",
+    "checked_at": "2026-08-13T20:07:02.046652+00:00"
+  },
+  "https://fr.le360.ma/politique/saisine-rejetee-par-la-cour-constitutionnelle-pour-leur-projet-de-loi-les-avocats-exigent-que-les_XFNQUKRGUBBAFAFYUNOMXXXOFM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Saisine rejetée par la Cour constitutionnelle: pour leur projet de loi, les avocats exigent que les responsabilités soient établies",
+    "status": "excluded",
+    "checked_at": "2026-08-13T20:07:02.046652+00:00"
+  },
+  "https://fr.le360.ma/politique/extraditions-entre-le-maroc-et-lespagne-pourquoi-rabat-envisage-de-suspendre-un-pilier-de-la_I6L7CGKAY5FY7PMXLEZUE6CCAY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Extraditions entre le Maroc et l’Espagne, pourquoi Rabat envisage de suspendre un pilier de la coopération judiciaire",
+    "status": "excluded",
+    "checked_at": "2026-08-13T20:07:02.046652+00:00"
+  },
+  "https://fr.le360.ma/politique/cooperation-maroc-espagne-albares-qualifie-rabat-de-partenaire-essentiel_WE3S7TORT5CYVPAY6F3POJR3MI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Coopération Maroc-Espagne: Albares qualifie Rabat de «partenaire essentiel»",
+    "status": "excluded",
+    "checked_at": "2026-08-13T20:07:02.046652+00:00"
   }
 }
