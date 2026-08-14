@@ -1,5 +1,91 @@
 [
   {
+    "id": "388f0594938391be",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "مصدر ينفي مزاعم تعرض أخنوش لحادث سير بأكادير",
+    "url": "https://al3omk.com/1180719.html",
+    "author": "العمق المغربي",
+    "published_at": "2026-08-13",
+    "first_seen_at": "2026-08-14T15:11:08.012972+00:00",
+    "last_checked_at": "2026-08-14T15:11:08.012972+00:00",
+    "language": "ar",
+    "excerpt": "نفى مصدر مقرب من رئيس الحكومة، عزيز أخنوش، صحة المزاعم المتداولة بشأن تعرضه لحادث سير بمدينة أكادير، مؤكدا أن هذه الادعاءات “لا أساس لها من",
+    "word_count": 139,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أورير"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_388f05949383",
+    "stance_analyzed_at": "2026-08-14T15:11:08.012972+00:00"
+  },
+  {
     "id": "280362bf5e3cbfbb",
     "source_id": "agadir24",
     "source_name": "أكادير24",

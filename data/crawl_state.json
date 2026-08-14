@@ -4128,5 +4128,19 @@
     "title": "وزير العدل يصعد لهجته تجاه إسبانيا",
     "status": "excluded",
     "checked_at": "2026-08-14T09:44:56.139808+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-marocain-et-bataille-du-sens-comment-sest-fabrique-le-recit-du-conflit_HJ3DC53UJ5B57FM255FEG2ELMM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara marocain et bataille du sens: comment s’est fabriqué le récit du conflit?",
+    "status": "excluded",
+    "checked_at": "2026-08-14T15:11:08.012972+00:00"
+  },
+  "https://al3omk.com/1180719.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "مصدر ينفي مزاعم تعرض أخنوش لحادث سير بأكادير",
+    "status": "accepted",
+    "checked_at": "2026-08-14T15:11:08.012972+00:00"
   }
 }
