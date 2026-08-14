@@ -4100,5 +4100,26 @@
     "title": "Coopération Maroc-Espagne: Albares qualifie Rabat de «partenaire essentiel»",
     "status": "excluded",
     "checked_at": "2026-08-13T20:07:02.046652+00:00"
+  },
+  "https://www.chtoukapress.com/306013.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بلاغ من وزارة الأوقاف والشؤون الإسلامية",
+    "status": "excluded",
+    "checked_at": "2026-08-14T05:50:05.022561+00:00"
+  },
+  "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%a7%d8%b3%d8%aa%d8%af%d8%b9%d8%a7%d8%a1-%d8%a8%d9%86%d9%8a%d8%b9%d9%8a%d8%b4-1791741.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "حزب إسباني يطالب باستدعاء بنيعيش",
+    "status": "excluded",
+    "checked_at": "2026-08-14T05:50:05.022561+00:00"
+  },
+  "https://al3omk.com/1180663.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "التقدم والاشتراكية يزكي السعيد الزعزاع بدائرة دمنات أزيلال",
+    "status": "excluded",
+    "checked_at": "2026-08-14T05:50:05.022561+00:00"
   }
 }
