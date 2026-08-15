@@ -4212,5 +4212,26 @@
     "title": "برلمانية تطالب بركة «بالتدخل العاجل» لحماية مياه دوار آيت بكر بإقليم الخميسات من نزيف الفلاحين الكبار",
     "status": "excluded",
     "checked_at": "2026-08-15T13:00:53.811826+00:00"
+  },
+  "https://www.assahifa.com/%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d9%85%d8%ad%d9%8a%d9%91%d9%86%d8%a9-%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d9%88%d8%a7%d8%ad%d8%af%d8%a9-%d8%b2%d9%88%d8%a7%d9%84%d8%a7-%d8%aa%d9%88%d9%82%d9%8a%d9%81-148": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "حصيلة محيّنة حتى الواحدة زوالا.. توقيف 148 مرشحا للهجرة غير النظامية بالفنيدق على خلفية محاولات العبور نحو سبتة",
+    "status": "excluded",
+    "checked_at": "2026-08-15T18:48:56.734018+00:00"
+  },
+  "https://ar.le360.ma/politique/Y6USRH6KVZEULO34YTJLXQV5LQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "حصيلة محينة: توقيف 294 مرشحا للهجرة غير النظامية بالفنيدق وإحباط تام لمحاولات التسلل نحو سبتة",
+    "status": "excluded",
+    "checked_at": "2026-08-15T18:48:56.734018+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-representativite-des-femmes-positionnement-a-gauche-fouzi-lekjaa-les-confidences_DIUA5UGPHRBNDCCNCRFR2POE7M": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: représentativité des femmes, positionnement à gauche, Fouzi Lekjaa… Les confidences de Mustapha Benali, SG du FFD",
+    "status": "excluded",
+    "checked_at": "2026-08-15T18:48:56.734018+00:00"
   }
 }
