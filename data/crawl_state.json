@@ -4233,5 +4233,33 @@
     "title": "Législatives 2026: représentativité des femmes, positionnement à gauche, Fouzi Lekjaa… Les confidences de Mustapha Benali, SG du FFD",
     "status": "excluded",
     "checked_at": "2026-08-15T18:48:56.734018+00:00"
+  },
+  "https://agadir24.info/%d8%a8%d9%82%d8%a8%d8%b9%d8%aa%d9%8a%d9%86-%d8%ad%d8%aa%d9%89-2027%d8%9f-%d8%a7%d9%84%d8%aa%d8%b1%d8%ad%d8%a7%d9%84-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a-%d9%8a%d8%b6%d8%b9-%d8%b1%d8%a4%d8%b3.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "بقبعتين حتى 2027؟ الترحال السياسي يضع رؤساء الجماعات والمنتخبين أمام امتحان القانون والأخلاق | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-08-16T13:02:35.878584+00:00"
+  },
+  "https://www.hespress.com/%d9%88%d8%b3%d8%a7%d8%b7%d8%a9-%d9%86%d8%a7%d8%ac%d8%ad%d8%a9-%d8%aa%d8%b9%d9%83%d8%b3-%d8%a7%d9%84%d9%86%d9%81%d9%88%d8%b0-%d8%a7%d9%84%d8%ac%d9%8a%d9%88-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a-%d9%84%d9%84-1792555.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "وساطة ناجحة تعكس النفوذ الجيو سياسي للمغرب في الساحل الإفريقي",
+    "status": "excluded",
+    "checked_at": "2026-08-16T13:02:35.878584+00:00"
+  },
+  "https://ar.le360.ma/politique/DVWDXLGEVJAZTC2GYS7Q7LWVV4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "تشريعيات 2026: بنعلي يعلق على تمثيلية النساء والتموقع يسارا والتحاق لقجع بالبام",
+    "status": "excluded",
+    "checked_at": "2026-08-16T13:02:35.878584+00:00"
+  },
+  "https://fr.le360.ma/politique/atteintes-aux-droits-de-lhomme-a-sebta-le-cndh-saisit-le-defenseur-du-peuple-espagnol_USVII6GZCVBNHPKODJYRLOS3WQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Atteintes aux droits de l’Homme à Sebta: le CNDH saisit le Défenseur du peuple espagnol",
+    "status": "excluded",
+    "checked_at": "2026-08-16T13:02:35.878584+00:00"
   }
 }

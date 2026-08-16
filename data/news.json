@@ -1,5 +1,173 @@
 [
   {
+    "id": "ffb4f5e5fadbc302",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "بقبعتين حتى 2027؟ الترحال السياسي يضع رؤساء الجماعات والمنتخبين أمام امتحان القانون والأخلاق | agadir24.info",
+    "url": "https://agadir24.info/%D8%A8%D9%82%D8%A8%D8%B9%D8%AA%D9%8A%D9%86-%D8%AD%D8%AA%D9%89-2027%D8%9F-%D8%A7%D9%84%D8%AA%D8%B1%D8%AD%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%8A%D8%B6%D8%B9-%D8%B1%D8%A4%D8%B3.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-08-15",
+    "first_seen_at": "2026-08-16T13:02:35.878584+00:00",
+    "last_checked_at": "2026-08-16T13:02:35.878584+00:00",
+    "language": "ar",
+    "excerpt": "تحولت الانتقالات الحزبية قبيل الانتخابات التشريعية المقررة يوم 23 شتنبر 2026 إلى ما يشبه «الميركاتو السياسي»، بعدما شرع عدد من المنتخبين والفاعلين المحليين في تغيير",
+    "word_count": 2497,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير",
+        "أورير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشح",
+            "الترشح",
+            "مرشح",
+            "تزكية",
+            "التزكيات"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "انتخابية",
+            "تشريعيات",
+            "اقتراع",
+            "التصويت"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "مجلس الجماعة",
+            "رئيس الجماعة",
+            "رئيس المجلس",
+            "جماعة ترابية"
+          ]
+        },
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "استقالة",
+            "استقالته",
+            "قدم استقالته"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "تحالف",
+            "أغلبية",
+            "خلاف"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نتائج الانتخابات",
+            "المقاعد"
+          ]
+        },
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "تجريد"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, حزب الأصالة والمعاصرة",
+        "مواضيع سياسية: الترشح والتزكية, الانتخابات والاقتراع, المجالس المنتخبة والتدبير المحلي, الاستقالة وتغيير الانتماء"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 5,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_ffb4f5e5fadb",
+    "stance_analyzed_at": "2026-08-16T13:02:35.878584+00:00"
+  },
+  {
     "id": "388f0594938391be",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",
