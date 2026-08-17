@@ -4282,5 +4282,19 @@
     "title": "Le dispositif d’alerte renforcé à Fnideq, le retour des migrants de Sebta se poursuit",
     "status": "excluded",
     "checked_at": "2026-08-16T18:48:22.750666+00:00"
+  },
+  "https://al3omk.com/1181109.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "حزب سوري يطالب بإقالة وزير الإعلام وإلغاء الوزارة لبناء مؤسسات تليق بتضحيات الشعب",
+    "status": "excluded",
+    "checked_at": "2026-08-17T01:56:57.601026+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-linterieur-verrouille-les-communes-et-cible-le-detournement-des-documents_I5OAAHVH6BF7LPNXT3FW7EILGM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: l’Intérieur verrouille les communes et cible le détournement des documents administratifs",
+    "status": "excluded",
+    "checked_at": "2026-08-17T01:56:57.601026+00:00"
   }
 }
