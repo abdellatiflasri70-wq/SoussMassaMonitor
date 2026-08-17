@@ -4303,5 +4303,61 @@
     "title": "سباق \"التزكيات النسائية\" يشتد داخل الأحزاب استعدادا للانتخابات التشريعية",
     "status": "excluded",
     "checked_at": "2026-08-17T13:08:37.609284+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/680307-avec-fouzi-lekjaa-le-pam-se-mobilise-a-sidi-slimane-photos.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Avec Fouzi Lekjaa, le PAM se mobilise à Sidi Slimane (photos)",
+    "status": "excluded",
+    "checked_at": "2026-08-17T18:59:57.561340+00:00"
+  },
+  "https://al3omk.com/1181208.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أزيد من 360 عضوا بـ”البام” يطالبون بإعادة النظر في تزكية الحجوبي بجهة فاس",
+    "status": "excluded",
+    "checked_at": "2026-08-17T18:59:57.561340+00:00"
+  },
+  "https://al3omk.com/1181267.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "ماذا سيُغير الذكاء الاصطناعي في حملات انتخابات شتنبر 2026؟",
+    "status": "excluded",
+    "checked_at": "2026-08-17T18:59:57.561340+00:00"
+  },
+  "https://www.assahifa.com/%d9%81%d9%8a-%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a-%d9%84%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%af%d8%b9%d9%88-%d8%a5": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "في تجمع انتخابي لحزب البام.. لقجع يدعو إلى المساهمة في الوصول إلى مغرب يسير بسرعة واحدة",
+    "status": "excluded",
+    "checked_at": "2026-08-17T18:59:57.561340+00:00"
+  },
+  "https://ar.le360.ma/politique/T6YTOUPFOFF5HNZCY4IRWKZRV4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "حزب الاستقلال يضع الحكم الذاتي والتنمية بالأقاليم الجنوبية في صلب خطابه للمرحلة المقبلة",
+    "status": "accepted",
+    "checked_at": "2026-08-17T18:59:57.561340+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-lusfp-veut-traduire-la-croissance-economique-en-impacts-sur-la-vie-des-marocains_UWGCHIBGRZCBXPX6JZ5HRPDWWI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026. «L’USFP veut traduire la croissance économique en impacts sur la vie des Marocains», selon El Hassan Lachgar",
+    "status": "excluded",
+    "checked_at": "2026-08-17T18:59:57.561340+00:00"
+  },
+  "https://fr.le360.ma/politique/consideration_ICWMYUJYQZH6XO4W7DAJSKBSOQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Considération",
+    "status": "excluded",
+    "checked_at": "2026-08-17T18:59:57.561340+00:00"
+  },
+  "https://fr.le360.ma/politique/nominations-en-catimini-a-lautorite-de-regulation-de-lelectricite_GW6RUOEMLVALBG6CTSUXYQSAPM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Nominations en catimini à l’Autorité de régulation de l’électricité",
+    "status": "excluded",
+    "checked_at": "2026-08-17T18:59:57.561340+00:00"
   }
 }

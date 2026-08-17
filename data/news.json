@@ -1,5 +1,95 @@
 [
   {
+    "id": "489f920967885dbc",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "حزب الاستقلال يضع الحكم الذاتي والتنمية بالأقاليم الجنوبية في صلب خطابه للمرحلة المقبلة",
+    "url": "https://ar.le360.ma/politique/T6YTOUPFOFF5HNZCY4IRWKZRV4",
+    "author": "يسرى جوال",
+    "published_at": "2026-08-16",
+    "first_seen_at": "2026-08-17T18:59:57.561340+00:00",
+    "last_checked_at": "2026-08-17T18:59:57.561340+00:00",
+    "language": "ar",
+    "excerpt": "وفي كلمة له بالمناسبة، ربط بركة اختيار الداخلة بالمسار السياسي الذي واكب فيه الحزب تطورات قضية الوحدة الترابية، مشيرا إلى أن حضوره في المنطقة امتد",
+    "word_count": 436,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تزنيت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات",
+            "استحقاقات"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_489f92096788",
+    "stance_analyzed_at": "2026-08-17T18:59:57.561340+00:00"
+  },
+  {
     "id": "ffb4f5e5fadbc302",
     "source_id": "agadir24",
     "source_name": "أكادير24",
