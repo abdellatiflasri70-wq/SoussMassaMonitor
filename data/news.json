@@ -90,6 +90,205 @@
     "stance_analyzed_at": "2026-08-17T18:59:57.561340+00:00"
   },
   {
+    "id": "69fbb33ed3d0bbda",
+    "source_id": "taroudantalaan",
+    "source_name": "تارودانت الآن",
+    "title": "“إنصات تارودانت”.. الاتحاد الاشتراكي يطلق منصة رقمية لتعزيز المشاركة المواطنة بالإقليم | تارودانت الآن الإخبارية",
+    "url": "https://taroudantalaan.ma/politique/%D8%A5%D9%86%D8%B5%D8%A7%D8%AA-%D8%AA%D8%A7%D8%B1%D9%88%D8%AF%D8%A7%D9%86%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%D9%8A-%D9%8A%D8%B7",
+    "author": "تارودانت الآن الإخبارية",
+    "published_at": "2026-08-16",
+    "first_seen_at": "2026-08-18T01:52:32.284685+00:00",
+    "last_checked_at": "2026-08-18T01:52:32.284685+00:00",
+    "language": "ar",
+    "excerpt": "أعلنت الكتابة الإقليمية لحزب الاتحاد الاشتراكي للقوات الشعبية بإقليم تارودانت عن الإطلاق الرسمي لمنصة «إنصات تارودانت»، باعتبارها فضاء رقميا يروم تعزيز التواصل والإنصات والمشاركة المواطنة،",
+    "word_count": 281,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: الاتحاد الاشتراكي للقوات الشعبية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_69fbb33ed3d0",
+    "stance_analyzed_at": "2026-08-18T01:52:32.284685+00:00"
+  },
+  {
+    "id": "4b248900228ba054",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: Lekjaa déclenche un véritable mercato électoral en faveur du PAM",
+    "url": "https://fr.le360.ma/politique/legislatives-2026-lekjaa-declenche-un-veritable-mercato-electoral-en-faveur-du-pam_VHYGPFIEXJAA7ONYTE5V2UL6DM",
+    "author": "Par le",
+    "published_at": "2026-08-16",
+    "first_seen_at": "2026-08-18T01:52:32.284685+00:00",
+    "last_checked_at": "2026-08-18T01:52:32.284685+00:00",
+    "language": "fr",
+    "excerpt": "L’adhésion officielle de Fouzi Lekjaa, président de la Fédération royale marocaine de Football (FRMF), au Parti authenticité et modernité (PAM), sert, semble-t-il, de catalyseur pour",
+    "word_count": 289,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تزنيت"
+      ],
+      "secondary_provinces": [
+        "إنزكان أيت ملول"
+      ],
+      "secondary_places": [
+        "الدشيرة الجهادية"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "électoral",
+            "législatives",
+            "électorale"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "division"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "ministre"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_4b248900228b",
+    "stance_analyzed_at": "2026-08-18T01:52:32.284685+00:00"
+  },
+  {
     "id": "ffb4f5e5fadbc302",
     "source_id": "agadir24",
     "source_name": "أكادير24",

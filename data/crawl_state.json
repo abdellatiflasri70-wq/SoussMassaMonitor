@@ -4359,5 +4359,33 @@
     "title": "Nominations en catimini à l’Autorité de régulation de l’électricité",
     "status": "excluded",
     "checked_at": "2026-08-17T18:59:57.561340+00:00"
+  },
+  "https://www.chtoukapress.com/306091.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بلاغ هام من الصندوق المغربي للتقاعد",
+    "status": "excluded",
+    "checked_at": "2026-08-18T01:52:32.284685+00:00"
+  },
+  "https://taroudantalaan.ma/politique/%d8%a5%d9%86%d8%b5%d8%a7%d8%aa-%d8%aa%d8%a7%d8%b1%d9%88%d8%af%d8%a7%d9%86%d8%aa-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a-%d9%8a%d8%b7": {
+    "source_id": "taroudantalaan",
+    "source_name": "تارودانت الآن",
+    "title": "“إنصات تارودانت”.. الاتحاد الاشتراكي يطلق منصة رقمية لتعزيز المشاركة المواطنة بالإقليم | تارودانت الآن الإخبارية",
+    "status": "accepted",
+    "checked_at": "2026-08-18T01:52:32.284685+00:00"
+  },
+  "https://www.hespress.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d8%ac%d9%88%d9%84%d8%aa%d9%87-%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%86%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d8%ad%d9%88%d8%b2-1793549.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أخنوش يواصل جولته الميدانية بالحوز",
+    "status": "excluded",
+    "checked_at": "2026-08-18T01:52:32.284685+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-lekjaa-declenche-un-veritable-mercato-electoral-en-faveur-du-pam_VHYGPFIEXJAA7ONYTE5V2UL6DM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: Lekjaa déclenche un véritable mercato électoral en faveur du PAM",
+    "status": "accepted",
+    "checked_at": "2026-08-18T01:52:32.284685+00:00"
   }
 }
