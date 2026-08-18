@@ -1,5 +1,76 @@
 [
   {
+    "id": "a6a03e56e59f8f2c",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "قبل الحملة الانتخابية.. هل تتحول الخرجات السياسية باشتوكة آيت باها إلى سباق لاستمالة الناخبين؟",
+    "url": "https://www.chtoukapress.com/306109.html",
+    "author": "اشتوكة بريس",
+    "published_at": "2026-08-17",
+    "first_seen_at": "2026-08-18T18:58:27.733004+00:00",
+    "last_checked_at": "2026-08-18T18:58:27.733004+00:00",
+    "language": "ar",
+    "excerpt": "مع اقتراب الاستحقاقات الانتخابية، بدأت بعض الوجوه السياسية بإقليم اشتوكة آيت باها تكثف حضورها الميداني وتظهر بشكل لافت في عدد من المناسبات والأنشطة، في مشهد",
+    "word_count": 217,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت باها"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية",
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع, الحملة الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_a6a03e56e59f",
+    "stance_analyzed_at": "2026-08-18T18:58:27.733004+00:00"
+  },
+  {
     "id": "489f920967885dbc",
     "source_id": "le360",
     "source_name": "Le360",

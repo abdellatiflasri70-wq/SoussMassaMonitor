@@ -4443,5 +4443,68 @@
     "title": "Sebta: Madrid salue le partenariat stratégique avec Rabat et annonce de nouvelles mesures",
     "status": "excluded",
     "checked_at": "2026-08-18T13:10:49.030869+00:00"
+  },
+  "https://agadir24.info/%d9%82%d8%a8%d9%84-%d8%a7%d9%83%d8%aa%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d9%84%d9%88%d8%a7%d8%a6%d8%ad-%d8%ad%d8%b1%d8%a8-%d8%a7%d9%84%d9%88%d8%b5%d9%81%d8%a7%d8%a1-%d9%82%d8%af-%d8%aa%d8%b9.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "قبل اكتمال اللوائح.. «حرب الوصفاء» قد تعيد رسم مواجهة غازي والباز والمودني بتيزنيت | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-08-18T18:58:27.733004+00:00"
+  },
+  "https://www.chtoukapress.com/306109.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "قبل الحملة الانتخابية.. هل تتحول الخرجات السياسية باشتوكة آيت باها إلى سباق لاستمالة الناخبين؟",
+    "status": "accepted",
+    "checked_at": "2026-08-18T18:58:27.733004+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/680363-mohamed-chouki-devoile-les-grandes-lignes-du-programme-du-rni.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Mohamed Chouki dévoile les grandes lignes du programme du RNI",
+    "status": "excluded",
+    "checked_at": "2026-08-18T18:58:27.733004+00:00"
+  },
+  "https://tiznit24.com/?p=194881": {
+    "source_id": "tiznit24",
+    "source_name": "تيزنيت24",
+    "title": "سيدي إفني.. تأجيل البت في إقالة ثلاثة أعضاء من المجلس الجماعي",
+    "status": "excluded",
+    "checked_at": "2026-08-18T18:58:27.733004+00:00"
+  },
+  "https://al3omk.com/1181437.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "إفراغ شاحنة نفايات يودي بحياة عامل عرضي بأكادير",
+    "status": "excluded",
+    "checked_at": "2026-08-18T18:58:27.733004+00:00"
+  },
+  "https://al3omk.com/1181409.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "انتخابات شتنبر 2026: أقنع أم لم يقنع؟",
+    "status": "excluded",
+    "checked_at": "2026-08-18T18:58:27.733004+00:00"
+  },
+  "https://thepress.ma/%d8%af%d9%88%d8%b1%d9%8a%d8%a9-%d9%84%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%aa%d8%ae%d9%81%d9%81-%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%82": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "دورية لرئيس الحكومة تخفف إجراءات التقاعد.. وثائق أقل وتنقلات محدودة للمرتفقين",
+    "status": "excluded",
+    "checked_at": "2026-08-18T18:58:27.733004+00:00"
+  },
+  "https://fr.le360.ma/politique/a-lapproche-des-elections-le-dossier-des-expropriations-en-suspens-sinvite-dans-le-debat-local_IRN4PAA3GNHM5N37UO2VQM7UG4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "À l’approche des élections, le dossier des expropriations en suspens s’invite dans le débat local",
+    "status": "excluded",
+    "checked_at": "2026-08-18T18:58:27.733004+00:00"
+  },
+  "https://fr.le360.ma/politique/developpement-territorial-le-maroc-amorce-un-virage-strategique-vers-le-sur-mesure-regional_A3Q2YDGWYFCJXDTWRTMYVPSQCI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Développement territorial: le Maroc amorce un virage stratégique vers le sur-mesure régional",
+    "status": "excluded",
+    "checked_at": "2026-08-18T18:58:27.733004+00:00"
   }
 }
