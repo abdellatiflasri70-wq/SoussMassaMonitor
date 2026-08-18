@@ -4387,5 +4387,19 @@
     "title": "Législatives 2026: Lekjaa déclenche un véritable mercato électoral en faveur du PAM",
     "status": "accepted",
     "checked_at": "2026-08-18T01:52:32.284685+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%a8%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d9%8a%d9%81%d8%aa%d8%ad-%d9%86%d9%82%d8%a7%d8%b4-%d8%a7%d9%84%d8%aa%d9%85%d8%ab%d9%8a%d9%84%d9%8a%d8%a9-1793393.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "التصويت بالوكالة يفتح نقاش التمثيلية والمشاركة السياسية لأفراد الجالية",
+    "status": "excluded",
+    "checked_at": "2026-08-18T07:06:52.399409+00:00"
+  },
+  "https://alyaoum24.com/2039018.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "حرمان النقيب السابق من الترشح لمنصب النقيب ضرب لمبدأ المساواة وتكافؤ الفرص وحرية الاختيار – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-08-18T07:06:52.399409+00:00"
   }
 }
