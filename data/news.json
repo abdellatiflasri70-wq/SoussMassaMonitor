@@ -1,5 +1,84 @@
 [
   {
+    "id": "77fcb3aac4f66593",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات الدوما في ثلاث مدن مغربية",
+    "url": "https://www.hespress.com/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%85%D8%A7-%D9%81%D9%8A-%D8%AB%D9%84%D8%A7%D8%AB-%D9%85%D8%AF%D9%86-%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-1794613.html",
+    "author": "هسبريس- توفيق بوفرتيح",
+    "published_at": "2026-08-19",
+    "first_seen_at": "2026-08-20T19:02:27.087121+00:00",
+    "last_checked_at": "2026-08-20T19:02:27.087121+00:00",
+    "language": "ar",
+    "excerpt": "أعلنت وزارة الخارجية الروسية، عبر موقعها الرسمي على شبكة الإنترنت، أن البعثة الدبلوماسية والقنصلية الروسية بالمملكة المغربية ستفتح أبوابها في وجه المواطنين الروس المقيمين بالمغرب،",
+    "word_count": 473,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "اقتراع",
+            "التصويت"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "أغلبية"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_77fcb3aac4f6",
+    "stance_analyzed_at": "2026-08-20T19:02:27.087121+00:00"
+  },
+  {
     "id": "cd5fedf6c1d0a79b",
     "source_id": "agadirino",
     "source_name": "أكاديرينو",
