@@ -4583,5 +4583,47 @@
     "title": "أزمة المحامين تتصاعد.. إضراب للشهر الرابع وخلاف يتجاوز المحكمة الدستورية إلى طريقة تمرير قانون المهنة",
     "status": "excluded",
     "checked_at": "2026-08-19T18:55:26.970211+00:00"
+  },
+  "https://ar.le360.ma/politique/F5ZA4DZISJEOHK2J6PYHVWBWTM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انتخابات (4)2026: من أزمة الثقة إلى هشاشة الوساطة.. سمير بلفقيه يكشف تطلعات «البام» ويشخص أعطاب الفاعل السياسي",
+    "status": "excluded",
+    "checked_at": "2026-08-20T13:13:30.884019+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d9%86-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d9%86%d8%a8%d9%84%d8%a9-%d8%ad%d9%85%d9%8a%d8%af-%d8%b4%d8%a8%d8%a7%d8%b7-%d9%88%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "من الاستقلال إلى السنبلة.. حميد شباط وابنته يلتحقون بالحركة الشعبية",
+    "status": "excluded",
+    "checked_at": "2026-08-20T13:13:30.884019+00:00"
+  },
+  "https://al3omk.com/1181610.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "بـ1.5 مليار دولار.. تحالف مغربي سويسري ياباني لتحويل نفايات البيضاء إلى كهرباء",
+    "status": "excluded",
+    "checked_at": "2026-08-20T13:13:30.884019+00:00"
+  },
+  "https://al3omk.com/1181527.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "حزب سوري يطالب بإقالة وزراء بحكومة الشرع ويحذر من استمرار سياسة التعذيب",
+    "status": "excluded",
+    "checked_at": "2026-08-20T13:13:30.884019+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%81%d9%8a-%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "انتخابات 2026 في مواجهة الذكاء الاصطناعي.. خمس تهديدات رقمية قد تستهدف نزاهة الاقتراع",
+    "status": "excluded",
+    "checked_at": "2026-08-20T13:13:30.884019+00:00"
+  },
+  "https://thepress.ma/%d8%a8%d8%b9%d8%af-%d8%a7%d9%83%d8%aa%d8%b3%d8%a7%d8%ad-%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d9%86%d8%a9-%d8%a3%d8%b3%d9%88%d8%af-%d8%a7%d9%84%d9%81%d9%88%d8%aa%d8%b3%d8%a7%d9%84-%d9%8a%d8%ae%d8%aa%d8%a8": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "بعد اكتساح البوسنة.. أسود الفوتسال يختبرون جاهزيتهم أمام السعودية بأكادير",
+    "status": "excluded",
+    "checked_at": "2026-08-20T13:13:30.884019+00:00"
   }
 }
