@@ -4695,5 +4695,33 @@
     "title": "Loi sur les avocats: l’Association des barreaux décide de poursuivre la grève illimitée",
     "status": "excluded",
     "checked_at": "2026-08-21T13:13:19.047667+00:00"
+  },
+  "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%b2%d9%8a%d8%aa%d9%88%d9%86%d8%a9-%d9%8a%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8-%d9%88%d8%a7%d9%84%d9%86%d8%b3%d8%a7-1795059.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"حزب الزيتونة\" يراهن على الشباب والنساء في الانتخابات التشريعية المقبلة",
+    "status": "excluded",
+    "checked_at": "2026-08-21T18:58:51.613509+00:00"
+  },
+  "https://fr.le360.ma/politique/avocats-nous-continuerons-la-lutte-contre-une-loi-injuste-affirme-le-batonnier-de-rabat-aziz-rouibah_EJCLBT6B6FDJVJ2DXEYA4S6LXM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Avocats: «Nous continuerons la lutte contre une loi injuste», affirme le bâtonnier de Rabat, Aziz Rouibah",
+    "status": "excluded",
+    "checked_at": "2026-08-21T18:58:51.613509+00:00"
+  },
+  "https://fr.le360.ma/politique/fete-de-la-jeunesse-grace-royale-au-profit-de-667-personnes_MEPFRVME5FGGRKTOE7W5VZ3R6Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fête de la Jeunesse: grâce royale au profit de 667 personnes",
+    "status": "excluded",
+    "checked_at": "2026-08-21T18:58:51.613509+00:00"
+  },
+  "https://fr.le360.ma/politique/anniversaire-de-la-revolution-du-roi-et-du-peuple-grace-royale-au-profit-de-935-personnes_GCQ4BBBF2VE6PBYSLGWQRF2QHM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Anniversaire de la Révolution du Roi et du Peuple: grâce royale au profit de 935 personnes",
+    "status": "excluded",
+    "checked_at": "2026-08-21T18:58:51.613509+00:00"
   }
 }

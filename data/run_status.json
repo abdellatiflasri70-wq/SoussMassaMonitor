@@ -1,8 +1,8 @@
 {
-  "run_at": "2026-08-21T13:13:19.047667+00:00",
+  "run_at": "2026-08-21T18:58:51.613509+00:00",
   "sources": 18,
-  "links_discovered": 119,
-  "known_skipped": 114,
+  "links_discovered": 115,
+  "known_skipped": 110,
   "new_candidates": 5,
   "extraction_success": 4,
   "extraction_failed": 1,
@@ -15,8 +15,8 @@
   "source_details": [
     {
       "source_name": "Le360",
-      "links_discovered": 12,
-      "known_skipped": 9,
+      "links_discovered": 14,
+      "known_skipped": 11,
       "new_candidates": 3,
       "extraction_success": 3,
       "accepted": 0,
@@ -95,8 +95,8 @@
     },
     {
       "source_name": "اشتوكة بريس",
-      "links_discovered": 5,
-      "known_skipped": 5,
+      "links_discovered": 0,
+      "known_skipped": 0,
       "new_candidates": 0,
       "extraction_success": 0,
       "accepted": 0,
@@ -105,8 +105,8 @@
     },
     {
       "source_name": "الصحيفة",
-      "links_discovered": 1,
-      "known_skipped": 1,
+      "links_discovered": 0,
+      "known_skipped": 0,
       "new_candidates": 0,
       "extraction_success": 0,
       "accepted": 0,
