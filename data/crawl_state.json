@@ -4667,5 +4667,33 @@
     "title": "قيادية اتحادية تقدم استقالتها للشكر احتجاجا على “إقصاء” كفاءات نسائية من التزكيات الانتخابية",
     "status": "excluded",
     "checked_at": "2026-08-21T01:59:48.799418+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d9%8a%d8%ac%d9%8a%d8%af%d9%8a-%d9%8a%d8%af%d8%b9%d9%88-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a%d9%86-%d9%84%d8%a7%d8%b3%d8%aa%d8%a6%d9%86%d8%a7%d9%81-%d8%a7%d9%84%d8%b9%d9%85-1794869.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"البيجيدي\" يدعو المحامين لاستئناف العمل",
+    "status": "excluded",
+    "checked_at": "2026-08-21T13:13:19.047667+00:00"
+  },
+  "https://ar.le360.ma/politique/27PWHGMTMFDXXCAOYA34VTB6QE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "حزب «العدالة والتنمية» يحمل الحكومة مسؤولية أزمة المحاماة ويدعو أصحاب البذلة السوداء إلى وقف الإضراب",
+    "status": "excluded",
+    "checked_at": "2026-08-21T13:13:19.047667+00:00"
+  },
+  "https://ar.le360.ma/politique/CFGV3CMVWJFEFK5V46SGRCXLMI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلمانية تطالب العلوي بخفض TVA على المواد الأساسية للتخفيف من غلاء المعيشة",
+    "status": "excluded",
+    "checked_at": "2026-08-21T13:13:19.047667+00:00"
+  },
+  "https://fr.le360.ma/politique/loi-sur-les-avocats-lassociation-des-barreaux-decide-de-poursuivre-la-greve-illimitee_MNEIVKE4QNFFBM6UZQ3REA4ZWA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Loi sur les avocats: l’Association des barreaux décide de poursuivre la grève illimitée",
+    "status": "excluded",
+    "checked_at": "2026-08-21T13:13:19.047667+00:00"
   }
 }
