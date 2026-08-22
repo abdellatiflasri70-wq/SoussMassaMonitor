@@ -1,5 +1,470 @@
 [
   {
+    "id": "44746916e8c5593d",
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "بحضور أزيد من 1800 من مناضليه.. الأحرار يستعرض قوته باشتوكة أيت باها (صور) - agadirino.ma",
+    "url": "https://agadirino.ma/2026/08/21/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D8%B6-%D9%84%D9%84%D9%82%D9%88%D8%A9-%D8%A8%D8%A7%D8%B4%D8%AA%D9%88%D9%83%D8%A9-%D8%A2%D9%8A%D8%AA-%D8%A8",
+    "author": "Driss Driss",
+    "published_at": "2026-08-20",
+    "first_seen_at": "2026-08-22T01:52:34.062862+00:00",
+    "last_checked_at": "2026-08-22T01:52:34.062862+00:00",
+    "language": "ar",
+    "excerpt": "شهدت مدينة بيوكرى، يوم الجمعة 21 غشت 2026، لقاءً تواصلياً موسعاً نظمته التنسيقية الإقليمية لحزب التجمع الوطني للأحرار باشتوكة آيت باها، تحت إشراف التنسيقية الجهوية",
+    "word_count": 305,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت باها"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "بيوكرى",
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_006",
+          "name": "لحسن السعدي",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: كريم أشنكلي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_006",
+        "target_type": "person",
+        "target_name": "لحسن السعدي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_44746916e8c5",
+    "stance_analyzed_at": "2026-08-22T01:52:34.062862+00:00"
+  },
+  {
+    "id": "882c3148e5e2e061",
+    "source_id": "taroudantalaan",
+    "source_name": "تارودانت الآن",
+    "title": "أولاد تايمة.. قيادات حزب الاستقلال تلتقي بالشباب في محطة للتعبئة وتجديد الدينامية الحزبية | تارودانت الآن الإخبارية",
+    "url": "https://taroudantalaan.ma/politique/%D8%A3%D9%88%D9%84%D8%A7%D8%AF-%D8%AA%D8%A7%D9%8A%D9%85%D8%A9-%D9%82%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%AA%D9%84%D8%AA%D9%82",
+    "author": "عبد المجيد الترناوي; تارودانت الآن الإخبارية",
+    "published_at": "2026-08-20",
+    "first_seen_at": "2026-08-22T01:52:34.062862+00:00",
+    "last_checked_at": "2026-08-22T01:52:34.062862+00:00",
+    "language": "ar",
+    "excerpt": "نظمت منظمة الشبيبة الاستقلالية بإقليم تارودانت، اليوم الجمعة 21 غشت 2026، بمدينة أولاد تايمة، لقاء تواصليا مع الشباب، في إطار البرنامج الوطني للتعبئة والتواصل مع",
+    "word_count": 374,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "أولاد تايمة",
+        "تارودانت"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "person_005",
+          "name": "زينب قيوح",
+          "tier": "priority"
+        },
+        {
+          "id": "person_004",
+          "name": "عبد الصمد قيوح",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "عضو المجلس"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 6,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_005",
+        "target_type": "person",
+        "target_name": "زينب قيوح",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_004",
+        "target_type": "person",
+        "target_name": "عبد الصمد قيوح",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_882c3148e5e2",
+    "stance_analyzed_at": "2026-08-22T01:52:34.062862+00:00"
+  },
+  {
+    "id": "5fa00641791f32c7",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بايتاس: \"الأحرار\" ليس للأمتار الأخيرة",
+    "url": "https://www.hespress.com/%D8%A8%D8%A7%D9%8A%D8%AA%D8%A7%D8%B3-%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%84%D9%8A%D8%B3-%D9%84%D9%84%D8%A3%D9%85%D8%AA%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-1795164.html",
+    "author": "هسبريس من الرباط",
+    "published_at": "2026-08-20",
+    "first_seen_at": "2026-08-22T01:52:34.062862+00:00",
+    "last_checked_at": "2026-08-22T01:52:34.062862+00:00",
+    "language": "ar",
+    "excerpt": "اعتبر مصطفى بايتاس، عضو المكتب السياسي لحزب التجمع الوطني للأحرار والوزير المنتدب لدى رئيس الحكومة المكلف بالعلاقات مع البرلمان الناطق الرسمي باسم الحكومة، أن الممارسة",
+    "word_count": 420,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت باها"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 7,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 4,
+        "evidence": [
+          "دينامية"
+        ]
+      }
+    ],
+    "event_id": "evt_5fa00641791f",
+    "stance_analyzed_at": "2026-08-22T01:52:34.062862+00:00"
+  },
+  {
+    "id": "6809a992aba1f853",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أوجار يرفض المزايدات السياسية ويدافع عن منجزات وحصيلة \"الأحرار\"",
+    "url": "https://www.hespress.com/%D8%A3%D9%88%D8%AC%D8%A7%D8%B1-%D9%8A%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D9%8A%D8%AF%D8%A7%D9%81%D8%B9-1795158.html",
+    "author": "هسبريس من الرباط",
+    "published_at": "2026-08-20",
+    "first_seen_at": "2026-08-22T01:52:34.062862+00:00",
+    "last_checked_at": "2026-08-22T01:52:34.062862+00:00",
+    "language": "ar",
+    "excerpt": "يتجه حزب التجمع الوطني للأحرار إلى المرحلة السياسية المقبلة مستندا إلى حصيلة خمس سنوات من العمل الحكومي وإلى حضور ميداني متواصل مع المواطنين، وفق محمد",
+    "word_count": 402,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت باها"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "انتخابية",
+            "استحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 3,
+        "evidence": [
+          "ثقة"
+        ]
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_6809a992aba1",
+    "stance_analyzed_at": "2026-08-22T01:52:34.062862+00:00"
+  },
+  {
     "id": "77fcb3aac4f66593",
     "source_id": "hespress",
     "source_name": "هسبريس",
