@@ -4821,5 +4821,33 @@
     "title": "أمينة ماء العينين البيجيدي قادر على العودة إلى الصدارة إذا كانت الانتخابات نزيهة – اليوم 24",
     "status": "accepted",
     "checked_at": "2026-08-22T13:02:29.491534+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d8%b9%d8%af-%d9%85%d8%ba%d8%a7%d8%af%d8%b1%d8%a9-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%ad%d8%af-%d8%aa%d9%8a%d8%a7%d8%b1-%d9%8a%d8%b3%d8%a7-1795371.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بعد مغادرة \"الاشتراكي الموحد\".. تيار يساري يتحرك لتأسيس حزب جديد",
+    "status": "excluded",
+    "checked_at": "2026-08-22T18:50:38.259334+00:00"
+  },
+  "https://agadirino.ma/2026/08/22/%d9%85%d8%ad%d9%85%d8%af-%d8%a7%d9%88%d8%ac%d8%a7%d8%b1-%d8%a7%d8%b4%d8%aa%d9%80%d9%88%d9%83%d8%a9-%d8%a7%d9%8a%d8%aa-%d8%a8%d8%a7%d9%87%d8%a7-%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d8%ad%d9%83": {
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "أوجار: الأحرار بنى قوته في عشر سنوات من العمل وليس قبل الانتخابات بأيام (فيديو) - agadirino.ma",
+    "status": "accepted",
+    "checked_at": "2026-08-22T18:50:38.259334+00:00"
+  },
+  "https://agadirino.ma/2026/08/22/%d8%a8%d8%a7%d9%8a%d8%aa%d8%a7%d8%b3-%d9%84%d8%b3%d9%86%d8%a7-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a3%d9%85%d8%aa%d8%a7%d8%b1-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1%d8%a9-%d8%aa%d8%b9%d8%a7%d9%82%d8%af": {
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "بايتاس: لسنا حزب الأمتار الأخيرة.. تعاقدنا مع المغاربة مبني على الأهداف والنتائج (فيديو) - agadirino.ma",
+    "status": "accepted",
+    "checked_at": "2026-08-22T18:50:38.259334+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-boulemane-circonscription-de-la-mort-14-candidats-trois-favoris-et-des-disparites_HSSUMIYVUFA53JJPTKB6VHJDEM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives. Boulemane, circonscription de «la mort»: 14 candidats, trois favoris et des disparités territoriales",
+    "status": "excluded",
+    "checked_at": "2026-08-22T18:50:38.259334+00:00"
   }
 }
