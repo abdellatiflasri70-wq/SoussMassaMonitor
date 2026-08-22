@@ -4800,5 +4800,26 @@
     "title": "Zaouïas: Ahmed Toufiq enquête sur les pratiques déviantes de certains cheikhs",
     "status": "excluded",
     "checked_at": "2026-08-22T01:52:34.062862+00:00"
+  },
+  "https://agadir24.info/%d8%aa%d8%ac%d9%85%d8%b9-%d8%ad%d8%a7%d8%b4%d8%af-%d9%84%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d8%a8%d8%a7%d8%b4%d8%aa%d9%88%d9%83%d8%a9-%d8%a2%d9%8a%d8%aa-%d8%a8%d8%a7%d9%87%d8%a7-%d8%aa%d8%a3%d9%83.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تجمع حاشد للأحرار باشتوكة آيت باها: تأكيد على الريادة واستعراض مشاريع مائية وهيكلية كبرى | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-08-22T13:02:29.491534+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/680461-crise-des-avocats-le-pjd-appelle-a-suspendre-la-greve.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Crise des avocats : le PJD appelle à suspendre la grève",
+    "status": "excluded",
+    "checked_at": "2026-08-22T13:02:29.491534+00:00"
+  },
+  "https://alyaoum24.com/videos/%d8%a3%d9%85%d9%8a%d9%86%d8%a9-%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%b9%d9%8a%d9%86%d9%8a%d9%86-%d8%a7%d9%84%d8%a8%d9%8a%d8%ac%d9%8a%d8%af%d9%8a-%d9%82%d8%a7%d8%af%d8%b1-%d8%b9%d9%84%d9%89-%d8%a7%d9%84": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "أمينة ماء العينين البيجيدي قادر على العودة إلى الصدارة إذا كانت الانتخابات نزيهة – اليوم 24",
+    "status": "accepted",
+    "checked_at": "2026-08-22T13:02:29.491534+00:00"
   }
 }
