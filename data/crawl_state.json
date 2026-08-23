@@ -4849,5 +4849,47 @@
     "title": "Législatives. Boulemane, circonscription de «la mort»: 14 candidats, trois favoris et des disparités territoriales",
     "status": "excluded",
     "checked_at": "2026-08-22T18:50:38.259334+00:00"
+  },
+  "https://agadir24.info/%d8%a8%d9%88%d8%b9%d9%8a%d8%af%d8%a9-%d9%8a%d8%b3%d8%aa%d9%82%d9%8a%d9%84-%d9%85%d9%86-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%af%d8%a6-%d8%a3.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "بوعيدة يستقيل من \"الاستقلال\": المبادئ أولاً والتزكية الانتخابية أخيراً | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-08-23T02:01:28.385960+00:00"
+  },
+  "https://www.chtoukapress.com/306186.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "عبد الرحيم بوعيدة يعلن مغادرته حزب الاستقلال",
+    "status": "excluded",
+    "checked_at": "2026-08-23T02:01:28.385960+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%88%d8%b9%d9%8a%d8%af%d8%a9-%d9%8a%d8%b3%d8%aa%d9%82%d9%8a%d9%84-%d9%85%d9%86-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d9%88%d9%8a%d8%b1%d9%81%d8%b6-%d9%85%d9%82%d8%a7-1795584.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "استقالة بوعيدة تهز \"الاستقلال\" .. والوجهة الحزبية المقبلة \"مجهولة\"",
+    "status": "excluded",
+    "checked_at": "2026-08-23T02:01:28.385960+00:00"
+  },
+  "https://ar.le360.ma/politique/TRUIOQNNQJHKNKFV2XJNX6Z2VI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انتخابات 2026.. بولمان دائرة «الموت»: 14 مرشحا و3 أسماء بارزة في سباق التفاوتات المجالية",
+    "status": "excluded",
+    "checked_at": "2026-08-23T02:01:28.385960+00:00"
+  },
+  "https://ar.le360.ma/politique/FMIJO4J4KBAM5OOUOTU4ONDUK4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلمانية تسائل التهراري عن أسباب «غياب» التجهيزات الطبية والموارد البشرية اللازمة بمستشفى المختار السوسي",
+    "status": "excluded",
+    "checked_at": "2026-08-23T02:01:28.385960+00:00"
+  },
+  "https://ar.le360.ma/politique/XA5F2HZVJ5GMDDLOQ5AAFD3TQM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الدعوة إلى «تدمير» المغرب بالتلفزيون الإسباني: عندما تمهد حرية التعبير الطريق لخطاب الكراهية",
+    "status": "excluded",
+    "checked_at": "2026-08-23T02:01:28.385960+00:00"
   }
 }
