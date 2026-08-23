@@ -4898,5 +4898,33 @@
     "title": "تيزنيت.. قيادات ومنتخبون و فعاليات يعلنون التفافهم حول ترشيح عبد الله غازي.",
     "status": "accepted",
     "checked_at": "2026-08-23T07:03:49.550705+00:00"
+  },
+  "https://agadir24.info/%d8%b5%d9%88%d8%b1-%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%ad%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%b9%d8%af%d9%84%d8%a9-%d8%aa%d8%ba%d8%b2%d9%88-%d9%81%d9%8a%d8%b3%d8%a8%d9%88%d9%83-%d9%87%d9%84.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "صور المرشحين المعدلة تغزو «فيسبوك».. هل انطلقت أولى خروقات قانون الانتخابات بالذكاء الاصطناعي؟ | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-08-23T13:03:45.160862+00:00"
+  },
+  "https://agadir24.info/%d9%87%d9%84-%d9%8a%d8%aa%d8%ac%d9%87-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d8%a5%d9%84%d9%89-%d8%aa%d8%b2%d9%83%d9%8a%d8%a9-%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1%d8%a9-%d8%b2%d9%83.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "هل يتجه «الأحرار» إلى تزكية الوزيرة زكية الدريوش وكيلة للائحة «الحمامة» بجهة سوس ماسة؟ | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-08-23T13:03:45.160862+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d9%8a%d8%b6%d8%b9-%d8%a2%d8%ae%d8%b1-%d8%a7%d9%84%d9%84%d9%85%d8%b3%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a8%d8%b1%d9%86%d8%a7-1795726.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"تحالف اليسار\" يضع آخر اللمسات على برنامج انتخابي ضد \"اقتصاد الريع\"",
+    "status": "excluded",
+    "checked_at": "2026-08-23T13:03:45.160862+00:00"
+  },
+  "https://fr.le360.ma/politique/quand-une-elue-du-pp-ressuscite-au-micro-de-la-cope-lintox-dun-maroc-ne-en-1957_BR7COFVJOVAYFMLFEJMFLEM3QA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Quand une élue du PP ressuscite au micro de la COPE l’intox d’un Maroc né en 1957",
+    "status": "excluded",
+    "checked_at": "2026-08-23T13:03:45.160862+00:00"
   }
 }

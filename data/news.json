@@ -1,5 +1,159 @@
 [
   {
+    "id": "ac4d2c16831e5ce8",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "هل يتجه «الأحرار» إلى تزكية الوزيرة زكية الدريوش وكيلة للائحة «الحمامة» بجهة سوس ماسة؟ | agadir24.info",
+    "url": "https://agadir24.info/%D9%87%D9%84-%D9%8A%D8%AA%D8%AC%D9%87-%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D8%A5%D9%84%D9%89-%D8%AA%D8%B2%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%B2%D9%83.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-08-22",
+    "first_seen_at": "2026-08-23T13:03:45.160862+00:00",
+    "last_checked_at": "2026-08-23T13:03:45.160862+00:00",
+    "language": "ar",
+    "excerpt": "أعاد حضور زكية الدريوش، كاتبة الدولة المكلفة بالصيد البحري وعضو المكتب السياسي لحزب التجمع الوطني للأحرار، في اللقاء التواصلي الذي نظمه الحزب بمدينة تيزنيت، السبت",
+    "word_count": 1009,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_084",
+          "name": "عبد الله غازي",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "تزكية",
+            "مرشحا",
+            "دائرة انتخابية",
+            "ترشيحها"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "بلاغ"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "معارضة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: كريم أشنكلي, عبد الله غازي",
+        "مواضيع سياسية: الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 7,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 5,
+        "evidence": [
+          "يحسم"
+        ]
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_084",
+        "target_type": "person",
+        "target_name": "عبد الله غازي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_ac4d2c16831e",
+    "stance_analyzed_at": "2026-08-23T13:03:45.160862+00:00"
+  },
+  {
     "id": "2195bfb12e19df20",
     "source_id": "agadir24",
     "source_name": "أكادير24",
