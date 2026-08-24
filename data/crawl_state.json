@@ -4975,5 +4975,33 @@
     "title": "غازي في لقاء شبيبة الأحرار بتافراوت يبرز التحولات التي شهدها إقليم تيزنيت",
     "status": "accepted",
     "checked_at": "2026-08-24T01:59:15.933738+00:00"
+  },
+  "https://agadir24.info/44-%d8%a3%d9%84%d9%81%d8%a7%d9%8b-%d9%88509-%d8%a3%d8%b5%d9%88%d8%a7%d8%aa-%d8%b5%d9%86%d8%b9%d8%aa-%d9%85%d9%82%d8%b9%d8%af%d9%8a-%d8%aa%d9%8a%d8%b2%d9%86%d9%8a%d8%aa-%d9%81%d9%8a-2016-%d8%a3%d9%8a.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "44 ألفاً و509 أصوات صنعت مقعدي تيزنيت في 2016.. أين يمكن أن تتجه هذه الكتلة في انتخابات 2026؟ | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-08-24T13:15:39.408304+00:00"
+  },
+  "https://fr.le360.ma/politique/la-chronique-de-lahcen-haddad-ce-que-la-couverture-de-sebta-revele-du-regard-espagnol-sur-le-maroc_TOTLQNIQGVAR3ER6WI7CX67CPQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Ce que la couverture de Sebta révèle du regard espagnol sur le Maroc",
+    "status": "excluded",
+    "checked_at": "2026-08-24T13:15:39.408304+00:00"
+  },
+  "https://al3omk.com/1182250.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الترحال السياسي في المغرب: بين متطلبات التخليق ورهانات استعادة الثقة قبل انتخابات 2026",
+    "status": "excluded",
+    "checked_at": "2026-08-24T13:15:39.408304+00:00"
+  },
+  "https://www.assahifa.com/%d8%ae%d8%a7%d8%b5-%d9%85%d8%b5%d8%a7%d8%af%d8%b1-%d9%85%d9%86-%d8%ad%d8%b2%d8%a8-%d9%85%d8%b9%d8%a7-%d9%84%d8%a3%d8%ac%d9%84-%d9%83%d8%aa%d8%a7%d9%84%d9%88%d9%86%d9%8a%d8%a7-%d9%84%d9%80": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "خاص | مصادر من حزب معا لأجل كتالونيا لـالصحيفة الإسبانية: حاولنا فتح قنوات مع الرباط لدعم موقف المغرب بشأن سبتة ومليلية لكن المسؤولين المغاربة لم يتجاوبوا",
+    "status": "excluded",
+    "checked_at": "2026-08-24T13:15:39.408304+00:00"
   }
 }
