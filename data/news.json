@@ -1,5 +1,261 @@
 [
   {
+    "id": "e0fda58f8c246ab9",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "الانتخابات التشريعية: الشروع في تسليم الإشعارات الموجهة إلى الناخبين لإحاطتهم علما بأماكن إقامة مكاتب التصويت - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134023.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-08-23",
+    "first_seen_at": "2026-08-24T19:01:45.420337+00:00",
+    "last_checked_at": "2026-08-24T19:01:45.420337+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديالانتخابات التشريعية: الشروع في تسليم الإشعارات الموجهة إلى الناخبين لإحاطتهم علما بأماكن إقامة مكاتب التصويت بمناسبة الانتخابات التشريعية لانتخاب أعضاء مجلس النواب المقرر إجراؤها",
+    "word_count": 374,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت",
+            "اقتراع",
+            "اللوائح الانتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_e0fda58f8c24",
+    "stance_analyzed_at": "2026-08-24T19:01:45.420337+00:00"
+  },
+  {
+    "id": "3522525e545b919c",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "الأحرار يكشف لائحته الكاملة بأكادير إداوتنان.. زينة إدحلي وكيلة وأربعة أسماء تخوض تشريعيات 2026 | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D9%84%D8%A7%D8%A6%D8%AD%D8%AA%D9%87-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D8%A8%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%A5.html",
+    "author": "أكادير",
+    "published_at": "2026-08-23",
+    "first_seen_at": "2026-08-24T19:01:45.420337+00:00",
+    "last_checked_at": "2026-08-24T19:01:45.420337+00:00",
+    "language": "ar",
+    "excerpt": "أعلن حزب التجمع الوطني للأحرار عن اللائحة الكاملة لمرشحيه بالدائرة الانتخابية المحلية أكادير إداوتنان، استعداداً لخوض الانتخابات التشريعية المقرر تنظيمها يوم الأربعاء 23 شتنبر 2026.",
+    "word_count": 150,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "تشريعيات",
+            "استحقاقات",
+            "انتخابية"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشحة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "مواضيع سياسية: الانتخابات والاقتراع, الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_3522525e545b",
+    "stance_analyzed_at": "2026-08-24T19:01:45.420337+00:00"
+  },
+  {
+    "id": "5c88197d8850abb0",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "حزب التجمع الوطني للأحرار | agadir24.info",
+    "url": "https://agadir24.info/topics/agadir-politique/rni",
+    "author": null,
+    "published_at": "2026-08-23",
+    "first_seen_at": "2026-08-24T19:01:45.420337+00:00",
+    "last_checked_at": "2026-08-24T19:01:45.420337+00:00",
+    "language": "ar",
+    "excerpt": "أعلن حزب التجمع الوطني للأحرار عن اللائحة الكاملة لمرشحيه بالدائرة الانتخابية المحلية أكادير إداوتنان، استعداداً لخوض الانتخابات التشريعية المقرر تنظيمها… أعلن حزب التجمع الوطني للأحرار",
+    "word_count": 80,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "اقتراع"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_5c88197d8850",
+    "stance_analyzed_at": "2026-08-24T19:01:45.420337+00:00"
+  },
+  {
     "id": "ac4d2c16831e5ce8",
     "source_id": "agadir24",
     "source_name": "أكادير24",
@@ -1137,6 +1393,86 @@
     ],
     "event_id": "evt_2805976b8c5c",
     "stance_analyzed_at": "2026-08-24T01:59:15.933738+00:00"
+  },
+  {
+    "id": "32204d743be7318c",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Archives militaires de Vincennes. Ep 7. 1893: le prétexte français pour rompre le traité de Lalla Maghnia et avancer vers le Sahara oriental",
+    "url": "https://fr.le360.ma/politique/archives-militaires-de-vincennes-ep-7-1893-le-pretexte-francais-pour-rompre-le-traite-de-lalla_S4P2OTTTPJCRHKGO3CDRML6KUE",
+    "author": "Karim Serraj",
+    "published_at": "2026-08-22",
+    "first_seen_at": "2026-08-24T19:01:45.420337+00:00",
+    "last_checked_at": "2026-08-24T19:01:45.420337+00:00",
+    "language": "fr",
+    "excerpt": "«Nous ne saurions, en tous cas, tolérer qu’une autre puissance nous devance de ce côté, sous peine de nous voir arrêtés dans notre expansion vers",
+    "word_count": 2599,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "affirme",
+            "estime",
+            "considère"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "gouvernement",
+            "ministre"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "rupture"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_32204d743be7",
+    "stance_analyzed_at": "2026-08-24T19:01:45.420337+00:00"
   },
   {
     "id": "2195bfb12e19df20",
