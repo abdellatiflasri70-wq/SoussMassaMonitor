@@ -5073,5 +5073,47 @@
     "title": "انتخابات 2026.. الداخلية تشرع في توزيع إشعارات الناخبين وتفتح منصة وكالات التصويت بالخارج",
     "status": "excluded",
     "checked_at": "2026-08-24T19:01:45.420337+00:00"
+  },
+  "https://tiznit24.com/?p=194984": {
+    "source_id": "tiznit24",
+    "source_name": "تيزنيت24",
+    "title": "الوالي سعيد أمزازي يترأس بأكادير حفلاً دينياً بمناسبة إحياء ليلة المولد النبوي الشريف",
+    "status": "excluded",
+    "checked_at": "2026-08-25T01:54:26.049002+00:00"
+  },
+  "https://www.hespress.com/%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%aa%d8%ac%d8%aa%d9%85%d8%b9-%d9%81%d9%8a-%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a-%d8%aa%d9%86%d8%b3%d9%8a%d9%82-1796568.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "ثلاثة أحزاب تجتمع في \"تحالف سياسي تنسيقي\" من أجل انتخابات 2027",
+    "status": "excluded",
+    "checked_at": "2026-08-25T01:54:26.049002+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d9%86-%d9%8a%d8%ad%d9%8a%d9%89-%d9%8a%d8%ad%d9%8a%d9%89-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d8%a3%d9%85%d9%86-1796526.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "من يحيى يحيى إلى \"العدالة والتنمية\".. أمن إسبانيا يتتبع \"التأثير في سبتة\"",
+    "status": "excluded",
+    "checked_at": "2026-08-25T01:54:26.049002+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%b3%d8%a8%d8%a7%d9%82-%d8%a7%d9%84%d8%a3%d8%b3%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%ab%d9%82%d9%8a%d9%84%d8%a9-%d9%8a%d8%ad%d8%aa%d8%af-1796229.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. سباق \"الأسماء الثقيلة\" يحتدم في \"دائرة الموت\" بالرباط",
+    "status": "excluded",
+    "checked_at": "2026-08-25T01:54:26.049002+00:00"
+  },
+  "https://ar.le360.ma/politique/LNDCISTF7VBJDJELV4SQEMKVS4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "وزارة الداخلية تباشر تسليم إشعارات مكاتب الاقتراع وتفتح منصة الوكالات لمغاربة المهجر",
+    "status": "excluded",
+    "checked_at": "2026-08-25T01:54:26.049002+00:00"
+  },
+  "https://fr.le360.ma/societe/sidi-kacem-un-elu-puissant-a-t-il-beneficie-dun-droit-de-cuissage-administratif-pour-construire-sur_SHXDYSDLF5HPVIS2LTFA4LCFFU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sidi Kacem: un élu puissant aurait il bénéficié d’un «droit de cuissage» administratif pour construire sur le domaine public?",
+    "status": "excluded",
+    "checked_at": "2026-08-25T01:54:26.049002+00:00"
   }
 }
