@@ -1,5 +1,137 @@
 [
   {
+    "id": "74edc04e68b28b7b",
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "وزراء الأحرار في ضيافة عمر أمين.. دعم قوي لمرشح الحزب بإنزكان أيت ملول - agadirino.ma",
+    "url": "https://agadirino.ma/2026/08/25/%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%B9%D9%85%D8%B1-%D8%A3%D9%85%D9%8A%D9%86-%D8%AF%D8%B9%D9%85-%D9%82%D9%88",
+    "author": "Driss Driss",
+    "published_at": "2026-08-24",
+    "first_seen_at": "2026-08-25T18:59:14.318133+00:00",
+    "last_checked_at": "2026-08-25T18:59:14.318133+00:00",
+    "language": "ar",
+    "excerpt": "يحظى عمر أمين مرشح حزب التجمع الوطني للأحرار بعمالة إنزكان أيت ملول، بدعم كبير من قيادات ووزراء الحزب، حيث استقبلهم في لقاء أخوي بمنزله. وعرف",
+    "word_count": 91,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "أيت ملول",
+        "إنزكان"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_052",
+          "name": "عمر أمين",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عمر أمين, كريم أشنكلي",
+        "مواضيع سياسية: الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": [
+          "ثقة"
+        ]
+      },
+      {
+        "target_id": "person_052",
+        "target_type": "person",
+        "target_name": "عمر أمين",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": [
+          "ثقة"
+        ]
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_74edc04e68b2",
+    "stance_analyzed_at": "2026-08-25T18:59:14.318133+00:00"
+  },
+  {
     "id": "e0fda58f8c246ab9",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
