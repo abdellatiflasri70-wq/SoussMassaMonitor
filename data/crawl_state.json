@@ -5339,5 +5339,82 @@
     "title": "\"الشمعة\" تطوي نقاش \"تزكية منيب\"",
     "status": "excluded",
     "checked_at": "2026-08-26T07:10:41.060881+00:00"
+  },
+  "https://www.chtoukapress.com/306269.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "مورد مائي واعد لتزويد ساكنة دوار بولكميل بجماعة بلفاع بالماء الشروب + فيديو",
+    "status": "excluded",
+    "checked_at": "2026-08-26T13:18:21.241585+00:00"
+  },
+  "https://www.hespress.com/%d8%b9%d8%ab%d9%85%d8%a7%d9%86-%d9%88%d9%85%d9%86%d8%a7%d9%84-%d8%a8%d8%a7%d8%af%d9%84-%d9%8a%d8%a8%d8%b1%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d9%85%d8%a7%d9%85-%d9%84%d9%80%d8%a7%d9%84-1797166.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "عثمان ومنال بادل يبرران الانضمام لـ\"البام\"",
+    "status": "excluded",
+    "checked_at": "2026-08-26T13:18:21.241585+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%a7%d9%84%d8%aa%d8%b1%d8%ad%d8%a7%d9%84-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a-%d9%8a%d9%82%d9%84%d8%a8-%d9%85%d9%88%d8%a7%d8%b2-1796855.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026.. \"الترحال السياسي\" يقلب موازين المنافسة في دائرة العرائش",
+    "status": "excluded",
+    "checked_at": "2026-08-26T13:18:21.241585+00:00"
+  },
+  "https://al3omk.com/1182621.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "حين يصبح الجسد النسائي ساحة للصراع الرمزي.. انتقائية الدفاع عن المرأة وحدود الحقوق في المجال العمومي",
+    "status": "excluded",
+    "checked_at": "2026-08-26T13:18:21.241585+00:00"
+  },
+  "https://www.assahifa.com/%d8%b4%d8%a8%d8%a7%d8%b9%d8%aa%d9%88-%d9%8a%d9%8f%d9%81%d8%b3%d8%b1-%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d9%84%d9%87-%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d8%a5%d9%84%d9%89-%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "شباعتو يُفسر انتقاله من الأحرار إلى البام بـعدم الاهتمام بميدلت",
+    "status": "excluded",
+    "checked_at": "2026-08-26T13:18:21.241585+00:00"
+  },
+  "https://thepress.ma/%d8%b4%d8%a8%d8%a7%d8%b9%d8%aa%d9%88-%d9%8a%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d9%85%d8%ba%d8%a7%d8%af%d8%b1%d8%aa%d9%87-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "شباعتو يكشف تفاصيل مغادرته «الأحرار» والتحاقه بـ«البام»",
+    "status": "excluded",
+    "checked_at": "2026-08-26T13:18:21.241585+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d9%86%d8%aa%d9%82%d8%af-%d8%a7%d8%b3%d8%aa%d9%85%d8%a7%d9%84%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d9%8a%d9%87-%d9%88%d9%8a%d9%87%d8%a7%d8%ac%d9%85": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "الأحرار ينتقد استمالة منتخبيه ويهاجم ممارسات \"البام\"",
+    "status": "excluded",
+    "checked_at": "2026-08-26T13:18:21.241585+00:00"
+  },
+  "https://ar.le360.ma/politique/RQPJAA5VMJAEXNWQQUK7VA7TPY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "كزافيي دريانكور: مشروع جيوب «الأقدام السوداء» في الجزائر وجيبا سبتة ومليلية",
+    "status": "excluded",
+    "checked_at": "2026-08-26T13:18:21.241585+00:00"
+  },
+  "https://fr.le360.ma/politique/les-freres-badel-ripostent-au-rni-apres-les-accusations-de-debauchage_P2AQYGOCPBEONASF4HUSQ3OC3M": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Les frères Badel ripostent au RNI après les accusations de «débauchage»",
+    "status": "excluded",
+    "checked_at": "2026-08-26T13:18:21.241585+00:00"
+  },
+  "https://fr.le360.ma/politique/maroc-espagne-margarita-robles-reconnait-lappel-dair-provoque-a-sebta-par-larret-du-tribunal-supreme_UCEXXXWFTBEXVETWR6FGGNRE6I": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Maroc-Espagne: Margarita Robles reconnaît l’«appel d’air» provoqué à Sebta par l’arrêt du Tribunal suprême",
+    "status": "excluded",
+    "checked_at": "2026-08-26T13:18:21.241585+00:00"
+  },
+  "https://fr.le360.ma/politique/sebta-et-melilla-quand-cadi-ayyad-et-al-azafi-repondent-a-madrid_N5EQNYJYBZEHTMKS6KSDE75EYA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sebta et Melilla: quand Cadi Ayyad et Al-Azafi répondent à Madrid",
+    "status": "excluded",
+    "checked_at": "2026-08-26T13:18:21.241585+00:00"
   }
 }
