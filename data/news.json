@@ -1,5 +1,455 @@
 [
   {
+    "id": "daffb930d506f599",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "هل أصبح المال شرطا للترشح للانتخابات؟",
+    "url": "https://al3omk.com/1182722.html",
+    "author": "رشيد غفران",
+    "published_at": "2026-08-25",
+    "first_seen_at": "2026-08-26T20:05:28.935136+00:00",
+    "last_checked_at": "2026-08-26T20:05:28.935136+00:00",
+    "language": "ar",
+    "excerpt": "لم أكن أبحث عن امتياز، ولا عن مقعد مضمون، حين فكرت في خوض الانتخابات المقبلة، كنت أبحث عن فرصة أضع فيها ما راكمته من تجربة",
+    "word_count": 1177,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشح",
+            "الترشح",
+            "مرشح"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "انتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية",
+            "حملة انتخابية"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "التحالفات"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اتهم"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الترشح والتزكية, الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_daffb930d506",
+    "stance_analyzed_at": "2026-08-26T20:05:28.935136+00:00"
+  },
+  {
+    "id": "e5c8a0716a715a76",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026.. كيف تبدو خريطة التنافس في دائرة أكادير إداوتنان؟",
+    "url": "https://www.hespress.com/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-2026-%D9%83%D9%8A%D9%81-%D8%AA%D8%A8%D8%AF%D9%88-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D8%A7%D9%81%D8%B3-%D9%81%D9%8A-%D8%AF%D8%A7-1797268.html",
+    "author": "هسبريس",
+    "published_at": "2026-08-25",
+    "first_seen_at": "2026-08-26T20:05:28.935136+00:00",
+    "last_checked_at": "2026-08-26T20:05:28.935136+00:00",
+    "language": "ar",
+    "excerpt": "تكتسب دائرة أكادير إداوتنان، عاصمة سوس، وزناً سياسياً في السياق الانتخابي وموقعاً بارزاً داخل جهة سوس-ماسة، لكونها تُشعل التنافس على أربعة مقاعد بمجلس النواب. وشهدت",
+    "word_count": 949,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        },
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        },
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        },
+        {
+          "id": "FGD",
+          "name": "فيدرالية اليسار الديمقراطي"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "PSU",
+          "name": "الحزب الاشتراكي الموحد"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "person_014",
+          "name": "حميد وهبي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_009",
+          "name": "صالح المالوكي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_103",
+          "name": "محمد باكيري",
+          "tier": "manual_unverified"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "الاستحقاقات",
+            "انتخابية"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي",
+            "المجلس الإقليمي"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "وكيل اللائحة"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "تحالف"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, التجمع الوطني للأحرار, حزب الاستقلال, حزب العدالة والتنمية",
+        "مواضيع سياسية: الانتخابات والاقتراع, النتائج والاستطلاعات الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 1,
+        "mention_count": 6,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 4,
+        "evidence": [
+          "تراجع"
+        ]
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 7,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 8,
+        "editorial_segment_count": 5,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 8,
+        "editorial_segment_count": 5,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "FGD",
+        "target_type": "party",
+        "target_name": "فيدرالية اليسار الديمقراطي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PSU",
+        "target_type": "party",
+        "target_name": "الحزب الاشتراكي الموحد",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_014",
+        "target_type": "person",
+        "target_name": "حميد وهبي",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 1,
+        "mention_count": 6,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 3,
+        "evidence": [
+          "تراجع"
+        ]
+      },
+      {
+        "target_id": "person_009",
+        "target_type": "person",
+        "target_name": "صالح المالوكي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 1,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "تراجع"
+        ]
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_103",
+        "target_type": "person",
+        "target_name": "محمد باكيري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_e5c8a0716a71",
+    "stance_analyzed_at": "2026-08-26T20:05:28.935136+00:00"
+  },
+  {
     "id": "74edc04e68b28b7b",
     "source_id": "agadirino",
     "source_name": "أكاديرينو",
