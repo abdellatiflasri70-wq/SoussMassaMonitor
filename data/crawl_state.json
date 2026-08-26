@@ -5255,5 +5255,82 @@
     "title": "Législatives 2026: entre le RNI et le PAM, le divorce est officiellement consommé",
     "status": "excluded",
     "checked_at": "2026-08-25T18:59:14.318133+00:00"
+  },
+  "https://www.chtoukapress.com/306262.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بلاغ ناري لحزب الأحرار ضد الاصالة والمعاصرة",
+    "status": "excluded",
+    "checked_at": "2026-08-26T02:00:28.486510+00:00"
+  },
+  "https://www.hespress.com/%d8%b4%d9%88%d9%83%d9%8a-%d9%8a%d8%b9%d9%84%d9%82-%d8%b9%d9%84%d9%89-%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%b5%d9%88%d8%aa%d9%8a-%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3-1797032.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "رئيس \"الأحرار\" يرد على التسريب الصوتي المنسوب إلى الطالبي العلمي",
+    "status": "excluded",
+    "checked_at": "2026-08-26T02:00:28.486510+00:00"
+  },
+  "https://www.hespress.com/%d8%b4%d8%a8%d8%a7%d8%b9%d8%aa%d9%88-%d9%8a%d9%83%d8%b4%d9%81-%d8%a3%d8%b3%d8%a8%d8%a7%d8%a8-%d9%85%d8%ba%d8%a7%d8%af%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-1796953.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "شباعتو يكشف أسباب مغادرة الأحرار",
+    "status": "excluded",
+    "checked_at": "2026-08-26T02:00:28.486510+00:00"
+  },
+  "https://alyaoum24.com/2039965.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "يسار لمغاري يشعل أجواء أكادير بعرض « لمهيب » وسط حضور جماهيري لافت – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-08-26T02:00:28.486510+00:00"
+  },
+  "https://www.assahifa.com/%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d8%b5%d9%88%d8%aa%d9%8a-%d9%85%d9%86%d8%b3%d9%88%d8%a8-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8%d9%8a-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a-%d9%8a%d9%81": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "تسجيل صوتي منسوب إلى الطالبي العلمي يهاجم لقجع بعد التحاقه بـالبام وينتقد استقطاب برلمانيي الأحرار",
+    "status": "excluded",
+    "checked_at": "2026-08-26T02:00:28.486510+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%b3%d8%aa%d9%86%d9%83%d8%b1-%d8%a7%d8%b3%d8%aa%d9%82%d8%b7%d8%a7%d8%a8-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d9%8a%d9%87-%d9%88%d9%82%d9%8a%d8%a7%d8%af": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الأحرار يستنكر استقطاب منتخبيه وقياداته من طرف البام",
+    "status": "excluded",
+    "checked_at": "2026-08-26T02:00:28.486510+00:00"
+  },
+  "https://ar.le360.ma/politique/FDL5CR4SO5GMBIEGBXGBV2QCPE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "تشريعيات 2026: مروان شباعتو يقصف «الحمامة» ويمتطي «الجرار»",
+    "status": "excluded",
+    "checked_at": "2026-08-26T02:00:28.486510+00:00"
+  },
+  "https://ar.le360.ma/politique/K3S6VPGTFVHGFECQFQVSO7SKJU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انتخابات 2026: الطلاق السياسي يقع رسميا بين «الأحرار» و«البام»",
+    "status": "excluded",
+    "checked_at": "2026-08-26T02:00:28.486510+00:00"
+  },
+  "https://ar.le360.ma/politique/ZMTKXIICZFGKJI3XM3GM3DQUFQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلمانية تطالب بركة بتشييد قنطرة جديدة بإقليم أزيلال",
+    "status": "excluded",
+    "checked_at": "2026-08-26T02:00:28.486510+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-marouane-chbaatou-quitte-le-rni-et-rejoint-le-pam_BM24DGPYH5HN3HTQSMZZFCNE4Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: Marouane Chbaatou quitte le RNI et rejoint le PAM",
+    "status": "excluded",
+    "checked_at": "2026-08-26T02:00:28.486510+00:00"
+  },
+  "https://fr.le360.ma/politique/de-cadi-ayyad-a-al-azafi-comment-les-savants-de-sebta-illustrent-la-devotion-marocaine-au-prophete_4CLZF3NXKREG5PORY6ERYZ2YPI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "De Cadi Ayyad à Al-Azafi: comment les savants de Sebta illustrent la dévotion marocaine au Prophète",
+    "status": "excluded",
+    "checked_at": "2026-08-26T02:00:28.486510+00:00"
   }
 }
