@@ -1,26 +1,26 @@
 {
-  "run_at": "2026-08-26T20:05:28.935136+00:00",
+  "run_at": "2026-08-27T09:54:17.885161+00:00",
   "sources": 18,
-  "links_discovered": 142,
-  "known_skipped": 123,
-  "new_candidates": 19,
-  "extraction_success": 17,
+  "links_discovered": 143,
+  "known_skipped": 135,
+  "new_candidates": 8,
+  "extraction_success": 6,
   "extraction_failed": 2,
-  "new_articles": 2,
+  "new_articles": 0,
   "updated_articles": 0,
-  "excluded": 15,
+  "excluded": 6,
   "total_saved": 117,
   "events": 112,
   "errors": 7,
   "source_details": [
     {
       "source_name": "Le360",
-      "links_discovered": 19,
-      "known_skipped": 12,
-      "new_candidates": 7,
-      "extraction_success": 7,
+      "links_discovered": 20,
+      "known_skipped": 18,
+      "new_candidates": 2,
+      "extraction_success": 2,
       "accepted": 0,
-      "excluded": 7,
+      "excluded": 2,
       "errors": 0
     },
     {
@@ -76,11 +76,11 @@
     {
       "source_name": "أكادير24",
       "links_discovered": 17,
-      "known_skipped": 15,
-      "new_candidates": 2,
-      "extraction_success": 2,
+      "known_skipped": 17,
+      "new_candidates": 0,
+      "extraction_success": 0,
       "accepted": 0,
-      "excluded": 2,
+      "excluded": 0,
       "errors": 0
     },
     {
@@ -106,11 +106,11 @@
     {
       "source_name": "الصحيفة",
       "links_discovered": 3,
-      "known_skipped": 1,
-      "new_candidates": 2,
-      "extraction_success": 2,
+      "known_skipped": 2,
+      "new_candidates": 1,
+      "extraction_success": 1,
       "accepted": 0,
-      "excluded": 2,
+      "excluded": 1,
       "errors": 0
     },
     {
@@ -119,8 +119,8 @@
       "known_skipped": 3,
       "new_candidates": 1,
       "extraction_success": 1,
-      "accepted": 1,
-      "excluded": 0,
+      "accepted": 0,
+      "excluded": 1,
       "errors": 0
     },
     {
@@ -186,11 +186,11 @@
     {
       "source_name": "هسبريس",
       "links_discovered": 8,
-      "known_skipped": 3,
-      "new_candidates": 5,
-      "extraction_success": 5,
-      "accepted": 1,
-      "excluded": 4,
+      "known_skipped": 6,
+      "new_candidates": 2,
+      "extraction_success": 2,
+      "accepted": 0,
+      "excluded": 2,
       "errors": 0
     }
   ]
