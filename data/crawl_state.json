@@ -5752,5 +5752,89 @@
     "title": "Le bras de fer entre le ministère et les avocats s’intensifie, la justice en crise",
     "status": "excluded",
     "checked_at": "2026-08-27T22:18:10.092175+00:00"
+  },
+  "https://www.chtoukapress.com/306307.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "قيادات حزب “الأحرار” تلتئم غدا السبت بأكادير",
+    "status": "accepted",
+    "checked_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  "https://www.chtoukapress.com/306300.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "المنصوري ترفض التحالف مع الأحرار في الحكومة المقبلة",
+    "status": "excluded",
+    "checked_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  "https://alyaoum24.com/2040517.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "حجز أزيد من طن من « الكيف » داخل منزل مهجور بنواحي إنشادن بإقليم اشتوكة آيت باها – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%b3%d8%aa%d8%a9-%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d9%88%d8%ae%d8%b1%d9%8a%d8%b7%d8%a9-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d9%85%d8%aa%d8%ad-1797898.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. ستة مقاعد وخريطة سياسية متحركة في بني ملال؟",
+    "status": "excluded",
+    "checked_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d8%a7%d8%ad%d8%ab%d9%88%d9%86-%d9%8a%d8%ad%d8%b0%d8%b1%d9%88%d9%86-%d9%85%d9%86-%d8%ae%d9%84%d8%b7-%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%ad%d9%8a%d9%86-%d9%84%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7-1797347.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "باحثون يحذرون من خلط المرشحين للانتخابات بين اختصاصات المؤسسات",
+    "status": "excluded",
+    "checked_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%83%d9%8a%d9%81-%d8%aa%d8%ba%d9%8a%d8%b1%d8%aa-%d9%85%d9%88%d8%a7%d8%b2%d9%8a%d9%86-%d9%82%d9%88%d9%89-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b1-1797876.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. كيف تغيرت موازين قوى الاقتراع في دائرة بنسليمان؟",
+    "status": "excluded",
+    "checked_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  "https://ar.le360.ma/politique/G3GWF3MDJ5F45AP2MQ2GCFVP5U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "منال بادل رئيسة جماعة برشيد تكسر الصمت: حقيقة انقطاع المياه وواقع البنية التحتية وأسباب القطيعة مع «الأحرار»",
+    "status": "excluded",
+    "checked_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  "https://ar.le360.ma/politique/MGHT6N67DNCTPJXD5R2ZLYITFI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انتخابات 2026 (5): النفوذ والمال والجاه.. الوزيرة السابقة شرفات أفيلال تفضح «الميركاتو الانتخابي» وتعري واقع «صناعة الأعيان»",
+    "status": "accepted",
+    "checked_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  "https://ar.le360.ma/politique/JV263DLJ6VDFFLY7Z2QD2RANX4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "سباق تشريعيات 2026: وزراء يختارون مواجهة صناديق الاقتراع وآخرون يفضلون الانسحاب",
+    "status": "accepted",
+    "checked_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  "https://ar.le360.ma/politique/3OSG6XWGZBCHBCUR3BBQO5PUX4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلماني يسائل السغروشني حول أسباب «ضعف» شبكة الهاتف والإنترنت بجماعة المكرن بإقليم القنيطرة",
+    "status": "excluded",
+    "checked_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  "https://ar.le360.ma/politique/LA7W2WMH4BA3FLGS5GSUG2JU7U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلماني يطالب البواري ببرمجة طلقات مائية من سد الحسن الثاني «لإنقاذ» زراعات بولمان",
+    "status": "excluded",
+    "checked_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  "https://fr.le360.ma/politique/pam-vs-rni-pourquoi-le-ministere-des-finances-est-il-deja-au-coeur-des-convoitises_PJNLZYFT3FF55EFWB6ZE7MFGEA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "PAM vs RNI: pourquoi le ministère des Finances est-il déjà au cœur des convoitises?",
+    "status": "accepted",
+    "checked_at": "2026-08-28T11:28:27.053319+00:00"
   }
 }

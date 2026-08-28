@@ -1,5 +1,782 @@
 [
   {
+    "id": "f3cee1f222750e59",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "قيادات حزب “الأحرار” تلتئم غدا السبت بأكادير",
+    "url": "https://www.chtoukapress.com/306307.html",
+    "author": "اشتوكة بريس",
+    "published_at": "2026-08-27",
+    "first_seen_at": "2026-08-28T11:28:27.053319+00:00",
+    "last_checked_at": "2026-08-28T11:28:27.053319+00:00",
+    "language": "ar",
+    "excerpt": "علمت اشتوكة بريس أن قيادات حزب التجمع الوطني للأحرار، ستجتمع غدا السبت بمدينة أكادير، في لقاء سياسي مرتقب، ينتظر أن يتم خلاله الإعلان رسميا عن",
+    "word_count": 140,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها",
+        "تارودانت",
+        "طاطا"
+      ],
+      "secondary_places": [
+        "أيت باها",
+        "أيت ملول",
+        "إنزكان",
+        "تارودانت",
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_061",
+          "name": "إسماعيل كرام",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_084",
+          "name": "عبد الله غازي",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_052",
+          "name": "عمر أمين",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "تزكية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: إسماعيل كرام, عبد الله غازي, عمر أمين"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_061",
+        "target_type": "person",
+        "target_name": "إسماعيل كرام",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_084",
+        "target_type": "person",
+        "target_name": "عبد الله غازي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_052",
+        "target_type": "person",
+        "target_name": "عمر أمين",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f3cee1f22275",
+    "stance_analyzed_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  {
+    "id": "2d80dd34edf2967a",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انتخابات 2026 (5): النفوذ والمال والجاه.. الوزيرة السابقة شرفات أفيلال تفضح «الميركاتو الانتخابي» وتعري واقع «صناعة الأعيان»",
+    "url": "https://ar.le360.ma/politique/MGHT6N67DNCTPJXD5R2ZLYITFI",
+    "author": "أشرف الحساني; عبد الرحيم الطاهيري; خليل السالك",
+    "published_at": "2026-08-27",
+    "first_seen_at": "2026-08-28T11:28:27.053319+00:00",
+    "last_checked_at": "2026-08-28T11:28:27.053319+00:00",
+    "language": "ar",
+    "excerpt": "وتقول شرفات أفيلال، الوزيرة السابقة المنتدبة المكلفة بالماء بأن «الأحزاب اليسارية بالمغرب لم تمت، وأنها تمثل اليوم مشروعا مجتمعيا حقيقيا، إذ رغم وجود أعطاب على",
+    "word_count": 519,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "استحقاقات",
+            "انتخابية",
+            "التصويت",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "تزكية",
+            "التزكيات",
+            "مرشحا",
+            "ترشيحها"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب التقدم والاشتراكية",
+        "مواضيع سياسية: الانتخابات والاقتراع, الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 4,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_2d80dd34edf2",
+    "stance_analyzed_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  {
+    "id": "f934510271bbdc88",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "سباق تشريعيات 2026: وزراء يختارون مواجهة صناديق الاقتراع وآخرون يفضلون الانسحاب",
+    "url": "https://ar.le360.ma/politique/JV263DLJ6VDFFLY7Z2QD2RANX4",
+    "author": "طارق قطاب",
+    "published_at": "2026-08-27",
+    "first_seen_at": "2026-08-28T11:28:27.053319+00:00",
+    "last_checked_at": "2026-08-28T11:28:27.053319+00:00",
+    "language": "ar",
+    "excerpt": "وتبرز الخريطة الانتخابية لأعضاء الجهاز التنفيذي تباين الرهانات الحزبية والحسابات الفردية؛ فبينما يقود حزب الأصالة والمعاصرة حملة هجومية عبر الدفع بوزير الميزانية فوزي لقجع، يعيد",
+    "word_count": 1397,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_004",
+          "name": "عبد الصمد قيوح",
+          "tier": "priority"
+        },
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_027",
+          "name": "عبد الوافي لفتيت",
+          "tier": "priority"
+        },
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        },
+        {
+          "id": "person_006",
+          "name": "لحسن السعدي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_019",
+          "name": "نزار بركة",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "تشريعيات",
+            "صناديق الاقتراع",
+            "انتخابات",
+            "انتخابية",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشح",
+            "الترشح",
+            "ترشحه"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "صراع"
+          ]
+        },
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "تضارب المصالح"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, حزب الاستقلال, التجمع الوطني للأحرار",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع, الترشح والتزكية, السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 1,
+        "evidence": [
+          "حضور وازن",
+          "كفاءات"
+        ]
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 0,
+        "evidence": [
+          "كفاءات"
+        ]
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 5,
+        "reported_segment_count": 0,
+        "evidence": [
+          "حضور وازن"
+        ]
+      },
+      {
+        "target_id": "person_004",
+        "target_type": "person",
+        "target_name": "عبد الصمد قيوح",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_027",
+        "target_type": "person",
+        "target_name": "عبد الوافي لفتيت",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_006",
+        "target_type": "person",
+        "target_name": "لحسن السعدي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_019",
+        "target_type": "person",
+        "target_name": "نزار بركة",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فاز"
+        ]
+      }
+    ],
+    "event_id": "evt_f934510271bb",
+    "stance_analyzed_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  {
+    "id": "57d2a93d2558411e",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "PAM vs RNI: pourquoi le ministère des Finances est-il déjà au cœur des convoitises?",
+    "url": "https://fr.le360.ma/politique/pam-vs-rni-pourquoi-le-ministere-des-finances-est-il-deja-au-coeur-des-convoitises_PJNLZYFT3FF55EFWB6ZE7MFGEA",
+    "author": "Wadie El Mouden",
+    "published_at": "2026-08-27",
+    "first_seen_at": "2026-08-28T11:28:27.053319+00:00",
+    "last_checked_at": "2026-08-28T11:28:27.053319+00:00",
+    "language": "fr",
+    "excerpt": "Dans l’enregistrement qui circule, le président de la Chambre des représentants et membre du RNI affirme, en substance, que si son parti conserve la présidence",
+    "word_count": 1460,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_019",
+          "name": "نزار بركة",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "électorale",
+            "législatives",
+            "électoral",
+            "scrutin",
+            "électorales"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "gouvernement",
+            "ministre",
+            "projet de loi"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "affirme",
+            "communiqué"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "majorité",
+            "rupture"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "candidats"
+          ]
+        },
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "ralliement"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "bureau politique"
+          ]
+        },
+        {
+          "id": "internal_party_election",
+          "name": "انتخاب المسؤولين والهياكل الحزبية",
+          "hits": [
+            "coordinateur régional"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع, السياسات والحصيلة الحكومية, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 16,
+        "editorial_segment_count": 14,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 9,
+        "editorial_segment_count": 9,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 14,
+        "editorial_segment_count": 11,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "person_019",
+        "target_type": "person",
+        "target_name": "نزار بركة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_57d2a93d2558",
+    "stance_analyzed_at": "2026-08-28T11:28:27.053319+00:00"
+  },
+  {
     "id": "7b3459575dbabc03",
     "source_id": "chtoukapress",
     "source_name": "اشتوكة بريس",
