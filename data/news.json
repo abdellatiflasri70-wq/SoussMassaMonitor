@@ -341,6 +341,1207 @@
     "stance_analyzed_at": "2026-08-29T16:45:14.714399+00:00"
   },
   {
+    "id": "8f227e83efab622a",
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "شوكي من أكادير: \"الأحرار\" في أتم الجاهزية للانتخابات ورهاننا كسب ثقة المغاربة (فيديو) - agadirino.ma",
+    "url": "https://agadirino.ma/2026/08/29/%D8%B4%D9%88%D9%83%D9%8A-%D9%85%D9%86-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A3%D8%AA%D9%85-%D8%A7%D9%84%D8%AC%D8%A7%D9%87%D8%B2%D9%8A",
+    "author": "Driss Driss",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-29T20:57:32.619895+00:00",
+    "last_checked_at": "2026-08-29T20:57:32.619895+00:00",
+    "language": "ar",
+    "excerpt": "أكد محمد شوكي، القيادي بحزب التجمع الوطني للأحرار، أن الحزب يوجد في أتم الجاهزية لخوض الاستحقاقات الانتخابية المقبلة، مؤكداً أن رهان الأحرار يتمثل في كسب",
+    "word_count": 226,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "اعتبر"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "الحصيلة الحكومية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "مواضيع سياسية: الانتخابات والاقتراع, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 3,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 4,
+        "evidence": [
+          "ثقة"
+        ]
+      }
+    ],
+    "event_id": "evt_8f227e83efab",
+    "stance_analyzed_at": "2026-08-29T20:57:32.619895+00:00"
+  },
+  {
+    "id": "bc3476e01f888e22",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "البحرية الملكية تعترض 201 مرشح للهجرة غير النظامية بالداخلة كانوا يعتزمون التوجه إلى جزر الكناري - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134100.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-29T20:57:32.619895+00:00",
+    "last_checked_at": "2026-08-29T20:57:32.619895+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديالبحرية الملكية تعترض 201 مرشح للهجرة غير النظامية بالداخلة كانوا يعتزمون التوجه إلى جزر الكناري اعترضت وحدات من البحرية الملكية، اليوم السبت، على بعد",
+    "word_count": 102,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_bc3476e01f88",
+    "stance_analyzed_at": "2026-08-29T20:57:32.619895+00:00"
+  },
+  {
+    "id": "edb3d6730a8d1594",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "بالأسماء والانتماءات الحزبية.. خريطة نواب سوس ماسة في نهاية الولاية التشريعية 2021-2026 | agadir24.info",
+    "url": "https://agadir24.info/%D8%A8%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B2%D8%A8%D9%8A%D8%A9-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D9%86.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-29T20:57:32.619895+00:00",
+    "last_checked_at": "2026-08-29T20:57:32.619895+00:00",
+    "language": "ar",
+    "excerpt": "تختتم جهة سوس ماسة الولاية التشريعية الحالية بتمثيلية تضم 28 عضوا بمجلس النواب، موزعين بين 21 نائبا منتخبا عن سبع دوائر محلية وسبعة أعضاء عن",
+    "word_count": 731,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "إنزكان أيت ملول",
+        "اشتوكة أيت باها",
+        "تارودانت",
+        "طاطا"
+      ],
+      "secondary_places": [
+        "ماسة",
+        "أيت باها",
+        "أيت ملول",
+        "إنزكان",
+        "تارودانت"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_014",
+          "name": "حميد وهبي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_004",
+          "name": "عبد الصمد قيوح",
+          "tier": "priority"
+        },
+        {
+          "id": "person_015",
+          "name": "عبد العزيز البهجة",
+          "tier": "priority"
+        },
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_006",
+          "name": "لحسن السعدي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_062",
+          "name": "أحمد بومكوك",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_073",
+          "name": "إبراهيم أجنين",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_049",
+          "name": "إسماعيل الزيتوني",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_061",
+          "name": "إسماعيل كرام",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_038",
+          "name": "جمال ديواني",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_085",
+          "name": "حنان عدباوي",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_051",
+          "name": "خالد الشناق",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_084",
+          "name": "عبد الله غازي",
+          "tier": "secondary"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "اقتراع"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "الأغلبية الحكومية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال, الاتحاد الاشتراكي للقوات الشعبية, التجمع الوطني للأحرار, حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: كريم أشنكلي",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فاز",
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 6,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 6,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_014",
+        "target_type": "person",
+        "target_name": "حميد وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_004",
+        "target_type": "person",
+        "target_name": "عبد الصمد قيوح",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "person_015",
+        "target_type": "person",
+        "target_name": "عبد العزيز البهجة",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "person_006",
+        "target_type": "person",
+        "target_name": "لحسن السعدي",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "person_062",
+        "target_type": "person",
+        "target_name": "أحمد بومكوك",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_073",
+        "target_type": "person",
+        "target_name": "إبراهيم أجنين",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "person_049",
+        "target_type": "person",
+        "target_name": "إسماعيل الزيتوني",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_061",
+        "target_type": "person",
+        "target_name": "إسماعيل كرام",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_038",
+        "target_type": "person",
+        "target_name": "جمال ديواني",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_085",
+        "target_type": "person",
+        "target_name": "حنان عدباوي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_051",
+        "target_type": "person",
+        "target_name": "خالد الشناق",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_084",
+        "target_type": "person",
+        "target_name": "عبد الله غازي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_edb3d6730a8d",
+    "stance_analyzed_at": "2026-08-29T20:57:32.619895+00:00"
+  },
+  {
+    "id": "b71e282a69859393",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "زكية الدريوش تعلن قائمة مرشحات لائحة \"الأحرار\" بسوس ماسة وتستحضر 30 سنة من العطاء للجهة | agadir24.info",
+    "url": "https://agadir24.info/%D8%B2%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%B1%D9%8A%D9%88%D8%B4-%D8%AA%D8%B9%D9%84%D9%86-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D9%85%D8%B1%D8%B4%D8%AD%D8%A7%D8%AA-%D9%84%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7.html",
+    "author": "أكادير",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-29T20:57:32.619895+00:00",
+    "last_checked_at": "2026-08-29T20:57:32.619895+00:00",
+    "language": "ar",
+    "excerpt": "كشفت زكية الدريوش، وكيلة اللائحة الجهوية لحزب التجمع الوطني للأحرار بجهة سوس ماسة، عن أسماء بقية المرشحات في اللائحة، واللاتي تضم كل من: سكينة أوبركة،",
+    "word_count": 138,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_b71e282a6985",
+    "stance_analyzed_at": "2026-08-29T20:57:32.619895+00:00"
+  },
+  {
+    "id": "f4483387aafb4f48",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "شوكي يعلن رسميا من أكادير تزكية الدريوش وكيلة للائحة الجهوية للحمامة بجهة سوس ماسة | agadir24.info",
+    "url": "https://agadir24.info/%D8%B4%D9%88%D9%83%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D9%85%D9%86-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%AA%D8%B2%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%B1%D9%8A%D9%88.html",
+    "author": "أكادير",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-29T20:57:32.619895+00:00",
+    "last_checked_at": "2026-08-29T20:57:32.619895+00:00",
+    "language": "ar",
+    "excerpt": "أعلن محمد شوكي، رئيس حزب التجمع الوطني للأحرار، خلال لقاء تواصلي عُقد بمدينة أكادير، عن اعتماد زكية الدريوش، كاتبة الدولة المكلفة بالصيد البحري وعضو المكتب",
+    "word_count": 141,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير",
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "تزكية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "الحصيلة الحكومية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "مواضيع سياسية: الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f4483387aafb",
+    "stance_analyzed_at": "2026-08-29T20:57:32.619895+00:00"
+  },
+  {
+    "id": "126f4f6c4e012259",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "أخنوش يستعرض «ثورة أكادير التنموية» في لقاء حزبي ويختار الصمت تجاه اتهامات الخصوم | agadir24.info",
+    "url": "https://agadir24.info/%D8%A3%D8%AE%D9%86%D9%88%D8%B4-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%AB%D9%88%D8%B1%D8%A9-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%88%D9%8A%D8%A9-%D9%81.html",
+    "author": "أكادير",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-29T20:57:32.619895+00:00",
+    "last_checked_at": "2026-08-29T20:57:32.619895+00:00",
+    "language": "ar",
+    "excerpt": "تجاهل عزيز أخنوش، رئيس الحكومة والأمين العام لحزب التجمع الوطني للأحرار، الاتهامات والانتقادات الموجهة إليه و لحزبه من طرف الخصوم السياسيين، مفضلاً التركيز الكامل على",
+    "word_count": 323,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "critical",
+        "label_ar": "ناقد أو سلبي",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 2,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "انتقادات"
+        ]
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 2,
+        "mention_count": 6,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 2,
+        "evidence": [
+          "انتقادات",
+          "دينامية"
+        ]
+      }
+    ],
+    "event_id": "evt_126f4f6c4e01",
+    "stance_analyzed_at": "2026-08-29T20:57:32.619895+00:00"
+  },
+  {
+    "id": "70336f15664dfd24",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "شوكي يلمح إلى \"الأصالة والمعاصرة\": التصدّر لا يُصنع بالصور الزائفة",
+    "url": "https://www.hespress.com/%D8%B4%D9%88%D9%83%D9%8A-%D9%8A%D9%84%D9%85%D8%AD-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B5%D8%A7%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B5-1798982.html",
+    "author": "هسبريس",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-29T20:57:32.619895+00:00",
+    "last_checked_at": "2026-08-29T20:57:32.619895+00:00",
+    "language": "ar",
+    "excerpt": "بعد أسبوع حافل بالتراشق السياسي بين حزبي “الحمامة” و”الجرار”، دعا محمد شوكي، رئيس حزب التجمع الوطني للأحرار، السبت، منافسيه إلى تقديم بدائلهم للمغاربة في مجالات",
+    "word_count": 396,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, التجمع الوطني للأحرار, حزب الاستقلال",
+        "شخصيات رئيسية: عزيز أخنوش, فوزي لقجع",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 4,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 0,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_70336f15664d",
+    "stance_analyzed_at": "2026-08-29T20:57:32.619895+00:00"
+  },
+  {
     "id": "f3cee1f222750e59",
     "source_id": "chtoukapress",
     "source_name": "اشتوكة بريس",
