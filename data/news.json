@@ -1,5 +1,346 @@
 [
   {
+    "id": "68896b7afd9353d1",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "تعزية في وفاة خال رئيس المجلس الجماعي لسيدي بيبي",
+    "url": "https://www.chtoukapress.com/306350.html",
+    "author": "Amikkk",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-29T16:45:14.714399+00:00",
+    "last_checked_at": "2026-08-29T16:45:14.714399+00:00",
+    "language": "ar",
+    "excerpt": "بسم الله الرحمن الرحيم قال تعالى: وَبَشِّرِ الصَّابِرِينَ الَّذِينَ إِذَا أَصَابَتْهُمْ مُصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ أُوْلَئِكَ عَلَيْهِمْ صَلَوَاتٌ مِنْ رَبِّهِمْ وَرَحْمَةٌ وَأُوْلَئِكَ",
+    "word_count": 103,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "سيدي بيبي"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي",
+            "رئيس المجلس"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_68896b7afd93",
+    "stance_analyzed_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  {
+    "id": "0a7b0ed348ad1f6e",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخاب أعضاء مجلس النواب.. إيداع التصريحات بالترشيح ابتداء من الاثنين 31 غشت إلى غاية الأربعاء 9 شتنبر 2026 - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134096.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-29T16:45:14.714399+00:00",
+    "last_checked_at": "2026-08-29T16:45:14.714399+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربانتخاب أعضاء مجلس النواب.. إيداع التصريحات بالترشيح ابتداء من الاثنين 31 غشت إلى غاية الأربعاء 9 شتنبر 2026 أفاد بلاغ لوزير الداخلية، اليوم السبت،",
+    "word_count": 440,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ",
+            "أكد"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "الترشح",
+            "وكيل اللائحة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية, الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_0a7b0ed348ad",
+    "stance_analyzed_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  {
+    "id": "e5d3cb299d474c1d",
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "حزب الاستقلال يعلن دفعة جديدة من مرشحي الانتخابات التشريعية",
+    "url": "https://thepress.ma/%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D9%8A%D8%B9%D9%84%D9%86-%D8%AF%D9%81%D8%B9%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D9%85%D8%B1%D8%B4%D8%AD%D9%8A",
+    "author": "خولة الطهيري",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-29T16:45:14.714399+00:00",
+    "last_checked_at": "2026-08-29T16:45:14.714399+00:00",
+    "language": "ar",
+    "excerpt": "صادقت اللجنة التنفيذية لحزب الاستقلال، برئاسة الأمين العام نزار بركة، على دفعة جديدة من الترشيحات لخوض الانتخابات التشريعية المقبلة، وذلك خلال اجتماعها المنعقد الخميس 27",
+    "word_count": 243,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_019",
+          "name": "نزار بركة",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال",
+        "شخصيات رئيسية: نزار بركة"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_019",
+        "target_type": "person",
+        "target_name": "نزار بركة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_e5d3cb299d47",
+    "stance_analyzed_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  {
+    "id": "782f17df7e5da265",
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "\"البام\" يكشف أسماء وكيلات اللوائح الجهوية للنساء",
+    "url": "https://thepress.ma/%D8%A7%D9%84%D8%A8%D8%A7%D9%85-%D9%8A%D9%83%D8%B4%D9%81-%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D9%88%D9%83%D9%8A%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%88%D8%A7%D8%A6%D8%AD-%D8%A7%D9%84%D8%AC%D9%87",
+    "author": "خولة الطهيري",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-29T16:45:14.714399+00:00",
+    "last_checked_at": "2026-08-29T16:45:14.714399+00:00",
+    "language": "ar",
+    "excerpt": "كشف حزب الأصالة والمعاصرة، أمس الجمعة، عن أسماء النساء اللواتي سيتصدرن اللوائح الجهوية المخصصة للنساء في الانتخابات التشريعية المقرر تنظيمها يوم 23 شتنبر المقبل، وذلك",
+    "word_count": 223,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_2fc8ea049acf",
+    "stance_analyzed_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  {
     "id": "f3cee1f222750e59",
     "source_id": "chtoukapress",
     "source_name": "اشتوكة بريس",
@@ -1949,6 +2290,186 @@
     ],
     "event_id": "evt_e71b2553e206",
     "stance_analyzed_at": "2026-08-28T22:24:22.805175+00:00"
+  },
+  {
+    "id": "caede862d998e03a",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "من هو سعيد أزكار الذي نال ثقة الاستقلاليين لوصافة لائحة الدكتور جمال ديواني بالتشريعيات في أكادير إداوتنان؟ - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134087.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-08-27",
+    "first_seen_at": "2026-08-29T16:45:14.714399+00:00",
+    "last_checked_at": "2026-08-29T16:45:14.714399+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةمن هو سعيد أزكار الذي نال ثقة الاستقلاليين لوصافة لائحة الدكتور جمال ديواني بالتشريعيات في أكادير إداوتنان؟ يخوض سعيد أزكار، المستشار الجماعي بجماعة التامري،",
+    "word_count": 793,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "أورير",
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_038",
+          "name": "جمال ديواني",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_005",
+          "name": "زينب قيوح",
+          "tier": "priority"
+        },
+        {
+          "id": "person_004",
+          "name": "عبد الصمد قيوح",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "تشريعيات",
+            "الاستحقاقات",
+            "انتخابات",
+            "صناديق الاقتراع"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال",
+        "شخصيات رئيسية: جمال ديواني",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 9,
+        "editorial_segment_count": 9,
+        "reported_segment_count": 0,
+        "evidence": [
+          "كفاءات"
+        ]
+      },
+      {
+        "target_id": "person_038",
+        "target_type": "person",
+        "target_name": "جمال ديواني",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 5,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 5,
+        "reported_segment_count": 0,
+        "evidence": [
+          "ثقة",
+          "ثقة"
+        ]
+      },
+      {
+        "target_id": "person_005",
+        "target_type": "person",
+        "target_name": "زينب قيوح",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_004",
+        "target_type": "person",
+        "target_name": "عبد الصمد قيوح",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": [
+          "كفاءات"
+        ]
+      }
+    ],
+    "event_id": "evt_caede862d998",
+    "stance_analyzed_at": "2026-08-29T16:45:14.714399+00:00"
   },
   {
     "id": "7b3459575dbabc03",

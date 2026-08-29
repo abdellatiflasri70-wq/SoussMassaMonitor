@@ -1,27 +1,27 @@
 {
-  "run_at": "2026-08-29T07:07:50.353179+00:00",
+  "run_at": "2026-08-29T16:45:14.714399+00:00",
   "sources": 18,
-  "links_discovered": 128,
+  "links_discovered": 144,
   "known_skipped": 121,
-  "new_candidates": 7,
-  "extraction_success": 6,
-  "extraction_failed": 1,
-  "new_articles": 0,
+  "new_candidates": 23,
+  "extraction_success": 20,
+  "extraction_failed": 3,
+  "new_articles": 5,
   "updated_articles": 0,
-  "excluded": 6,
-  "total_saved": 132,
-  "events": 125,
+  "excluded": 15,
+  "total_saved": 137,
+  "events": 129,
   "errors": 8,
   "source_details": [
     {
       "source_name": "Le360",
-      "links_discovered": 22,
-      "known_skipped": 21,
-      "new_candidates": 1,
-      "extraction_success": 0,
+      "links_discovered": 21,
+      "known_skipped": 12,
+      "new_candidates": 9,
+      "extraction_success": 7,
       "accepted": 0,
-      "excluded": 0,
-      "errors": 1
+      "excluded": 7,
+      "errors": 2
     },
     {
       "source_name": "LeSiteInfo",
@@ -45,12 +45,12 @@
     },
     {
       "source_name": "ThePress",
-      "links_discovered": 6,
+      "links_discovered": 9,
       "known_skipped": 6,
-      "new_candidates": 0,
-      "extraction_success": 0,
-      "accepted": 0,
-      "excluded": 0,
+      "new_candidates": 3,
+      "extraction_success": 3,
+      "accepted": 2,
+      "excluded": 1,
       "errors": 0
     },
     {
@@ -65,11 +65,11 @@
     },
     {
       "source_name": "أكادير أنفو",
-      "links_discovered": 0,
-      "known_skipped": 0,
-      "new_candidates": 0,
-      "extraction_success": 0,
-      "accepted": 0,
+      "links_discovered": 7,
+      "known_skipped": 4,
+      "new_candidates": 3,
+      "extraction_success": 2,
+      "accepted": 2,
       "excluded": 0,
       "errors": 1
     },
@@ -95,8 +95,18 @@
     },
     {
       "source_name": "اشتوكة بريس",
-      "links_discovered": 9,
-      "known_skipped": 8,
+      "links_discovered": 10,
+      "known_skipped": 9,
+      "new_candidates": 1,
+      "extraction_success": 1,
+      "accepted": 1,
+      "excluded": 0,
+      "errors": 0
+    },
+    {
+      "source_name": "الصحيفة",
+      "links_discovered": 2,
+      "known_skipped": 1,
       "new_candidates": 1,
       "extraction_success": 1,
       "accepted": 0,
@@ -104,19 +114,9 @@
       "errors": 0
     },
     {
-      "source_name": "الصحيفة",
-      "links_discovered": 1,
-      "known_skipped": 1,
-      "new_candidates": 0,
-      "extraction_success": 0,
-      "accepted": 0,
-      "excluded": 0,
-      "errors": 0
-    },
-    {
       "source_name": "العمق المغربي",
-      "links_discovered": 3,
-      "known_skipped": 2,
+      "links_discovered": 4,
+      "known_skipped": 3,
       "new_candidates": 1,
       "extraction_success": 1,
       "accepted": 0,
@@ -126,11 +126,11 @@
     {
       "source_name": "اليوم24",
       "links_discovered": 4,
-      "known_skipped": 3,
-      "new_candidates": 1,
-      "extraction_success": 1,
+      "known_skipped": 4,
+      "new_candidates": 0,
+      "extraction_success": 0,
       "accepted": 0,
-      "excluded": 1,
+      "excluded": 0,
       "errors": 0
     },
     {
@@ -175,22 +175,22 @@
     },
     {
       "source_name": "مشاهد أنفو",
-      "links_discovered": 0,
-      "known_skipped": 0,
+      "links_discovered": 7,
+      "known_skipped": 7,
       "new_candidates": 0,
       "extraction_success": 0,
       "accepted": 0,
       "excluded": 0,
-      "errors": 1
+      "errors": 0
     },
     {
       "source_name": "هسبريس",
-      "links_discovered": 9,
-      "known_skipped": 6,
-      "new_candidates": 3,
-      "extraction_success": 3,
+      "links_discovered": 6,
+      "known_skipped": 1,
+      "new_candidates": 5,
+      "extraction_success": 5,
       "accepted": 0,
-      "excluded": 3,
+      "excluded": 5,
       "errors": 0
     }
   ]

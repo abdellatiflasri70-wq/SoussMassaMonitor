@@ -6004,5 +6004,145 @@
     "title": "من رؤية ملكية وضعت الأساس إلى مشاريع بالملايير.. هكذا تغيرت ملامح أكادير بعد 2021",
     "status": "excluded",
     "checked_at": "2026-08-29T07:07:50.353179+00:00"
+  },
+  "https://www.chtoukapress.com/306350.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "تعزية في وفاة خال رئيس المجلس الجماعي لسيدي بيبي",
+    "status": "accepted",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://agadirinfo.ma/134096.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخاب أعضاء مجلس النواب.. إيداع التصريحات بالترشيح ابتداء من الاثنين 31 غشت إلى غاية الأربعاء 9 شتنبر 2026 - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://agadirinfo.ma/134087.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "من هو سعيد أزكار الذي نال ثقة الاستقلاليين لوصافة لائحة الدكتور جمال ديواني بالتشريعيات في أكادير إداوتنان؟ - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://al3omk.com/1183435.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "نقل القيد الانتخابي يسقط مرشح الاستقلال بدائرة تاونات-تيسة",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%ad%d9%81%d8%a7%d8%b8-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d9%83%d8%a7%d8%b3%d8%a8-%d9%88%d8%aa%d8%ac%d8%af-1798761.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. بين الحفاظ على المكاسب وتجديد الوجوه في القنيطرة",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%aa%d8%af%d8%a7%d9%81%d8%b9%d8%a7%d8%aa-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d8%b9%d9%84%d9%89-%d9%83%d9%84-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa-1798749.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. تدافعات مفتوحة على كل الاحتمالات في دائرة سطات",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%b6%d9%85-%d8%a7%d9%84%d9%83%d8%a7%d8%aa%d8%a8-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af%d9%8a-%d9%81%d9%8a-%d9%88%d8%b2%d8%a7%d9%86-1798739.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"البام\" يضم الكاتب الاتحادي في وزان",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%aa%d8%ad%d9%88%d9%84%d8%a7%d8%aa-5-%d8%b3%d9%86%d9%88%d8%a7%d8%aa-%d8%aa%d9%88%d8%b3%d8%b9-%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d9%86-1798274.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. تحولات 5 سنوات توسع باب المنافسة في وجدة-أنجاد",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%88%d8%ac%d9%88%d9%87-%d9%86%d8%b3%d8%a7%d8%a6%d9%8a%d8%a9-%d8%a8%d8%a7%d8%b1%d8%b2%d8%a9-%d8%aa%d8%aa%d9%86%d8%a7%d9%81%d8%b3-%d8%b9%d9%84-1798288.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026.. وجوه نسائية بارزة تتنافس على اللائحة الجهوية بالبيضاء",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%ac%d8%af%d9%84-%d8%a7%d9%84%d8%b0%d9%8a-%d9%81%d8%ac%d9%91%d8%b1%d9%87-%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d8%a7%d9%84%d9%85%d9%83": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بعد الجدل الذي فجّره تسريب اجتماع المكتب السياسي لـالأحرار.. أخنوش يدافع عن الطالبي العلمي وينتقد انتهاك حرمة النقاش الداخلي",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://thepress.ma/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d9%8a%d8%b9%d9%84%d9%86-%d8%af%d9%81%d8%b9%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%85%d9%86-%d9%85%d8%b1%d8%b4%d8%ad%d9%8a": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "حزب الاستقلال يعلن دفعة جديدة من مرشحي الانتخابات التشريعية",
+    "status": "accepted",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://thepress.ma/%d8%a8%d9%84%d8%a7%d8%ba-%d9%85%d8%ac%d9%87%d9%88%d9%84-%d9%8a%d8%ab%d9%8a%d8%b1-%d8%a7%d9%84%d8%ac%d8%af%d9%84-%d8%ad%d9%88%d9%84-%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad-%d8%b4%d9%8a%d8%b1%d9%8a-%d9%88": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "بلاغ مجهول يثير الجدل حول ترشيح شيري.. والأحرار يوضح",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d9%83%d8%b4%d9%81-%d8%a3%d8%b3%d9%85%d8%a7%d8%a1-%d9%88%d9%83%d9%8a%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d9%84%d9%88%d8%a7%d8%a6%d8%ad-%d8%a7%d9%84%d8%ac%d9%87": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "\"البام\" يكشف أسماء وكيلات اللوائح الجهوية للنساء",
+    "status": "accepted",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://ar.le360.ma/politique/54AQXAAOXFEXNB4J74YIJBW7JI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بلاغ هام من الداخلية بخصوص إيداع التصريحات بالترشيح برسم انتخاب أعضاء مجلس النواب",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://ar.le360.ma/politique/EPBXDJHHSFBATMIT4FDR3QEYCQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "المغرب والأردن يوقعان اتفاقية لتعزيز التعاون القضائي والارتقاء بآلياته القانونية والمؤسساتية",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-la-maire-de-rabat-fatiha-el-moudni-quitte-le-rni-pour-le-pam_R2XBUOWIYNG2DDHODH5KIB2E4A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: la maire de Rabat, Fatiha El Moudni, quitte le RNI pour le PAM",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-fraqchiya-conflits-dinterets-inflation-les-cibles-prioritaires-de-listiqlal_V3RDHCX76BELPH3OZ237M2HNKU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: Fraqchiya, conflits d’intérêts, inflation... les cibles prioritaires de l’Istiqlal",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://fr.le360.ma/politique/le-ministere-de-linterieur-fixe-le-calendrier-de-depot-des-candidatures-pour-les-legislatives-du-23_USM3WFE46BBSBCIK2QT2ZKXA5Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le ministère de l’Intérieur fixe le calendrier de dépôt des candidatures pour les législatives du 23 septembre",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://fr.le360.ma/politique/elections-2026-a-surveiller-comme-le-lait-sur-le-feu_STQ5SYJ3ONHQFMINYEPQHLNC5U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Élections 2026, à surveiller comme le lait sur le feu…",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
+  },
+  "https://fr.le360.ma/politique/guerre-dinformation-contre-le-maroc-decryptage-dune-strategie-de-desinformation-par-fausses-fuites_XFGHEBZWWVCJVEYNTO2GNLIBWE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Guerre d’information contre le Maroc: décryptage d’une stratégie de désinformation par fausses fuites sécuritaires",
+    "status": "excluded",
+    "checked_at": "2026-08-29T16:45:14.714399+00:00"
   }
 }
