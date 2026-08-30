@@ -875,6 +875,168 @@
     "stance_analyzed_at": "2026-08-30T16:43:47.177965+00:00"
   },
   {
+    "id": "d43be0f76039df56",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "أخنوش: المغرب تحت قيادة جلالة الملك جعل من السلم والأمن والاستقرار في إفريقيا خيارا استراتيجيا والتزاما ثابتا - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134135.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-08-29",
+    "first_seen_at": "2026-08-30T21:10:12.153098+00:00",
+    "last_checked_at": "2026-08-30T21:10:12.153098+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديأخنوش: المغرب تحت قيادة جلالة الملك جعل من السلم والأمن والاستقرار في إفريقيا خيارا استراتيجيا والتزاما ثابتا أكد رئيس الحكومة عزيز أخنوش، اليوم الأحد",
+    "word_count": 374,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "اعتبر"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: التصريحات والمواقف السياسية, السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_d43be0f76039",
+    "stance_analyzed_at": "2026-08-30T21:10:12.153098+00:00"
+  },
+  {
+    "id": "2040370596922eb6",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "صراع الصلاحيات مع ماتياس يُنهي رحلة نصر الدين نابي مع الرجاء الرياضي",
+    "url": "https://al3omk.com/1183577.html",
+    "author": "أيوب رفيق",
+    "published_at": "2026-08-29",
+    "first_seen_at": "2026-08-30T21:10:12.153098+00:00",
+    "last_checked_at": "2026-08-30T21:10:12.153098+00:00",
+    "language": "ar",
+    "excerpt": "صراع الصلاحيات مع ماتياس يُنهي رحلة نصر الدين نابي مع الرجاء الرياضي يُخيِّم التوتر على علاقة الطاقم التقني لنادي الرجاء الرياضي من جهة والإدارة الرياضية",
+    "word_count": 369,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "صراع"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "استقالته"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_204037059692",
+    "stance_analyzed_at": "2026-08-30T21:10:12.153098+00:00"
+  },
+  {
     "id": "68896b7afd9353d1",
     "source_id": "chtoukapress",
     "source_name": "اشتوكة بريس",

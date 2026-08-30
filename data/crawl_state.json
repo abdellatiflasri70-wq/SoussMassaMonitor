@@ -6473,5 +6473,75 @@
     "title": "انتخابات 2026.. وجوه جديدة وانتقالات حزبية تشعل سباق جليز ـ النخيل",
     "status": "excluded",
     "checked_at": "2026-08-30T16:43:47.177965+00:00"
+  },
+  "https://agadirinfo.ma/134135.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "أخنوش: المغرب تحت قيادة جلالة الملك جعل من السلم والأمن والاستقرار في إفريقيا خيارا استراتيجيا والتزاما ثابتا - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-08-30T21:10:12.153098+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%aa%d8%b3%d8%aa%d8%ad%d8%b6%d8%b1-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9-%d9%81%d9%8a-%d8%a7-1799361.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. السياسة تستحضر الرياضة في الفداء مرس السلطان",
+    "status": "excluded",
+    "checked_at": "2026-08-30T21:10:12.153098+00:00"
+  },
+  "https://www.hespress.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%b3%d8%aa%d8%ad%d8%b6%d8%b1-%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d9%82%d8%a8%d8%a7%d8%a6%d9%84-%d8%b2%d9%8a%d8%a7%d9%86-%d9%88%d9%8a%d8%af%d8%b9%d9%88-%d8%a5%d9%84-1799479.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "لقجع يستحضر تاريخ قبائل زيان .. ويدعو إلى \"جهاد تنموي\" من أجلموس",
+    "status": "excluded",
+    "checked_at": "2026-08-30T21:10:12.153098+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%87%d9%84-%d9%8a%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%b9-%d8%b1%d8%b3%d9%85-%d8%ae%d8%b1%d9%8a%d8%b7%d8%a9-%d8%b9-1799241.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. هل يعيد الاقتراع رسم خريطة عين السبع الحي المحمدي",
+    "status": "excluded",
+    "checked_at": "2026-08-30T21:10:12.153098+00:00"
+  },
+  "https://al3omk.com/1183577.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "صراع الصلاحيات مع ماتياس يُنهي رحلة نصر الدين نابي مع الرجاء الرياضي",
+    "status": "accepted",
+    "checked_at": "2026-08-30T21:10:12.153098+00:00"
+  },
+  "https://al3omk.com/1183629.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "بعد مغادرة اشباعتو.. الأحرار يرشح بعدان بميدلت ويرفض منطق “صفقات ما قبل الانتخابات”",
+    "status": "excluded",
+    "checked_at": "2026-08-30T21:10:12.153098+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-le-pam-entend-nouer-ses-alliances-avec-les-partis-preferes-du-peuple-affirme-mehdi_OVPBFX7X3JBWDLMEEE23QK6QMA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: le PAM entend nouer ses alliances avec les partis «préférés du peuple», affirme Mehdi Bensaïd",
+    "status": "excluded",
+    "checked_at": "2026-08-30T21:10:12.153098+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-listiqlal-devoile-sa-vision_CQGJTB65UJA7HG4FMXNXDWVNSY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: l’Istiqlal dévoile sa vision",
+    "status": "excluded",
+    "checked_at": "2026-08-30T21:10:12.153098+00:00"
+  },
+  "https://fr.le360.ma/politique/archives-militaires-de-vincennes-ep-8-la-mort-du-sultan-moulay-hassan-ier-ravive-les-convoitises-de_IOD7AIVHRBDVDKGBDZXEHSBSPM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Archives militaires de Vincennes. Ép. 8: la mort du sultan Moulay Hassan Ier ravive les convoitises de l’Algérie française sur le Sahara",
+    "status": "excluded",
+    "checked_at": "2026-08-30T21:10:12.153098+00:00"
+  },
+  "https://fr.le360.ma/politique/accord-ue-maroc-berlin-confirme-son-soutien-au-nouveau-cadre-commercial-incluant-le-sahara_UBSHKBUTCVCZ3AKK4H4ADN4T2Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Accord UE-Maroc: Berlin confirme son soutien au nouveau cadre commercial incluant le Sahara",
+    "status": "excluded",
+    "checked_at": "2026-08-30T21:10:12.153098+00:00"
   }
 }
