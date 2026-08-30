@@ -563,6 +563,318 @@
     "stance_analyzed_at": "2026-08-30T11:58:01.053058+00:00"
   },
   {
+    "id": "a935245996f481da",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "زينة إدحلي: قيادة لائحة الأحرار بأكادير مسؤولية والحزب يسعى لمواصلة الأوراش | agadir24.info",
+    "url": "https://agadir24.info/%D8%B2%D9%8A%D9%86%D8%A9-%D8%A5%D8%AF%D8%AD%D9%84%D9%8A-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D9%84%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D8%A8%D8%A3%D9%83%D8%A7%D8%AF%D9%8A.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-08-29",
+    "first_seen_at": "2026-08-30T16:43:47.177965+00:00",
+    "last_checked_at": "2026-08-30T16:43:47.177965+00:00",
+    "language": "ar",
+    "excerpt": "قالت زينة إدحلي، النائبة البرلمانية عن فريق التجمع الوطني للأحرار، إن اختيارها لقيادة اللائحة المحلية للحزب بدائرة أكادير إداوتنان يمثل مسؤولية كبيرة، ويعكس، بحسب تعبيرها،",
+    "word_count": 195,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها",
+        "تارودانت",
+        "طاطا"
+      ],
+      "secondary_places": [
+        "أيت باها",
+        "أيت ملول",
+        "إنزكان",
+        "تارودانت",
+        "طاطا"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشيحها"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_a935245996f4",
+    "stance_analyzed_at": "2026-08-30T16:43:47.177965+00:00"
+  },
+  {
+    "id": "6f104dffa541fa0f",
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "\"السياسة بلا أثر ما عندها معنى\".. ماذا قال أخنوش عن مستقبل أكادير؟ - agadirino.ma",
+    "url": "https://agadirino.ma/2026/08/30/%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A8%D9%84%D8%A7-%D8%A3%D8%AB%D8%B1-%D9%85%D8%A7-%D8%B9%D9%86%D8%AF%D9%87%D8%A7-%D9%85%D8%B9%D9%86%D9%89-%D9%85%D8%A7%D8%B0%D8%A7-%D9%82%D8%A7%D9%84",
+    "author": "Driss Driss",
+    "published_at": "2026-08-29",
+    "first_seen_at": "2026-08-30T16:43:47.177965+00:00",
+    "last_checked_at": "2026-08-30T16:43:47.177965+00:00",
+    "language": "ar",
+    "excerpt": "قال عزيز أخنوش، عضو المكتب السياسي لحزب التجمع الوطني للأحرار ورئيس مجلس جماعة أكادير، خلال لقاء تواصلي احتضنته المدينة أمس السبت 29 غشت 2026، إن",
+    "word_count": 336,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 6,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_6f104dffa541",
+    "stance_analyzed_at": "2026-08-30T16:43:47.177965+00:00"
+  },
+  {
+    "id": "3a0df9245ebc030f",
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "\"الأحرار\" يجدد الثقة في المرأة السوسية.. زينة أدحلي تقود لائحة الحزب بأكادير إداوتنان - agadirino.ma",
+    "url": "https://agadirino.ma/2026/08/30/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B3%D9%8A%D8%A9",
+    "author": "Driss Driss",
+    "published_at": "2026-08-29",
+    "first_seen_at": "2026-08-30T16:43:47.177965+00:00",
+    "last_checked_at": "2026-08-30T16:43:47.177965+00:00",
+    "language": "ar",
+    "excerpt": "أعلنت زينة أدحلي، النائبة البرلمانية عن فريق التجمع الوطني للأحرار، مساء أمس السبت بمدينة أكادير، ترشحها رسمياً وكيلة للائحة المحلية للحزب بأكادير إداوتنان. وجاء الإعلان",
+    "word_count": 304,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "تزنيت",
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "تزنيت",
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشحها"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_3a0df9245ebc",
+    "stance_analyzed_at": "2026-08-30T16:43:47.177965+00:00"
+  },
+  {
     "id": "68896b7afd9353d1",
     "source_id": "chtoukapress",
     "source_name": "اشتوكة بريس",
