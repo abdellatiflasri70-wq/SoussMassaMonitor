@@ -1542,6 +1542,359 @@
     "stance_analyzed_at": "2026-08-29T20:57:32.619895+00:00"
   },
   {
+    "id": "8184066759e5a3ee",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "أخنوش: التنمية بأكادير رؤية متكاملة تخدم المواطن وتنعكس على جودة حياته",
+    "url": "https://www.chtoukapress.com/306363.html",
+    "author": "Chtouka",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-30T05:28:26.109906+00:00",
+    "last_checked_at": "2026-08-30T05:28:26.109906+00:00",
+    "language": "ar",
+    "excerpt": "أكد عزيز أخنوش، رئيس مجلس جماعة أكادير وعضو المكتب السياسي لحزب التجمع الوطني للأحرار، خلال لقاء تواصلي نظم بالمدينة، أن العمل السياسي لا قيمة له",
+    "word_count": 259,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "اعتبر"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 3,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_8184066759e5",
+    "stance_analyzed_at": "2026-08-30T05:28:26.109906+00:00"
+  },
+  {
+    "id": "4ef4edc1960416c7",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "قياديات بـ\"الأحرار\": حولنا 20 مليون سائح إلى واقع.. ونثق بالشباب والنساء",
+    "url": "https://www.hespress.com/%D9%82%D9%8A%D8%A7%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A8%D9%80%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D8%AD%D9%88%D9%84%D9%86%D8%A7-20-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B3%D8%A7%D8%A6%D8%AD-%D8%A5-1799104.html",
+    "author": "هسبريس من أكادير",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-30T05:28:26.109906+00:00",
+    "last_checked_at": "2026-08-30T05:28:26.109906+00:00",
+    "language": "ar",
+    "excerpt": "قالت فاطمة الزهراء عمور، عضو المكتب السياسي لحزب التجمع الوطني للأحرار، السبت، إن الحزب “استطاع تنزيل أوراش كبرى ظلّ المغاربة ينتظرونها لسنين”، مشيرةً إلى “الدعم",
+    "word_count": 424,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "أكادير",
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "الترشح"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 3,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_4ef4edc19604",
+    "stance_analyzed_at": "2026-08-30T05:28:26.109906+00:00"
+  },
+  {
+    "id": "d4d60589b9bfdd7f",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "20 ملياراً لأحياء الجبال واستثمارات للتنمية.. أخنوش يعرض حصيلة أكادير",
+    "url": "https://www.hespress.com/20-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D9%8B-%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84-%D9%88%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%AA-1799072.html",
+    "author": "هسبريس من أكادير",
+    "published_at": "2026-08-28",
+    "first_seen_at": "2026-08-30T05:28:26.109906+00:00",
+    "last_checked_at": "2026-08-30T05:28:26.109906+00:00",
+    "language": "ar",
+    "excerpt": "أشاد عزيز أخنوش، رئيس الحكومة وعمدة مدينة أكادير، بحصيلة تدبير حزب التجمع الوطني للأحرار رفقة حلفائه للمجلس الجماعي بعاصمة سوس منذ سنة 2021، مشيراً إلى",
+    "word_count": 601,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة",
+        "أنزا",
+        "أورير",
+        "تغازوت",
+        "تيكيوين"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "أشاد"
+        ]
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 9,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 7,
+        "evidence": [
+          "أشاد"
+        ]
+      }
+    ],
+    "event_id": "evt_d4d60589b9bf",
+    "stance_analyzed_at": "2026-08-30T05:28:26.109906+00:00"
+  },
+  {
     "id": "f3cee1f222750e59",
     "source_id": "chtoukapress",
     "source_name": "اشتوكة بريس",

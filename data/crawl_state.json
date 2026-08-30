@@ -6242,5 +6242,75 @@
     "title": "Législatives 2026: la CNDP fixe les règles sur l’usage des données personnelles",
     "status": "excluded",
     "checked_at": "2026-08-29T20:57:32.619895+00:00"
+  },
+  "https://www.chtoukapress.com/306363.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "أخنوش: التنمية بأكادير رؤية متكاملة تخدم المواطن وتنعكس على جودة حياته",
+    "status": "accepted",
+    "checked_at": "2026-08-30T05:28:26.109906+00:00"
+  },
+  "https://www.chtoukapress.com/306359.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بلاغ من القيادة العامة للقوات المسلحة الملكية",
+    "status": "excluded",
+    "checked_at": "2026-08-30T05:28:26.109906+00:00"
+  },
+  "https://tiznit24.com/?p=195063": {
+    "source_id": "tiznit24",
+    "source_name": "تيزنيت24",
+    "title": "انطلاق إيداع الترشيحات لانتخابات مجلس النواب ابتداءً من الاثنين",
+    "status": "excluded",
+    "checked_at": "2026-08-30T05:28:26.109906+00:00"
+  },
+  "https://ar.le360.ma/politique/23VNQ4DVLJGL3LIA24TE25XEPM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "تشريعيات 2026: «الفراقشية» وتضارب المصالح والغلاء في صلب أولويات حزب الاستقلال",
+    "status": "excluded",
+    "checked_at": "2026-08-30T05:28:26.109906+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%b3%d8%a8%d8%a7%d9%82-%d9%85%d9%81%d8%aa%d9%88%d8%ad-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a3%d8%b1-1798833.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. سباق مفتوح على المقاعد الأربعة في دائرة سلا المدينة",
+    "status": "excluded",
+    "checked_at": "2026-08-30T05:28:26.109906+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%b3%d8%aa%d8%a9-%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d9%81%d8%aa%d8%ad-%d8%b4%d9%87%d9%8a-1798800.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. ستة مقاعد برلمانية تفتح شهية الأحزاب بإقليم الجديدة",
+    "status": "excluded",
+    "checked_at": "2026-08-30T05:28:26.109906+00:00"
+  },
+  "https://www.hespress.com/%d9%82%d9%8a%d8%a7%d8%af%d9%8a%d8%a7%d8%aa-%d8%a8%d9%80%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d8%ad%d9%88%d9%84%d9%86%d8%a7-20-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%b3%d8%a7%d8%a6%d8%ad-%d8%a5-1799104.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "قياديات بـ\"الأحرار\": حولنا 20 مليون سائح إلى واقع.. ونثق بالشباب والنساء",
+    "status": "accepted",
+    "checked_at": "2026-08-30T05:28:26.109906+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%86%d8%b9%d9%84%d9%8a-%d8%a7%d9%84%d9%81%d9%88%d8%b2-%d9%81%d9%8a-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%84%d9%8a%d8%b3-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84-1799070.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بنعلي: الفوز في الانتخابات ليس نهاية الطريق.. وحصيلة وزراء \"البام\" مشرفة",
+    "status": "excluded",
+    "checked_at": "2026-08-30T05:28:26.109906+00:00"
+  },
+  "https://www.hespress.com/20-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d9%8b-%d9%84%d8%a3%d8%ad%d9%8a%d8%a7%d8%a1-%d8%a7%d9%84%d8%ac%d8%a8%d8%a7%d9%84-%d9%88%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%84%d8%aa-1799072.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "20 ملياراً لأحياء الجبال واستثمارات للتنمية.. أخنوش يعرض حصيلة أكادير",
+    "status": "accepted",
+    "checked_at": "2026-08-30T05:28:26.109906+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d8%b3%d8%a4%d9%88%d9%84-%d8%a3%d9%85%d9%85%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d9%84%d8%aa%d8%ad%d9%82-%d8%a8%d8%a7%d9%84%d9%85%d9%8a%d9%86%d9%88%d8%b1%d8%b3%d9%88-1798960.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "مسؤول أممي جديد يلتحق بالمينورسو",
+    "status": "excluded",
+    "checked_at": "2026-08-30T05:28:26.109906+00:00"
   }
 }
