@@ -1,5 +1,568 @@
 [
   {
+    "id": "d9feb66616557d1f",
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "أشنكلي من أكادير: \"الأحرار\" يهدف لتصدر الانتخابات المقبلة وقوة حصيلتنا تُغنينا عن المبالغة - agadirino.ma",
+    "url": "https://agadirino.ma/2026/08/30/%D8%A3%D8%B4%D9%86%D9%83%D9%84%D9%8A-%D9%85%D9%86-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%8A%D9%87%D8%AF%D9%81-%D9%84%D8%AA%D8%B5%D8%AF%D8%B1-%D8%A7",
+    "author": "Driss Driss",
+    "published_at": "2026-08-29",
+    "first_seen_at": "2026-08-30T11:58:01.053058+00:00",
+    "last_checked_at": "2026-08-30T11:58:01.053058+00:00",
+    "language": "ar",
+    "excerpt": "أكد كريم أشنكلي، عضو المكتب السياسي لحزب التجمع الوطني للأحرار ورئيس مجلس جهة سوس ماسة، أمس السبت بمدينة أكادير، أن هدف الحزب خلال المرحلة المقبلة",
+    "word_count": 283,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "اعتبر"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات",
+            "استحقاقات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: كريم أشنكلي",
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_d9feb6661655",
+    "stance_analyzed_at": "2026-08-30T11:58:01.053058+00:00"
+  },
+  {
+    "id": "6df6cd1740a96f5f",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "بحضور الدكتور جمال ديواني وباقي مرشحي سوس ماسة … الاستقلال يكشف برنامجه الانتخابي 2026-2031 تحت شعار “وطني مستقبلي” - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134121.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-08-29",
+    "first_seen_at": "2026-08-30T11:58:01.053058+00:00",
+    "last_checked_at": "2026-08-30T11:58:01.053058+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةبحضور الدكتور جمال ديواني وباقي مرشحي سوس ماسة … الاستقلال يكشف برنامجه الانتخابي 2026-2031 تحت شعار “وطني مستقبلي” قدم حزب الاستقلال مرشحه بأكادير الدكتور",
+    "word_count": 364,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_038",
+          "name": "جمال ديواني",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "تشريعيات",
+            "الاستحقاقات",
+            "انتخابات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال",
+        "شخصيات رئيسية: جمال ديواني",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "person_038",
+        "target_type": "person",
+        "target_name": "جمال ديواني",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_6df6cd1740a9",
+    "stance_analyzed_at": "2026-08-30T11:58:01.053058+00:00"
+  },
+  {
+    "id": "57f0850840a5c3fd",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "زينة أدحلي مرشحة الأحرار بأكادير : الحزب يريد مواصلة قيادة مسار التنمية بسوس ماسة وتوسيع مكتسبات أكادير - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134114.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-08-29",
+    "first_seen_at": "2026-08-30T11:58:01.053058+00:00",
+    "last_checked_at": "2026-08-30T11:58:01.053058+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةزينة أدحلي مرشحة الأحرار بأكادير : الحزب يريد مواصلة قيادة مسار التنمية بسوس ماسة وتوسيع مكتسبات أكادير دخل حزب التجمع الوطني للأحرار غمار الاستحقاقات",
+    "word_count": 361,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "تارودانت",
+        "تزنيت",
+        "طاطا",
+        "إنزكان أيت ملول"
+      ],
+      "secondary_places": [
+        "ماسة",
+        "أيت باها",
+        "إنزكان",
+        "تارودانت",
+        "تزنيت"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات",
+            "انتخابية"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشحة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "مواضيع سياسية: الانتخابات والاقتراع, الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 5,
+        "reported_segment_count": 0,
+        "evidence": [
+          "ثقة"
+        ]
+      }
+    ],
+    "event_id": "evt_57f0850840a5",
+    "stance_analyzed_at": "2026-08-30T11:58:01.053058+00:00"
+  },
+  {
+    "id": "096e3d116daf0f76",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "أخنوش يعرض حصيلة أكادير ويؤكد على أن تحسين حياة المواطنين قناعة راسخة.. و”الأحرار” إذا وعد أوفى وإذا تولى المسؤولية أنجز - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134104.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-08-29",
+    "first_seen_at": "2026-08-30T11:58:01.053058+00:00",
+    "last_checked_at": "2026-08-30T11:58:01.053058+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةأخنوش يعرض حصيلة أكادير ويؤكد على أن تحسين حياة المواطنين قناعة راسخة.. و”الأحرار” إذا وعد أوفى وإذا تولى المسؤولية أنجز أشاد عزيز أخنوش، رئيس",
+    "word_count": 622,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة",
+        "أنزا",
+        "أورير",
+        "تغازوت",
+        "تيكيوين"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 9,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 8,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_096e3d116daf",
+    "stance_analyzed_at": "2026-08-30T11:58:01.053058+00:00"
+  },
+  {
+    "id": "77454ed2548a6a47",
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "تحليل: موسم استثنائي للبطولة الاحترافية بين صراع الكبار ورهان الصاعدين – اليوم 24",
+    "url": "https://alyaoum24.com/2040850.html",
+    "author": "عماد الدين تزريت",
+    "published_at": "2026-08-29",
+    "first_seen_at": "2026-08-30T11:58:01.053058+00:00",
+    "last_checked_at": "2026-08-30T11:58:01.053058+00:00",
+    "language": "ar",
+    "excerpt": "تعود البطولة الوطنية الاحترافية إلى الواجهة بموسم جديد، يحمل بين جولاته الثلاثين آمال الجماهير، وطموحات الأندية، وتطلعات الوطن نحو كرة قدم توازي ما يعيشه المغرب",
+    "word_count": 1657,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تزنيت"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "صراع"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشحا"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_77454ed2548a",
+    "stance_analyzed_at": "2026-08-30T11:58:01.053058+00:00"
+  },
+  {
     "id": "68896b7afd9353d1",
     "source_id": "chtoukapress",
     "source_name": "اشتوكة بريس",
