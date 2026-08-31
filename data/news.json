@@ -1,5 +1,89 @@
 [
   {
+    "id": "a2c45a2c27f53ba5",
+    "source_id": "taroudantalaan",
+    "source_name": "تارودانت الآن",
+    "title": "تارودانت.. الحركة الشعبية تواصل استعداداتها للاستحقاقات التشريعية المقبلة | تارودانت الآن الإخبارية",
+    "url": "https://taroudantalaan.ma/politique/%D8%AA%D8%A7%D8%B1%D9%88%D8%AF%D8%A7%D9%86%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A%D8%A9-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7",
+    "author": "تارودانت الآن الإخبارية",
+    "published_at": "2026-08-30",
+    "first_seen_at": "2026-08-31T13:57:39.988000+00:00",
+    "last_checked_at": "2026-08-31T13:57:39.988000+00:00",
+    "language": "ar",
+    "excerpt": "تواصل لجنة الإشراف على الاستحقاقات التشريعية بحزب الحركة الشعبية على مستوى إقليم تارودانت، اجتماعاتها التنظيمية، حيث عقدت اجتماعها الثاني على التوالي، في إطار مواكبة التحضيرات",
+    "word_count": 149,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "MP",
+          "name": "الحركة الشعبية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات",
+            "الاستحقاقات"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: الحركة الشعبية",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "MP",
+        "target_type": "party",
+        "target_name": "الحركة الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_a2c45a2c27f5",
+    "stance_analyzed_at": "2026-08-31T13:57:39.988000+00:00"
+  },
+  {
     "id": "d9feb66616557d1f",
     "source_id": "agadirino",
     "source_name": "أكاديرينو",
