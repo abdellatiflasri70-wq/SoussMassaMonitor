@@ -6655,5 +6655,145 @@
     "title": "تراجع شامل في الأسهم الأوروبية بسبب ارتفاع النفط والتوتر في الشرق الأوسط",
     "status": "excluded",
     "checked_at": "2026-08-31T13:57:39.988000+00:00"
+  },
+  "https://agadirinfo.ma/134155.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخابات شتنبر 2026.. عدد التصريحات بالترشيح المودعة عبر المنصة الالكترونية بلغ 702 لائحة ترشيح - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%ae%d8%b1%d9%8a%d8%b7%d8%a9-%d9%85%d8%aa%d8%ad%d8%b1%d9%83%d8%a9-%d9%88%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d9%85%d8%aa%d9%82%d9%84%d8%a8%d8%a9-1799950.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026.. خريطة متحركة ومقاعد متقلبة في دائرة المضيق الفنيدق",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%8a%d8%b6%d8%b9-%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad%d9%87-%d8%a8%d8%b9%d9%85%d8%a7%d9%84%d8%a9-%d8%aa%d8%a7%d8%b1%d9%88%d8%af%d8%a7%d9%86%d8%aa-1799893.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "وهبي يضع ترشيحه بعمالة تارودانت",
+    "status": "accepted",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%86%d8%b3%d8%b9%d9%8a%d8%af-%d9%8a%d9%88%d8%af%d8%b9-%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad%d9%87-%d8%a8%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7-%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%b7-1799826.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بنسعيد يودع ترشيحه بالرباط المحيط",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://agadir24.info/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7%d9%8b-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%8a%d9%88%d8%af%d8%b9-%d9%84%d8%a7%d8%a6%d8%ad.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "رسمياً : حزب العدالة والتنمية يودع لائحة ترشيحه للانتخابات التشريعية بأكادير إداوتنان | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://agadir24.info/%d8%aa%d9%8a%d8%b2%d9%86%d9%8a%d8%aa-%d9%81%d8%a4%d8%a7%d8%af-%d8%a7%d9%84%d9%85%d9%88%d8%af%d9%86%d9%8a-%d9%8a%d9%82%d9%88%d8%af-%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d8%a7%d9%84%d8%ac%d8%b1%d8%a7.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تيزنيت.. فؤاد المودني يقود لائحة «الجرار» وأحمد باحماد وصيفاً | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://agadir24.info/%d8%aa%d9%8a%d8%b2%d9%86%d9%8a%d8%aa-%d8%b9%d9%85%d8%b1-%d8%a8%d8%a8%d8%b1%d9%8a%d9%83-%d9%8a%d9%82%d9%88%d8%af-%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d8%a7%d9%84%d9%85%d8%b5%d8%a8%d8%a7%d8%ad.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تيزنيت.. عمر ببريك يقود لائحة «المصباح» وعبد الجبار القسطلاني وصيفاً | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://agadir24.info/%d8%aa%d9%8a%d8%b2%d9%86%d9%8a%d8%aa-%d9%86%d9%88%d8%ad-%d8%a3%d8%b9%d8%b1%d8%a7%d8%a8-%d9%8a%d8%b9%d9%84%d9%86-%d8%a5%d9%8a%d8%af%d8%a7%d8%b9-%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d8%a7%d9%84%d9%88.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تيزنيت.. نوح أعراب يعلن إيداع لائحة «الوردة» وأحمد ديواني وصيفاً | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://agadir24.info/%d8%aa%d9%8a%d8%b2%d9%86%d9%8a%d8%aa-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d9%8a%d9%88%d8%af%d8%b9-%d9%85%d9%84%d9%81-%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad%d9%87-%d8%a8%d9%84%d8%ad%d8%b3.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تيزنيت.. الاستقلال يودع ملف ترشيحه بلحسن الباز وكيلاً ولحسن بنواري وصيفاً | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://agadir24.info/%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a%d8%a7%d8%aa-%d8%aa%d9%8a%d8%b2%d9%86%d9%8a%d8%aa-%d8%ba%d8%a7%d8%b2%d9%8a-%d9%8a%d8%b9%d9%84%d9%86-%d8%a5%d9%8a%d8%af%d8%a7%d8%b9-%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تشريعيات تيزنيت.. غازي يعلن إيداع ترشيح لائحة الأحرار والشيخ بلا وصيفاً | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://al3omk.com/1183730.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "من سوق الجملة إلى المرابد.. تقرير يرصد سيطرة عائلة “أمين” على عقود مرافق إنزكان",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://thepress.ma/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d8%ad%d8%b5%d8%b1-%d8%a7%d9%84%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6%d9%8a%d8%a9-%d9%84%d9%8039": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "مجلس الصحافة.. حصر اللائحة النهائية لـ39 مترشحا لانتخاب ممثلي الصحافيين",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://ar.le360.ma/politique/CJ3EUFVKNBCQVKCJC5NJPCTA4A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انتخابات 2026.. إيداع 702 لائحة ترشيح حتى الثانية زوالا",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://ar.le360.ma/politique/BBM4ZKJKJVFGXPGSONZMG2K4EY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع يكشف أسباب انخراطه في «البام» ويشرح حدود صلاحياته الوزارية وخلفيات انتقاده للحكومة",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://ar.le360.ma/politique/UNDVC6ZKEFHGBORKYKB3KFYT5I": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "وزير الخارجية السنغالي: المغرب والسنغال تجمعهما «علاقة فريدة في إفريقيا»",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-le-dialogue-social-gele-les-syndicats-reclament-lexecution-de-laccord-du-26-avril_G6H35A3W4BFKHMG35GFZDT2POM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: le dialogue social gelé, les syndicats réclament l’exécution de l’accord du 26 avril",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-rabat-chellah-le-choc-entre-majorite-et-opposition-pour-trois-sieges_PAY2DUHHIBB6TMUOZYOUO7VG7U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: Rabat-Chellah, le choc entre majorité et opposition pour trois sièges",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-le-pam-exclut-toute-alliance-avec-le-rni-apres-le-scrutin_GPNQ3Y7IGJCSZF2V6EWVR3UFEI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: le PAM exclut toute alliance avec le RNI après le scrutin",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-debut-du-depot-des-candidatures-premieres-impressions-de-postulants-a-rabat_63HSSMTWUBFDDKB2RFHITWDX7Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: début du dépôt des candidatures, premières impressions de postulants à Rabat",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://fr.le360.ma/politique/sebta-aucune-information-ne-permet-de-douter-du-maroc-le-plaidoyer-de-sanchez-pour-le-partenariat_ERIBW55C6VFGTNAHB7MR62TVDE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sebta. «Aucune information ne permet de douter du Maroc»: le plaidoyer de Sánchez pour le partenariat Madrid-Rabat",
+    "status": "excluded",
+    "checked_at": "2026-08-31T22:53:30.049574+00:00"
   }
 }

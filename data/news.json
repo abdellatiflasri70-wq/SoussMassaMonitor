@@ -84,6 +84,406 @@
     "stance_analyzed_at": "2026-08-31T13:57:39.988000+00:00"
   },
   {
+    "id": "0ad74ea346125ba3",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخابات شتنبر 2026.. عدد التصريحات بالترشيح المودعة عبر المنصة الالكترونية بلغ 702 لائحة ترشيح - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134155.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-08-30",
+    "first_seen_at": "2026-08-31T22:53:30.049574+00:00",
+    "last_checked_at": "2026-08-31T22:53:30.049574+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديانتخابات شتنبر 2026.. عدد التصريحات بالترشيح المودعة عبر المنصة الالكترونية بلغ 702 لائحة ترشيح مصدر مسؤول بوزارة الداخلية بأن عدد التصريحات بالترشيح برسم انتخاب",
+    "word_count": 118,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_0ad74ea34612",
+    "stance_analyzed_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  {
+    "id": "2073c0743c924ab2",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "وهبي يضع ترشيحه بعمالة تارودانت",
+    "url": "https://www.hespress.com/%D9%88%D9%87%D8%A8%D9%8A-%D9%8A%D8%B6%D8%B9-%D8%AA%D8%B1%D8%B4%D9%8A%D8%AD%D9%87-%D8%A8%D8%B9%D9%85%D8%A7%D9%84%D8%A9-%D8%AA%D8%A7%D8%B1%D9%88%D8%AF%D8%A7%D9%86%D8%AA-1799893.html",
+    "author": "هسبريس من الرباط",
+    "published_at": "2026-08-30",
+    "first_seen_at": "2026-08-31T22:53:30.049574+00:00",
+    "last_checked_at": "2026-08-31T22:53:30.049574+00:00",
+    "language": "ar",
+    "excerpt": "وضع عبد اللطيف وهبي، وزير العدل والقيادي بحزب الأصالة والمعاصرة، اليوم الإثنين، بمقر عمالة تارودانت، ترشيحه لانتخابات أعضاء مجلس النواب المقرر إجراؤها في الثالث والعشرين",
+    "word_count": 89,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشيحه"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: عبد اللطيف وهبي",
+        "مواضيع سياسية: الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_2073c0743c92",
+    "stance_analyzed_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  {
+    "id": "5c803b2717ce48cc",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "رسمياً : حزب العدالة والتنمية يودع لائحة ترشيحه للانتخابات التشريعية بأكادير إداوتنان | agadir24.info",
+    "url": "https://agadir24.info/%D8%B1%D8%B3%D9%85%D9%8A%D8%A7%D9%8B-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%8A%D9%88%D8%AF%D8%B9-%D9%84%D8%A7%D8%A6%D8%AD.html",
+    "author": "أكادير",
+    "published_at": "2026-08-30",
+    "first_seen_at": "2026-08-31T22:53:30.049574+00:00",
+    "last_checked_at": "2026-08-31T22:53:30.049574+00:00",
+    "language": "ar",
+    "excerpt": "شهدت الدائرة الانتخابية المحلية أكادير إداوتنان صباح اليوم إيداع لائحة ترشيح حزب العدالة والتنمية رسمياً، و وكيلها الدكتور محمد باكيري، استعداداً لخوض الاستحقاقات التشريعية المقرر",
+    "word_count": 108,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_103",
+          "name": "محمد باكيري",
+          "tier": "manual_unverified"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشيحه",
+            "وكيل اللائحة"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب العدالة والتنمية",
+        "شخصيات رئيسية: محمد باكيري",
+        "مواضيع سياسية: الانتخابات والاقتراع, الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_103",
+        "target_type": "person",
+        "target_name": "محمد باكيري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_5c803b2717ce",
+    "stance_analyzed_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  {
+    "id": "2396c124fcacca12",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تشريعيات تيزنيت.. غازي يعلن إيداع ترشيح لائحة الأحرار والشيخ بلا وصيفاً | agadir24.info",
+    "url": "https://agadir24.info/%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A7%D8%AA-%D8%AA%D9%8A%D8%B2%D9%86%D9%8A%D8%AA-%D8%BA%D8%A7%D8%B2%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A5%D9%8A%D8%AF%D8%A7%D8%B9-%D8%AA%D8%B1%D8%B4%D9%8A%D8%AD.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-08-30",
+    "first_seen_at": "2026-08-31T22:53:30.049574+00:00",
+    "last_checked_at": "2026-08-31T22:53:30.049574+00:00",
+    "language": "ar",
+    "excerpt": "أعلن عبد الله غازي، وكيل لائحة التجمع الوطني للأحرار بدائرة تيزنيت، إيداع ترشيح اللائحة زوال اليوم الاثنين 31 غشت، لخوض الانتخابات التشريعية المقرر إجراؤها يوم",
+    "word_count": 160,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_084",
+          "name": "عبد الله غازي",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "تشريعيات",
+            "انتخابات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "تزكية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عبد الله غازي",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_084",
+        "target_type": "person",
+        "target_name": "عبد الله غازي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_2396c124fcac",
+    "stance_analyzed_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  {
     "id": "d9feb66616557d1f",
     "source_id": "agadirino",
     "source_name": "أكاديرينو",
