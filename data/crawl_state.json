@@ -6795,5 +6795,54 @@
     "title": "Sebta. «Aucune information ne permet de douter du Maroc»: le plaidoyer de Sánchez pour le partenariat Madrid-Rabat",
     "status": "excluded",
     "checked_at": "2026-08-31T22:53:30.049574+00:00"
+  },
+  "https://www.chtoukapress.com/306407.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "إيداع 702 لائحة ترشيح لانتخابات 23 شتنبر حتى حدود زوال اليوم الإثنين",
+    "status": "excluded",
+    "checked_at": "2026-09-01T05:14:57.768808+00:00"
+  },
+  "https://www.chtoukapress.com/306399.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بلاغ لوزارة الداخلية يهم انتخاب أعضاء مجلس النواب",
+    "status": "excluded",
+    "checked_at": "2026-09-01T05:14:57.768808+00:00"
+  },
+  "https://www.hespress.com/61-%d8%af%d8%a7%d8%a6%d8%b1%d8%a9-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-%d8%af%d9%88%d9%86-%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d9%86%d8%b3%d8%a7%d8%a6%d9%8a%d8%a9-1800031.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "61 دائرة انتخابية دون قيادة نسائية",
+    "status": "accepted",
+    "checked_at": "2026-09-01T05:14:57.768808+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%b3%d8%a8%d8%a7%d9%82-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d8%a8%d8%a2%d8%b3%d9%81%d9%8a-%d9%8a%d8%af%d8%ae%d9%84-%d9%85%d8%b1%d8%ad-1799938.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. سباق المقاعد بآسفي يدخل مرحلة الحسابات المفتوحة",
+    "status": "excluded",
+    "checked_at": "2026-09-01T05:14:57.768808+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d8%ac%d9%88%d9%87-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d9%8a%d8%b1%d8%a8%d9%83-1800049.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026.. تغيير الوجوه السياسية يربك حسابات الأحزاب بدائرة النواصر",
+    "status": "excluded",
+    "checked_at": "2026-09-01T05:14:57.768808+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d8%aa%d9%87%d9%85-%d8%b3%d8%a7%d9%86%d8%b4%d9%8a%d8%b2-%d8%a8%d9%80%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d9%86%d8%a9-%d8%ad%d8%b2%d8%a8-%d9%81%d9%88%d9%83%d8%b3-%d8%a7%d9%84%d8%a5%d8%b3": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "اتهم سانشيز بـالخيانة.. حزب فوكس الإسباني يطالب بتعليق العمل بمعاهدة الصداقة وحسن الجوار مع المغرب بسبب مطالب الرباط بالسيادة على سبتة ومليلية",
+    "status": "excluded",
+    "checked_at": "2026-09-01T05:14:57.768808+00:00"
+  },
+  "https://tiznit24.com/?p=195092": {
+    "source_id": "tiznit24",
+    "source_name": "تيزنيت24",
+    "title": "6 لوائح ترشيح للانتخابات التشريعية بإقليم تيزنيت خلال الساعات الأولى من فتح باب الإيداع",
+    "status": "excluded",
+    "checked_at": "2026-09-01T05:14:57.768808+00:00"
   }
 }

@@ -1,5 +1,86 @@
 [
   {
+    "id": "ec5a57a3f87d732e",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "61 دائرة انتخابية دون قيادة نسائية",
+    "url": "https://www.hespress.com/61-%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D9%8A%D8%A9-%D8%AF%D9%88%D9%86-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9-1800031.html",
+    "author": "هسبريس",
+    "published_at": "2026-08-31",
+    "first_seen_at": "2026-09-01T05:14:57.768808+00:00",
+    "last_checked_at": "2026-09-01T05:14:57.768808+00:00",
+    "language": "ar",
+    "excerpt": "كشفت جمعية التحدي للمساواة والمواطنة عن محدودية حضور النساء على رأس اللوائح الانتخابية المحلية، مع انطلاق فترة إيداع الترشيحات الخاصة بانتخاب أعضاء مجلس النواب المقرر",
+    "word_count": 533,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية",
+            "اللوائح الانتخابية",
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات",
+            "استحقاقات"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "دائرة انتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بيان"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع, الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_ec5a57a3f87d",
+    "stance_analyzed_at": "2026-09-01T05:14:57.768808+00:00"
+  },
+  {
     "id": "a2c45a2c27f53ba5",
     "source_id": "taroudantalaan",
     "source_name": "تارودانت الآن",
