@@ -173,6 +173,86 @@
     "stance_analyzed_at": "2026-09-01T11:43:10.630457+00:00"
   },
   {
+    "id": "758ea64f8b8c7fdc",
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "النساء يغِبن عن رئاسة اللوائح في 60 دائرة انتخابية محلية",
+    "url": "https://thepress.ma/%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D9%8A%D8%BA%D9%90%D8%A8%D9%86-%D8%B9%D9%86-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%84%D9%88%D8%A7%D8%A6%D8%AD-%D9%81%D9%8A-60-%D8%AF%D8%A7%D8%A6%D8%B1",
+    "author": "أية مزوار",
+    "published_at": "2026-08-31",
+    "first_seen_at": "2026-09-01T16:42:27.935901+00:00",
+    "last_checked_at": "2026-09-01T16:42:27.935901+00:00",
+    "language": "ar",
+    "excerpt": "أفادت جمعية التحدي للمساواة والمواطنة بأن حضور النساء على رأس اللوائح الانتخابية المحلية يظل محدودا، وذلك في ظل الاستعدادات الجارية لانتخابات مجلس النواب المقرر تنظيمها",
+    "word_count": 266,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية",
+            "انتخابات",
+            "اللوائح الانتخابية",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "دائرة انتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع, الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_758ea64f8b8c",
+    "stance_analyzed_at": "2026-09-01T16:42:27.935901+00:00"
+  },
+  {
     "id": "a2c45a2c27f53ba5",
     "source_id": "taroudantalaan",
     "source_name": "تارودانت الآن",

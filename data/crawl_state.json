@@ -6914,5 +6914,54 @@
     "title": "نزاعات العقار تستنزف إنزكان.. أحكام بـ6 ملايير سنتيم ومرافق جماعية مهددة بالإفراغ",
     "status": "excluded",
     "checked_at": "2026-09-01T11:43:10.630457+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%a7%d9%84%d9%81%d8%ad%d8%b5-%d8%a3%d9%86%d8%ac%d8%b1%d8%a9-%d8%a3%d9%85%d8%a7%d9%85-%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d9%85%d8%ad%d8%aa-1800243.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. الفحص أنجرة أمام منافسة محتدمة على مقعدين برلمانيين",
+    "status": "excluded",
+    "checked_at": "2026-09-01T16:42:27.935901+00:00"
+  },
+  "https://al3omk.com/1184165.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "رهانات انتخابات 2026.. من أجل تعزيز الثقة وترسيخ المسار الديمقراطي بالمغرب",
+    "status": "excluded",
+    "checked_at": "2026-09-01T16:42:27.935901+00:00"
+  },
+  "https://ar.le360.ma/politique/NUIE5BZOCNHRHPOUGPKSZNLR5E": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "سانشيز يقطع الشك باليقين بشأن أحداث سبتة: لا معطيات استخباراتية تدين المغرب والشراكة مع الرباط نموذجية",
+    "status": "excluded",
+    "checked_at": "2026-09-01T16:42:27.935901+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-pour-une-concurrence-loyale-le-ministere-public-mobilise-les-parquets_OVBWNT57W5EBPDZWIUUGKQ54DA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: «Pour une concurrence loyale», le Ministère public mobilise les parquets",
+    "status": "excluded",
+    "checked_at": "2026-09-01T16:42:27.935901+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d9%84%d9%81-%d8%b3%d8%a8%d8%aa%d8%a9-%d9%8a%d8%aa%d8%b3%d8%a8%d8%a8-%d9%81%d9%8a-%d8%b5%d8%b1%d8%a7%d8%b9-%d8%a8%d9%8a%d9%86-%d8%b3%d8%a7%d9%86%d8%b4%d9%8a%d8%b2-%d9%88%d8%ad%d9%84%d9%81%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "ملف سبتة يتسبب في صراع بين سانشيز وحلفائه.. بوديموس يعتبر أنه خفض رأسه أمام المغرب ويتهمه بـافتعال أزمة مع القصر الملكي الإسباني",
+    "status": "excluded",
+    "checked_at": "2026-09-01T16:42:27.935901+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1-%d9%8a%d8%ba%d9%90%d8%a8%d9%86-%d8%b9%d9%86-%d8%b1%d8%a6%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%84%d9%88%d8%a7%d8%a6%d8%ad-%d9%81%d9%8a-60-%d8%af%d8%a7%d8%a6%d8%b1": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "النساء يغِبن عن رئاسة اللوائح في 60 دائرة انتخابية محلية",
+    "status": "accepted",
+    "checked_at": "2026-09-01T16:42:27.935901+00:00"
+  },
+  "https://thepress.ma/%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a9-%d9%84%d8%a7-%d8%a3%d8%af%d9%84%d8%a9-%d8%b9%d9%84%d9%89-%d8%b6": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "رئيس الحكومة الإسبانية: لا أدلة على ضلوع المغرب في أزمة سبتة",
+    "status": "excluded",
+    "checked_at": "2026-09-01T16:42:27.935901+00:00"
   }
 }
