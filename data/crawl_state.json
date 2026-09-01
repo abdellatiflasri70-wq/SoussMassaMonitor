@@ -6963,5 +6963,89 @@
     "title": "رئيس الحكومة الإسبانية: لا أدلة على ضلوع المغرب في أزمة سبتة",
     "status": "excluded",
     "checked_at": "2026-09-01T16:42:27.935901+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%b9%d9%84%d9%89-%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d9%85%d9%82%d8%a7%d8%b9%d8%af-1800016.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. معركة جديدة على ثلاثة مقاعد في دائرة مراكش-المنارة",
+    "status": "excluded",
+    "checked_at": "2026-09-01T21:04:47.087077+00:00"
+  },
+  "https://www.hespress.com/%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d8%aa%d8%b9%d8%af%d9%8f-%d8%a8%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1-%d9%88%d8%aa%d8%b1%d9%81%d8%b6-1800476.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "قيادة \"البام\" تعدُ بتغيير المسار وترفض استمرار \"تضارب المصالح\"",
+    "status": "excluded",
+    "checked_at": "2026-09-01T21:04:47.087077+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%85%d9%88%d8%a7%d8%b2%d9%8a%d9%86-%d8%a7%d9%84%d9%82%d9%88%d9%89-%d8%aa%d8%ad%d9%81%d8%b2-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%a7-1800228.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. موازين القوى تحفز الأحزاب السياسية بدائرة شيشاوة",
+    "status": "excluded",
+    "checked_at": "2026-09-01T21:04:47.087077+00:00"
+  },
+  "https://ar.le360.ma/politique/UPVAZRTXAFAYVOE4N73ZRJUPJ4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع: خلافات وزارية وراء أخطاء الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-09-01T21:04:47.087077+00:00"
+  },
+  "https://ar.le360.ma/politique/JERSETJMB5F3POKCRYR624NDRI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "«البام» يقدم «ميثاق القدرة الشرائية»: 5 التزامات لإنقاذ المعيش اليومي للمغاربة",
+    "status": "excluded",
+    "checked_at": "2026-09-01T21:04:47.087077+00:00"
+  },
+  "https://fr.le360.ma/politique/fatiha-el-moudni-quitte-le-rni-pour-le-pam-et-redistribue-les-cartes-a-la-mairie-de-rabat_2M4ANOMFXJDMTDC3EP6AJG4WGY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fatiha El Moudni quitte le RNI pour le PAM et redistribue les cartes à la mairie de Rabat",
+    "status": "excluded",
+    "checked_at": "2026-09-01T21:04:47.087077+00:00"
+  },
+  "https://fr.le360.ma/economie/abdellatif-ouahbi-recadre-lidentification-des-avocats-apres-la-reforme-du-code-de-procedure-civile_Y2W6SYD645GTVGLYYMPO6EUN2Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Abdellatif Ouahbi recadre l’identification des avocats après la réforme du code de procédure civile",
+    "status": "excluded",
+    "checked_at": "2026-09-01T21:04:47.087077+00:00"
+  },
+  "https://fr.le360.ma/politique/elections-legislatives-les-services-du-ministere-de-linterieur-traquent-largent-sale-a-tetouan-et_KQIB6RDLYJC5XLXZGSM6TFNLJA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Élections législatives: les services du ministère de l’Intérieur traquent l’argent sale à Tétouan et M’diq",
+    "status": "excluded",
+    "checked_at": "2026-09-01T21:04:47.087077+00:00"
+  },
+  "https://al3omk.com/1184040.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "احتقان بـ”الميزان”.. استقالة الكاتب المحلي بدمنات للالتحاق بـ”الكتاب” إثر فرض مرشح لتشريعيات 2026",
+    "status": "excluded",
+    "checked_at": "2026-09-01T21:04:47.087077+00:00"
+  },
+  "https://al3omk.com/1184255.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "استقالة قيادي استقلالي والتحاقه بـ”الأحرار” يعيد خلط الأوراق في تارودانت الشمالية",
+    "status": "accepted",
+    "checked_at": "2026-09-01T21:04:47.087077+00:00"
+  },
+  "https://al3omk.com/1184257.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الدريوش تلتقي أطر ومنتخبي “الأحرار” بالداخلة والحزب يكثف تحركاته استعدادا للاستحقاقات المقبلة",
+    "status": "excluded",
+    "checked_at": "2026-09-01T21:04:47.087077+00:00"
+  },
+  "https://al3omk.com/1184280.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "انتخابات 2026.. ناخب أم زبون؟",
+    "status": "excluded",
+    "checked_at": "2026-09-01T21:04:47.087077+00:00"
   }
 }

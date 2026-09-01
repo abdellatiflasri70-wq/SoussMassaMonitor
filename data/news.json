@@ -253,6 +253,274 @@
     "stance_analyzed_at": "2026-09-01T16:42:27.935901+00:00"
   },
   {
+    "id": "4f7540261f324a18",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "استقالة قيادي استقلالي والتحاقه بـ”الأحرار” يعيد خلط الأوراق في تارودانت الشمالية",
+    "url": "https://al3omk.com/1184255.html",
+    "author": "حفيظ مركوك",
+    "published_at": "2026-08-31",
+    "first_seen_at": "2026-09-01T21:04:47.087077+00:00",
+    "last_checked_at": "2026-09-01T21:04:47.087077+00:00",
+    "language": "ar",
+    "excerpt": "في خطوة تحمل أكثر من دلالة على مستوى الدائرة الانتخابية تارودانت الشمالية، أعلن سعيد إمزيلن، نائب الكاتب المحلي لحزب الاستقلال بأولاد برحيل وعضو المجلس الوطني",
+    "word_count": 887,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "أولاد برحيل",
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "person_005",
+          "name": "زينب قيوح",
+          "tier": "priority"
+        },
+        {
+          "id": "person_004",
+          "name": "عبد الصمد قيوح",
+          "tier": "priority"
+        },
+        {
+          "id": "person_015",
+          "name": "عبد العزيز البهجة",
+          "tier": "priority"
+        },
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_006",
+          "name": "لحسن السعدي",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات",
+            "انتخابية",
+            "استحقاقات"
+          ]
+        },
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "استقالة",
+            "استقالته"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "عضو المجلس"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر",
+            "انتقد"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "تزكية"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, حزب الاستقلال, حزب الأصالة والمعاصرة",
+        "مواضيع سياسية: الانتخابات والاقتراع, الاستقالة وتغيير الانتماء"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 9,
+        "editorial_segment_count": 7,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_005",
+        "target_type": "person",
+        "target_name": "زينب قيوح",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_004",
+        "target_type": "person",
+        "target_name": "عبد الصمد قيوح",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_015",
+        "target_type": "person",
+        "target_name": "عبد العزيز البهجة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_006",
+        "target_type": "person",
+        "target_name": "لحسن السعدي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_4f7540261f32",
+    "stance_analyzed_at": "2026-09-01T21:04:47.087077+00:00"
+  },
+  {
     "id": "a2c45a2c27f53ba5",
     "source_id": "taroudantalaan",
     "source_name": "تارودانت الآن",
