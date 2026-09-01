@@ -81,6 +81,98 @@
     "stance_analyzed_at": "2026-09-01T05:14:57.768808+00:00"
   },
   {
+    "id": "f1ca02144fa234ce",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تيزنيت.. خديجة أروهال تقود لائحة «الكتاب» وعبد الكريم بن علي وصيفاً | agadir24.info",
+    "url": "https://agadir24.info/%D8%AA%D9%8A%D8%B2%D9%86%D9%8A%D8%AA-%D8%AE%D8%AF%D9%8A%D8%AC%D8%A9-%D8%A3%D8%B1%D9%88%D9%87%D8%A7%D9%84-%D8%AA%D9%82%D9%88%D8%AF-%D9%84%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D8%AA%D8%A7.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-08-31",
+    "first_seen_at": "2026-09-01T11:43:10.630457+00:00",
+    "last_checked_at": "2026-09-01T11:43:10.630457+00:00",
+    "language": "ar",
+    "excerpt": "أكدت خديجة أروهال، في اتصال هاتفي مع أكادير24، أنها أودعت ملف ترشيحها وكيلةً للائحة حزب التقدم والاشتراكية «الكتاب» بدائرة تيزنيت، استعداداً لخوض الانتخابات التشريعية المقرر",
+    "word_count": 143,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "أكلو"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "وكيل اللائحة",
+            "ترشيحها"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية",
+            "انتخابات"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب التقدم والاشتراكية",
+        "مواضيع سياسية: الترشح والتزكية, الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f1ca02144fa2",
+    "stance_analyzed_at": "2026-09-01T11:43:10.630457+00:00"
+  },
+  {
     "id": "a2c45a2c27f53ba5",
     "source_id": "taroudantalaan",
     "source_name": "تارودانت الآن",
