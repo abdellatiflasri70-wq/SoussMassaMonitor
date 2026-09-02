@@ -1,5 +1,151 @@
 [
   {
+    "id": "e66ac1e3187acf9d",
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "أخنوش وشوكي وقيادات «الأحرار» في ضيافة عمر أمين بإنزكان أيت ملول (صور) - agadirino.ma",
+    "url": "https://agadirino.ma/2026/09/02/%D8%A3%D8%AE%D9%86%D9%88%D8%B4-%D9%88%D8%B4%D9%88%D9%83%D9%8A-%D9%88%D9%82%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%B9",
+    "author": "Driss Driss",
+    "published_at": "2026-09-01",
+    "first_seen_at": "2026-09-02T11:23:48.504504+00:00",
+    "last_checked_at": "2026-09-02T11:23:48.504504+00:00",
+    "language": "ar",
+    "excerpt": "حلّ عزيز أخنوش، إلى جانب محمد شوكي، رئيس حزب التجمع الوطني للأحرار، وعدد من أعضاء المكتب السياسي للحزب، ضيوفاً على عمر أمين بإقليم إنزكان أيت",
+    "word_count": 201,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "أيت ملول",
+        "إنزكان"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_052",
+          "name": "عمر أمين",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش, عمر أمين, كريم أشنكلي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_052",
+        "target_type": "person",
+        "target_name": "عمر أمين",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_e66ac1e3187a",
+    "stance_analyzed_at": "2026-09-02T11:23:48.504504+00:00"
+  },
+  {
     "id": "ec5a57a3f87d732e",
     "source_id": "hespress",
     "source_name": "هسبريس",
