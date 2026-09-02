@@ -1,26 +1,26 @@
 {
-  "run_at": "2026-09-01T21:04:47.087077+00:00",
+  "run_at": "2026-09-02T04:40:06.388245+00:00",
   "sources": 18,
-  "links_discovered": 151,
-  "known_skipped": 134,
-  "new_candidates": 17,
-  "extraction_success": 12,
+  "links_discovered": 150,
+  "known_skipped": 138,
+  "new_candidates": 12,
+  "extraction_success": 7,
   "extraction_failed": 5,
-  "new_articles": 1,
+  "new_articles": 0,
   "updated_articles": 0,
-  "excluded": 11,
+  "excluded": 7,
   "total_saved": 166,
   "events": 158,
   "errors": 10,
   "source_details": [
     {
       "source_name": "Le360",
-      "links_discovered": 23,
-      "known_skipped": 17,
-      "new_candidates": 6,
-      "extraction_success": 5,
+      "links_discovered": 21,
+      "known_skipped": 19,
+      "new_candidates": 2,
+      "extraction_success": 1,
       "accepted": 0,
-      "excluded": 5,
+      "excluded": 1,
       "errors": 1
     },
     {
@@ -115,12 +115,12 @@
     },
     {
       "source_name": "العمق المغربي",
-      "links_discovered": 9,
-      "known_skipped": 5,
-      "new_candidates": 4,
-      "extraction_success": 4,
-      "accepted": 1,
-      "excluded": 3,
+      "links_discovered": 8,
+      "known_skipped": 7,
+      "new_candidates": 1,
+      "extraction_success": 1,
+      "accepted": 0,
+      "excluded": 1,
       "errors": 0
     },
     {
@@ -185,12 +185,12 @@
     },
     {
       "source_name": "هسبريس",
-      "links_discovered": 7,
+      "links_discovered": 9,
       "known_skipped": 4,
-      "new_candidates": 3,
-      "extraction_success": 3,
+      "new_candidates": 5,
+      "extraction_success": 5,
       "accepted": 0,
-      "excluded": 3,
+      "excluded": 5,
       "errors": 0
     }
   ]

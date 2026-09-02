@@ -7047,5 +7047,54 @@
     "title": "انتخابات 2026.. ناخب أم زبون؟",
     "status": "excluded",
     "checked_at": "2026-09-01T21:04:47.087077+00:00"
+  },
+  "https://al3omk.com/1184347.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "ضمنهم الرئيسة السابقة.. استئنافية مراكش تؤكد عزل 4 أعضاء بجماعة تسلطانت",
+    "status": "excluded",
+    "checked_at": "2026-09-02T04:40:06.388245+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-le-pam-presente-un-programme-electoral-de-20-engagements-pour-350-milliards-de_6X35BVEOVJDSXPORDJWQEC75MA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: le PAM présente un programme électoral de 20 engagements pour 350 milliards de dirhams",
+    "status": "excluded",
+    "checked_at": "2026-09-02T04:40:06.388245+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d9%86%d8%b3%d8%a7%d8%a6%d9%8a%d8%a9-%d9%82%d9%88%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-10-%d9%85%d9%82%d8%a7-1800089.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. منافسة نسائية قوية على 10 مقاعد بجهة فاس ـ مكناس",
+    "status": "excluded",
+    "checked_at": "2026-09-02T04:40:06.388245+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%ad%d8%b1%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d9%8a%d8%b1%d9%83%d8%a7%d8%aa%d9%88-%d8%aa%d8%b4%d8%b9%d9%84-%d9%85%d8%b9%d8%b1%d9%83-1800363.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. \"حرارة الميركاتو\" تشعل معركة المقعدين في مديونة",
+    "status": "excluded",
+    "checked_at": "2026-09-02T04:40:06.388245+00:00"
+  },
+  "https://www.hespress.com/%d8%b4%d9%88%d9%83%d9%8a-%d9%8a%d8%b1%d8%b3%d9%91%d8%ae-%d9%85%d9%86-%d8%aa%d8%a7%d9%88%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d9%8a%d9%82%d9%8a%d9%86-%d8%a8%d8%aa%d8%b5%d8%af%d9%8f%d9%91%d8%b1-%d8%a7%d9%84-1800650.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "شوكي يرسّخ من تاونات اليقين بتصدُّر \"الأحرار\" الانتخابات التشريعية",
+    "status": "excluded",
+    "checked_at": "2026-09-02T04:40:06.388245+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%86%d8%b3%d8%b9%d9%8a%d8%af-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a-%d9%8a%d9%82%d8%af%d9%85-%d8%ad-1800591.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بنسعيد: برنامج \"البام\" الانتخابي يقدم حلولا لإعادة \"الحلم المغربي\"",
+    "status": "excluded",
+    "checked_at": "2026-09-02T04:40:06.388245+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d9%84%d8%aa%d8%b2%d9%85-%d8%a8%d8%b1%d9%81%d8%b9-%d8%a7%d9%84%d8%ad%d8%af-%d8%a7%d9%84%d8%a3%d8%af%d9%86%d9%89-%d9%84%d9%84%d9%85%d8%b9%d8%a7%d8%b4%d8%a7-1800558.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"البام\" يلتزم برفع الحد الأدنى للمعاشات ودعم الأسر وخلق مليون وظيفة",
+    "status": "excluded",
+    "checked_at": "2026-09-02T04:40:06.388245+00:00"
   }
 }
