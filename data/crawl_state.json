@@ -7460,5 +7460,131 @@
     "title": "زكية الدريوش تودع ترشيحها وكيلة للائحة الجهوية لحزب الأحرار بسوس ماسة",
     "status": "accepted",
     "checked_at": "2026-09-03T16:28:43.646405+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%85%d9%86-%d8%a8%d8%b1%d9%83%d8%a7%d9%86-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%a7%d9%84%d9%83%d9%81%d8%a7-1801554.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "المنصوري من بركان: \"البام\" يبحث عن الكفاءات لا المناصب.. و\"البعض تخلع\"",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%aa%d8%aa%d8%a3%d9%87%d8%a8-%d9%84%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%85%d9%82%d8%a7-1801390.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. الأحزاب تتأهب لمعركة \"المقاعد الأربعة\" بدائرة الصويرة",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://al3omk.com/1184710.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تحالف اليسار يندد بممارسات إفساد الانتخابات بأزيلال ويدعو لمحاسبة مدبري الشأن العام",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%b9%d8%b1%d9%81-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%b9%d9%86%d9%83%d8%9f-%d8%b2%d8%b9%d9%8a%d9%85-%d8%a7%d9%84%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%b4%d8%b9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "ماذا يعرف المغرب عنك؟.. زعيم الحزب الشعبي يتهم رئيس الحكومة الإسبانية بـالخوف من الرباط بسبب تبرئة سلطاتها من أحداث سبتة ويطالبه بالاستقالة",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://ar.le360.ma/politique/DHTNW5WVR5A4XF6XCMN6PVSWE4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "ادعاء توظيف «أموال المخدرات» في الانتخابات يجر مرشحا من «البيجيدي» إلى التحقيق",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://ar.le360.ma/politique/KUFIM4S5VVACJD2Q4YPMEG6VLU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع يرد على بنكيران من بركان: لماذا تضيقون بمواطن اختار السياسة؟",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://ar.le360.ma/politique/HUGZ5BUK4VDR7D6M65ODJMZTQ4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع يواجه منتقديه بشأن الأغنام: «لا تخلطوا بين توفير الاعتمادات واتخاذ القرار»",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://ar.le360.ma/politique/2S5B2PWSRVE3VGSJAQ3DCNUL5A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انتقادات تلاحق وزراء مرشحين",
+    "status": "accepted",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-le-parquet-reagit-aux-accusations-dun-candidat-sur-lutilisation-de-fonds-issus-du_SSF4UBCXQFB3PMZYR5BCWLI3NM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: le parquet réagit aux accusations d’un candidat sur l’utilisation de fonds issus du trafic de drogue",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://fr.le360.ma/politique/pam-fatima-ezzahra-mansouri-devoile-les-coulisses-du-recrutement-de-fouzi-lekjaa_NS365SJTPZDR5IJQKP3K7DVZPA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "PAM: Fatima Ezzahra Mansouri dévoile les coulisses du recrutement de Fouzi Lekjaa",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-baraka-appelle-ses-allies-a-sortir-de-la-logique-des-affrontements_3KJDWUB2BZAVDJI7W5WH5NTQW4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: Baraka appelle ses alliés à sortir de la logique des affrontements",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://fr.le360.ma/politique/polemique-sur-limportation-des-ovins-fouzi-lekjaa-remet-les-pendules-a-lheure_HMCSHIY2URBETLJEFO36TB6HC4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Polémique sur l’importation des ovins: Fouzi Lekjaa remet les pendules à l’heure",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-le-pam-nest-pas-un-parti-aux-ordres-affirme-fatima-ezzahra-el-mansouri_BHZ7J7NYENGPDPOZZ337SNK3Y4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: «Le PAM n’est pas un parti aux ordres», affirme Fatima Ezzahra El Mansouri",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-le-spectre-de-linvalidation-plane-sur-les-candidats-transfuges_ZNE7YQYXBVGPBDYGP5HS65QCD4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: le spectre de l’invalidation plane sur les candidats transfuges",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://fr.le360.ma/politique/fouzi-lekjaa-il-est-inconcevable-quune-veuve-ne-touche-que-la-moitie-de-la-pension-de-son-mari_4GKU6K2UH5BPJCWTFIX5SMVMHY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fouzi Lekjaa: «Il est inconcevable qu’une veuve ne touche que la moitié de la pension de son mari»",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-seules-33-femmes-a-la-tete-des-listes-locales_2U6XHZNXGFCC5JUVOIFOURFJEQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: seules 33 femmes à la tête des listes locales",
+    "status": "accepted",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-sans-ceder-aux-pressions-de-la-droite-sanchez-reaffirme-le-soutien-de-lespagne-au-plan_MTYMF5ZEUNA7RAVQTNXRIGTYWE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: sans céder aux pressions de la droite, Sánchez réaffirme le soutien de l’Espagne au plan d’autonomie marocain",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  "https://fr.le360.ma/monde/sanchez-demonte-une-nouvelle-fois-le-recit-anti-marocain-auquel-certains-milieux-continuent-de_HENVIV26QFEFRGMXX4MILPJVQ4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sebta. Sánchez démonte une nouvelle fois le récit anti-marocain auquel certains milieux continuent de s’accrocher",
+    "status": "excluded",
+    "checked_at": "2026-09-03T21:05:19.089264+00:00"
   }
 }

@@ -848,6 +848,273 @@
     "stance_analyzed_at": "2026-09-03T16:28:43.646405+00:00"
   },
   {
+    "id": "2c35e0e011b479d9",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: seules 33 femmes à la tête des listes locales",
+    "url": "https://fr.le360.ma/politique/legislatives-seules-33-femmes-a-la-tete-des-listes-locales_2U6XHZNXGFCC5JUVOIFOURFJEQ",
+    "author": "Hassan Benadad",
+    "published_at": "2026-09-02",
+    "first_seen_at": "2026-09-03T21:05:19.089264+00:00",
+    "last_checked_at": "2026-09-03T21:05:19.089264+00:00",
+    "language": "fr",
+    "excerpt": "À l’approche des élections législatives du 23 septembre prochain, les formations politiques ont procédé à la désignation de 33 femmes à la tête de leurs",
+    "word_count": 393,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت",
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تارودانت",
+        "تزنيت"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PSU",
+          "name": "الحزب الاشتراكي الموحد"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "FGD",
+          "name": "فيدرالية اليسار الديمقراطي"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "MP",
+          "name": "الحركة الشعبية"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "person_026",
+          "name": "نبيلة منيب",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "législatives",
+            "élections"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "candidate",
+            "candidates"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "sièges"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "conseil national"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "alliance"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: الحزب الاشتراكي الموحد, حزب الأصالة والمعاصرة, فيدرالية اليسار الديمقراطي",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PSU",
+        "target_type": "party",
+        "target_name": "الحزب الاشتراكي الموحد",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "FGD",
+        "target_type": "party",
+        "target_name": "فيدرالية اليسار الديمقراطي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "MP",
+        "target_type": "party",
+        "target_name": "الحركة الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_026",
+        "target_type": "person",
+        "target_name": "نبيلة منيب",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_2c35e0e011b4",
+    "stance_analyzed_at": "2026-09-03T21:05:19.089264+00:00"
+  },
+  {
     "id": "e66ac1e3187acf9d",
     "source_id": "agadirino",
     "source_name": "أكاديرينو",
@@ -1350,6 +1617,152 @@
     ],
     "event_id": "evt_3734d8d0c0d0",
     "stance_analyzed_at": "2026-09-02T16:37:53.139744+00:00"
+  },
+  {
+    "id": "d5ee24d8dd1bf347",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انتقادات تلاحق وزراء مرشحين",
+    "url": "https://ar.le360.ma/politique/2S5B2PWSRVE3VGSJAQ3DCNUL5A",
+    "author": "امحند أوبركة",
+    "published_at": "2026-09-01",
+    "first_seen_at": "2026-09-03T21:05:19.089264+00:00",
+    "last_checked_at": "2026-09-03T21:05:19.089264+00:00",
+    "language": "ar",
+    "excerpt": "وأوردت يومية «الصباح»، على صفحتها الأولى في عددها ليوم الخميس 3 شتنبر 2026، أن الكتاب العامين للوزراء المرشحين يتأهبون للقيام بمهام إدارية، والتوقيع على القرارات",
+    "word_count": 397,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        },
+        {
+          "id": "person_019",
+          "name": "نزار بركة",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية",
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "الترشح",
+            "ترشحه"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_019",
+        "target_type": "person",
+        "target_name": "نزار بركة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_d5ee24d8dd1b",
+    "stance_analyzed_at": "2026-09-03T21:05:19.089264+00:00"
   },
   {
     "id": "ec5a57a3f87d732e",
