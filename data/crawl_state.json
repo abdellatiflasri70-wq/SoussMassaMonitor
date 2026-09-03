@@ -7334,5 +7334,54 @@
     "title": "بنعبد الله يعلن الرجة الاجتماعيةويقدم وصفة التقدم والاشتراكية لمرحلة ما بعد 23 شتنبر.. 600 مليار درهم مداخيل إضافية و15 ألف ممرض وصندوق للسكن",
     "status": "excluded",
     "checked_at": "2026-09-03T04:37:21.739579+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%aa%d8%ab%d9%8a%d8%b1-%d8%b4%d8%a8%d9%87%d8%a9-%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%af%d8%b9%d9%85-%d8%a7.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "المنصوري تثير شبهة تسريب معلومات دعم استيراد الأضاحي وتحمل قطاع الفلاحة مسؤولية التدبير | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-09-03T11:19:48.594662+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%b3%d8%a8%d8%a7%d9%82-%d9%86%d8%b3%d8%a7%d8%a6%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%ac%d9%87-1800407.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026.. سباق نسائي على المقاعد الجهوية السبعة لسوس-ماسة",
+    "status": "accepted",
+    "checked_at": "2026-09-03T11:19:48.594662+00:00"
+  },
+  "https://alyaoum24.com/2041742.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "خمس سنوات عجاف وحصيلة رمادية.. حين تسبق الخطابات الوردية لحكومة أخنوش واقع الاحتقان الاجتماعي – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-03T11:19:48.594662+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-le-pps-devoile-son-programme-electoral-qui-se-veut-audacieux-par-son-cout_TZAR3QCYGBHLZHJNAVXSZD6U6Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: le PPS dévoile son programme électoral qui se veut audacieux par son coût budgétaire de 575 milliards de dirhams",
+    "status": "excluded",
+    "checked_at": "2026-09-03T11:19:48.594662+00:00"
+  },
+  "https://al3omk.com/1184668.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "انتخابات 23 شتنبر .. الوزير كريم زيدان يضع ملف ترشحه رسميا بدائرة اليوسفية",
+    "status": "excluded",
+    "checked_at": "2026-09-03T11:19:48.594662+00:00"
+  },
+  "https://www.assahifa.com/%d8%a3%d9%83%d8%af-%d8%a7%d8%b3%d8%aa%d8%af%d8%b9%d8%a7%d8%a1-%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a8%d8%b9%d8%af-%d8%aa%d8%b5%d8%b1%d9%8a": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "أكد استدعاء السفيرة المغربية بعد تصريحات وهبي والتوفيق.. سانشيز يُبرئ المغرب أمام البرلمان الإسباني من أزمة الهجرة بسبتة ويدعو الملك فيليبي لزيارتها",
+    "status": "excluded",
+    "checked_at": "2026-09-03T11:19:48.594662+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%84%d9%82%d8%ac%d8%b9-%d9%82%d9%8a%d9%85%d8%a9-%d9%85%d8%b6%d8%a7%d9%81%d8%a9-%d9%84%d9%80-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%88%d8%b5": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "المنصوري: لقجع قيمة مضافة لـ \"البام\" وصحتي العقلية تسمح لي بقيادة الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-09-03T11:19:48.594662+00:00"
   }
 }

@@ -287,6 +287,334 @@
     "stance_analyzed_at": "2026-09-03T04:37:21.739579+00:00"
   },
   {
+    "id": "93d565c133482fd3",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026.. سباق نسائي على المقاعد الجهوية السبعة لسوس-ماسة",
+    "url": "https://www.hespress.com/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-2026-%D8%B3%D8%A8%D8%A7%D9%82-%D9%86%D8%B3%D8%A7%D8%A6%D9%8A-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%AC%D9%87-1800407.html",
+    "author": "هسبريس",
+    "published_at": "2026-09-02",
+    "first_seen_at": "2026-09-03T11:19:48.594662+00:00",
+    "last_checked_at": "2026-09-03T11:19:48.594662+00:00",
+    "language": "ar",
+    "excerpt": "تدخل الأحزاب السياسية غمار التنافس حول الدائرة الانتخابية الجهوية لسوس-ماسة، المخصص لها سبعة مقاعد من أصل 90، برسم الاستحقاقات التشريعية المقبلة، برهانات متباينة؛ إذ توجهت",
+    "word_count": 516,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت",
+        "طاطا"
+      ],
+      "primary_places": [
+        "تارودانت",
+        "طاطا"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان",
+        "إنزكان أيت ملول",
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة",
+        "أكادير",
+        "أيت ملول",
+        "إنزكان"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        },
+        {
+          "id": "UC",
+          "name": "الاتحاد الدستوري"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "MP",
+          "name": "الحركة الشعبية"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_066",
+          "name": "السعدية نعمة",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_099",
+          "name": "سناء عكي",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_048",
+          "name": "سناء فوزي",
+          "tier": "secondary"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "الاستحقاقات",
+            "انتخابية",
+            "اقتراع",
+            "اللوائح الانتخابية"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشح",
+            "تزكية",
+            "دائرة انتخابية"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "ائتلاف",
+            "تحالف"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, الاتحاد الاشتراكي للقوات الشعبية, حزب الأصالة والمعاصرة, حزب التقدم والاشتراكية",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: الانتخابات والاقتراع, النتائج والاستطلاعات الانتخابية, الترشح والتزكية, التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "UC",
+        "target_type": "party",
+        "target_name": "الاتحاد الدستوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "MP",
+        "target_type": "party",
+        "target_name": "الحركة الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_066",
+        "target_type": "person",
+        "target_name": "السعدية نعمة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_099",
+        "target_type": "person",
+        "target_name": "سناء عكي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_048",
+        "target_type": "person",
+        "target_name": "سناء فوزي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_93d565c13348",
+    "stance_analyzed_at": "2026-09-03T11:19:48.594662+00:00"
+  },
+  {
     "id": "e66ac1e3187acf9d",
     "source_id": "agadirino",
     "source_name": "أكاديرينو",
