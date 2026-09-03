@@ -615,6 +615,239 @@
     "stance_analyzed_at": "2026-09-03T11:19:48.594662+00:00"
   },
   {
+    "id": "9e844e908b1fbe0d",
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "أشنكلي وحافيدي يزوران مقر \"الأحرار\" بأولاد برحيل لتطوير العمل التنظيمي بتارودانت الشمالية - agadirino.ma",
+    "url": "https://agadirino.ma/2026/09/03/%D8%A3%D8%B4%D9%86%D9%83%D9%84%D9%8A-%D9%88%D8%AD%D8%A7%D9%81%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B2%D9%88%D8%B1%D8%A7%D9%86-%D9%85%D9%82%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D8%A8%D8%A3",
+    "author": "Driss Driss",
+    "published_at": "2026-09-02",
+    "first_seen_at": "2026-09-03T16:28:43.646405+00:00",
+    "last_checked_at": "2026-09-03T16:28:43.646405+00:00",
+    "language": "ar",
+    "excerpt": "قام كريم أشنكلي، المنسق الجهوي لحزب التجمع الوطني للأحرار بجهة سوس ماسة، رفقة إبراهيم حافيدي، الرئيس السابق للجهة، بزيارة إلى مقر الحزب بمدينة أولاد برحيل،",
+    "word_count": 135,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "أولاد برحيل",
+        "تارودانت"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_010",
+          "name": "إبراهيم حافيدي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_006",
+          "name": "لحسن السعدي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: إبراهيم حافيدي, كريم أشنكلي, لحسن السعدي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_010",
+        "target_type": "person",
+        "target_name": "إبراهيم حافيدي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_006",
+        "target_type": "person",
+        "target_name": "لحسن السعدي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_9e844e908b1f",
+    "stance_analyzed_at": "2026-09-03T16:28:43.646405+00:00"
+  },
+  {
+    "id": "de117c16a7ddc1bf",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "زكية الدريوش تودع ترشيحها وكيلة للائحة الجهوية لحزب الأحرار بسوس ماسة",
+    "url": "https://al3omk.com/1184806.html",
+    "author": "العمق المغربي",
+    "published_at": "2026-09-02",
+    "first_seen_at": "2026-09-03T16:28:43.646405+00:00",
+    "last_checked_at": "2026-09-03T16:28:43.646405+00:00",
+    "language": "ar",
+    "excerpt": "أودعت زكية الدريوش، كاتبة الدولة المكلفة بالصيد البحري وعضو المكتب السياسي للحزب، أمس الأربعاء، ملف ترشيحها وكيلة للائحة الجهوية لحزب الأحرار بجهة سوس ماسة برسم",
+    "word_count": 135,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشيحها",
+            "ترشحها"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "مواضيع سياسية: الترشح والتزكية, الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_de117c16a7dd",
+    "stance_analyzed_at": "2026-09-03T16:28:43.646405+00:00"
+  },
+  {
     "id": "e66ac1e3187acf9d",
     "source_id": "agadirino",
     "source_name": "أكاديرينو",
