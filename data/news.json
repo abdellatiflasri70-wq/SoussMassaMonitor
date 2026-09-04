@@ -1,5 +1,190 @@
 [
   {
+    "id": "5d0e88d0c7575c78",
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "العربي المحرشي يكشف كواليس التحاق فوزي لقجع بالبام.. الميركاتو السياسي – اليوم 24",
+    "url": "https://alyaoum24.com/videos/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D8%B4%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D9%83%D9%88%D8%A7%D9%84%D9%8A%D8%B3-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%82-%D9%81%D9%88%D8%B2",
+    "author": "Alyaoum",
+    "published_at": "2026-09-03",
+    "first_seen_at": "2026-09-04T11:23:19.586503+00:00",
+    "last_checked_at": "2026-09-04T11:23:19.586503+00:00",
+    "language": "ar",
+    "excerpt": "شريط الأخبار وفاة تلميذ داخل ثانوية بأيت ملول بعد إصابته بوعكة صحية مفاجئة العيون: توقيف شخص بحوزته 26 غراما من الكوكايين وفاة الحاج « يوعري",
+    "word_count": 115,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "أيت ملول"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_5d0e88d0c757",
+    "stance_analyzed_at": "2026-09-04T11:23:19.586503+00:00"
+  },
+  {
+    "id": "c14eb363c748cf17",
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "التنمية العادلة من منظور حزب الإتحاد الإشتراكي للقوات الشعبية – اليوم 24",
+    "url": "https://alyaoum24.com/videos/%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%84%D8%A9-%D9%85%D9%86-%D9%85%D9%86%D8%B8%D9%88%D8%B1-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D8%A5%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7",
+    "author": "Alyaoum",
+    "published_at": "2026-09-03",
+    "first_seen_at": "2026-09-04T11:23:19.586503+00:00",
+    "last_checked_at": "2026-09-04T11:23:19.586503+00:00",
+    "language": "ar",
+    "excerpt": "شريط الأخبار وفاة تلميذ داخل ثانوية بأيت ملول بعد إصابته بوعكة صحية مفاجئة العيون: توقيف شخص بحوزته 26 غراما من الكوكايين وفاة الحاج « يوعري",
+    "word_count": 115,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "أيت ملول"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: الاتحاد الاشتراكي للقوات الشعبية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_c14eb363c748",
+    "stance_analyzed_at": "2026-09-04T11:23:19.586503+00:00"
+  },
+  {
     "id": "5a82d2d6684a13a5",
     "source_id": "hespress",
     "source_name": "هسبريس",
