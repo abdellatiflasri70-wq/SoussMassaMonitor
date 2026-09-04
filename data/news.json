@@ -185,6 +185,146 @@
     "stance_analyzed_at": "2026-09-04T11:23:19.586503+00:00"
   },
   {
+    "id": "f22f5df19425f980",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أخنوش: استيراد الأغنام فرضه الجفاف .. ومستعدون لكشف المعطيات",
+    "url": "https://www.hespress.com/%D8%A3%D8%AE%D9%86%D9%88%D8%B4-%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%BA%D9%86%D8%A7%D9%85-%D9%81%D8%B1%D8%B6%D9%87-%D8%A7%D9%84%D8%AC%D9%81%D8%A7%D9%81-%D9%88%D9%85-1801789.html",
+    "author": "هسبريس من تيفلت",
+    "published_at": "2026-09-03",
+    "first_seen_at": "2026-09-04T16:25:02.631774+00:00",
+    "last_checked_at": "2026-09-04T16:25:02.631774+00:00",
+    "language": "ar",
+    "excerpt": "نظّم حزب التجمع الوطني للأحرار، زوال اليوم الجمعة، لقاءً تواصلياً بجماعة “عين الجوهرة سيدي بوخلخال”، وهي جماعة ترابية قروية تقع ضواحي مدينة تيفلت بإقليم الخميسات،",
+    "word_count": 624,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر",
+            "أكد"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "جماعة ترابية"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة",
+            "الأغلبية الحكومية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 7,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 5,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f22f5df19425",
+    "stance_analyzed_at": "2026-09-04T16:25:02.631774+00:00"
+  },
+  {
     "id": "5a82d2d6684a13a5",
     "source_id": "hespress",
     "source_name": "هسبريس",
