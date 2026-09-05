@@ -7859,5 +7859,54 @@
     "title": "شوكي: حكومة الأحرار أحدثت \"تحولا نوعيا\" وحققت \"ثورة هيكلية\" في الصحة والتعليم",
     "status": "excluded",
     "checked_at": "2026-09-05T10:40:18.500819+00:00"
+  },
+  "https://ar.le360.ma/politique/KNAE5DVG3JGP5I7SP5ZR4U6CK4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "أجواء استقبال جماهيري لقيادة حزب الأصالة والمعاصرة بالداخلة",
+    "status": "excluded",
+    "checked_at": "2026-09-05T15:17:26.422751+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d9%81%d9%8a-%d8%a7%d9%86%d8%aa%d8%b8%d8%a7%d8%b1-%d8%a7%d9%84%d9%81%d8%a7%d8%a6-1802244.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. ثلاثة مقاعد في انتظار الفائزين بدائرة \"مولاي رشيد\"",
+    "status": "excluded",
+    "checked_at": "2026-09-05T15:17:26.422751+00:00"
+  },
+  "https://www.hespress.com/%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%ae%d8%a7%d8%b1%d8%ac-%d9%85%d8%a8%d9%86%d9%89-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d8%aa%d8%af%d8%b9%d9%88-%d8%a5-1801837.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أحزاب مغربية خارج مبنى البرلمان تدعو إلى برامج انتخابية \"قابلة للقياس\"",
+    "status": "excluded",
+    "checked_at": "2026-09-05T15:17:26.422751+00:00"
+  },
+  "https://al3omk.com/1185375.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "مصدر بالـINRH: الراحة البيولوجية للأخطبوط لا علاقة لها بالانتخابات ولا ينبغي تسييس الملف",
+    "status": "excluded",
+    "checked_at": "2026-09-05T15:17:26.422751+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d9%86-%d8%aa%d8%b3%d8%a7%d8%a4%d9%84-%d9%84%d9%82%d8%ac%d8%b9-%d8%a5%d9%84%d9%89-%d8%aa%d8%a8%d8%b1%d8%a4-%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%87%d9%84-%d9%8a%d8%aa%d8%ad%d9%88%d9%84-%d8%ac": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "من تساؤل لقجع إلى تبرؤ أخنوش.. هل يتحول جدل استيراد أضاحي العيد إلى فصل جديد من المواجهة الانتخابية بين الأحرار والبام؟",
+    "status": "excluded",
+    "checked_at": "2026-09-05T15:17:26.422751+00:00"
+  },
+  "https://www.assahifa.com/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d8%af%d9%84-%d9%8a%d8%af%d8%b4%d9%86-%d8%a7%d9%84%d9%85%d9%82%d8%b1-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%84%d9%84%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "وزير العدل يدشن المقر الجديد للمحكمة الابتدائية في تارودانت",
+    "status": "excluded",
+    "checked_at": "2026-09-05T15:17:26.422751+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a-%d9%87%d9%88%d8%a7%d8%b1-%d9%8a%d8%b4%d8%b9%d9%84-%d8%a7%d9%84%d8%b5%d8%b1%d8%a7%d8%b9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "البرلماني هوار يشعل الصراع الانتخابي في وجدة باستقالته من الأحرار والتحاقه بـالبام",
+    "status": "excluded",
+    "checked_at": "2026-09-05T15:17:26.422751+00:00"
   }
 }
