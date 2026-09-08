@@ -1,5 +1,187 @@
 [
   {
+    "id": "e1e2e94120b3be12",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "المغاربة اليهود والانتخابات .. مواقف فردية لا تعبر عن خيارات الطائفة",
+    "url": "https://www.hespress.com/%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D9%88%D8%A7%D9%82%D9%81-%D9%81%D8%B1-1802529.html",
+    "author": "هسبريس",
+    "published_at": "2026-09-07",
+    "first_seen_at": "2026-09-08T04:42:57.297417+00:00",
+    "last_checked_at": "2026-09-08T04:42:57.297417+00:00",
+    "language": "ar",
+    "excerpt": "كثيرا ما تسيء تقارير إعلامية تقديم شؤون الطوائف المغربية غير المنتمية إلى الأغلبية المسلمة؛ فيقدم رأي الفرد المواطن فيها ممثلا لآراء مجموع الساكنة المنتمية إليها،",
+    "word_count": 1028,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "UC",
+          "name": "الاتحاد الدستوري"
+        },
+        {
+          "id": "MDS",
+          "name": "الحركة الديمقراطية الاجتماعية"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "انتخابية",
+            "التصويت",
+            "الاستحقاقات",
+            "استحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشح"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "معارضة"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, حزب الأصالة والمعاصرة, حزب التقدم والاشتراكية",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "UC",
+        "target_type": "party",
+        "target_name": "الاتحاد الدستوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "MDS",
+        "target_type": "party",
+        "target_name": "الحركة الديمقراطية الاجتماعية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_e1e2e94120b3",
+    "stance_analyzed_at": "2026-09-08T04:42:57.297417+00:00"
+  },
+  {
     "id": "cc14414eb4dbe81f",
     "source_id": "le360",
     "source_name": "Le360",
@@ -150,6 +332,81 @@
     ],
     "event_id": "evt_cc14414eb4db",
     "stance_analyzed_at": "2026-09-07T21:33:27.323156+00:00"
+  },
+  {
+    "id": "f239f93356d6bb7a",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "إنزكان: جمعية التحالف للمغاربة المقيمين بالخارج تكرم رئيس المجلس الجماعي رشيد المعيفي - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134260.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-06",
+    "first_seen_at": "2026-09-08T04:42:57.297417+00:00",
+    "last_checked_at": "2026-09-08T04:42:57.297417+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةإنزكان: جمعية التحالف للمغاربة المقيمين بالخارج تكرم رئيس المجلس الجماعي رشيد المعيفي قامت جمعية التحالف للمغاربة المقيمين بالخارج، اليوم الاثنين 7 شتنبر 2026، بتكريم",
+    "word_count": 259,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "إنزكان"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي",
+            "رئيس المجلس",
+            "رئيس الجماعة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "صرح"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_f239f93356d6",
+    "stance_analyzed_at": "2026-09-08T04:42:57.297417+00:00"
   },
   {
     "id": "92fa16cc0041ef3b",
