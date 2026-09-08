@@ -182,6 +182,150 @@
     "stance_analyzed_at": "2026-09-08T04:42:57.297417+00:00"
   },
   {
+    "id": "0f3f450f7a4ba939",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "استقالة نائبة رئيس جماعة بتيزنيت تفتح باب التجريد.. هل تفقد دفعة واحدة ثلاث تمثيليات انتخابية؟ | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%D9%86%D8%A7%D8%A6%D8%A8%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AC%D9%85%D8%A7%D8%B9%D8%A9-%D8%A8%D8%AA%D9%8A%D8%B2%D9%86%D9%8A%D8%AA-%D8%AA%D9%81%D8%AA%D8%AD.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-09-07",
+    "first_seen_at": "2026-09-08T11:24:06.963078+00:00",
+    "last_checked_at": "2026-09-08T11:24:06.963078+00:00",
+    "language": "ar",
+    "excerpt": "لم تعد الاستقالات الحزبية المسجلة قبيل الانتخابات التشريعية بإقليم تيزنيت مجرد خلافات تنظيمية داخلية، بعدما وصلت إلى منتخبة تشغل عدة مسؤوليات انتدابية، في مقدمتها منصب",
+    "word_count": 2032,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي",
+            "المجلس الإقليمي",
+            "مجلس الجماعة",
+            "رئيس الجماعة",
+            "رئيس المجلس"
+          ]
+        },
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "استقالة",
+            "استقالتها",
+            "طرد من الحزب"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية",
+            "اقتراع"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشح",
+            "الترشح",
+            "تزكية",
+            "التزكيات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نتائج الانتخابات",
+            "المقاعد"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "تنظيم حزبي"
+          ]
+        },
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "تجريد"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي, الاستقالة وتغيير الانتماء, الانتخابات والاقتراع, الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_0f3f450f7a4b",
+    "stance_analyzed_at": "2026-09-08T11:24:06.963078+00:00"
+  },
+  {
     "id": "cc14414eb4dbe81f",
     "source_id": "le360",
     "source_name": "Le360",
