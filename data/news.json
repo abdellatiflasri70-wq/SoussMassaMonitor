@@ -326,6 +326,76 @@
     "stance_analyzed_at": "2026-09-08T11:24:06.963078+00:00"
   },
   {
+    "id": "6f4ceb4c8f71dcca",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخابات شتنبر 2026.. تعبئة أزيد من 3000 ملاحظ يمثلون 26 جمعية ومؤسسة وطنية لحقوق الإنسان و30 هيئة ومنظمة دولية - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134286.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-07",
+    "first_seen_at": "2026-09-08T16:41:11.275598+00:00",
+    "last_checked_at": "2026-09-08T16:41:11.275598+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديانتخابات شتنبر 2026.. تعبئة أزيد من 3000 ملاحظ يمثلون 26 جمعية ومؤسسة وطنية لحقوق الإنسان و30 هيئة ومنظمة دولية اعتمدت اللجنة الخاصة لاعتماد ملاحظات",
+    "word_count": 508,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_6f4ceb4c8f71",
+    "stance_analyzed_at": "2026-09-08T16:41:11.275598+00:00"
+  },
+  {
     "id": "cc14414eb4dbe81f",
     "source_id": "le360",
     "source_name": "Le360",
