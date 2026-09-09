@@ -8594,5 +8594,40 @@
     "title": "Affaire Sebta: quand un rapport sans fondements attise l’hystérie contre le Maroc",
     "status": "excluded",
     "checked_at": "2026-09-08T21:12:55.399091+00:00"
+  },
+  "https://www.chtoukapress.com/306625.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "المديرية الإقليمية لأكادير إداوتنان توضح حقيقة إغلاق فرعية إيكدار بجماعة الدراركة",
+    "status": "excluded",
+    "checked_at": "2026-09-09T04:47:37.431406+00:00"
+  },
+  "https://www.hespress.com/%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%aa%d8%b7%d9%88%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%b4%d8%a8-1803576.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أحزاب سياسية تراهن على المتطوعين الشباب في إنجاح الحملة الانتخابية",
+    "status": "excluded",
+    "checked_at": "2026-09-09T04:47:37.431406+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d9%8a%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1-%d9%88%d9%82-1804278.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "البيطار: \"البام\" يطالب بتغيير المسار وقطع الطريق أمام تضارب المصالح",
+    "status": "excluded",
+    "checked_at": "2026-09-09T04:47:37.431406+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/681446-mohamed-chaouki-le-programme-du-rni-est-le-fruit-dun-long-travail-de-terrain.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Mohamed Chaouki : « Le programme du RNI est le fruit d’un long travail de terrain »",
+    "status": "excluded",
+    "checked_at": "2026-09-09T04:47:37.431406+00:00"
+  },
+  "https://www.assahifa.com/%d9%83%d8%b1%d8%a7%d9%85%d8%a9-%d9%88%d9%81%d8%b1%d8%b5-%d9%84%d9%84%d8%ac%d9%85%d9%8a%d8%b9-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%b7%d8%b1%d8%ad-%d8%b1%d9%81%d8%b9-%d8%a7%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "كرامة وفرص للجميع.. الأحرار يطرح رفع الأجور و”الكهرباء المجانية” ضمن برنامجه الانتخابي",
+    "status": "excluded",
+    "checked_at": "2026-09-09T04:47:37.431406+00:00"
   }
 }
