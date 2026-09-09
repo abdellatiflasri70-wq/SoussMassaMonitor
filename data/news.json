@@ -697,6 +697,315 @@
     "stance_analyzed_at": "2026-09-09T16:41:46.025012+00:00"
   },
   {
+    "id": "78f012bf371d5ce1",
+    "source_id": "tiznit24",
+    "source_name": "تيزنيت24",
+    "title": "تزنيت.. اجتماع موسع مع ممثلي الأحزاب ووكلاء اللوائح لتأطير الحملة الانتخابية وضمان احترام القانون",
+    "url": "https://tiznit24.com/?p=195224",
+    "author": null,
+    "published_at": "2026-09-08",
+    "first_seen_at": "2026-09-09T20:58:25.875360+00:00",
+    "last_checked_at": "2026-09-09T20:58:25.875360+00:00",
+    "language": "ar",
+    "excerpt": "تزنيت – 9 شتنبر 2026: احتضنت قاعة الاجتماعات الكبرى بإقليم تزنيت، يوم الأربعاء 9 شتنبر 2026، اجتماعا تواصليا وتنسيقيا جمع ممثلي الأحزاب السياسية ووكلاء اللوائح",
+    "word_count": 281,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تزنيت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "اللوائح الانتخابية"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الحملة الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_78f012bf371d",
+    "stance_analyzed_at": "2026-09-09T20:58:25.875360+00:00"
+  },
+  {
+    "id": "1b5c5f89e8074a05",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives à Taroudant: la bataille des trois ministres",
+    "url": "https://fr.le360.ma/politique/legislatives-a-taroudant-la-bataille-des-trois-ministres_WV6724DDIBB6TKJ4ZAY6IATQFE",
+    "author": "La Rédaction",
+    "published_at": "2026-09-08",
+    "first_seen_at": "2026-09-09T20:58:25.875360+00:00",
+    "last_checked_at": "2026-09-09T20:58:25.875360+00:00",
+    "language": "fr",
+    "excerpt": "Dans les circonscriptions de Taroudant Nord et Sud, le scrutin à venir pour la Chambre des représentants promet une intensité exceptionnelle. Bien plus qu’une simple",
+    "word_count": 401,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "person_011",
+          "name": "حميد البهجة",
+          "tier": "priority"
+        },
+        {
+          "id": "person_015",
+          "name": "عبد العزيز البهجة",
+          "tier": "priority"
+        },
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "législatives",
+            "électorale",
+            "scrutin"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "candidat",
+            "candidate"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "sièges"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "commune"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "ministre"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, حزب الأصالة والمعاصرة",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_011",
+        "target_type": "person",
+        "target_name": "حميد البهجة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_015",
+        "target_type": "person",
+        "target_name": "عبد العزيز البهجة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_1b5c5f89e807",
+    "stance_analyzed_at": "2026-09-09T20:58:25.875360+00:00"
+  },
+  {
     "id": "e1e2e94120b3be12",
     "source_id": "hespress",
     "source_name": "هسبريس",
