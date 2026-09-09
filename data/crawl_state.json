@@ -8678,5 +8678,124 @@
     "title": "أسلحة كيميائية فوق طاولة مجلس الحكومة",
     "status": "excluded",
     "checked_at": "2026-09-09T11:28:47.162104+00:00"
+  },
+  "https://www.chtoukapress.com/306655.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بحضور نبيلة منيب.. تحالف اليسار باشتوكة آيت باها ينظم مهرجانا خطابيا بآيت عميرة",
+    "status": "accepted",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://agadirinfo.ma/134312.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "أخنوش يمثل جلالة الملك في مراسم جنازة ملك النرويج هارالد الخامس - أكادير انفو - Agadir info",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://al3omk.com/1186452.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الأحرار يعيّن سلمى بنعزيز ناطقة رسمية باسم الحزب خلال الحملة الانتخابية",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://al3omk.com/1186408.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "طاطا.. الأمطار تقطع الكهرباء عن مركز جماعة الكوم والنواحي وتعمق معاناة الساكنة",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://ar.le360.ma/politique/5I7CL53QORCAVJ3JE3KB6FMRA4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "مونديال 2030 في صلب مباحثات بين فوزي لقجع وسفير البرتغال بالرباط",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://ar.le360.ma/politique/A5TA2BHZLRA65MWNJIDSBFRJ2A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "السكوري يكشف من فاس أولويات «البام» لـ«تغيير المسار»: تكوين الشباب ودعم الطبقة المتوسطة",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://ar.le360.ma/politique/UBVS4UFABFEHFNIQFCHQUD66KU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "المجلس الوطني للصحافة: محمد شاكر العلوي يدخل سباق الانتخابات بالرقم 15",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://fr.le360.ma/politique/denoncant-ses-graves-derapages-lanme-annonce-le-boycott-de-mohamed-ouzzine-et-de-son-parti-le_DG3DCY2L7JHXVJKNR2RNRK4BJA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Dénonçant ses graves dérapages, l’ANME annonce le boycott de Mohamed Ouzzine et de son parti, le Mouvement populaire",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%86%d8%b9%d8%b2%d9%8a%d8%b2-%d9%86%d8%a7%d8%b7%d9%82%d8%a9-%d8%b1%d8%b3%d9%85%d9%8a%d8%a9-%d8%a8%d8%a7%d8%b3%d9%85-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-1804667.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بنعزيز.. ناطقة رسمية باسم \"الأحرار\"",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%85%d9%86%d8%b3%d9%88%d8%a8-%d8%aa%d8%b1%d9%82%d8%a8-%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%ad%d8%a7%d8%aa-%d9%8a%d8%b1%d8%aa%d9%81%d8%b9-%d9%81-1804467.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026.. منسوب ترقب المرشحات يرتفع في دائرة جهة الشرق",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://www.hespress.com/%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d9%81%d8%aa%d8%b1%d8%a9-%d8%a5%d9%8a%d8%af%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad%d8%a7%d8%aa-%d9%84%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7-1804552.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "نهاية فترة إيداع الترشيحات للانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://www.hespress.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%8a%d9%85%d8%ab%d9%84-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%81%d9%8a-%d8%ac%d9%86%d8%a7%d8%b2%d8%a9-%d9%87%d8%a7%d8%b1%d8%a7%d9%84%d8%af-1804534.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أخنوش يمثل الملك في جنازة هارالد",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d8%af-%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d8%b2%d9%84%d9%8a-%d9%84%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%ad%d9%85%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7-1804008.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "العد التنازلي لانطلاق الحملة الانتخابية.. الأحزاب المغربية ترفع درجة التعبئة",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%b3%d8%aa%d8%a9-%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d8%aa%d8%b4%d8%b9%d9%84-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%a7%d9%84%d9%86-1804489.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026.. ستة مقاعد تشعل المنافسة النسائية بدرعة تافيلالت",
+    "status": "accepted",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%85%d9%82%d8%b9%d8%af%d8%a7%d9%86-%d9%8a%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa-%d9%82%d8%af%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7-1804190.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026.. مقعدان يختبران قدرة الأحزاب على إقناع ناخبي طرفاية",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://thepress.ma/40-%d8%af%d9%88%d9%84%d8%a9-%d8%a8%d8%ac%d9%86%d9%8a%d9%81-%d8%aa%d8%ac%d8%af%d8%af-%d8%af%d8%b9%d9%85%d9%87%d8%a7-%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%b9": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "40 دولة بجنيف تجدد دعمها لسيادة المغرب على الصحراء وتدعو لحل سياسي على أساس الحكم الذاتي",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
+  },
+  "https://www.assahifa.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%8a%d9%85%d8%ab%d9%84-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%85%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3-%d9%81%d9%8a-%d8%ac%d9%86%d8%a7%d8%b2%d8%a9-%d8%b9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "أخنوش يمثل الملك محمد السادس في جنازة عاهل النرويج",
+    "status": "excluded",
+    "checked_at": "2026-09-09T16:41:46.025012+00:00"
   }
 }
