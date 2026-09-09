@@ -8629,5 +8629,54 @@
     "title": "كرامة وفرص للجميع.. الأحرار يطرح رفع الأجور و”الكهرباء المجانية” ضمن برنامجه الانتخابي",
     "status": "excluded",
     "checked_at": "2026-09-09T04:47:37.431406+00:00"
+  },
+  "https://agadirinfo.ma/134305.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "الانتخابات التشريعية 2026.. انطلاق الحملة الانتخابية غدا الخميس - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-09T11:28:47.162104+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d9%8a%d8%b7%d8%a7%d8%b1-%d9%8a%d9%83%d8%b4%d9%81-%d8%ae%d9%84%d9%81%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%80350-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d8%b1%d9%87%d9%85-%d9%88%d8%af-1804406.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "البيطار يكشف خلفيات الـ350 مليار درهم ودور لقجع في برنامج \"البام\"",
+    "status": "excluded",
+    "checked_at": "2026-09-09T11:28:47.162104+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%85%d9%88%d9%84%d8%a7%d9%8a-%d9%8a%d8%b9%d9%82%d9%88%d8%a8-%d9%8a%d9%86%d8%aa%d8%b8%d8%b1-%d8%ad%d8%b3%d9%85-%d8%b9%d8%b6%d9%88%d9%8a%d8%a9-1802514.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. مولاي يعقوب ينتظر حسم عضوية مجلس النواب",
+    "status": "excluded",
+    "checked_at": "2026-09-09T11:28:47.162104+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%85%d9%82%d8%b9%d8%af%d8%a7%d9%86-%d9%8a%d8%ad%d9%81%d8%b2%d8%a7%d9%86-%d8%a7%d9%84%d8%aa%d8%af%d8%a7%d9%81%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84-1803115.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. مقعدان يحفزان التدافعات الحزبية في دائرة طاطا",
+    "status": "accepted",
+    "checked_at": "2026-09-09T11:28:47.162104+00:00"
+  },
+  "https://ar.le360.ma/politique/IXLBQ6HSUJETTGWUUAUXMKTGEE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلمانية تطالب التهراوي بتعيين طبيب بالمركز الصحي لجماعة إدا كيلال بإقليم تارودانت",
+    "status": "excluded",
+    "checked_at": "2026-09-09T11:28:47.162104+00:00"
+  },
+  "https://ar.le360.ma/politique/H37WGJ4JZJBQVM6EHFPTOL23SI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انتخابات 2026 (6): من «الجرار» إلى «الحصان».. كنزة الشرايبي تكشف كواليس انتقالها المثير عشية التشريعيات",
+    "status": "excluded",
+    "checked_at": "2026-09-09T11:28:47.162104+00:00"
+  },
+  "https://ar.le360.ma/politique/JZR65BJXBZB77B7AMONNMEXI4U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "أسلحة كيميائية فوق طاولة مجلس الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-09-09T11:28:47.162104+00:00"
   }
 }

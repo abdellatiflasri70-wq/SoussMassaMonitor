@@ -1,5 +1,367 @@
 [
   {
+    "id": "d698a60732db1976",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "الانتخابات التشريعية 2026.. انطلاق الحملة الانتخابية غدا الخميس - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134305.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-08",
+    "first_seen_at": "2026-09-09T11:28:47.162104+00:00",
+    "last_checked_at": "2026-09-09T11:28:47.162104+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربالانتخابات التشريعية 2026.. انطلاق الحملة الانتخابية غدا الخميس – و م ع تنطلق، غدا الخميس، الحملة الانتخابية برسم انتخاب أعضاء مجلس النواب المقرر في",
+    "word_count": 559,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت",
+            "انتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "جماعة ترابية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الحملة الانتخابية, الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_d698a60732db",
+    "stance_analyzed_at": "2026-09-09T11:28:47.162104+00:00"
+  },
+  {
+    "id": "b083b0146483d49e",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. مقعدان يحفزان التدافعات الحزبية في دائرة طاطا",
+    "url": "https://www.hespress.com/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-2026-%D9%85%D9%82%D8%B9%D8%AF%D8%A7%D9%86-%D9%8A%D8%AD%D9%81%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D9%81%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84-1803115.html",
+    "author": "هسبريس",
+    "published_at": "2026-09-08",
+    "first_seen_at": "2026-09-09T11:28:47.162104+00:00",
+    "last_checked_at": "2026-09-09T11:28:47.162104+00:00",
+    "language": "ar",
+    "excerpt": "تخوض أحزاب مغربية عديدة غمار الانتخابات التشريعية المقبلة في دائرة طاطا، مراهنة على “البروفايلات” نفسها التي دفعت بها خلال محطتي 2016 و2021؛ فيما تعوّل أحزابٌ",
+    "word_count": 552,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "طاطا"
+      ],
+      "primary_places": [
+        "طاطا"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "MP",
+          "name": "الحركة الشعبية"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        },
+        {
+          "id": "PSU",
+          "name": "الحزب الاشتراكي الموحد"
+        },
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        },
+        {
+          "id": "FGD",
+          "name": "فيدرالية اليسار الديمقراطي"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "FFD",
+          "name": "جبهة القوى الديمقراطية"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "انتخابية",
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح",
+            "وكيل اللائحة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نتائج الانتخابات"
+          ]
+        },
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "استقالته"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "تحالف"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, الحركة الشعبية, حزب الأصالة والمعاصرة, حزب الاستقلال",
+        "مواضيع سياسية: الانتخابات والاقتراع, الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "MP",
+        "target_type": "party",
+        "target_name": "الحركة الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 1,
+        "evidence": [
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PSU",
+        "target_type": "party",
+        "target_name": "الحزب الاشتراكي الموحد",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 1,
+        "mention_count": 4,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 1,
+        "evidence": [
+          "تراجع",
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "FGD",
+        "target_type": "party",
+        "target_name": "فيدرالية اليسار الديمقراطي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "FFD",
+        "target_type": "party",
+        "target_name": "جبهة القوى الديمقراطية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_b083b0146483",
+    "stance_analyzed_at": "2026-09-09T11:28:47.162104+00:00"
+  },
+  {
     "id": "e1e2e94120b3be12",
     "source_id": "hespress",
     "source_name": "هسبريس",
