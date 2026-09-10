@@ -9021,5 +9021,89 @@
     "title": "ائتلاف مدني يدعو الأحزاب إلى عدم استغلال ملف ضحايا زلزال الأطلس انتخابيا",
     "status": "excluded",
     "checked_at": "2026-09-10T11:25:09.501942+00:00"
+  },
+  "https://agadirinfo.ma/134323.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "الانتخابات التشريعية.. هذه هي اللوائح الحزبية التي تتنافس على المقاعد البرلمانية الأربعة بدائرة أكادير إداوتنان - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-10T16:27:36.729475+00:00"
+  },
+  "https://alyaoum24.com/2043138.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "27 حزبا و395 مقعدا و45 مليارا.. أرقام دالة عن تشريعيات 23 شتنبر – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-10T16:27:36.729475+00:00"
+  },
+  "https://fr.le360.ma/politique/elections-legislatives-du-23-septembre-demandez-le-programme_3VFYX3GVQFGNXBKUJB2RYVDNGU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Élections législatives du 23 septembre: demandez le programme!",
+    "status": "excluded",
+    "checked_at": "2026-09-10T16:27:36.729475+00:00"
+  },
+  "https://fr.le360.ma/politique/affaire-sebta-quand-les-documents-censes-faire-la-lumiere-amplifient-le-cafouillage_JUDLQAIKPJCSDMM2P2RGZ5AWD4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Affaire Sebta: quand les documents censés faire la lumière amplifient le cafouillage",
+    "status": "excluded",
+    "checked_at": "2026-09-10T16:27:36.729475+00:00"
+  },
+  "https://www.hespress.com/%d9%83%d9%88%d9%83%d9%88%d8%b3-%d8%a7%d9%84%d8%a5%d9%82%d8%a8%d8%a7%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d8%a8%d9%84%d8%a7-%d8%b1%d9%8a%d8%a7%d9%84-1805217.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "كوكوس: الإقبال على \"البام بلا ريال\"",
+    "status": "excluded",
+    "checked_at": "2026-09-10T16:27:36.729475+00:00"
+  },
+  "https://www.hespress.com/%d9%81%d9%88%d8%b2%d9%8a-%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%b1%d8%af-%d8%b9%d9%84%d9%89-%d8%a7%d8%aa%d9%87%d8%a7%d9%85%d8%a7%d8%aa-%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d9%82%d8%b4%d9%8a-1805196.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "فوزي لقجع يرد على اتهامات \"دعم الفراقشية\": \"لعنة الله على الكاذبين\"",
+    "status": "excluded",
+    "checked_at": "2026-09-10T16:27:36.729475+00:00"
+  },
+  "https://www.hespress.com/%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a3%d8%b5%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b5%d8%b1%d8%a9-%d8%aa%d9%82%d8%a7%d8%b7%d8%b9-%d8%a2%d8%ae-1805159.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "قيادات حزب \"الأصالة والمعاصرة\" تغيب عن آخر اجتماع لمجلس الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-09-10T16:27:36.729475+00:00"
+  },
+  "https://www.hespress.com/%d9%87%d8%b0%d9%87-%d8%b6%d9%88%d8%a7%d8%a8%d8%b7-%d8%a7%d9%84%d8%ad%d9%85%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1805114.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "هذه ضوابط الحملة الانتخابية بالمغرب",
+    "status": "excluded",
+    "checked_at": "2026-09-10T16:27:36.729475+00:00"
+  },
+  "https://thepress.ma/224-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d8%b1%d9%87%d9%85-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%b7%d8%b1%d8%ad-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac%d9%87-%d8%a7%d9%84%d8%a7%d9%86": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "224 مليار درهم.. الأحرار يطرح برنامجه الانتخابي لتغطية أولويات الحماية الاجتماعية والتشغيل",
+    "status": "excluded",
+    "checked_at": "2026-09-10T16:27:36.729475+00:00"
+  },
+  "https://www.assahifa.com/%d8%ac%d9%85%d8%b9%d9%8a%d8%a9-%d9%87%d9%8a%d8%a6%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a%d9%86-%d8%a8%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%aa%d8%b9%d9%84%d9%86-%d8%a7%d8%b3%d8%aa": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "جمعية هيئات المحامين بالمغرب تعلن استمرار الإضراب وتحمّل الحكومة مسؤولية الأزمة المرتبطة بمشروع قانون مهنة المحاماة",
+    "status": "excluded",
+    "checked_at": "2026-09-10T16:27:36.729475+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d8%b9%d8%af-%d9%88%d8%b9%d9%88%d8%af%d9%8d-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-%d8%a8%d8%b1%d9%81%d8%b9-%d8%a7%d9%84%d8%b3%d9%85%d9%8a%d9%83-%d8%a5%d9%84%d9%89-5000-%d8%af": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بعد وعودٍ انتخابية برفع السميك إلى 5000 درهم.. خبير: الأمر ممكن إذا كان تدريجيا أما الانتقال السريع قد تكون له نتائج عكسية",
+    "status": "excluded",
+    "checked_at": "2026-09-10T16:27:36.729475+00:00"
+  },
+  "https://www.assahifa.com/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%ad%d8%af%d8%af-%d9%85%d9%88%d8%b9%d8%af%d8%a7-%d8%ac%d8%af%d9%8a%d8%af%d8%a7-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "ترامب يحدد موعدا جديدا لإنهاء الحرب على إيران ويربط الأمر بالانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-09-10T16:27:36.729475+00:00"
   }
 }
