@@ -294,6 +294,462 @@
     "stance_analyzed_at": "2026-09-10T16:27:36.729475+00:00"
   },
   {
+    "id": "9aef7837f12f067b",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخاب أعضاء مجلس النواب.. عدد لوائح الترشيح المقدمة على الصعيد الوطني بلغ 1850 لائحة - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134341.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-09",
+    "first_seen_at": "2026-09-10T20:54:57.142581+00:00",
+    "last_checked_at": "2026-09-10T20:54:57.142581+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربانتخاب أعضاء مجلس النواب.. عدد لوائح الترشيح المقدمة على الصعيد الوطني بلغ 1850 لائحة أفاد بلاغ لوزير الداخلية بأن عدد لوائح الترشيح المقدمة على",
+    "word_count": 1026,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        },
+        {
+          "id": "UC",
+          "name": "الاتحاد الدستوري"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "MP",
+          "name": "الحركة الشعبية"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        },
+        {
+          "id": "PND",
+          "name": "حزب الديمقراطيين الجدد"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "MDS",
+          "name": "الحركة الديمقراطية الاجتماعية"
+        },
+        {
+          "id": "FFD",
+          "name": "جبهة القوى الديمقراطية"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "الترشح",
+            "تزكية",
+            "مترشح",
+            "مترشحة"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "تحالف"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: الاتحاد الاشتراكي للقوات الشعبية, الاتحاد الدستوري, التجمع الوطني للأحرار, الحركة الشعبية",
+        "مواضيع سياسية: الترشح والتزكية, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "UC",
+        "target_type": "party",
+        "target_name": "الاتحاد الدستوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "MP",
+        "target_type": "party",
+        "target_name": "الحركة الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PND",
+        "target_type": "party",
+        "target_name": "حزب الديمقراطيين الجدد",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "MDS",
+        "target_type": "party",
+        "target_name": "الحركة الديمقراطية الاجتماعية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "FFD",
+        "target_type": "party",
+        "target_name": "جبهة القوى الديمقراطية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_9aef7837f12f",
+    "stance_analyzed_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  {
+    "id": "78543fd8fe2e3fff",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Lekjaa: le stade de Tiznit sera réalisé quel que soit le résultat du PAM",
+    "url": "https://fr.le360.ma/politique/lekjaa-le-stade-de-tiznit-sera-realise-quel-que-soit-le-resultat-du-pam_O7PY4ZYVJJEJHMVZUOECGGPJRE",
+    "author": "La Rédaction",
+    "published_at": "2026-09-09",
+    "first_seen_at": "2026-09-10T20:54:57.142581+00:00",
+    "last_checked_at": "2026-09-10T20:54:57.142581+00:00",
+    "language": "fr",
+    "excerpt": "Dans une déclaration au quotidien Assabah, que ce dernier rapporte dans son édition du vendredi 11 septembre, Fouzi Lekjaa a affirmé qu’il est «de la",
+    "word_count": 456,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تزنيت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "élections",
+            "électoral",
+            "électorales"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "déclaration",
+            "estime"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "majorité",
+            "division"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "gouvernement"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, التجمع الوطني للأحرار",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 9,
+        "editorial_segment_count": 5,
+        "reported_segment_count": 4,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_78543fd8fe2e",
+    "stance_analyzed_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  {
     "id": "d698a60732db1976",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",

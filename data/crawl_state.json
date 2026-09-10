@@ -9105,5 +9105,131 @@
     "title": "ترامب يحدد موعدا جديدا لإنهاء الحرب على إيران ويربط الأمر بالانتخابات",
     "status": "excluded",
     "checked_at": "2026-09-10T16:27:36.729475+00:00"
+  },
+  "https://agadirinfo.ma/134341.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخاب أعضاء مجلس النواب.. عدد لوائح الترشيح المقدمة على الصعيد الوطني بلغ 1850 لائحة - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://www.hespress.com/%d8%b4%d9%88%d9%83%d9%8a-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%af%d8%ae%d9%84%d9%88%d9%86-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a8%d9%85%d8%b4%d8%b1-1805403.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "شوكي: \"الأحرار\" يدخلون الانتخابات بمشروع واضح وحلول قابلة للتنفيذ",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://www.hespress.com/%d9%84%d8%b4%d9%83%d8%b1-%d8%ae%d8%b7%d8%a7%d8%a8-%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%ac%d8%a7%d9%85-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a-%d9%8a%d9%86%d9%87%d8%a7%d8%b1-%d9%85%d8%b9-%d8%a7-1805353.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "لشكر: خطاب \"الانسجام الحكومي\" ينهار مع اقتراب الموعد الانتخابي",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://www.hespress.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d9%88%d8%b9%d9%88%d8%af-%d9%84%d9%82%d8%ac%d8%b9-%d8%a7%d9%84%d9%85%d9%84%d8%b9%d8%a8-%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1-%d9%84-1805319.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أخنوش يهاجم \"وعود لقجع\": الملعب الكبير لبنسليمان \"قرار ملكي\"",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/681611-legislatives-2026-le-rni-lance-officiellement-sa-campagne-a-mediouna.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Législatives 2026 : le RNI lance officiellement sa campagne à Médiouna",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/681605-fouzi-lekjaa-a-casablanca-a-quoi-serviraient-les-elections-si-le-maroc-navance-pas.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Fouzi Lekjaa à Casablanca : « À quoi serviraient les élections si le Maroc n’avance pas ? »",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://www.assahifa.com/%d9%81%d9%8a-%d8%a8%d9%84%d8%a7%d8%ba-%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%b1%d8%a8": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "في بلاغ لوزارة الخارجية المغربية: الرباط ترفض توظيف المملكة في التجاذبات السياسية الداخلية الإسبانية وتدعو إلى حماية رصيد الثقة مع مدريد",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://ar.le360.ma/politique/DZTAJ4SZO5FJLMH2EK6W67XBKI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بحضور لقجع.. حزب الأصالة والمعاصرة يُطلق الحملة الانتخابية الرسمية من الدار البيضاء",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://ar.le360.ma/politique/7O2B6L6GMVBYTNSCJ55OIZX7KE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "تشريعيات 2026: 18 متنافسا على كل مقعد.. 7288 مترشحا يشعلون صراع الظفر بمقاعد مجلس النواب",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://ar.le360.ma/politique/IIVG7Z5DZNFR7G5XIMFAL4XOWY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع: لم أتقدم للانتخابات ولا تهمني ورهان البام تصحيح المسار الحكومي",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://fr.le360.ma/politique/lekjaa-le-stade-de-tiznit-sera-realise-quel-que-soit-le-resultat-du-pam_O7PY4ZYVJJEJHMVZUOECGGPJRE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Lekjaa: le stade de Tiznit sera réalisé quel que soit le résultat du PAM",
+    "status": "accepted",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://fr.le360.ma/politique/fouzi-lekjaa-a-casablanca-le-pari-du-pam-est-de-corriger-le-cap-gouvernemental_HTQE2DNUONFMDADXB3PQKDTUB4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fouzi Lekjaa à Casablanca: «Le pari du PAM est de corriger le cap gouvernemental»",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://fr.le360.ma/politique/elections-du-23-septembre-plus-de-3000-observateurs-mobilises-pour-superviser-le-scrutin_X5WNAYUG7NFNLJKKAPDVHFOBMM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Élections du 23 septembre: plus de 3.000 observateurs mobilisés pour superviser le scrutin",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://fr.le360.ma/politique/campagne-electorale-de-la-prison-et-des-amendes-pour-les-contrevenants_5BWTNHF6KBEWHA5OZ27KH5CB6Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Campagne électorale: de la prison et des amendes pour les contrevenants",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-quand-lespagne-transforme-son-passe-colonial-en-passeport_GLBCJ6NUNVBZZI3CYKZU6DB3WQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: quand l’Espagne transforme son passé colonial en passeport",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-7288-candidats-pour-395-sieges-a-pourvoir_KDKCQE4ECRAZBDLMO5WTPDZPHM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: 7288 candidats pour 395 sièges à pourvoir",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://fr.le360.ma/politique/relations-avec-lespagne-le-maroc-refuse-detre-le-bouc-emissaire-des-reglements-de-compte-politiciens_U7HMH2JBVFA3TPKVXBZ6VFMF2A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Relations avec l’Espagne: le Maroc refuse d’être le «bouc émissaire» des règlements de compte politiciens",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://fr.le360.ma/politique/oscar-puente-defend-la-cooperation-avec-le-maroc-face-aux-lectures-biaisees_QYFLSTSHKFF27IXH2YCDR3CH6U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Oscar Puente défend la coopération avec le Maroc face aux lectures «biaisées»",
+    "status": "excluded",
+    "checked_at": "2026-09-10T20:54:57.142581+00:00"
   }
 }
