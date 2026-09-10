@@ -8867,5 +8867,82 @@
     "title": "Pedro Sánchez constant face aux accusations de «chantage marocain» agitées par la droite",
     "status": "excluded",
     "checked_at": "2026-09-09T20:58:25.875360+00:00"
+  },
+  "https://www.chtoukapress.com/306677.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "اشتوكة أيت باها اجتماع عامل الإقليم مع ممثلي الهيئات السياسية والمرشحين للانتخابات التشريعية",
+    "status": "accepted",
+    "checked_at": "2026-09-10T04:48:34.769909+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d9%86-%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d9%88%d9%86-%d8%a5%d9%84%d9%89-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1-%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d9%81%d8%aa%d8%ad-1804877.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "من الصالون إلى تغيير المسار .. لقجع يفتح النار على خصوم \"البام\"",
+    "status": "excluded",
+    "checked_at": "2026-09-10T04:48:34.769909+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d9%85%d9%84%d9%83-%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d9%85%d8%b4%d8%b1-1804828.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "المنصوري: \"البام\" يملك حصيلة حكومية مشرفة .. ويبتغي المرتبة الأولى",
+    "status": "excluded",
+    "checked_at": "2026-09-10T04:48:34.769909+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/681533-marrakech-fouzi-lekjaa-repond-a-ceux-qui-critiquent-le-programme-du-pam-video.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Marrakech: Fouzi Lekjaa répond à ceux qui critiquent le programme du PAM (VIDEO)",
+    "status": "excluded",
+    "checked_at": "2026-09-10T04:48:34.769909+00:00"
+  },
+  "https://ar.le360.ma/politique/HC77ON57LNHVTPS2XZI7LULGU4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "استقالات جماعية تهز حزب «الأحرار» بآسفي",
+    "status": "excluded",
+    "checked_at": "2026-09-10T04:48:34.769909+00:00"
+  },
+  "https://ar.le360.ma/politique/LT327WHBGBAI7IENZSNZMEUQ6A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع: المسار الحالي للحكومة أثقل كاهل الأسر المغربية",
+    "status": "excluded",
+    "checked_at": "2026-09-10T04:48:34.769909+00:00"
+  },
+  "https://fr.le360.ma/politique/a-marrakech-lekjaa-promet-au-pam-de-battre-tous-les-records-le-23-septembre_KCZNH5WTFVE47IXK27HPO55BKM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "À Marrakech, Lekjaa promet au PAM de «battre tous les records» le 23 septembre",
+    "status": "excluded",
+    "checked_at": "2026-09-10T04:48:34.769909+00:00"
+  },
+  "https://al3omk.com/1186574.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "عشية انطلاق الحملة الانتخابية.. عامل المضيق يجمع الأحزاب والأمن والقضاء لضمان نزاهة الانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-09-10T04:48:34.769909+00:00"
+  },
+  "https://al3omk.com/1186285.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تحالف اليسار يتعهد برفع ميزانية الثقافة ومحاربة الريع ومواجهة الانغلاق بـ”الثقافة التنويرية”",
+    "status": "excluded",
+    "checked_at": "2026-09-10T04:48:34.769909+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%88%d9%8a%d8%a9-%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d8%b6%d9%85%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85%d8%a9-%d9%88%d9%8a%d8%b1%d9%81": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع: الأولوية لمغرب يضمن الكرامة ويرفع النمو ويقدم حلولا عملية للبطالة وللحلول التي يلمس المواطن أثرها",
+    "status": "excluded",
+    "checked_at": "2026-09-10T04:48:34.769909+00:00"
+  },
+  "https://www.assahifa.com/%d9%82%d8%b5%d8%b1%d9%8a%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%b6%d9%87%d9%88%d8%b5%d8%a9-%d8%ad%d9%8a%d9%86-%d8%aa%d8%ae%d8%aa%d9%84%d8%b7-%d8%a7%d9%84%d9%88%d9%84%d9%8a%d9%85%d8%a9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "قصرية من المضهوصة.. حين تختلط الوليمة بالانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-09-10T04:48:34.769909+00:00"
   }
 }

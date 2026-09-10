@@ -1006,6 +1006,87 @@
     "stance_analyzed_at": "2026-09-09T20:58:25.875360+00:00"
   },
   {
+    "id": "1a463cf0fb2b08db",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "اشتوكة أيت باها اجتماع عامل الإقليم مع ممثلي الهيئات السياسية والمرشحين للانتخابات التشريعية",
+    "url": "https://www.chtoukapress.com/306677.html",
+    "author": "Chtouka",
+    "published_at": "2026-09-08",
+    "first_seen_at": "2026-09-10T04:48:34.769909+00:00",
+    "last_checked_at": "2026-09-10T04:48:34.769909+00:00",
+    "language": "ar",
+    "excerpt": "اعقد عامل أقليم اشتوكة ايت باها السيد محمد سالم الصبتي بحضور وكيل الملك لدى المحكمة الابتدائية لبيوكرى اليوم لقاء موسعا مع المرشحين وممثلي الاحزاب السياسية",
+    "word_count": 542,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت باها"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "بيوكرى"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "انتخابية",
+            "الاستحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_1a463cf0fb2b",
+    "stance_analyzed_at": "2026-09-10T04:48:34.769909+00:00"
+  },
+  {
     "id": "e1e2e94120b3be12",
     "source_id": "hespress",
     "source_name": "هسبريس",
