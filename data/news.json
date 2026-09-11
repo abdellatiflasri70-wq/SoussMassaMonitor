@@ -1,5 +1,230 @@
 [
   {
+    "id": "7ba974a17d1e986b",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "بقيادة لقجع .. قيادات بارزة من \"البام\" تحل بأكادير لإطلاق رسائل سياسية حاسمة والتعريف ببرنامجه ومرشحيه | agadir24.info",
+    "url": "https://agadir24.info/%D8%A8%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D9%84%D9%82%D8%AC%D8%B9-%D9%82%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%A7%D9%85-%D8%AA%D8%AD%D9%84.html",
+    "author": "أكادير",
+    "published_at": "2026-09-10",
+    "first_seen_at": "2026-09-11T11:26:59.868114+00:00",
+    "last_checked_at": "2026-09-11T11:26:59.868114+00:00",
+    "language": "ar",
+    "excerpt": "تتجه أنظار المتتبعين للشأن السياسي والمحلي يوم غذ السبت 12 شتنبر 2026 نحو مدينة أكادير، حيث ستنظم الأمانة العامة لحزب الأصالة والمعاصرة بجهة سوس ماسة",
+    "word_count": 145,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        },
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع, عبد اللطيف وهبي, فاطمة الزهراء المنصوري"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_7ba974a17d1e",
+    "stance_analyzed_at": "2026-09-11T11:26:59.868114+00:00"
+  },
+  {
+    "id": "dde68ff3bfe0e980",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "قرار التصويت بناء على القبلية .. الولاءات تغيب مفعول البرامج الانتخابية",
+    "url": "https://www.hespress.com/%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D8%A8%D9%86%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%A8%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%A1%D8%A7-1798542.html",
+    "author": "هسبريس",
+    "published_at": "2026-09-10",
+    "first_seen_at": "2026-09-11T11:26:59.868114+00:00",
+    "last_checked_at": "2026-09-11T11:26:59.868114+00:00",
+    "language": "ar",
+    "excerpt": "مع تبقي أيام قليلة على توجه المواطنين المغاربة صوب صناديق الاقتراع لاختيار نواب الأمة يبرز الاستحقاق التشريعي المرتقب باعتباره محطة ديمقراطية بارزة، في ظل تجدد",
+    "word_count": 1041,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت",
+            "صناديق الاقتراع",
+            "انتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح",
+            "تزكية"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نتائج الانتخابات",
+            "المقاعد"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "اعتبر"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_dde68ff3bfe0",
+    "stance_analyzed_at": "2026-09-11T11:26:59.868114+00:00"
+  },
+  {
     "id": "af3e94007497a1e3",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
