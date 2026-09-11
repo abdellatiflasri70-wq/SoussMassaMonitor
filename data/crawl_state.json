@@ -9231,5 +9231,96 @@
     "title": "Oscar Puente défend la coopération avec le Maroc face aux lectures «biaisées»",
     "status": "excluded",
     "checked_at": "2026-09-10T20:54:57.142581+00:00"
+  },
+  "https://www.chtoukapress.com/306713.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بلاغ مغربي قوي.. لماذا تستمر الاتهامات الاسبانية في غياب أي دليل؟",
+    "status": "excluded",
+    "checked_at": "2026-09-11T04:45:47.604231+00:00"
+  },
+  "https://taroudantalaan.ma/politique/%d8%aa%d8%a7%d8%b1%d9%88%d8%af%d8%a7%d9%86%d8%aa-%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82%d8%a9-%d9%82%d9%88%d9%8a%d8%a9-%d9%84%d8%ad%d9%85%d9%84%d8%a9-%d8%a7%d9%84%d8%a8%d8%a7%d9%85": {
+    "source_id": "taroudantalaan",
+    "source_name": "تارودانت الآن",
+    "title": "تارودانت.. انطلاقة قوية لحملة “البام” الانتخابية بقيادة حنان الماسي | تارودانت الآن الإخبارية",
+    "status": "accepted",
+    "checked_at": "2026-09-11T04:45:47.604231+00:00"
+  },
+  "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a-%d9%8a%d8%b1%d9%81%d8%b9-%d8%b3%d9%82%d9%81-%d8%a7%d9%84%d9%88%d8%b9%d9%88%d8%af-1805491.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "حزب الاتحاد الاشتراكي يرفع سقف الوعود الانتخابية بـ\"التنمية العادلة\"",
+    "status": "excluded",
+    "checked_at": "2026-09-11T04:45:47.604231+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%86%d8%b9%d9%84%d9%8a-%d9%88%d8%a7%d9%84%d8%b3%d9%83%d9%88%d8%b1%d9%8a-%d9%8a%d8%b3%d8%aa%d8%b9%d8%b1%d8%b6%d8%a7%d9%86-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-1805422.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بنعلي والسكوري يستعرضان برنامج \"البام\" الانتخابي من المنظور الشبابي",
+    "status": "excluded",
+    "checked_at": "2026-09-11T04:45:47.604231+00:00"
+  },
+  "https://ar.le360.ma/politique/POKNX2S6DBBM7JAIJ3A6TW7PWU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "في أول خرجة له بعد انطلاق الحملة.. لقجع عن جدل «الفراقشية»: لعنة الله على الكاذبين",
+    "status": "excluded",
+    "checked_at": "2026-09-11T04:45:47.604231+00:00"
+  },
+  "https://ar.le360.ma/politique/XIGPVEEJ7VF5JEDN3WWM53CYJQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "التطورات الأخيرة في العلاقات المغربية الإسبانية: المملكة ترفض أن تكون «كبش فداء» لتصفية الحسابات السياسية",
+    "status": "excluded",
+    "checked_at": "2026-09-11T04:45:47.604231+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/681620-mohamed-chaouki-le-rni-a-gagne-sa-credibilite-grace-a-son-bilan.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Mohamed Chaouki : «Le RNI a gagné sa crédibilité grâce à son bilan»",
+    "status": "excluded",
+    "checked_at": "2026-09-11T04:45:47.604231+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/681623-cgem-fouzi-lekjaa-presente-les-priorites-economiques-du-pam.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "CGEM: Fouzi Lekjaa présente les priorités économiques du PAM",
+    "status": "excluded",
+    "checked_at": "2026-09-11T04:45:47.604231+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/681616-legislatives-le-pps-couvre-lensemble-des-circonscriptions-electorales.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Législatives : le PPS couvre l’ensemble des circonscriptions électorales",
+    "status": "excluded",
+    "checked_at": "2026-09-11T04:45:47.604231+00:00"
+  },
+  "https://al3omk.com/1186879.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أكادير.. مشاريع جديدة تعيد رسم ملامح تيكوين (صور)",
+    "status": "excluded",
+    "checked_at": "2026-09-11T04:45:47.604231+00:00"
+  },
+  "https://al3omk.com/1186824.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "المنظمة المغربية لحقوق الإنسان تدعو إلى ضمان نزاهة الاستحقاقات التشريعية",
+    "status": "excluded",
+    "checked_at": "2026-09-11T04:45:47.604231+00:00"
+  },
+  "https://www.assahifa.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%8a%d9%86%d8%aa%d9%82%d8%af-%d8%aa%d9%82%d8%af%d9%8a%d9%85-%d8%a7%d9%84%d9%88%d8%b9%d9%88%d8%af-%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%a8%d8%b7%d8%a9-%d8%a8%d8%b5%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "أخنوش ينتقد تقديم الوعود المرتبطة بصلاحيات ليس ضمن اختصاص أصحابها.. ويستبعد وضع خطوط حمراء على أي تحالف بعد الانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-09-11T04:45:47.604231+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-23-%d8%b4%d8%aa%d9%86%d8%a8%d8%b1-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-7000-%d9%85%d8%b1%d8%b4%d8%ad%d8%a7-%d9%85%d9%88%d8%b2%d8%b9%d9%8a%d9%86": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "انتخابات 23 شتنبر: أكثر من 7000 مرشحا موزعين على 1848 لائحة تمثل 27 حزبا.. 4 منها فقط غطت جميع الدوائر",
+    "status": "excluded",
+    "checked_at": "2026-09-11T04:45:47.604231+00:00"
   }
 }

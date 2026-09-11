@@ -750,6 +750,97 @@
     "stance_analyzed_at": "2026-09-10T20:54:57.142581+00:00"
   },
   {
+    "id": "464cc9a4c71bfb70",
+    "source_id": "taroudantalaan",
+    "source_name": "تارودانت الآن",
+    "title": "تارودانت.. انطلاقة قوية لحملة “البام” الانتخابية بقيادة حنان الماسي | تارودانت الآن الإخبارية",
+    "url": "https://taroudantalaan.ma/politique/%D8%AA%D8%A7%D8%B1%D9%88%D8%AF%D8%A7%D9%86%D8%AA-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82%D8%A9-%D9%82%D9%88%D9%8A%D8%A9-%D9%84%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%A7%D9%85",
+    "author": "تارودانت الآن الإخبارية",
+    "published_at": "2026-09-09",
+    "first_seen_at": "2026-09-11T04:45:47.604231+00:00",
+    "last_checked_at": "2026-09-11T04:45:47.604231+00:00",
+    "language": "ar",
+    "excerpt": "انطلقت، مساء اليوم الخميس بمدينة تارودانت، الحملة الانتخابية لحزب الأصالة والمعاصرة برسم الانتخابات التشريعية المقرر إجراؤها يوم 23 شتنبر الجاري، وذلك بقيادة حنان الماسي، المرشحة",
+    "word_count": 187,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "مواضيع سياسية: الحملة الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_464cc9a4c71b",
+    "stance_analyzed_at": "2026-09-11T04:45:47.604231+00:00"
+  },
+  {
     "id": "d698a60732db1976",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
