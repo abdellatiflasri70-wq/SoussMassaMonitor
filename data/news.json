@@ -225,6 +225,133 @@
     "stance_analyzed_at": "2026-09-11T11:26:59.868114+00:00"
   },
   {
+    "id": "f1a3f5b03da87869",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "السعدي يوضح حقيقة منشورات انتخابية منسوبة إليه بدائرة تارودانت الشمالية",
+    "url": "https://al3omk.com/1187101.html",
+    "author": "هاجر غريوة- صحافية متدربة",
+    "published_at": "2026-09-10",
+    "first_seen_at": "2026-09-11T16:32:02.626151+00:00",
+    "last_checked_at": "2026-09-11T16:32:02.626151+00:00",
+    "language": "ar",
+    "excerpt": "أصدر لحسن السعدي، وكيل لائحة حزب التجمع الوطني للأحرار بالدائرة الانتخابية تارودانت الشمالية، بلاغا توضيحيا بشأن منشورات وصور ومحتويات رقمية يتم تداولها خلال الحملة الانتخابية،",
+    "word_count": 200,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_006",
+          "name": "لحسن السعدي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية",
+            "استحقاقات"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "وكيل اللائحة"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: لحسن السعدي",
+        "مواضيع سياسية: الانتخابات والاقتراع, الترشح والتزكية, الحملة الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_006",
+        "target_type": "person",
+        "target_name": "لحسن السعدي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f1a3f5b03da8",
+    "stance_analyzed_at": "2026-09-11T16:32:02.626151+00:00"
+  },
+  {
     "id": "af3e94007497a1e3",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
