@@ -1,5 +1,185 @@
 [
   {
+    "id": "004ce6bf62e8d088",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "جمال ديواني مرشح الاستقلال بأكادير : ساكنة أكادير كتحتاج تشوف الأثر اليومي للعمل السياسي والحزبي - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134355.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-12T15:34:44.668429+00:00",
+    "last_checked_at": "2026-09-12T15:34:44.668429+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةجمال ديواني مرشح الاستقلال بأكادير : ساكنة أكادير كتحتاج تشوف الأثر اليومي للعمل السياسي والحزبي افتتحت الحملة الانتخابية للدكتور جمال ديواني، والذي رشحته قيادات",
+    "word_count": 423,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_038",
+          "name": "جمال ديواني",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_005",
+          "name": "زينب قيوح",
+          "tier": "priority"
+        },
+        {
+          "id": "person_004",
+          "name": "عبد الصمد قيوح",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح",
+            "مرشحا"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "تشريعيات",
+            "استحقاقات"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال",
+        "شخصيات رئيسية: جمال ديواني",
+        "مواضيع سياسية: الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_038",
+        "target_type": "person",
+        "target_name": "جمال ديواني",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 0,
+        "evidence": [
+          "إنجازات"
+        ]
+      },
+      {
+        "target_id": "person_005",
+        "target_type": "person",
+        "target_name": "زينب قيوح",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_004",
+        "target_type": "person",
+        "target_name": "عبد الصمد قيوح",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_004ce6bf62e8",
+    "stance_analyzed_at": "2026-09-12T15:34:44.668429+00:00"
+  },
+  {
     "id": "7ba974a17d1e986b",
     "source_id": "agadir24",
     "source_name": "أكادير24",
