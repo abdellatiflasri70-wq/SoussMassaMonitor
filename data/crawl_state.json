@@ -9581,5 +9581,40 @@
     "title": "ترامب يعد الأميركيين بـ5 آلاف دولار مقابل فوز الجمهوريين في انتخابات الكونغرس",
     "status": "excluded",
     "checked_at": "2026-09-12T04:40:27.167515+00:00"
+  },
+  "https://ar.le360.ma/politique/Y2V6XXWJNJFJ7NMVQ36GTEFPXU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الصحراء المغربية: حين تحول إسبانيا ماضيها الاستعماري إلى جواز سفر",
+    "status": "excluded",
+    "checked_at": "2026-09-12T10:51:52.688660+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-la-socialiste-latifa-cherif-se-lance-a-la-conquete-danfa-circonscription-tres-disputee_X3ZDWDWSGZGFBO4KJV5MZYVLYI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: la socialiste Latifa Chérif se lance à la conquête d’Anfa, circonscription très disputée de Casablanca",
+    "status": "excluded",
+    "checked_at": "2026-09-12T10:51:52.688660+00:00"
+  },
+  "https://fr.le360.ma/politique/bourita-reaffirme-le-soutien-du-maroc-a-lunite-et-a-la-souverainete-du-yemen_73QP5276V5CGDF4V4QXZFYZTRE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Bourita réaffirme le soutien du Maroc à l’unité et à la souveraineté du Yémen",
+    "status": "excluded",
+    "checked_at": "2026-09-12T10:51:52.688660+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-%d8%ad%d8%b5%d9%8a%d9%84%d8%a9-%d8%a7%d9%84%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad%d8%a7%d8%aa-%d9%84%d9%84%d8%a7%d9%86%d8%aa%d8%ae": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "الداخلية تكشف حصيلة الترشيحات للانتخابات التشريعية.. 7.288 ترشيحا لـ395 مقعدا",
+    "status": "excluded",
+    "checked_at": "2026-09-12T10:51:52.688660+00:00"
+  },
+  "https://thepress.ma/%d9%84%d9%82%d8%ac%d8%b9-%d9%85%d9%86-%d8%a3%d8%b2%d8%b1%d9%88-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%b1%d9%8a%d8%af-%d9%85%d8%ba%d8%b1%d8%a8%d8%a7-%d8%a8%d8%b3%d8%b1%d8%b9%d8%a9-%d8%a7": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "لقجع من أزرو: \"البام \" يريد مغربا بسرعة الـTGV وليس بسرعة الوعود",
+    "status": "excluded",
+    "checked_at": "2026-09-12T10:51:52.688660+00:00"
   }
 }
