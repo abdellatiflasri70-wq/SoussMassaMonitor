@@ -180,6 +180,892 @@
     "stance_analyzed_at": "2026-09-12T15:34:44.668429+00:00"
   },
   {
+    "id": "74310ace9f14bd29",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "التجمع الوطني للأحرار بتارودانت يهاجم «محاولات التشويش» بأساكي ويرد على اتهامات عضو جماعي",
+    "url": "https://www.chtoukapress.com/306738.html",
+    "author": "Chtouka",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-12T20:35:55.058055+00:00",
+    "last_checked_at": "2026-09-12T20:35:55.058055+00:00",
+    "language": "ar",
+    "excerpt": "خرجت المنسقية الإقليمية لحزب التجمع الوطني للأحرار بتارودانت الشمالية عن صمتها، رداً على ما وصفته بـ«الادعاءات الكاذبة» التي صدرت عن أحد أعضاء المجلس الجماعي لجماعة",
+    "word_count": 577,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ",
+            "أكد",
+            "اعتبر"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية",
+            "صناديق الاقتراع"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 3,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_74310ace9f14",
+    "stance_analyzed_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  {
+    "id": "e49f835e1fa7c336",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "المنسقية الإقليمية لحزب التجمع الوطني للأحرار بتارودانت الشمالية : الجواب الحقيقي عن كل محاولات التشويش سيظل هو العمل الميداني وصناديق الاقتراع والإنصات للساكنة والترافع - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134374.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-12T20:35:55.058055+00:00",
+    "last_checked_at": "2026-09-12T20:35:55.058055+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةالمنسقية الإقليمية لحزب التجمع الوطني للأحرار بتارودانت الشمالية : الجواب الحقيقي عن كل محاولات التشويش سيظل هو العمل الميداني وصناديق الاقتراع والإنصات للساكنة والترافع",
+    "word_count": 524,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "صناديق الاقتراع",
+            "انتخابية"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "مواضيع سياسية: الانتخابات والاقتراع, المجالس المنتخبة والتدبير المحلي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 6,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_e49f835e1fa7",
+    "stance_analyzed_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  {
+    "id": "4443359ca845ce68",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "أكادير : سمير كودار يهاجم النقاشات الهامشية ويؤكد: وهبي الأمين العام الدائم لـ \"البام\"، والحلم بالمونديال حق لكل المغاربة | agadir24.info",
+    "url": "https://agadir24.info/%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%B3%D9%85%D9%8A%D8%B1-%D9%83%D9%88%D8%AF%D8%A7%D8%B1-%D9%8A%D9%87%D8%A7%D8%AC%D9%85-%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%A7.html",
+    "author": "أكادير",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-12T20:35:55.058055+00:00",
+    "last_checked_at": "2026-09-12T20:35:55.058055+00:00",
+    "language": "ar",
+    "excerpt": "جدد سمير كودار، رئيس قطب التنظيم وعضو المكتب السياسي لحزب الأصالة والمعاصرة، التأكيد على التوابث السياسية للحزب والتزامه بالعمل الميداني بعيداً عن الصدامات العبثية، وذلك",
+    "word_count": 126,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: عبد اللطيف وهبي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_4443359ca845",
+    "stance_analyzed_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  {
+    "id": "9319120a65969cc9",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "لقجع من أكادير: حزب الأصالة والمعاصرة يطرح برنامجا لـ2031 بـ70 مليارا سنويا لرفع أجور المتقاعدين ودعم القدرة الشرائية | agadir24.info",
+    "url": "https://agadir24.info/%D9%84%D9%82%D8%AC%D8%B9-%D9%85%D9%86-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D8%A3%D8%B5%D8%A7%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%D8%A9-%D9%8A.html",
+    "author": "أكادير",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-12T20:35:55.058055+00:00",
+    "last_checked_at": "2026-09-12T20:35:55.058055+00:00",
+    "language": "ar",
+    "excerpt": "أكد فوزي لقجع، خلال اللقاء التواصلي الذي نظمه حزب الأصالة والمعاصرة بجهة سوس ماسة بمسرح الهواء الطلق، على أهمية المبادرات والتضحيات التي يقدمها قياديو الحزب",
+    "word_count": 183,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        },
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع, عبد اللطيف وهبي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_9319120a6596",
+    "stance_analyzed_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  {
+    "id": "bd3447e3a771d2f2",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "عبد اللطيف وهبي في أكادير: بين فلسفة الحرية وروح كرة القدم نحو \"مغرب جديد | agadir24.info",
+    "url": "https://agadir24.info/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D8%B7%D9%8A%D9%81-%D9%88%D9%87%D8%A8%D9%8A-%D9%81%D9%8A-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%A8%D9%8A%D9%86-%D9%81%D9%84%D8%B3%D9%81%D8%A9-%D8%A7%D9%84%D8%AD.html",
+    "author": "أكادير",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-12T20:35:55.058055+00:00",
+    "last_checked_at": "2026-09-12T20:35:55.058055+00:00",
+    "language": "ar",
+    "excerpt": "في خطابٍ يمزج بين النقد السياسي والرؤية الإصلاحية، شخّص عبد اللطيف وهبي، الأمين العام السابق لحزب الأصالة والمعاصرة، واقع الممارسة السياسية والقانونية بالمغرب خلال اللقاء",
+    "word_count": 157,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: عبد اللطيف وهبي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_bd3447e3a771",
+    "stance_analyzed_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  {
+    "id": "11955329989e8692",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "الأصالة والمعاصرة بسوس ماسة: حميد وهبي يتعهد بإنهاء التهميش بالجهة والتنافس على رئاسة الحكومة | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D9%84%D8%A3%D8%B5%D8%A7%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%D8%A9-%D8%A8%D8%B3%D9%88%D8%B3-%D9%85%D8%A7%D8%B3%D8%A9-%D8%AD%D9%85%D9%8A%D8%AF-%D9%88%D9%87%D8%A8%D9%8A.html",
+    "author": "أكادير",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-12T20:35:55.058055+00:00",
+    "last_checked_at": "2026-09-12T20:35:55.058055+00:00",
+    "language": "ar",
+    "excerpt": "شهد مسرح الهواء الطلق بمدينة أكادير، يوم السبت 12 شتنبر 2026، تنظيم لقاء تواصلي حاشد لحزب الأصالة والمعاصرة بجهة سوس ماسة، تميز بحضور أعضاء القيادة",
+    "word_count": 186,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_014",
+          "name": "حميد وهبي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "internal_party_election",
+          "name": "انتخاب المسؤولين والهياكل الحزبية",
+          "hits": [
+            "الأمين الجهوي"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: حميد وهبي, فوزي لقجع",
+        "مواضيع سياسية: انتخاب المسؤولين والهياكل الحزبية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_014",
+        "target_type": "person",
+        "target_name": "حميد وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "إنجاز"
+        ]
+      }
+    ],
+    "event_id": "evt_11955329989e",
+    "stance_analyzed_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  {
+    "id": "696fb1a4c6b8b8de",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "توضيح حازم من التجمع الوطني للأحرار بتارودانت الشمالية يكشف كواليس \"التشويش الانتخابي\" بأساكي | agadir24.info",
+    "url": "https://agadir24.info/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%AD%D8%A7%D8%B2%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D8%B9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D8%A8%D8%AA.html",
+    "author": "أكادير",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-12T20:35:55.058055+00:00",
+    "last_checked_at": "2026-09-12T20:35:55.058055+00:00",
+    "language": "ar",
+    "excerpt": "خرجت المنسقية الإقليمية لحزب التجمع الوطني للأحرار بتارودانت الشمالية ببيان حازم لتنوير الرأي العام، وذلك على خلفية الادعاءات المغرضة التي أطلقها أحد أعضاء المجلس الجماعي",
+    "word_count": 237,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية",
+            "صناديق الاقتراع"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بيان"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_696fb1a4c6b8",
+    "stance_analyzed_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  {
+    "id": "a2f7133d68aa44b5",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انشقاقات تعصف بحزب التجمع الوطني للأحرار بأكادير",
+    "url": "https://ar.le360.ma/politique/RVXW2TBIPBD5NJRTQFI3FLE4G4",
+    "author": "امحند أوبركة",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-12T20:35:55.058055+00:00",
+    "last_checked_at": "2026-09-12T20:35:55.058055+00:00",
+    "language": "ar",
+    "excerpt": "وقال بوعيشي في تدوينة له على صفحته الرسمية على موقع فيسبوك: «ما بغاش يديني النعاس! ما درت والو! أو تمت معاقبتي من طرف المنسق ديال",
+    "word_count": 312,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أورير",
+        "الدراركة",
+        "تغازوت",
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        },
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "استقالة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_a2f7133d68aa",
+    "stance_analyzed_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  {
     "id": "7ba974a17d1e986b",
     "source_id": "agadir24",
     "source_name": "أكادير24",

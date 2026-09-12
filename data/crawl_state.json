@@ -9700,5 +9700,131 @@
     "title": "بين إغراء الناخب وامتحان المستقبل: ماذا تقول برامج انتخابات 2026؟",
     "status": "excluded",
     "checked_at": "2026-09-12T15:34:44.668429+00:00"
+  },
+  "https://www.chtoukapress.com/306738.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "التجمع الوطني للأحرار بتارودانت يهاجم «محاولات التشويش» بأساكي ويرد على اتهامات عضو جماعي",
+    "status": "accepted",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://agadirinfo.ma/134374.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "المنسقية الإقليمية لحزب التجمع الوطني للأحرار بتارودانت الشمالية : الجواب الحقيقي عن كل محاولات التشويش سيظل هو العمل الميداني وصناديق الاقتراع والإنصات للساكنة والترافع - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%aa%d8%ad%d9%82%d9%8a%d9%82%d8%a7%d8%aa-%d9%82%d8%b6%d8%a7%d8%a6%d9%8a%d8%a9-%d8%a8%d8%b4-1806355.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "تحالف اليسار يطالب بتحقيقات قضائية بشأن اتهامات \"الأحرار\" و\"الجرار\"",
+    "status": "excluded",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://alyaoum24.com/2043725.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "انتخاب نوال المتوكل نائبة لرئيس الاتحاد الرياضي للتضامن الإسلامي – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://agadir24.info/%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d8%b3%d9%85%d9%8a%d8%b1-%d9%83%d9%88%d8%af%d8%a7%d8%b1-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%b4%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d8%a7.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "أكادير : سمير كودار يهاجم النقاشات الهامشية ويؤكد: وهبي الأمين العام الدائم لـ \"البام\"، والحلم بالمونديال حق لكل المغاربة | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://agadir24.info/%d9%84%d9%82%d8%ac%d8%b9-%d9%85%d9%86-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a3%d8%b5%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b5%d8%b1%d8%a9-%d9%8a.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "لقجع من أكادير: حزب الأصالة والمعاصرة يطرح برنامجا لـ2031 بـ70 مليارا سنويا لرفع أجور المتقاعدين ودعم القدرة الشرائية | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://agadir24.info/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d8%b7%d9%8a%d9%81-%d9%88%d9%87%d8%a8%d9%8a-%d9%81%d9%8a-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d8%a8%d9%8a%d9%86-%d9%81%d9%84%d8%b3%d9%81%d8%a9-%d8%a7%d9%84%d8%ad.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "عبد اللطيف وهبي في أكادير: بين فلسفة الحرية وروح كرة القدم نحو \"مغرب جديد | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%84%d8%a3%d8%b5%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b5%d8%b1%d8%a9-%d8%a8%d8%b3%d9%88%d8%b3-%d9%85%d8%a7%d8%b3%d8%a9-%d8%ad%d9%85%d9%8a%d8%af-%d9%88%d9%87%d8%a8%d9%8a.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "الأصالة والمعاصرة بسوس ماسة: حميد وهبي يتعهد بإنهاء التهميش بالجهة والتنافس على رئاسة الحكومة | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://agadir24.info/%d8%aa%d9%88%d8%b6%d9%8a%d8%ad-%d8%ad%d8%a7%d8%b2%d9%85-%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%84%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d8%a8%d8%aa.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "توضيح حازم من التجمع الوطني للأحرار بتارودانت الشمالية يكشف كواليس \"التشويش الانتخابي\" بأساكي | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://al3omk.com/1187266.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "شعارات انتخابية تطمس جداريات فنية وتثير جدلا حول جمالية الفضاء العام (صور)",
+    "status": "excluded",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://www.assahifa.com/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%a5%d9%84%d9%87-%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d8%b4%d9%8a%d8%ae%d9%8c-%d9%85%d9%8f%d8%aa%d8%b3%d9%84%d8%ad-%d8%a8%d9%80%d9%84%d8%b3%d8%a7%d9%86": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "عبد الإله بنكيران.. شيخٌ مُتسلح بـلسانه ينبعثُ في السبعين لخَوض معاركه الانتخابية الأخيرة أملا في ريمونتادا لم يعهد التاريخ السياسي المغربي مثلها",
+    "status": "excluded",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://ar.le360.ma/politique/BJVOXEL6HBGVBMASKMHYVZA3MA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "عقب تفجير دفاعه لمعطيات مثيرة.. النيابة العامة بفاس تفتح بحثا في مزاعم ابتزاز الفايق وملايير الحملة الانتخابية",
+    "status": "excluded",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://ar.le360.ma/politique/JWMMWUWD7ZFU7L74F5YZA7NOLA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Grand Format-Le360: عادل البيطار القيادي بحزب الأصالة والمعاصرة يدين تصريحات أخنوش «غير المسؤولة» ضد لقجع",
+    "status": "excluded",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://ar.le360.ma/politique/XC2BKXKU7JCF5JWEJAD5YINDJA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "تشريعيات 2026: العدالة والتنمية يدفع بمرشحيه في 104 دوائر ويعد بـ«عهد جديد»",
+    "status": "excluded",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://ar.le360.ma/politique/RVXW2TBIPBD5NJRTQFI3FLE4G4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انشقاقات تعصف بحزب التجمع الوطني للأحرار بأكادير",
+    "status": "accepted",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://ar.le360.ma/politique/6CK74AFQ45GNLLJO2P57BN4O44": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "أزمة السقي والمشاكل التقنية التي تواجه فلاحي الإصلاح الزراعي تسائل البواري بالبرلمان",
+    "status": "excluded",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://fr.le360.ma/politique/grand-format-le360-adil-el-bitar-figure-montante-du-pam-fustige-les-propos-irresponsables_FLJHL634WNHCZCSXHKMQMZXVUE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Grand Format-Le360. Adil El Bitar, figure montante du PAM, fustige les propos «irresponsables» d’Akhannouch sur Lekjaa",
+    "status": "excluded",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-a-rabat-chellah-jamal-karimi-benchekroun-veut-porter-la-voix-des-citoyens-au-parlement_XPXYSSPJWJEO5DPR4ZHFQTEWT4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives à Rabat-Chellah: Jamal Karimi Benchekroun veut porter «la voix des citoyens» au Parlement",
+    "status": "excluded",
+    "checked_at": "2026-09-12T20:35:55.058055+00:00"
   }
 }
