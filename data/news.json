@@ -1066,6 +1066,847 @@
     "stance_analyzed_at": "2026-09-12T20:35:55.058055+00:00"
   },
   {
+    "id": "17b4d6a4d92df9c1",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "قيوح يدعو لمشاركة مكثفة في اقتراع 23 سبتمبر لرسم معالم المغرب التنموي والجيو-سياسي | agadir24.info",
+    "url": "https://agadir24.info/%D9%82%D9%8A%D9%88%D8%AD-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%85%D9%83%D8%AB%D9%81%D8%A9-%D9%81%D9%8A-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%B9-23-%D8%B3%D8%A8%D8%AA.html",
+    "author": "أكادير",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-13T04:53:12.195828+00:00",
+    "last_checked_at": "2026-09-13T04:53:12.195828+00:00",
+    "language": "ar",
+    "excerpt": "وجه عبد الصمد قيوح، عضو اللجنة التنفيذية لحزب الاستقلال ووكيل لائحة الحزب بدائرة تارودانت الجنوبية، نداءً وطنياً حاراً إلى كافة الناخبات والناخبين للمشاركة المكثفة والقوية",
+    "word_count": 204,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_004",
+          "name": "عبد الصمد قيوح",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "اقتراع",
+            "الاستحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال",
+        "شخصيات رئيسية: عبد الصمد قيوح",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_004",
+        "target_type": "person",
+        "target_name": "عبد الصمد قيوح",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_17b4d6a4d92d",
+    "stance_analyzed_at": "2026-09-13T04:53:12.195828+00:00"
+  },
+  {
+    "id": "5b3f5d539bfa7bb5",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "زينة ادحلي مرشحة الأحرار : سنواصل الترافع والدفاع عن مصالح ساكنة أكادير إداوتنان - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134380.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-13T04:53:12.195828+00:00",
+    "last_checked_at": "2026-09-13T04:53:12.195828+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةزينة ادحلي مرشحة الأحرار : سنواصل الترافع والدفاع عن مصالح ساكنة أكادير إداوتنان أكدت زينة ادحلي، مرشحة حزب التجمع الوطني للأحرار بدائرة أكادير إداوتنان،",
+    "word_count": 187,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أورير"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات",
+            "استحقاقات"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشحة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "مواضيع سياسية: الانتخابات والاقتراع, الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_5b3f5d539bfa",
+    "stance_analyzed_at": "2026-09-13T04:53:12.195828+00:00"
+  },
+  {
+    "id": "35b3d912771c318b",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "لقجع يكشف وصفة \"البام\" لتمويل 350 مليار درهم دون إثقال جيوب المغاربة",
+    "url": "https://www.hespress.com/%D9%84%D9%82%D8%AC%D8%B9-%D9%8A%D9%83%D8%B4%D9%81-%D9%88%D8%B5%D9%81%D8%A9-%D8%A7%D9%84%D8%A8%D8%A7%D9%85-%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-350-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D8%B1%D9%87-1806431.html",
+    "author": "هسبريس من الرباط",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-13T04:53:12.195828+00:00",
+    "last_checked_at": "2026-09-13T04:53:12.195828+00:00",
+    "language": "ar",
+    "excerpt": "بسط فوزي لقجع، عضو المكتب السياسي لحزب الأصالة والمعاصرة والوزير المنتدب المكلف بالميزانية، اليوم السبت بأكادير، الخطوط الكبرى للتصور الاقتصادي والاجتماعي الذي يخوض به الحزب",
+    "word_count": 500,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "اقتراع",
+            "التصويت"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 4,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 8,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 5,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_35b3d912771c",
+    "stance_analyzed_at": "2026-09-13T04:53:12.195828+00:00"
+  },
+  {
+    "id": "02dea3079bfc49ae",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "قيوح: المشاركة المكثفة في انتخابات 23 شتنبر رسالة قوية إلى العالم",
+    "url": "https://www.hespress.com/%D9%82%D9%8A%D9%88%D8%AD-%D9%8A%D9%86%D8%A7%D8%AF%D9%8A-%D8%A8%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%AB%D9%81%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D9%86%D8%AA-1806336.html",
+    "author": "هسبريس من الرباط",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-13T04:53:12.195828+00:00",
+    "last_checked_at": "2026-09-13T04:53:12.195828+00:00",
+    "language": "ar",
+    "excerpt": "في كلمة وجهها إلى كافة الناخبات والناخبين المسجلين في اللوائح الانتخابية، دعا عبد الصمد قيوح، وكيل لائحة حزب الاستقلال بدائرة تارودانت الجنوبية، المواطنات والمواطنين إلى",
+    "word_count": 225,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_004",
+          "name": "عبد الصمد قيوح",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "الاستحقاقات الانتخابية",
+            "اقتراع",
+            "التصويت",
+            "اللوائح الانتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال",
+        "شخصيات رئيسية: عبد الصمد قيوح",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_004",
+        "target_type": "person",
+        "target_name": "عبد الصمد قيوح",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_02dea3079bfc",
+    "stance_analyzed_at": "2026-09-13T04:53:12.195828+00:00"
+  },
+  {
+    "id": "188bc75fbd9d6f9f",
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Agadir: Fouzi Lekjaa met en avant l’engagement du PAM à Souss-Massa (VIDEO)",
+    "url": "https://www.lesiteinfo.com/politique/681772-agadir-fouzi-lekjaa-met-en-avant-lengagement-du-pam-a-souss-massa-video.html",
+    "author": "Rédaction N",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-13T04:53:12.195828+00:00",
+    "last_checked_at": "2026-09-13T04:53:12.195828+00:00",
+    "language": "fr",
+    "excerpt": "Fouzi Lekjaa, membre du bureau politique du Parti authenticité et modernité (PAM), a salué le travail accompli par Hamid Ouahbi, candidat du parti aux élections",
+    "word_count": 200,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        },
+        {
+          "id": "person_014",
+          "name": "حميد وهبي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "bureau politique",
+            "secrétariat"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "élections",
+            "législatives"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "candidat"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "gouvernement"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع, حميد وهبي",
+        "مواضيع سياسية: الأنشطة والتنظيمات الحزبية, الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 5,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": [
+          "engagement",
+          "salué"
+        ]
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 5,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 3,
+        "evidence": [
+          "engagement",
+          "salué"
+        ]
+      },
+      {
+        "target_id": "person_014",
+        "target_type": "person",
+        "target_name": "حميد وهبي",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 3,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": [
+          "salué",
+          "engagement"
+        ]
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_188bc75fbd9d",
+    "stance_analyzed_at": "2026-09-13T04:53:12.195828+00:00"
+  },
+  {
+    "id": "f80ef5fc58e378f2",
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Fouzi Lekjaa à Agadir: « Le pouvoir d’achat doit être une priorité » (VIDEO)",
+    "url": "https://www.lesiteinfo.com/politique/681767-fouzi-lekjaa-a-agadir-le-pouvoir-dachat-doit-etre-une-priorite-video.html",
+    "author": "Rédaction N",
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-13T04:53:12.195828+00:00",
+    "last_checked_at": "2026-09-13T04:53:12.195828+00:00",
+    "language": "fr",
+    "excerpt": "Fouzi Lekjaa, membre du bureau politique du Parti Authenticité et Modernité (PAM), a affirmé que le Maroc s’apprête à entrer dans une nouvelle phase qui",
+    "word_count": 380,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "bureau politique"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f80ef5fc58e3",
+    "stance_analyzed_at": "2026-09-13T04:53:12.195828+00:00"
+  },
+  {
+    "id": "4efc3b6f9f5c2d75",
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع: سنرفع الحد الأدنى للمعاش إلى 3000 درهم ونمنح الأرملة معاشا كاملا مع مراجعة شاملة للضريبة على الدخل",
+    "url": "https://www.assahifa.com/%D9%84%D9%82%D8%AC%D8%B9-%D8%B3%D9%86%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%AF-%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89-%D9%84%D9%84%D9%85%D8%B9%D8%A7%D8%B4-%D8%A5%D9%84%D9%89-3000-%D8%AF%D8%B1%D9%87",
+    "author": null,
+    "published_at": "2026-09-11",
+    "first_seen_at": "2026-09-13T04:53:12.195828+00:00",
+    "last_checked_at": "2026-09-13T04:53:12.195828+00:00",
+    "language": "ar",
+    "excerpt": "لقجع: سنرفع الحد الأدنى للمعاش إلى 3000 درهم ونمنح الأرملة معاشا كاملا مع مراجعة شاملة للضريبة على الدخل قدّم فوزي لقجع، عضو المكتب السياسي لحزب",
+    "word_count": 507,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "اقتراع",
+            "التصويت"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 4,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 7,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 5,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_4efc3b6f9f5c",
+    "stance_analyzed_at": "2026-09-13T04:53:12.195828+00:00"
+  },
+  {
     "id": "7ba974a17d1e986b",
     "source_id": "agadir24",
     "source_name": "أكادير24",
