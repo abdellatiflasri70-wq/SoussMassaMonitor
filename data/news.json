@@ -603,6 +603,626 @@
     "stance_analyzed_at": "2026-09-13T16:22:46.268178+00:00"
   },
   {
+    "id": "b6cb6dedf68a14df",
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "بمشاركة أزيد من 2000 مناضل.. \"الأحرار\" يلهب الحملة الانتخابية بأكادير تحت شعار \"كرامة وفرص للجميع\" - agadirino.ma",
+    "url": "https://agadirino.ma/2026/09/13/%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A3%D8%B2%D9%8A%D8%AF-%D9%85%D9%86-2000-%D9%85%D9%86%D8%A7%D8%B6%D9%84-%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%8A%D9%84%D9%87%D8%A8-%D8%A7",
+    "author": "Driss Driss",
+    "published_at": "2026-09-12",
+    "first_seen_at": "2026-09-13T20:53:31.434875+00:00",
+    "last_checked_at": "2026-09-13T20:53:31.434875+00:00",
+    "language": "ar",
+    "excerpt": "احتضنت مدينة أكادير، اليوم الأحد، لقاءً تواصلياً في إطار الحملة الانتخابية لحزب التجمع الوطني للأحرار، أطره كريم أشنكلي، المنسق الجهوي للحزب وعضو المكتب السياسي، إلى",
+    "word_count": 126,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: كريم أشنكلي",
+        "مواضيع سياسية: الحملة الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_b6cb6dedf68a",
+    "stance_analyzed_at": "2026-09-13T20:53:31.434875+00:00"
+  },
+  {
+    "id": "4dec5ba227d093cf",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "التجمع الوطني للأحرار يعقد لقاء تواصليا بأكادير بمشاركة أزيد من 2000 مناضل ومناضلة",
+    "url": "https://www.chtoukapress.com/306753.html",
+    "author": "Chtouka",
+    "published_at": "2026-09-12",
+    "first_seen_at": "2026-09-13T20:53:31.434875+00:00",
+    "last_checked_at": "2026-09-13T20:53:31.434875+00:00",
+    "language": "ar",
+    "excerpt": "احتضنت مدينة أكادير، اليوم الأحد، لقاء تواصليا في إطار الحملة الانتخابية لحزب التجمع الوطني للأحرار، أطره كريم أشنكلي، المنسق الجهوي للحزب وعضو المكتب السياسي، إلى",
+    "word_count": 168,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: كريم أشنكلي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_4dec5ba227d0",
+    "stance_analyzed_at": "2026-09-13T20:53:31.434875+00:00"
+  },
+  {
+    "id": "700463903f5ad11c",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "لقاء تواصلي ناجح لأحرار أكادير أطره أشنكلي وبحضور زكية الدريوش وكيلة اللائحة الجهوية بسوس وزينة إد حلي وكيلة لائحة الحزب بأكادير إداوتنان ومرشحات اللائحة الجهوية … - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134389.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-12",
+    "first_seen_at": "2026-09-13T20:53:31.434875+00:00",
+    "last_checked_at": "2026-09-13T20:53:31.434875+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةلقاء تواصلي ناجح لأحرار أكادير أطره أشنكلي وبحضور زكية الدريوش وكيلة اللائحة الجهوية بسوس وزينة إد حلي وكيلة لائحة الحزب بأكادير إداوتنان ومرشحات اللائحة",
+    "word_count": 195,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: كريم أشنكلي",
+        "مواضيع سياسية: الأنشطة والتنظيمات الحزبية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_700463903f5a",
+    "stance_analyzed_at": "2026-09-13T20:53:31.434875+00:00"
+  },
+  {
+    "id": "ab34672c5069c6ed",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "أمل ماهر من أكادير: الثقة تُكسب بالعمل والمحافظة عليها بالوفاء، و الأحرار يستحق المرتبة الأولى | agadir24.info",
+    "url": "https://agadir24.info/%D8%A3%D9%85%D9%84-%D9%85%D8%A7%D9%87%D8%B1-%D9%85%D9%86-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%AA%D9%8F%D9%83%D8%B3%D8%A8-%D8%A8%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%88.html",
+    "author": "أكادير",
+    "published_at": "2026-09-12",
+    "first_seen_at": "2026-09-13T20:53:31.434875+00:00",
+    "last_checked_at": "2026-09-13T20:53:31.434875+00:00",
+    "language": "ar",
+    "excerpt": "أكدت الفاعلة السياسية أمل ماهر، خلال اللقاء التواصلي الحاشد الذي نظمه حزب التجمع الوطني للأحرار بمدينة أكادير اليوم الأحد 13 شتنبر 2026 ، أن الحضور",
+    "word_count": 228,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "ثقة"
+        ]
+      }
+    ],
+    "event_id": "evt_ab34672c5069",
+    "stance_analyzed_at": "2026-09-13T20:53:31.434875+00:00"
+  },
+  {
+    "id": "f02a5fe75a10fb34",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "زكية الدريويش من أكادير: \"غادي نحمر الوجه للمرأة السوسية\" | agadir24.info",
+    "url": "https://agadir24.info/%D8%B2%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%B1%D9%8A%D9%88%D9%8A%D8%B4-%D9%85%D9%86-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%BA%D8%A7%D8%AF%D9%8A-%D9%86%D8%AD%D9%85%D8%B1-%D8%A7%D9%84%D9%88.html",
+    "author": "أكادير",
+    "published_at": "2026-09-12",
+    "first_seen_at": "2026-09-13T20:53:31.434875+00:00",
+    "last_checked_at": "2026-09-13T20:53:31.434875+00:00",
+    "language": "ar",
+    "excerpt": "وجهت زكية الدريويش، وكيلة اللائحة الجهوية لحزب التجمع الوطني للأحرار بأكادير إداوتنان، خطاباً محفزاً يضع المرأة السوسية في قلب الرهانات السياسية والاقتصادية القادمة. وأكدت الدريويش",
+    "word_count": 146,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f02a5fe75a10",
+    "stance_analyzed_at": "2026-09-13T20:53:31.434875+00:00"
+  },
+  {
+    "id": "41b0b4667fcd3974",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "زينة إدحلي تتعهد بمواصلة التنمية وتؤكد: \"أنا إبنة أكادير وقادرة على المسؤولية\" | agadir24.info",
+    "url": "https://agadir24.info/%D8%B2%D9%8A%D9%86%D8%A9-%D8%A5%D8%AF%D8%AD%D9%84%D9%8A-%D8%AA%D8%AA%D8%B9%D9%87%D8%AF-%D8%A8%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%88%D8%AA%D8%A4%D9%83.html",
+    "author": "أكادير",
+    "published_at": "2026-09-12",
+    "first_seen_at": "2026-09-13T20:53:31.434875+00:00",
+    "last_checked_at": "2026-09-13T20:53:31.434875+00:00",
+    "language": "ar",
+    "excerpt": "شهد اللقاء التواصلي لحزب التجمع الوطني للأحرار المنعقد بمدينة أكادير اليوم الأحد 13 شتنبر 2026 محطة سياسية بارزة تمثلت في الكلمة التي ألقتها زينة إدحلي،",
+    "word_count": 137,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشحها"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_41b0b4667fcd",
+    "stance_analyzed_at": "2026-09-13T20:53:31.434875+00:00"
+  },
+  {
     "id": "004ce6bf62e8d088",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
