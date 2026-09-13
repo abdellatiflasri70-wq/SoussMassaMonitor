@@ -9903,5 +9903,47 @@
     "title": "لقاء بين الرئيس الإيراني وولي عهد أبوظبي يتلوه بيان مشترك ضمن قمة بريكس",
     "status": "excluded",
     "checked_at": "2026-09-13T04:53:12.195828+00:00"
+  },
+  "https://ar.le360.ma/politique/AOXGVOVLNRARTAJB27BHPVBEJE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع يكشف معادلة «البام» لإنعاش القدرة الشرائية: 70 مليارا سنويا وصفر درهم ضرائب",
+    "status": "accepted",
+    "checked_at": "2026-09-13T11:57:26.969659+00:00"
+  },
+  "https://al3omk.com/1187257.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "وعود انتخابية بالمليارات ومليون منصب شغل.. هل تملك الأحزاب مفاتيح تحقيقها؟",
+    "status": "excluded",
+    "checked_at": "2026-09-13T11:57:26.969659+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d8%a8%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d8%a8%d8%aa%d9%86%d8%ba%d9%8a%d8%b1-%d8%aa%d8%b4%d8%ac%d8%b9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-1806183.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "مبادرات بتنغير تشجع على التصويت",
+    "status": "excluded",
+    "checked_at": "2026-09-13T11:57:26.969659+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2-%d8%a7%d9%86%d8%af%d9%85%d8%a7%d8%ac-%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d8%ba%d9%8a%d8%b1-%d9%85%d8%b7%d8%b1%d9%88%d8%ad-1806498.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "العزيز: اندماج تحالف اليسار غير مطروح .. ونعد بـ5000 درهم لكل ولادة",
+    "status": "excluded",
+    "checked_at": "2026-09-13T11:57:26.969659+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-%d8%b3%d8%a8%d8%aa%d8%a9-%d9%88%d9%85%d9%84%d9%8a%d9%84%d9%8a%d8%a9-%d8%a8%d9%8a%d9%86-%d9%88%d8%a7%d8%ac%d8%a8-%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d9%88-1806094.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "مغاربة سبتة ومليلية بين واجب التصويت وضغوط \"الأزمة الإسبانية\"",
+    "status": "excluded",
+    "checked_at": "2026-09-13T11:57:26.969659+00:00"
+  },
+  "https://www.assahifa.com/%d8%b3%d8%a7%d9%84%d9%85-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%ad-%d9%84%d9%80%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d9%81%d8%a9-%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d8%a9-%d8%a7%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "سالم عبد الفتاح لـالصحيفة: الجنسية الإسبانية تُربك حسابات البوليساريو.. مكسب قانوني للصحراويين قد يتحول إلى عبء سياسي على الجبهة ومدريد",
+    "status": "excluded",
+    "checked_at": "2026-09-13T11:57:26.969659+00:00"
   }
 }

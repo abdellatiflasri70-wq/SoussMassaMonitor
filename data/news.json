@@ -1,5 +1,108 @@
 [
   {
+    "id": "c602d7e5dd5d20a7",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع يكشف معادلة «البام» لإنعاش القدرة الشرائية: 70 مليارا سنويا وصفر درهم ضرائب",
+    "url": "https://ar.le360.ma/politique/AOXGVOVLNRARTAJB27BHPVBEJE",
+    "author": "هيئة التحرير",
+    "published_at": "2026-09-12",
+    "first_seen_at": "2026-09-13T11:57:26.969659+00:00",
+    "last_checked_at": "2026-09-13T11:57:26.969659+00:00",
+    "language": "ar",
+    "excerpt": "واستندت هذه الهندسة المالية، بحسب ما أكده لقجع في لقاء حزبي يوم السبت بأكادير، إلى قراءة لواقع المغاربة سنة 2026 بغية رسم ملامح مغرب 2031.",
+    "word_count": 271,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_c602d7e5dd5d",
+    "stance_analyzed_at": "2026-09-13T11:57:26.969659+00:00"
+  },
+  {
     "id": "004ce6bf62e8d088",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
