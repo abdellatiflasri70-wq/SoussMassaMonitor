@@ -103,6 +103,506 @@
     "stance_analyzed_at": "2026-09-13T11:57:26.969659+00:00"
   },
   {
+    "id": "779f1b0f4ac499c5",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "كريم أشنكلي: التجمع الوطني للأحرار يقود تحول أكادير ويدعم تمكين المرأة في انتخابات 2026 | agadir24.info",
+    "url": "https://agadir24.info/%D9%83%D8%B1%D9%8A%D9%85-%D8%A3%D8%B4%D9%86%D9%83%D9%84%D9%8A-%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D8%B9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%8A%D9%82%D9%88.html",
+    "author": "أكادير",
+    "published_at": "2026-09-12",
+    "first_seen_at": "2026-09-13T16:22:46.268178+00:00",
+    "last_checked_at": "2026-09-13T16:22:46.268178+00:00",
+    "language": "ar",
+    "excerpt": "أكد كريم أشنكلي، المنسق الجهوي لحزب التجمع الوطني للأحرار، أن مدينة أكادير شهدت تحولاً ملموساً وواضحاً بفضل الرؤية الميدانية للرئيس عزيز أخنوش والجهود المتواصلة لنساء",
+    "word_count": 149,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "التصويت"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشح"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش, كريم أشنكلي",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_779f1b0f4ac4",
+    "stance_analyzed_at": "2026-09-13T16:22:46.268178+00:00"
+  },
+  {
+    "id": "14dc75d4690b28ec",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "العدالة والتنمية بأكادير يفكك برنامجه الانتخابي و يقدم مرشحيه في ندوة صحفية مفتوحة | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A8%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D9%8A%D9%81%D9%83%D9%83-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC.html",
+    "author": "أكادير",
+    "published_at": "2026-09-12",
+    "first_seen_at": "2026-09-13T16:22:46.268178+00:00",
+    "last_checked_at": "2026-09-13T16:22:46.268178+00:00",
+    "language": "ar",
+    "excerpt": "من المرتقب أن يشهد مسرح “سينما صحراء” يوم الإثنين 14 شتنبر 2026، ابتداءً من الساعة الخامسة والنصف عصراً، ندوة صحفية ينظمها حزب العدالة والتنمية للحديث",
+    "word_count": 89,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب العدالة والتنمية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_14dc75d4690b",
+    "stance_analyzed_at": "2026-09-13T16:22:46.268178+00:00"
+  },
+  {
+    "id": "d7be21fa4b3e7394",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع يستعرض من أكادير الخطوط العريضة لبرنامج «البام» في تشريعيات شتنبر 2026",
+    "url": "https://ar.le360.ma/politique/P3DN37UEMVAMHFHHVYA52Z75YU",
+    "author": "امحند أوبركة",
+    "published_at": "2026-09-12",
+    "first_seen_at": "2026-09-13T16:22:46.268178+00:00",
+    "last_checked_at": "2026-09-13T16:22:46.268178+00:00",
+    "language": "ar",
+    "excerpt": "وأكد فوزي لقجع خلال اللقاء الذي حضره عدد من أعضاء المكتب السياسي للحزب على غرار عبد اللطيف وهبي ويونس السكوري وغيرهم ومرشحي البام بأقاليم جهة",
+    "word_count": 239,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        },
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "تشريعيات"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع, عبد اللطيف وهبي",
+        "مواضيع سياسية: الانتخابات والاقتراع, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_d7be21fa4b3e",
+    "stance_analyzed_at": "2026-09-13T16:22:46.268178+00:00"
+  },
+  {
+    "id": "d12f88553608aba2",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "De la retraite aux salaires, Fouzi Lekjaa détaille le programme social du PAM à Agadir",
+    "url": "https://fr.le360.ma/societe/de-la-retraite-aux-salaires-fouzi-lekjaa-detaille-le-programme-social-du-pam-a-agadir_WWP3LGEFYRC7NC7FZ2WYZ75S6Q",
+    "author": "M'hand Oubarka",
+    "published_at": "2026-09-12",
+    "first_seen_at": "2026-09-13T16:22:46.268178+00:00",
+    "last_checked_at": "2026-09-13T16:22:46.268178+00:00",
+    "language": "fr",
+    "excerpt": "3.000 dirhams de retraite minimum, jusqu’à 4.000 dirhams de hausse mensuelle pour certains actifs, pension intégrale pour les veuves… À Agadir, Fouzi Lekjaa a détaillé",
+    "word_count": 603,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        },
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "élections",
+            "législatives"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "candidats"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "estime"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع, عبد اللطيف وهبي",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 8,
+        "editorial_segment_count": 7,
+        "reported_segment_count": 1,
+        "evidence": [
+          "remporte"
+        ]
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 8,
+        "editorial_segment_count": 5,
+        "reported_segment_count": 3,
+        "evidence": [
+          "remporte"
+        ]
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_d12f88553608",
+    "stance_analyzed_at": "2026-09-13T16:22:46.268178+00:00"
+  },
+  {
     "id": "004ce6bf62e8d088",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
