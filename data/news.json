@@ -1,5 +1,437 @@
 [
   {
+    "id": "f0cc6c4d493e84bd",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fouzi Lekjaa à Zagora et Taliouine: «Les intérêts des Marocains d’abord»",
+    "url": "https://fr.le360.ma/politique/fouzi-lekjaa-a-zagora-et-taliouine-les-interets-des-marocains-dabord_BGZUGZXCLFDYXIIK5NYGDJXCQ4",
+    "author": "La Rédaction",
+    "published_at": "2026-09-13",
+    "first_seen_at": "2026-09-14T12:54:38.784930+00:00",
+    "last_checked_at": "2026-09-14T12:54:38.784930+00:00",
+    "language": "fr",
+    "excerpt": "«Nous mettrons tous nos efforts et toutes nos forces au service des intérêts des Marocains et du Maroc.» À Zagora, Fouzi Lekjaa a résumé en",
+    "word_count": 695,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تالوين"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "élections",
+            "législatives",
+            "scrutin",
+            "vote"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "candidat"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 9,
+        "editorial_segment_count": 7,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 9,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 5,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f0cc6c4d493e",
+    "stance_analyzed_at": "2026-09-14T12:54:38.784930+00:00"
+  },
+  {
+    "id": "6dd07b7b16acd5f0",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "المعجم السياسي المغربي: من صراع الأفكار إلى لغة الشارع",
+    "url": "https://al3omk.com/1187659.html",
+    "author": "حمزة الشواي",
+    "published_at": "2026-09-13",
+    "first_seen_at": "2026-09-14T12:54:38.784930+00:00",
+    "last_checked_at": "2026-09-14T12:54:38.784930+00:00",
+    "language": "ar",
+    "excerpt": "المعجم السياسي المغربي: من صراع الأفكار إلى لغة الشارع تراجع «المثقف المناضل» وصعود «المقاول السياسي».. قراءة في تحول النخب بالمغرب تقف التجربة السياسية والدستورية المغربية",
+    "word_count": 2107,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_020",
+          "name": "إدريس لشكر",
+          "tier": "priority"
+        },
+        {
+          "id": "person_022",
+          "name": "عبد الإله بنكيران",
+          "tier": "priority"
+        },
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_028",
+          "name": "رشيد الطالبي العلمي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_024",
+          "name": "محمد أوزين",
+          "tier": "priority"
+        },
+        {
+          "id": "person_021",
+          "name": "نبيل بنعبد الله",
+          "tier": "priority"
+        },
+        {
+          "id": "person_026",
+          "name": "نبيلة منيب",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "صراع",
+            "التحالفات",
+            "معارضة"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "صرح",
+            "اعتبر",
+            "بلاغ"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "ربط المسؤولية بالمحاسبة"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, حزب العدالة والتنمية",
+        "شخصيات رئيسية: إدريس لشكر, عبد الإله بنكيران, عزيز أخنوش",
+        "مواضيع سياسية: التحالفات والخلافات السياسية, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 1,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "تراجع"
+        ]
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_020",
+        "target_type": "person",
+        "target_name": "إدريس لشكر",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_022",
+        "target_type": "person",
+        "target_name": "عبد الإله بنكيران",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 6,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_028",
+        "target_type": "person",
+        "target_name": "رشيد الطالبي العلمي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_024",
+        "target_type": "person",
+        "target_name": "محمد أوزين",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_021",
+        "target_type": "person",
+        "target_name": "نبيل بنعبد الله",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_026",
+        "target_type": "person",
+        "target_name": "نبيلة منيب",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_6dd07b7b16ac",
+    "stance_analyzed_at": "2026-09-14T12:54:38.784930+00:00"
+  },
+  {
     "id": "c602d7e5dd5d20a7",
     "source_id": "le360",
     "source_name": "Le360",
