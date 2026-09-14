@@ -1223,6 +1223,76 @@
     "stance_analyzed_at": "2026-09-13T20:53:31.434875+00:00"
   },
   {
+    "id": "e82da964fc233682",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بعد خلاف عرضي..الشرطة توقف شقيقين بأكادير في قضية ضرب وجرح مفضٍ للموت",
+    "url": "https://www.chtoukapress.com/306778.html",
+    "author": "Chtouka",
+    "published_at": "2026-09-12",
+    "first_seen_at": "2026-09-14T05:01:29.333965+00:00",
+    "last_checked_at": "2026-09-14T05:01:29.333965+00:00",
+    "language": "ar",
+    "excerpt": "تمكنت عناصر الشرطة بولاية أمن أكادير، بتنسيق مع مصالح المديرية العامة لمراقبة التراب الوطني، زوال اليوم الأحد 13 شتنبر 2026، من توقيف شقيقين يبلغان من",
+    "word_count": 149,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "خلاف"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_e82da964fc23",
+    "stance_analyzed_at": "2026-09-14T05:01:29.333965+00:00"
+  },
+  {
     "id": "004ce6bf62e8d088",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
