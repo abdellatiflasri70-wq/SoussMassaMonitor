@@ -1,5 +1,436 @@
 [
   {
+    "id": "e8fa58ca8022ec20",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "انتخابات 23 شتنبر بأكادير: العدالة والتنمية يكشف لوائحه الانتخابية ويدشن برنامجه بـ 467 إجراًء | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-23-%D8%B4%D8%AA%D9%86%D8%A8%D8%B1-%D8%A8%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%86.html",
+    "author": "أكادير",
+    "published_at": "2026-09-14",
+    "first_seen_at": "2026-09-15T21:24:49.153488+00:00",
+    "last_checked_at": "2026-09-15T21:24:49.153488+00:00",
+    "language": "ar",
+    "excerpt": "عقد المكتب الإقليمي لحزب العدالة والتنمية بأكادير إداوتنان، يوم الإثنين 14 شتنبر 2026، ندوة صحفية بفضاء سينما صحراء بحي تالبرجت، خُصصت لتقديم أسماء مرشحيه في",
+    "word_count": 299,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_099",
+          "name": "سناء عكي",
+          "tier": "secondary"
+        },
+        {
+          "id": "person_103",
+          "name": "محمد باكيري",
+          "tier": "manual_unverified"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "المكتب الإقليمي",
+            "الفرع الإقليمي"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب العدالة والتنمية",
+        "شخصيات رئيسية: سناء عكي, محمد باكيري",
+        "مواضيع سياسية: الانتخابات والاقتراع, الأنشطة والتنظيمات الحزبية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_099",
+        "target_type": "person",
+        "target_name": "سناء عكي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_103",
+        "target_type": "person",
+        "target_name": "محمد باكيري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_e8fa58ca8022",
+    "stance_analyzed_at": "2026-09-15T21:24:49.153488+00:00"
+  },
+  {
+    "id": "1b0b219b494414bf",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "عمر أمين مرشح حزب الأحرار يكثف لقاءاته بالدشيرة ومختلف مناطق إنزكان - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134438.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-14",
+    "first_seen_at": "2026-09-15T21:24:49.153488+00:00",
+    "last_checked_at": "2026-09-15T21:24:49.153488+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةعمر أمين مرشح حزب الأحرار يكثف لقاءاته بالدشيرة ومختلف مناطق إنزكان يواصل عمر أمين، مرشح حزب التجمع الوطني للأحرار بدائرة إنزكان، تعزيز حضوره الميداني",
+    "word_count": 211,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "إنزكان",
+        "الدشيرة الجهادية"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_052",
+          "name": "عمر أمين",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات",
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي",
+            "رئيس المجلس"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عمر أمين",
+        "مواضيع سياسية: الترشح والتزكية, الانتخابات والاقتراع, المجالس المنتخبة والتدبير المحلي, الحملة الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_052",
+        "target_type": "person",
+        "target_name": "عمر أمين",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_1b0b219b4944",
+    "stance_analyzed_at": "2026-09-15T21:24:49.153488+00:00"
+  },
+  {
+    "id": "d8a210ef69371779",
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "الانتخابات التشريعية.. صراع \"الأحرار\" و\"البام\" ينتقل إلى مرحلة الطعون",
+    "url": "https://thepress.ma/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9-%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%88",
+    "author": null,
+    "published_at": "2026-09-14",
+    "first_seen_at": "2026-09-15T21:24:49.153488+00:00",
+    "last_checked_at": "2026-09-15T21:24:49.153488+00:00",
+    "language": "ar",
+    "excerpt": "فاطمة الزهراء – قارا تصاعد الجدل بين حزبي التجمع الوطني للأحرار والأصالة والمعاصرة، خلال الأيام الأخيرة، مع اقتراب الاستحقاقات الانتخابية، لينتقل الخلاف بين الطرفين إلى",
+    "word_count": 167,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "تجمع انتخابي"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "صراع"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "الترشح"
+          ]
+        },
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "استقالته"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: الانتخابات والاقتراع, الحملة الانتخابية, التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_d8a210ef6937",
+    "stance_analyzed_at": "2026-09-15T21:24:49.153488+00:00"
+  },
+  {
     "id": "f0cc6c4d493e84bd",
     "source_id": "le360",
     "source_name": "Le360",

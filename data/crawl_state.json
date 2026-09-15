@@ -10638,5 +10638,75 @@
     "title": "بعد جدل قميص سبتة.. الزلزولي يوضح موقفه: لم يكن له أي هدف سياسي وسأواصل تمثيل جذوري بفخر – اليوم 24",
     "status": "excluded",
     "checked_at": "2026-09-15T17:03:15.753388+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-23-%d8%b4%d8%aa%d9%86%d8%a8%d8%b1-%d8%a8%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "انتخابات 23 شتنبر بأكادير: العدالة والتنمية يكشف لوائحه الانتخابية ويدشن برنامجه بـ 467 إجراًء | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-15T21:24:49.153488+00:00"
+  },
+  "https://agadirinfo.ma/134438.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "عمر أمين مرشح حزب الأحرار يكثف لقاءاته بالدشيرة ومختلف مناطق إنزكان - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-15T21:24:49.153488+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a%d8%a9-%d8%b5%d8%b1%d8%a7%d8%b9-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%88": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "الانتخابات التشريعية.. صراع \"الأحرار\" و\"البام\" ينتقل إلى مرحلة الطعون",
+    "status": "accepted",
+    "checked_at": "2026-09-15T21:24:49.153488+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a%d8%a9-%d9%8a%d8%b3%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%b9%d9%86-%d9%85": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "التقدم والاشتراكية يسائل الحكومة عن مصير الوسم الجبائي على المحروقات",
+    "status": "excluded",
+    "checked_at": "2026-09-15T21:24:49.153488+00:00"
+  },
+  "https://ar.le360.ma/politique/T2UECI223BGDFBXCQAPU2NIC6E": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع يربط إقلاع جرسيف بميناء الناظور ويعلن مشروع طريق سيار لإنهاء العزلة",
+    "status": "excluded",
+    "checked_at": "2026-09-15T21:24:49.153488+00:00"
+  },
+  "https://ar.le360.ma/politique/CKDYOYJZCBCG7AHTZ6IZ5447ZY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "حملات انتخابية بمديونة بسيارات إسعاف",
+    "status": "excluded",
+    "checked_at": "2026-09-15T21:24:49.153488+00:00"
+  },
+  "https://fr.le360.ma/politique/cherte-de-la-vie-la-campagne-electorale-sous-pression-sociale_UU4MZHF4ANANHDKBGBK65G7ONA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Cherté de la vie: la campagne électorale sous pression sociale",
+    "status": "excluded",
+    "checked_at": "2026-09-15T21:24:49.153488+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-osraty-interpelle-les-candidats-sur-la-reforme-de-la-kafala_U5GCMWYAC5FQTLSPH7MNK4BDDY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: Osraty interpelle les candidats sur la réforme de la kafala",
+    "status": "excluded",
+    "checked_at": "2026-09-15T21:24:49.153488+00:00"
+  },
+  "https://fr.le360.ma/politique/loin-des-series-netflix-pedro-sanchez-defend-le-partenariat-maroc-espagne_2NT5NNTVYRFV7H6HIAOCMD2EYE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Loin des «séries Netflix», Pedro Sánchez défend le partenariat Maroc-Espagne",
+    "status": "excluded",
+    "checked_at": "2026-09-15T21:24:49.153488+00:00"
+  },
+  "https://fr.le360.ma/politique/guerre-hybride-contre-ceuta-le-verdict-avant-les-preuves_N3GDKVI63ZCU5MU5KMDHYPWPIY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "«Guerre hybride» contre Ceuta: le verdict avant les preuves",
+    "status": "excluded",
+    "checked_at": "2026-09-15T21:24:49.153488+00:00"
   }
 }
