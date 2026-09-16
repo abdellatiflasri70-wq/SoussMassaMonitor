@@ -10708,5 +10708,33 @@
     "title": "«Guerre hybride» contre Ceuta: le verdict avant les preuves",
     "status": "excluded",
     "checked_at": "2026-09-15T21:24:49.153488+00:00"
+  },
+  "https://www.chtoukapress.com/306814.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "“تحالف فريد” بين كندا وأوروبا.. كارني يفتح باب شراكة غير مسبوقة",
+    "status": "excluded",
+    "checked_at": "2026-09-16T04:53:47.939497+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d8%b2%d9%88%d8%b1-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d9%8a%d8%aa%d8%b9%d9%87%d8%af-%d8%a8%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%aa%d8%b6%d8%a7%d8%b1%d8%a8-%d8%a7-1808081.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "مزور: \"الاستقلال\" يتعهد بمواجهة تضارب المصالح ومنطق \"باك صاحبي\"",
+    "status": "excluded",
+    "checked_at": "2026-09-16T04:53:47.939497+00:00"
+  },
+  "https://ar.le360.ma/politique/GVY3HY4LLZG5BG637IZADXMYAQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع من تاوريرت: ارتفاع الأسعار غير طبيعي.. و«شماعة» الوسطاء لم تعد تقنع أحدا",
+    "status": "excluded",
+    "checked_at": "2026-09-16T04:53:47.939497+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%85%d8%af%d8%a7%d8%b1%d8%b3-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%af%d8%a9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "التعليم أمام انتخابات 2026: مدارس الريادة تفرق الأحزاب.. ووعودٌ لـالتلاميذ بالتصدي للهدر وتعميم النقل والمطاعم",
+    "status": "excluded",
+    "checked_at": "2026-09-16T04:53:47.939497+00:00"
   }
 }
