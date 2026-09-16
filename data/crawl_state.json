@@ -10855,5 +10855,26 @@
     "title": "RDC : tensions et affrontements lors de manifestations contre une réforme constitutionnelle",
     "status": "excluded",
     "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://fr.le360.ma/politique/carburants-le-pps-interpelle-le-gouvernement-sur-le-report-du-marquage-fiscal_IAS7JIIZ6NHAPADXR6KOVGUH4U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Carburants: le PPS interpelle le gouvernement sur le report du marquage fiscal",
+    "status": "excluded",
+    "checked_at": "2026-09-16T17:02:42.439047+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d9%82%d8%af%d9%85-%d8%aa%d8%b5%d9%88%d8%b1%d8%a7-%d9%84%d8%b1%d8%a8%d8%b7-%d8%ac%d8%b1%d8%b3%d9%8a%d9%81-%d8%a8%d9%85%d9%8a%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d9%86%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع يقدم تصورا لربط جرسيف بميناء الناظور - غرب المتوسط عبر طريق سيار",
+    "status": "excluded",
+    "checked_at": "2026-09-16T17:02:42.439047+00:00"
+  },
+  "https://thepress.ma/%d8%aa%d9%86%d8%b3%d9%8a%d9%82%d9%8a%d8%a9-%d8%a3%d9%83%d8%a7%d9%84-%d9%82%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%b1%d8%b6-%d9%88%d8%a7%d9%84%d8%ab%d8%b1%d9%88%d8%a9-%d9%84%d9%8a%d8%b3%d8%aa-%d9%88": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "تنسيقية أكال: قضية الأرض والثروة ليست ورقة انتخابية",
+    "status": "excluded",
+    "checked_at": "2026-09-16T17:02:42.439047+00:00"
   }
 }
