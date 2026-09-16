@@ -10736,5 +10736,124 @@
     "title": "التعليم أمام انتخابات 2026: مدارس الريادة تفرق الأحزاب.. ووعودٌ لـالتلاميذ بالتصدي للهدر وتعميم النقل والمطاعم",
     "status": "excluded",
     "checked_at": "2026-09-16T04:53:47.939497+00:00"
+  },
+  "https://www.chtoukapress.com/306825.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "النتائج النهائية لإنتخابات المجلس الوطني للصحافة ولائحة الناشرين",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/682033-fouzi-lekjaa-devient-la-personnalite-la-plus-citee-dans-la-presse.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Fouzi Lekjaa devient la personnalité la plus citée dans la presse",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://tiznit24.com/?p=195292": {
+    "source_id": "tiznit24",
+    "source_name": "تيزنيت24",
+    "title": "بــــــلاغ بشأن النتائج النهائية لانتخاب ممثلي الصحافيين المهنيين بالمجلس الوطني للصحافة",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://alyaoum24.com/2044376.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "عبد الإله بنكيران.. بين صخب الزعامة وصندوق الأمانة: قراءة صحفية في أفق الانتخابات المغربية 2026 – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://www.hespress.com/%d8%ac%d8%af%d9%88%d9%89-%d8%a7%d9%86%d8%b9%d9%82%d8%a7%d8%af-%d9%84%d8%ac%d9%86%d8%a9-%d8%aa%d8%aa%d8%a8%d8%b9-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%aa%d8%ab%d9%8a%d8%b1-%d8%a7-1807907.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "جدوى انعقاد \"لجنة تتبع انتخابات 2026\" تثير الجدل بين الأحزاب السياسية",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%a7%d9%85%d9%88%d9%86%d8%aa-%d9%8a%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%a7%d9%84%d8%a3%d8%a8%d9%8a%d8%b6-1807767.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"تامونت\" يدعو إلى التصويت الأبيض",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%85%d9%86%d9%8a%d8%a8-%d8%aa%d8%af%d8%b9%d9%88-%d8%a7%d9%84%d9%86%d8%a7%d8%ae%d8%a8%d9%8a%d9%86-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%aa-1808148.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. منيب تدعو الناخبين إلى \"التصويت على الكفاءة والنزاهة\"",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%a7%d9%84%d8%aa%d8%b9%d8%a8%d8%a6%d8%a9-%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a%d8%a9-%d8%aa%d8%b9%d9%8a%d8%af-%d8%b1%d8%b3%d9%85-%d9%85%d9%84-1807604.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. التعبئة القبلية تعيد رسم ملامح التنافس بالأقاليم الجنوبية",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-il-existe-de-grandes-attentes-citoyennes-auxquelles-il-faudra-repondre-selon-le_ZCZZM56HF5G3ZEM7ST2DK2ZCD4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: «il existe de grandes attentes citoyennes auxquelles il faudra répondre», selon le chercheur Mohamed Bouden",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://fr.le360.ma/politique/elections-conseil-national-de-la-presse-les-resultats-definitifs-et-la-liste-des-editeurs_MC25IEEDZFBXRLQ3GISHOKPP3E": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Elections Conseil national de la presse: les résultats définitifs et la liste des éditeurs",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://fr.le360.ma/politique/circonscription-danfa-le-coeur-battant-dune-bataille-annoncee_PM4T3QQHJNGONIHGOUQLZWW53Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Circonscription d’Anfa: une rude concurrence entre ténors politiques",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://al3omk.com/1188203.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "لشكر: ولادة المجلس الوطني للصحافة “عسيرة جدا”والحزب كان يطمح لتمثيلية أوسع للمهنيين",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://al3omk.com/1188177.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تشريعيات 23 شتنبر 2026 بين الانتظارات الشعبية والبرامج الحزبية",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%84%d9%84%d8%b5%d8%ad%d8%a7%d9%81%d8%a9-%d9%86%d8%b3%d8%a8%d8%a9-%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "انتخابات المجلس الوطني للصحافة: نسبة المشاركة بلغت 49 في المائة",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://thepress.ma/%d8%ad%d9%86%d8%a7%d9%86-%d8%b1%d8%ad%d8%a7%d8%a8-%d8%aa%d8%aa%d8%b5%d8%af%d8%b1-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d9%81": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "المجلس الوطني للصحافة يتشكل من جديد.. سبعة صحافيين يحجزون مقاعدهم في انتخابات حاسمة",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://fr.thepress.ma/faouzi-lekjaa-le-pam-et-le-mystere-de-la-mission": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "Faouzi Lekjaâ, le PAM et le mystère de la « mission »",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
+  },
+  "https://fr.thepress.ma/rdc-tensions-et-affrontements-lors-de-manifestations-contre-une-reforme-constitutionnelle": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "RDC : tensions et affrontements lors de manifestations contre une réforme constitutionnelle",
+    "status": "excluded",
+    "checked_at": "2026-09-16T11:41:52.700583+00:00"
   }
 }
