@@ -1,5 +1,279 @@
 [
   {
+    "id": "4a20fac5ca3f0627",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "المنصوري تتعهد بالقطع مع الوسطاء وترفض الرد على \"شيطنة البام\"",
+    "url": "https://www.hespress.com/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%88%D8%B1%D9%8A-%D8%AA%D8%AA%D8%B9%D9%87%D8%AF-%D8%A8%D8%A7%D9%84%D9%82%D8%B7%D8%B9-%D9%85%D8%B9-%D8%A7%D9%84%D9%88%D8%B3%D8%B7%D8%A7%D8%A1-%D9%88%D8%AA%D8%B1%D9%81-1808511.html",
+    "author": "هسبريس",
+    "published_at": "2026-09-15",
+    "first_seen_at": "2026-09-16T21:21:49.471590+00:00",
+    "last_checked_at": "2026-09-16T21:21:49.471590+00:00",
+    "language": "ar",
+    "excerpt": "قالت فاطمة الزهراء المنصوري، المنسقة الوطنية للقيادة الجماعية لحزب الأصالة والمعاصرة، إن حزبها قرر عدم الرد على الأحزاب السياسية التي تقوم حملاتها الانتخابية على شيطنة",
+    "word_count": 573,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "إنزكان"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "التصويت",
+            "صناديق الاقتراع"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشحة"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "برنامج انتخابي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فاطمة الزهراء المنصوري",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 11,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 9,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_4a20fac5ca3f",
+    "stance_analyzed_at": "2026-09-16T21:21:49.471590+00:00"
+  },
+  {
+    "id": "5df21ed890c25bca",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Agadir: un prêt d’un milliard de dirhams ravive les tensions entre le PAM et le RNI",
+    "url": "https://fr.le360.ma/politique/agadir-un-pret-dun-milliard-de-dirhams-ravive-les-tensions-entre-le-pam-et-le-rni_N6ENJ2FY7ZCG5NOFBJJVPJE3M4",
+    "author": "La Rédaction",
+    "published_at": "2026-09-15",
+    "first_seen_at": "2026-09-16T21:21:49.471590+00:00",
+    "last_checked_at": "2026-09-16T21:21:49.471590+00:00",
+    "language": "fr",
+    "excerpt": "Au cours d’un meeting électoral, Hicham Mhajri, mandataire de liste du PAM dans la circonscription de Chichaoua, s’est attaqué au président du RNI, Mohamed Chouki,",
+    "word_count": 273,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "commune",
+            "collectivités territoriales"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "chef du gouvernement",
+            "gouvernement"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "électoral"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "tensions"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "meeting électoral"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي, السياسات والحصيلة الحكومية, الانتخابات والاقتراع, التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_5df21ed890c2",
+    "stance_analyzed_at": "2026-09-16T21:21:49.471590+00:00"
+  },
+  {
     "id": "e8fa58ca8022ec20",
     "source_id": "agadir24",
     "source_name": "أكادير24",
