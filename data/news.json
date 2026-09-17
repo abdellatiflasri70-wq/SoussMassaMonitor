@@ -449,6 +449,87 @@
     "stance_analyzed_at": "2026-09-17T11:47:08.799675+00:00"
   },
   {
+    "id": "1f691f7952ac2e19",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. \"حماة المستهلك\" يترافعون عن أولوية القدرة الشرائية",
+    "url": "https://www.hespress.com/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-2026-%D8%AD%D9%85%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%87%D9%84%D9%83-%D9%8A%D8%AA%D8%B1%D8%A7%D9%81%D8%B9%D9%88%D9%86-%D8%B9%D9%86-1808554.html",
+    "author": "هسبريس",
+    "published_at": "2026-09-16",
+    "first_seen_at": "2026-09-17T17:03:25.577035+00:00",
+    "last_checked_at": "2026-09-17T17:03:25.577035+00:00",
+    "language": "ar",
+    "excerpt": "دخلت جمعيات وهيئات حماية المستهلك بالمغرب على خط الاستحقاقات التشريعية، المقرر إجراؤها في 23 شتنبر الجاري، عبر دعوة الأحزاب السياسية المتنافسة إلى جعل ملف القدرة",
+    "word_count": 597,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير",
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "الاستحقاقات",
+            "اقتراع"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "البرنامج الحكومي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_1f691f7952ac",
+    "stance_analyzed_at": "2026-09-17T17:03:25.577035+00:00"
+  },
+  {
     "id": "4a20fac5ca3f0627",
     "source_id": "hespress",
     "source_name": "هسبريس",
