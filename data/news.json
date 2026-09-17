@@ -530,6 +530,1118 @@
     "stance_analyzed_at": "2026-09-17T17:03:25.577035+00:00"
   },
   {
+    "id": "be9ba6c3ef0551bc",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"الأحرار\" يستعرضون حصيلة التنمية ويُعبئون للانتخابات في تارودانت",
+    "url": "https://www.hespress.com/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6%D9%88%D9%86-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%88%D9%8A%D9%8F%D8%B9%D8%A8-1809102.html",
+    "author": "هسبريس",
+    "published_at": "2026-09-16",
+    "first_seen_at": "2026-09-17T21:25:58.252046+00:00",
+    "last_checked_at": "2026-09-17T21:25:58.252046+00:00",
+    "language": "ar",
+    "excerpt": "أكد لحسن السعدي، عضو المكتب السياسي لحزب التجمع الوطني للأحرار، أن إقليم تارودانت يشهد “ثورة تنموية” شاملة بفضل مشاريع التأهيل والمؤسسات الجامعية الحديثة، مبرزا أن",
+    "word_count": 690,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "أولاد تايمة",
+        "تارودانت"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_006",
+          "name": "لحسن السعدي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشحها"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "جماعة ترابية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش, لحسن السعدي",
+        "مواضيع سياسية: الانتخابات والاقتراع, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 4,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 4,
+        "evidence": []
+      },
+      {
+        "target_id": "person_006",
+        "target_type": "person",
+        "target_name": "لحسن السعدي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_be9ba6c3ef05",
+    "stance_analyzed_at": "2026-09-17T21:25:58.252046+00:00"
+  },
+  {
+    "id": "9ba067fcedb768f8",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "بوهدود لمنافسيها: تارودانت أكبر منا جميعا.. لنتنافس بالحصيلة لا بالصراعات و”الهضرة الخاوية”",
+    "url": "https://al3omk.com/1188684.html",
+    "author": "إسماعيل الأداريسي",
+    "published_at": "2026-09-16",
+    "first_seen_at": "2026-09-17T21:25:58.252046+00:00",
+    "last_checked_at": "2026-09-17T21:25:58.252046+00:00",
+    "language": "ar",
+    "excerpt": "دعت نادية بوهدود بودلال، وكيلة لائحة التجمع الوطني للأحرار بدائرة تارودانت الجنوبية ورئيسة المجلس الجماعي لأولاد تايمة، الناخبين إلى تقييم تجربتها بناء على العمل والحصيلة",
+    "word_count": 609,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أولاد تايمة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت",
+            "انتخابات",
+            "صناديق الاقتراع",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "تجمع انتخابي"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشحة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: الانتخابات والاقتراع, المجالس المنتخبة والتدبير المحلي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 0,
+        "evidence": [
+          "كفاءة"
+        ]
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "كفاءة"
+        ]
+      }
+    ],
+    "event_id": "evt_9ba067fcedb7",
+    "stance_analyzed_at": "2026-09-17T21:25:58.252046+00:00"
+  },
+  {
+    "id": "53af2ee8f8528ec1",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تجمع أولاد تايمة.. الزاهدي يؤكد صدارة التجمع الوطني للأحرار واستمرارية تنمية إقليم تارودانت | agadir24.info",
+    "url": "https://agadir24.info/%D8%AA%D8%AC%D9%85%D8%B9-%D8%A3%D9%88%D9%84%D8%A7%D8%AF-%D8%AA%D8%A7%D9%8A%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D8%A7%D9%87%D8%AF%D9%8A-%D9%8A%D8%A4%D9%83%D8%AF-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84.html",
+    "author": "أكادير",
+    "published_at": "2026-09-16",
+    "first_seen_at": "2026-09-17T21:25:58.252046+00:00",
+    "last_checked_at": "2026-09-17T21:25:58.252046+00:00",
+    "language": "ar",
+    "excerpt": "أكد أحمد الزاهدي، المنسق الإقليمي لحزب التجمع الوطني للأحرار بتارودانت، أن الحزب يواصل تعزيز موقع الصدارة بالإقليم بفضل تنظيم المحكم ورؤيته المستقبليّة الواضحة. وأوضح الزاهدي،",
+    "word_count": 115,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "أولاد تايمة",
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_53af2ee8f852",
+    "stance_analyzed_at": "2026-09-17T21:25:58.252046+00:00"
+  },
+  {
+    "id": "cdef0f72f6fe5bf9",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "يوسف جبهة يكشف دور تحلية المياه في إنقاذ الفلاحة بسوس، ويدعو للمشاركة المكثفة في الإنتخابات | agadir24.info",
+    "url": "https://agadir24.info/%D9%8A%D9%88%D8%B3%D9%81-%D8%AC%D8%A8%D9%87%D8%A9-%D9%8A%D9%83%D8%B4%D9%81-%D8%AF%D9%88%D8%B1-%D8%AA%D8%AD%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D9%81%D9%8A-%D8%A5%D9%86%D9%82%D8%A7.html",
+    "author": "أكادير",
+    "published_at": "2026-09-16",
+    "first_seen_at": "2026-09-17T21:25:58.252046+00:00",
+    "last_checked_at": "2026-09-17T21:25:58.252046+00:00",
+    "language": "ar",
+    "excerpt": "تطرق يوسف جبهة، رئيس الغرفة الفلاحية لجهة سوس ماسة، إلى واقع القطاع الفلاحي والوضعية المائية بالجهة، متوقفا عند التداعيات الحادة التي فرضها مشكل الجفاف على",
+    "word_count": 144,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات الانتخابية",
+            "التصويت",
+            "الاستحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "رأس اللائحة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_cdef0f72f6fe",
+    "stance_analyzed_at": "2026-09-17T21:25:58.252046+00:00"
+  },
+  {
+    "id": "0c682e53bd6ce0ee",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "من قلب تارودانت.. أخنوش يستعرض منجزات الحكومة ويرد قوة على التشويش | agadir24.info",
+    "url": "https://agadir24.info/%D9%85%D9%86-%D9%82%D9%84%D8%A8-%D8%AA%D8%A7%D8%B1%D9%88%D8%AF%D8%A7%D9%86%D8%AA-%D8%A3%D8%AE%D9%86%D9%88%D8%B4-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D9%85%D9%86%D8%AC%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84.html",
+    "author": "أكادير",
+    "published_at": "2026-09-16",
+    "first_seen_at": "2026-09-17T21:25:58.252046+00:00",
+    "last_checked_at": "2026-09-17T21:25:58.252046+00:00",
+    "language": "ar",
+    "excerpt": "أكد عزيز أخنوش، خلال التجمع الخطابي لحزب التجمع الوطني للأحرار يوم الخميس، أن حكومته حققت مكاسب استثنائية لإقليم تارودانت، شملت تعزيز القطاع الصحي بأربعة مستشفيات",
+    "word_count": 174,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 3,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_0c682e53bd6c",
+    "stance_analyzed_at": "2026-09-17T21:25:58.252046+00:00"
+  },
+  {
+    "id": "f0e4bd9b2578e526",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "أوجار يهاجم التشويش السياسوي: الدولة الاجتماعية تستحق أكثر من 280 ملياراً ونراهن على ولاية ثانية | agadir24.info",
+    "url": "https://agadir24.info/%D8%A3%D9%88%D8%AC%D8%A7%D8%B1-%D9%8A%D9%87%D8%A7%D8%AC%D9%85-%D8%A7%D9%84%D8%AA%D8%B4%D9%88%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%88%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7.html",
+    "author": "أكادير",
+    "published_at": "2026-09-16",
+    "first_seen_at": "2026-09-17T21:25:58.252046+00:00",
+    "last_checked_at": "2026-09-17T21:25:58.252046+00:00",
+    "language": "ar",
+    "excerpt": "أكد محمد أوجار، عضو المكتب السياسي لحزب التجمع الوطني للأحرار، خلال تجمع خطابي أقيم الخميس بأولاد تايمة، أن المشهد السياسي الحالي يشهد تدهوراً ملموساً في",
+    "word_count": 152,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "أولاد تايمة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f0e4bd9b2578",
+    "stance_analyzed_at": "2026-09-17T21:25:58.252046+00:00"
+  },
+  {
+    "id": "3eccaa5e99c6141f",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "ثورة تنموية في تارودانت: لحسن السعدي يلهب لقاءً حاشداً بأولاد تايمة ويؤكد الجاهزية لاقتراع 2026 | agadir24.info",
+    "url": "https://agadir24.info/%D8%AB%D9%88%D8%B1%D8%A9-%D8%AA%D9%86%D9%85%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%88%D8%AF%D8%A7%D9%86%D8%AA-%D9%84%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D8%AF%D9%8A-%D9%8A%D8%AA.html",
+    "author": "أكادير",
+    "published_at": "2026-09-16",
+    "first_seen_at": "2026-09-17T21:25:58.252046+00:00",
+    "last_checked_at": "2026-09-17T21:25:58.252046+00:00",
+    "language": "ar",
+    "excerpt": ". أكد لحسن السعدي، ابن تارودانت والوزير في حكومة أخنوش، خلال اللقاء التواصلي الحاشد لحزب التجمع الوطني للأحرار المنعقد اليوم الخميس بأولاد تايمة، أن هذه",
+    "word_count": 191,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "أولاد تايمة",
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_006",
+          "name": "لحسن السعدي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "اقتراع",
+            "التصويت"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "دعا إلى"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "الحصيلة الحكومية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش, لحسن السعدي",
+        "مواضيع سياسية: الانتخابات والاقتراع, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_006",
+        "target_type": "person",
+        "target_name": "لحسن السعدي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_3eccaa5e99c6",
+    "stance_analyzed_at": "2026-09-17T21:25:58.252046+00:00"
+  },
+  {
+    "id": "669f7253c23356f7",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "استعراض قوة في أولاد تايمة: أشنكلي يؤكد جاهزية الأحرار لقيادة المرحلة ويعلن ثقته المطلقة في كفاءات الحزب | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D8%B3%D8%AA%D8%B9%D8%B1%D8%A7%D8%B6-%D9%82%D9%88%D8%A9-%D9%81%D9%8A-%D8%A3%D9%88%D9%84%D8%A7%D8%AF-%D8%AA%D8%A7%D9%8A%D9%85%D8%A9-%D8%A3%D8%B4%D9%86%D9%83%D9%84%D9%8A-%D9%8A%D8%A4%D9%83%D8%AF.html",
+    "author": "أكادير",
+    "published_at": "2026-09-16",
+    "first_seen_at": "2026-09-17T21:25:58.252046+00:00",
+    "last_checked_at": "2026-09-17T21:25:58.252046+00:00",
+    "language": "ar",
+    "excerpt": "في تجمع خطابي حاشد بمدينة أولاد تايمة، أطلق كريم أشنكلي، المنسق الجهوي لحزب التجمع الوطني للأحرار، رسائل سياسية قوية تعكس جاهزية الحزب وتنظيمه القوي لمواجهة",
+    "word_count": 219,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "أولاد تايمة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_006",
+          "name": "لحسن السعدي",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشحة"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش, كريم أشنكلي",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "high",
+        "positive_score": 11,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": [
+          "كفاءات",
+          "جاهزية",
+          "قيادة المرحلة"
+        ]
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "جاهزية"
+        ]
+      },
+      {
+        "target_id": "person_006",
+        "target_type": "person",
+        "target_name": "لحسن السعدي",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "إشادة",
+          "كفاءات"
+        ]
+      }
+    ],
+    "event_id": "evt_669f7253c233",
+    "stance_analyzed_at": "2026-09-17T21:25:58.252046+00:00"
+  },
+  {
+    "id": "5e3f59b12543f36f",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "نادية بودلال بوهدود: سأدافع بشراسة عن ملفات تارودانت ورأسي سيبقى مرفوعاً | agadir24.info",
+    "url": "https://agadir24.info/%D9%86%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A8%D9%88%D8%AF%D9%84%D8%A7%D9%84-%D8%A8%D9%88%D9%87%D8%AF%D9%88%D8%AF-%D8%B3%D8%A3%D8%AF%D8%A7%D9%81%D8%B9-%D8%A8%D8%B4%D8%B1%D8%A7%D8%B3%D8%A9-%D8%B9%D9%86-%D9%85.html",
+    "author": "أكادير",
+    "published_at": "2026-09-16",
+    "first_seen_at": "2026-09-17T21:25:58.252046+00:00",
+    "last_checked_at": "2026-09-17T21:25:58.252046+00:00",
+    "language": "ar",
+    "excerpt": "أكدت نادية بودلال بوهدود، مرشحة حزب التجمع الوطني للأحرار عن دائرة تارودانت الجنوبية، خلال مهرجان خطابي أقيم بمدينة أولاد تايمة، اعتزازها وفخرها الكبيرين بالانتماء لهذه",
+    "word_count": 202,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "أولاد تايمة",
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشحة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "مهرجان خطابي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "مواضيع سياسية: الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_5e3f59b12543",
+    "stance_analyzed_at": "2026-09-17T21:25:58.252046+00:00"
+  },
+  {
     "id": "4a20fac5ca3f0627",
     "source_id": "hespress",
     "source_name": "هسبريس",
