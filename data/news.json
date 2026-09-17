@@ -274,6 +274,255 @@
     "stance_analyzed_at": "2026-09-16T21:21:49.471590+00:00"
   },
   {
+    "id": "a2dcf5ab74137383",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "أكادير.. \"الأحرار\" يواصل حملته الميدانية ويعرض حصيلة أوراشه على الساكنة | agadir24.info",
+    "url": "https://agadir24.info/%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%AD%D9%85%D9%84%D8%AA%D9%87-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A.html",
+    "author": "أكادير",
+    "published_at": "2026-09-15",
+    "first_seen_at": "2026-09-17T04:57:00.071727+00:00",
+    "last_checked_at": "2026-09-17T04:57:00.071727+00:00",
+    "language": "ar",
+    "excerpt": "تتواصل بمدينة أكادير الدينامية الميدانية للحملة الانتخابية لحزب التجمع الوطني للأحرار، من خلال تنظيم جولات واسعة شملت مختلف الأحياء والمناطق، في أجواء طبعها التفاعل المباشر",
+    "word_count": 126,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_a2dcf5ab7413",
+    "stance_analyzed_at": "2026-09-17T04:57:00.071727+00:00"
+  },
+  {
+    "id": "b3a182037e2c2ebb",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "من تافراوت.. أخنوش يبرز المنجزات الحكومية ويدعو إلى التجديد السياسي",
+    "url": "https://www.hespress.com/%D9%85%D9%86-%D8%AA%D8%A7%D9%81%D8%B1%D8%A7%D9%88%D8%AA-%D8%A3%D8%AE%D9%86%D9%88%D8%B4-%D9%8A%D8%A8%D8%B1%D8%B2-%D8%A7%D9%84%D9%85%D9%86%D8%AC%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85-1808567.html",
+    "author": "هسبريس من الرباط",
+    "published_at": "2026-09-15",
+    "first_seen_at": "2026-09-17T04:57:00.071727+00:00",
+    "last_checked_at": "2026-09-17T04:57:00.071727+00:00",
+    "language": "ar",
+    "excerpt": "حل عزيز أخنوش، رئيس الحكومة والقيادي بحزب التجمع الوطني للأحرار، بمسقط رأسه بتافراوت، الأربعاء، في إطار الحملة الانتخابية للاستحقاقات التشريعية المقبلة، حيث استعرض حصيلة عدد",
+    "word_count": 403,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تافراوت"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "تزنيت",
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_084",
+          "name": "عبد الله غازي",
+          "tier": "secondary"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الإقليمي",
+            "مجلس الجهة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح",
+            "مرشحة"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "اعتبر"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 7,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 5,
+        "evidence": []
+      },
+      {
+        "target_id": "person_084",
+        "target_type": "person",
+        "target_name": "عبد الله غازي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_b3a182037e2c",
+    "stance_analyzed_at": "2026-09-17T04:57:00.071727+00:00"
+  },
+  {
     "id": "e8fa58ca8022ec20",
     "source_id": "agadir24",
     "source_name": "أكادير24",
