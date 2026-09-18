@@ -461,6 +461,107 @@
     "stance_analyzed_at": "2026-09-18T04:48:57.977792+00:00"
   },
   {
+    "id": "919b705c731e1f19",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "أربعة أيام قبل الصمت الانتخابي بسوس ماسة.. حين تطغى الدعاية والصور على البرامج | agadir24.info",
+    "url": "https://agadir24.info/%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9-%D8%A3%D9%8A%D8%A7%D9%85-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B5%D9%85%D8%AA-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D9%8A-%D8%A8%D8%B3%D9%88%D8%B3-%D9%85%D8%A7.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-09-17",
+    "first_seen_at": "2026-09-18T11:21:25.214087+00:00",
+    "last_checked_at": "2026-09-18T11:21:25.214087+00:00",
+    "language": "ar",
+    "excerpt": "لم يتبق، ابتداء من الجمعة 18 شتنبر 2026، سوى أربعة أيام على إسدال الستار عن الحملة الانتخابية الخاصة بانتخابات مجلس النواب، المقرر إجراؤها يوم الأربعاء",
+    "word_count": 1464,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "أكادير",
+        "أيت ملول"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها",
+        "تارودانت",
+        "طاطا"
+      ],
+      "secondary_places": [
+        "ماسة",
+        "أيت باها",
+        "إنزكان",
+        "تارودانت",
+        "طاطا"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "انتخابية",
+            "اقتراع",
+            "التصويت",
+            "صناديق الاقتراع"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية",
+            "برنامج انتخابي"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "عدد الأصوات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع, الحملة الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_919b705c731e",
+    "stance_analyzed_at": "2026-09-18T11:21:25.214087+00:00"
+  },
+  {
     "id": "75ea55ca52a28b93",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",

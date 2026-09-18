@@ -11506,5 +11506,61 @@
     "title": "مرسى المغرب تسعى لاستكمال الاستحواذ على 45% من شركة BMT المشغلة لتسع محطات مينائية إسبانية.. الصفقة تتحول إلى ملف سياسي وأمني في مدريد والكناري",
     "status": "excluded",
     "checked_at": "2026-09-18T04:48:57.977792+00:00"
+  },
+  "https://agadir24.info/%d8%a3%d8%b1%d8%a8%d8%b9%d8%a9-%d8%a3%d9%8a%d8%a7%d9%85-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%b5%d9%85%d8%aa-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a-%d8%a8%d8%b3%d9%88%d8%b3-%d9%85%d8%a7.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "أربعة أيام قبل الصمت الانتخابي بسوس ماسة.. حين تطغى الدعاية والصور على البرامج | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-18T11:21:25.214087+00:00"
+  },
+  "https://www.hespress.com/%d9%84%d8%b4%d9%83%d8%b1-%d8%a3%d9%86%d8%a7-%d8%a3%d9%82%d9%88%d9%89-%d9%85%d9%86-%d9%84%d9%82%d8%ac%d8%b9-%d9%88%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d8%ba%d9%8a%d8%b1-%d9%85%d8%aa%d9%88-1809137.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "لشكر: \"أنا أقوى من لقجع\".. وبنكيران غير متوازن لا يُصاحَب في الطريق",
+    "status": "excluded",
+    "checked_at": "2026-09-18T11:21:25.214087+00:00"
+  },
+  "https://ar.le360.ma/politique/6A6YTZWEV5C3NLUBDFJLWDFED4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع يهاجم من بوعرفة «منطق الغنائم» ويطالب بإنهاء عهد السماسرة في دعم الفلاحين",
+    "status": "excluded",
+    "checked_at": "2026-09-18T11:21:25.214087+00:00"
+  },
+  "https://ar.le360.ma/politique/4VHOJGKEYNGX7EAZXBGJK5D3SM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "جمعية هيئات المحامين تحسم في قرار مواصلة الإضراب",
+    "status": "excluded",
+    "checked_at": "2026-09-18T11:21:25.214087+00:00"
+  },
+  "https://ar.le360.ma/politique/3A5YRZ6F6RDC5AWSD473NAGYMQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "المنصوري تتوعد «الفراقشية» بشركات عمومية للتوزيع وتلتزم برفع الدعم إلى 1000 درهم",
+    "status": "excluded",
+    "checked_at": "2026-09-18T11:21:25.214087+00:00"
+  },
+  "https://fr.le360.ma/politique/femmes-et-elections-au-maroc-la-parite-ne-se-decrete-pas-elle-se-construit_WXPUUZNEJNFITAK34B3UDXVI5Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Femmes et élections au Maroc: la parité ne se décrète pas, elle se construit",
+    "status": "excluded",
+    "checked_at": "2026-09-18T11:21:25.214087+00:00"
+  },
+  "https://fr.le360.ma/politique/lutte-contre-le-discours-de-haine-le-leadership-du-roi-montre-la-voie-a-la-communaute-internationale_MX7NU4USHJCPDOUSNF2PLXWLM4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Lutte contre le discours de haine: le leadership du Roi montre la voie à la communauté internationale, selon Miguel Ángel Moratinos",
+    "status": "excluded",
+    "checked_at": "2026-09-18T11:21:25.214087+00:00"
+  },
+  "https://fr.le360.ma/politique/fatima-ezzahra-el-mansouri-le-droit-detre-premiere_XHVWCYCOKBC2DNSO74BEUCJBDY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fatima Ezzahra El Mansouri: le droit d’être première",
+    "status": "excluded",
+    "checked_at": "2026-09-18T11:21:25.214087+00:00"
   }
 }
