@@ -1,5 +1,466 @@
 [
   {
+    "id": "d92a0be44c5ef704",
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "الأحرار يحشد الآلاف بتارودانت.. والسعدي يدعو الشباب إلى المشاركة في الاقتراع (فيديو) - agadirino.ma",
+    "url": "https://agadirino.ma/2026/09/18/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D9%8A%D8%AD%D8%B4%D8%AF-%D8%A7%D9%84%D8%A2%D9%84%D8%A7%D9%81-%D8%A8%D8%AA%D8%A7%D8%B1%D9%88%D8%AF%D8%A7%D9%86%D8%AA-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D8%AF",
+    "author": "Driss Driss",
+    "published_at": "2026-09-17",
+    "first_seen_at": "2026-09-18T04:48:57.977792+00:00",
+    "last_checked_at": "2026-09-18T04:48:57.977792+00:00",
+    "language": "ar",
+    "excerpt": "أكد لحسن السعدي، القيادي بحزب التجمع الوطني للأحرار، خلال لقاء تواصلي بأولاد تايمة، أن الحزب يواصل الترافع عن قضايا إقليم تارودانت، مستحضراً عدداً من المشاريع",
+    "word_count": 81,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أولاد تايمة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_006",
+          "name": "لحسن السعدي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات الانتخابية",
+            "التصويت",
+            "الاستحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: لحسن السعدي",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_006",
+        "target_type": "person",
+        "target_name": "لحسن السعدي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_d92a0be44c5e",
+    "stance_analyzed_at": "2026-09-18T04:48:57.977792+00:00"
+  },
+  {
+    "id": "01cb5cf7d3e0695b",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "لحسن السعدي يؤكد من أولاد تايمة استمرار “الثورة التنموية” بتارودانت وصدارة الأحرار للتشريعيات المقبلة - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134549.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-17",
+    "first_seen_at": "2026-09-18T04:48:57.977792+00:00",
+    "last_checked_at": "2026-09-18T04:48:57.977792+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةلحسن السعدي يؤكد من أولاد تايمة استمرار “الثورة التنموية” بتارودانت وصدارة الأحرار للتشريعيات المقبلة أكد لحسن السعدي، عضو المكتب السياسي لحزب التجمع الوطني للأحرار،",
+    "word_count": 260,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "أولاد تايمة",
+        "تارودانت"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_006",
+          "name": "لحسن السعدي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "تشريعيات",
+            "انتخابات",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "اعتبر"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش, لحسن السعدي",
+        "مواضيع سياسية: الانتخابات والاقتراع, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": [
+          "كفاءات"
+        ]
+      },
+      {
+        "target_id": "person_006",
+        "target_type": "person",
+        "target_name": "لحسن السعدي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_01cb5cf7d3e0",
+    "stance_analyzed_at": "2026-09-18T04:48:57.977792+00:00"
+  },
+  {
+    "id": "c6e33d06dd43d90f",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أوجار: المرتبة الأولى لا تصنعها الصالونات.. و\"الأحرار\" سيتصدر الانتخابات",
+    "url": "https://www.hespress.com/%D8%A3%D9%88%D8%AC%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%84%D8%A7-%D8%AA%D8%B5%D9%86%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D9%88-1809167.html",
+    "author": "هسبريس",
+    "published_at": "2026-09-17",
+    "first_seen_at": "2026-09-18T04:48:57.977792+00:00",
+    "last_checked_at": "2026-09-18T04:48:57.977792+00:00",
+    "language": "ar",
+    "excerpt": "قال محمد أوجار، القيادي التجمعي عضو المكتب السياسي لحزب “RNI”، إن الأخير يدخل الاستحقاقات التشريعية المقبلة برهان تصدرها، معتبرا أن حصيلة الحكومة التي يقودها عزيز",
+    "word_count": 548,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "أولاد تايمة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات",
+            "الاستحقاقات الانتخابية",
+            "التصويت",
+            "صناديق الاقتراع"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "انتقد"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نتائج الانتخابات"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: الانتخابات والاقتراع, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 7,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 6,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_c6e33d06dd43",
+    "stance_analyzed_at": "2026-09-18T04:48:57.977792+00:00"
+  },
+  {
     "id": "75ea55ca52a28b93",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
@@ -1640,6 +2101,441 @@
     ],
     "event_id": "evt_5e3f59b12543",
     "stance_analyzed_at": "2026-09-17T21:25:58.252046+00:00"
+  },
+  {
+    "id": "71f8e65de244acb2",
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "أشنكلي: الأحرار تحمل المسؤولية في الأوقات الصعبة.. وهدفنا تصدر استحقاقات 23 شتنبر (فيديو) - agadirino.ma",
+    "url": "https://agadirino.ma/2026/09/17/%D8%A3%D8%B4%D9%86%D9%83%D9%84%D9%8A-%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D8%AA%D8%AD%D9%85%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%88",
+    "author": "Driss Driss",
+    "published_at": "2026-09-16",
+    "first_seen_at": "2026-09-18T04:48:57.977792+00:00",
+    "last_checked_at": "2026-09-18T04:48:57.977792+00:00",
+    "language": "ar",
+    "excerpt": "أكد كريم أشنكلي، المنسق الجهوي لحزب التجمع الوطني للأحرار، خلال تجمع انتخابي بأولاد تايمة، أن الحزب يخوض الاستحقاقات التشريعية المقبلة بمنطق التعبئة والعمل وتحمل المسؤولية.",
+    "word_count": 117,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "أولاد تايمة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_006",
+          "name": "لحسن السعدي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات",
+            "الاستحقاقات",
+            "انتخابات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "تجمع انتخابي"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش, كريم أشنكلي, لحسن السعدي",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 4,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "ثقة",
+          "أشاد"
+        ]
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_006",
+        "target_type": "person",
+        "target_name": "لحسن السعدي",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 4,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "ثقة",
+          "أشاد"
+        ]
+      }
+    ],
+    "event_id": "evt_71f8e65de244",
+    "stance_analyzed_at": "2026-09-18T04:48:57.977792+00:00"
+  },
+  {
+    "id": "aaae9d4622d48f82",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أخنوش بأولاد تايمة: لا تلتفتوا للمشوّشين.. وزيادات الأجور راعت التوازنات",
+    "url": "https://www.hespress.com/%D8%A3%D8%AE%D9%86%D9%88%D8%B4-%D8%A8%D8%A3%D9%88%D9%84%D8%A7%D8%AF-%D8%AA%D8%A7%D9%8A%D9%85%D8%A9-%D9%84%D8%A7-%D8%AA%D9%84%D8%AA%D9%81%D8%AA%D9%88%D8%A7-%D9%84%D9%84%D9%85%D8%B4%D9%88%D9%91%D8%B4-1809185.html",
+    "author": "هسبريس من أكادير",
+    "published_at": "2026-09-16",
+    "first_seen_at": "2026-09-18T04:48:57.977792+00:00",
+    "last_checked_at": "2026-09-18T04:48:57.977792+00:00",
+    "language": "ar",
+    "excerpt": "بدعوته إلى عدم الالتفات إلى “المشوّشين”، بتوصيفه، أنهى الرئيس السابق وعضو المكتب السياسي لحزب التجمع الوطني للأحرار ورئيس الحكومة، عزيز أخنوش، كلمة خطابية ألقاها أمام",
+    "word_count": 516,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "أولاد تايمة"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "تارودانت",
+        "أولوز",
+        "أيت باها",
+        "الكردان",
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة",
+            "الحصيلة الحكومية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "الترشح",
+            "رأس اللائحة"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "اللوائح الانتخابية"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 4,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_aaae9d4622d4",
+    "stance_analyzed_at": "2026-09-18T04:48:57.977792+00:00"
+  },
+  {
+    "id": "b3888d4240436382",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "المهاجري يطالب أخنوش بالرد على قضية «الفايق وشوكي و7 ملايير» ويواجهه بقرض أكادير",
+    "url": "https://ar.le360.ma/politique/SGZ3YDQY3VBORDQ42LQ7SRSHNM",
+    "author": "هيئة التحرير",
+    "published_at": "2026-09-16",
+    "first_seen_at": "2026-09-18T04:48:57.977792+00:00",
+    "last_checked_at": "2026-09-18T04:48:57.977792+00:00",
+    "language": "ar",
+    "excerpt": "واعتبر المهاجري، في كلمة ألقاها في لقاء حزبي بإقليم شيشاوة، أن المسار القضائي تحكمه قرينة البراءة والقواعد القانونية، فيما يبقى، حسب موقفه، الجواب السياسي مطلوبا",
+    "word_count": 745,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر",
+            "أكد"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "تجمع انتخابي"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: التصريحات والمواقف السياسية, السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 4,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_b3888d424043",
+    "stance_analyzed_at": "2026-09-18T04:48:57.977792+00:00"
   },
   {
     "id": "4a20fac5ca3f0627",
