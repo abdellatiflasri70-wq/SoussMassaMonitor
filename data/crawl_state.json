@@ -11639,5 +11639,75 @@
     "title": "إفلاس “لاسامير” يعيد صياغة سياسة الطاقة بالمغرب وسط خسائر اقتصادية وتعثر محاولات الإنقاذ",
     "status": "excluded",
     "checked_at": "2026-09-18T16:27:58.050763+00:00"
+  },
+  "https://www.chtoukapress.com/306884.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "سيدي بيبي.. رئيس المجلس يرد ببيان ناري على نائبه المستقيل",
+    "status": "accepted",
+    "checked_at": "2026-09-18T20:56:44.448271+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%b3%d9%87%d9%8a%d9%84%d8%a7%d8%aa-%d9%84%d9%84%d9%85%d9%88%d8%b8%d9%81%d9%8a%d9%86-%d9%84%d9%85%d9%85%d8%a7%d8%b1%d8%b3%d8%a9-%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-1809507.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "تسهيلات للموظفين للتصويت بالانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-09-18T20:56:44.448271+00:00"
+  },
+  "https://al3omk.com/1188877.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تحالف اليسار يدين تبادل السفراء مع إسرائيل ويدعو إلى “إسقاط التطبيع”",
+    "status": "excluded",
+    "checked_at": "2026-09-18T20:56:44.448271+00:00"
+  },
+  "https://al3omk.com/1188865.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "بسبب حكم قضائي.. عامل خنيفرة يرفض لائحة “الوحدة” للانتخابات التشريعية",
+    "status": "excluded",
+    "checked_at": "2026-09-18T20:56:44.448271+00:00"
+  },
+  "https://ar.le360.ma/politique/SEEQ6YR6VVBTBC4ZSM67NHI5S4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلمانية تطالب عمور بإنقاذ السياحة الداخلية وخفض كلفتها وتحسين عروضها للأسر المغربية",
+    "status": "excluded",
+    "checked_at": "2026-09-18T20:56:44.448271+00:00"
+  },
+  "https://fr.le360.ma/politique/elections-le-devoir-de-rendre-des-comptes_IPRDGMNWI5E5PNMD24SG3UHI2Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Élections: le devoir de rendre des comptes",
+    "status": "excluded",
+    "checked_at": "2026-09-18T20:56:44.448271+00:00"
+  },
+  "https://fr.le360.ma/politique/un-enregistrement-audio-secret-seme-le-trouble-dans-la-course-electorale-a-casablanca_7JV3OJSI6FDJHPDA3QKWU2BD7I": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Un enregistrement audio secret sème le trouble dans la course électorale à Casablanca",
+    "status": "excluded",
+    "checked_at": "2026-09-18T20:56:44.448271+00:00"
+  },
+  "https://fr.le360.ma/politique/grand-format-le360-legislatives-2026-en-cas-de-victoire-du-rni-le-pps-nenvisage-aucune-coalition_5BREA72XQZFARLCW5S6NX73YJQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Grand Format-Le360. Législatives 2026: «En cas de victoire du RNI, le PPS n’envisage aucune coalition gouvernementale», avertit Nabil Benabdallah",
+    "status": "excluded",
+    "checked_at": "2026-09-18T20:56:44.448271+00:00"
+  },
+  "https://fr.le360.ma/politique/elections-legislatives-2026-des-facilites-accordees-aux-salaries-et-fonctionnaires-pour-voter_VJSY7KWKX5AQBGDONNUCUDQKL4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Élections législatives 2026: des facilités accordées aux salariés et fonctionnaires pour voter",
+    "status": "excluded",
+    "checked_at": "2026-09-18T20:56:44.448271+00:00"
+  },
+  "https://fr.le360.ma/politique/sebta-comment-la-victoire-annoncee-des-droites-se-liquefie-a-la-lecture-de-la-resolution-du_27B7PTVPHFCR5HWPRSU62RMGLE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sebta: comment la «victoire» annoncée des droites se liquéfie à la lecture de la résolution du Parlement européen",
+    "status": "excluded",
+    "checked_at": "2026-09-18T20:56:44.448271+00:00"
   }
 }

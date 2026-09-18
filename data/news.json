@@ -562,6 +562,89 @@
     "stance_analyzed_at": "2026-09-18T11:21:25.214087+00:00"
   },
   {
+    "id": "4e924b2f4f5b72a2",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "سيدي بيبي.. رئيس المجلس يرد ببيان ناري على نائبه المستقيل",
+    "url": "https://www.chtoukapress.com/306884.html",
+    "author": "Amikkk",
+    "published_at": "2026-09-17",
+    "first_seen_at": "2026-09-18T20:56:44.448271+00:00",
+    "last_checked_at": "2026-09-18T20:56:44.448271+00:00",
+    "language": "ar",
+    "excerpt": "توصل موقع اشتوكة بريس ببيان توضيحي من رئيس المجلس الجماعي لسيدي بيبي، يرد فيه عن بيان سابق لنائبه الاول في المجلس، بعد تقديم الاخير لإستقالته",
+    "word_count": 814,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "سيدي بيبي"
+      ],
+      "secondary_provinces": [
+        "إنزكان أيت ملول"
+      ],
+      "secondary_places": [
+        "أيت باها",
+        "إنزكان"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "رئيس المجلس",
+            "المجلس الجماعي"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بيان"
+          ]
+        },
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "استقالة",
+            "استقالته"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي, التصريحات والمواقف السياسية, الاستقالة وتغيير الانتماء"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_4e924b2f4f5b",
+    "stance_analyzed_at": "2026-09-18T20:56:44.448271+00:00"
+  },
+  {
     "id": "75ea55ca52a28b93",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
