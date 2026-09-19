@@ -1,5 +1,259 @@
 [
   {
+    "id": "ddf21496c84ffa80",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "العثماني يؤطر مهرجانا خطابيا لحزب العدالة والتنمية بتيزنيت غدا الأحد | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A-%D9%8A%D8%A4%D8%B7%D8%B1-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86%D8%A7-%D8%AE%D8%B7%D8%A7%D8%A8%D9%8A%D8%A7-%D9%84%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D8%B9.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-09-18",
+    "first_seen_at": "2026-09-19T15:55:00.009938+00:00",
+    "last_checked_at": "2026-09-19T15:55:00.009938+00:00",
+    "language": "ar",
+    "excerpt": "يحل سعد الدين العثماني، رئيس الحكومة الأسبق والأمين العام السابق لحزب العدالة والتنمية، غدا الأحد 20 شتنبر 2026، بمدينة تيزنيت، لتأطير مهرجان خطابي ينظمه الحزب",
+    "word_count": 192,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها",
+        "تزنيت"
+      ],
+      "primary_places": [
+        "أكلو"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "اقتراع"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "مهرجان خطابي"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب العدالة والتنمية",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_ddf21496c84f",
+    "stance_analyzed_at": "2026-09-19T15:55:00.009938+00:00"
+  },
+  {
+    "id": "0500c2fa013f15a5",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "الانتخابات التشريعية.. منح التسهيلات للأطر والموظفين والأعوان من أجل ممارسة حقهم في التصويت - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134571.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-18",
+    "first_seen_at": "2026-09-19T15:55:00.009938+00:00",
+    "last_checked_at": "2026-09-19T15:55:00.009938+00:00",
+    "language": "ar",
+    "excerpt": "المجتمع والناسالانتخابات التشريعية.. منح التسهيلات للأطر والموظفين والأعوان من أجل ممارسة حقهم في التصويت أفاد بلاغ لرئاسة الحكومة أنه بمناسبة الانتخابات التشريعية لانتخاب أعضاء مجلس",
+    "word_count": 124,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت",
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع, السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_0500c2fa013f",
+    "stance_analyzed_at": "2026-09-19T15:55:00.009938+00:00"
+  },
+  {
+    "id": "e4db369b62f05106",
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "إدارة مستشفى أكادير توضح ملابسات ولادة سيدة قرب مدخل المؤسسة",
+    "url": "https://thepress.ma/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%AA%D9%88%D8%B6%D8%AD-%D9%85%D9%84%D8%A7%D8%A8%D8%B3%D8%A7%D8%AA-%D9%88%D9%84%D8%A7%D8%AF",
+    "author": "فرح بجدير",
+    "published_at": "2026-09-18",
+    "first_seen_at": "2026-09-19T15:55:00.009938+00:00",
+    "last_checked_at": "2026-09-19T15:55:00.009938+00:00",
+    "language": "ar",
+    "excerpt": "كشفت إدارة المجموعة الصحية الترابية لجهة سوس-ماسة تفاصيل واقعة ولادة سيدة بالقرب من أحد مداخل المركز الاستشفائي الجامعي محمد السادس بأكادير، وذلك عقب تداول معطيات",
+    "word_count": 210,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ",
+            "أكد"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_e4db369b62f0",
+    "stance_analyzed_at": "2026-09-19T15:55:00.009938+00:00"
+  },
+  {
     "id": "d92a0be44c5ef704",
     "source_id": "agadirino",
     "source_name": "أكاديرينو",
