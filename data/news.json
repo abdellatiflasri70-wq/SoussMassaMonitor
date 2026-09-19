@@ -1,5 +1,74 @@
 [
   {
+    "id": "6efdd2262e44135d",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بالصوت والصورة.. كل ما يخص عملية التصويت في الانتخابات البرلمانية",
+    "url": "https://www.chtoukapress.com/306909.html",
+    "author": null,
+    "published_at": "2026-09-19",
+    "first_seen_at": "2026-09-19T20:44:48.283763+00:00",
+    "last_checked_at": "2026-09-19T20:44:48.283763+00:00",
+    "language": "ar",
+    "excerpt": "ساعات قليلة تفصل المغرب عن العودة إلى توقيت غرينيتش ربورطاج القناة الأولى حول اللقاء التواصلي في دور الاعلام في مواكبة الجيل الجديد من… يونس مجاهد:",
+    "word_count": 133,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "إنزكان",
+        "الدشيرة الجهادية"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "أكادير",
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_6efdd2262e44",
+    "stance_analyzed_at": "2026-09-19T20:44:48.283763+00:00"
+  },
+  {
     "id": "ddf21496c84ffa80",
     "source_id": "agadir24",
     "source_name": "أكادير24",
@@ -252,6 +321,757 @@
     "stances": [],
     "event_id": "evt_e4db369b62f0",
     "stance_analyzed_at": "2026-09-19T15:55:00.009938+00:00"
+  },
+  {
+    "id": "8c28f60c1689ba10",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "بنكيران يحذر من عودة \"التحكم\"، و يقول: لم أعاين في حياتي مبلغ مليار، و أقصى ما حزته هو مبلغ 100 مليون | agadir24.info",
+    "url": "https://agadir24.info/%D8%A8%D9%86%D9%83%D9%8A%D8%B1%D8%A7%D9%86-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85%D8%8C-%D9%88-%D9%8A%D9%82%D9%88%D9%84-%D9%84%D9%85.html",
+    "author": "أكادير",
+    "published_at": "2026-09-18",
+    "first_seen_at": "2026-09-19T20:44:48.283763+00:00",
+    "last_checked_at": "2026-09-19T20:44:48.283763+00:00",
+    "language": "ar",
+    "excerpt": "في خطاب جماهيري حاشد أحيا أجواء السجال السياسي المحتدم، شهد مسرح الهواء الطلق بمدينة أكادير يوم السبت 19 شتنبر 2026 حشوداً غفيرة لمتابعة المهرجان الخطابي",
+    "word_count": 196,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_022",
+          "name": "عبد الإله بنكيران",
+          "tier": "priority"
+        },
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "صرح",
+            "أكد"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب العدالة والتنمية, حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: عبد الإله بنكيران, عزيز أخنوش"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_022",
+        "target_type": "person",
+        "target_name": "عبد الإله بنكيران",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_8c28f60c1689",
+    "stance_analyzed_at": "2026-09-19T20:44:48.283763+00:00"
+  },
+  {
+    "id": "774b1c7665cdb6cc",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "«الأصالة والمعاصرة» بسوس ماسة يعلن اللجوء إلى القضاء بعد أحداث بمقره في أكادير | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D9%84%D8%A3%D8%B5%D8%A7%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%D8%A9-%D8%A8%D8%B3%D9%88%D8%B3-%D9%85%D8%A7%D8%B3%D8%A9-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84.html",
+    "author": "عبدالله بن عيسى",
+    "published_at": "2026-09-18",
+    "first_seen_at": "2026-09-19T20:44:48.283763+00:00",
+    "last_checked_at": "2026-09-19T20:44:48.283763+00:00",
+    "language": "ar",
+    "excerpt": "أعلنت الأمانة العامة الجهوية لحزب الأصالة والمعاصرة بجهة سوس ماسة عزمها سلوك المساطر القانونية والقضائية، على خلفية أحداث قالت إنها شهدت «استفزازات واعتداءات» استهدفت مقر",
+    "word_count": 281,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة",
+        "أورير",
+        "تغازوت"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ",
+            "أكد"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_774b1c7665cd",
+    "stance_analyzed_at": "2026-09-19T20:44:48.283763+00:00"
+  },
+  {
+    "id": "bcd45aae76c790d9",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "عبد الإله بنكيران من أكادير: \"دينكم مستهدف\".. والعدالة والتنمية مستمر في مسيرته رغم المؤامرات | agadir24.info",
+    "url": "https://agadir24.info/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%A5%D9%84%D9%87-%D8%A8%D9%86%D9%83%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D9%86-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%AF%D9%8A%D9%86%D9%83%D9%85-%D9%85%D8%B3%D8%AA.html",
+    "author": "أكادير",
+    "published_at": "2026-09-18",
+    "first_seen_at": "2026-09-19T20:44:48.283763+00:00",
+    "last_checked_at": "2026-09-19T20:44:48.283763+00:00",
+    "language": "ar",
+    "excerpt": "في مهرجان خطابي حاشد شهد إقبالاً جماهيرياً غفيراً بمسرح الهواء الطلق بمدينة أكادير اليوم السبت 19 سبتمبر 2026، وجه عبد الإله بنكيران، الأمين العام لحزب",
+    "word_count": 160,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_022",
+          "name": "عبد الإله بنكيران",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "مهرجان خطابي"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب العدالة والتنمية",
+        "شخصيات رئيسية: عبد الإله بنكيران"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_022",
+        "target_type": "person",
+        "target_name": "عبد الإله بنكيران",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 3,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_bcd45aae76c7",
+    "stance_analyzed_at": "2026-09-19T20:44:48.283763+00:00"
+  },
+  {
+    "id": "7736d89af60c4d43",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "حزب العدالة والتنمية بأكادير يفتح النار على \"حكومة الكفاءات\" ويرد على محاولات التشويش | agadir24.info",
+    "url": "https://agadir24.info/%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A8%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D9%8A%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%86.html",
+    "author": "أكادير",
+    "published_at": "2026-09-18",
+    "first_seen_at": "2026-09-19T20:44:48.283763+00:00",
+    "last_checked_at": "2026-09-19T20:44:48.283763+00:00",
+    "language": "ar",
+    "excerpt": "شهد مسرح الهواء الطلق بمدينة أكادير، اليوم السبت 19 شتنبر 2026، تنظيم مهرجان خطابي حاشد لحزب العدالة والتنمية، خُصص لتفكيك حصيلة الأغلبية الحكومية والمحلية، واستعراض",
+    "word_count": 280,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_103",
+          "name": "محمد باكيري",
+          "tier": "manual_unverified"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_099",
+          "name": "سناء عكي",
+          "tier": "secondary"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت",
+            "صناديق الاقتراع"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "مهرجان خطابي"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "الأغلبية الحكومية"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "رئيس الجماعة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب العدالة والتنمية, التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش, محمد باكيري"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 1,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "تراجع"
+        ]
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_103",
+        "target_type": "person",
+        "target_name": "محمد باكيري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_099",
+        "target_type": "person",
+        "target_name": "سناء عكي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_7736d89af60c",
+    "stance_analyzed_at": "2026-09-19T20:44:48.283763+00:00"
+  },
+  {
+    "id": "33b044dbf70bbda4",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "رسالة من العدالة والتنمية بأكادير : حان الوقت ليعود الوهج للمصباح وينهي عصر \"الفراقشية\" | agadir24.info",
+    "url": "https://agadir24.info/%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A8%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%AD%D8%A7%D9%86.html",
+    "author": "أكادير",
+    "published_at": "2026-09-18",
+    "first_seen_at": "2026-09-19T20:44:48.283763+00:00",
+    "last_checked_at": "2026-09-19T20:44:48.283763+00:00",
+    "language": "ar",
+    "excerpt": "أكد أحمد أدراق، الكاتب الجهوي لحزب العدالة والتنمية، أن الحضور الجماهيري المكثف في المهرجان الخطابي الحاشد المنظم اليوم السبت 19 سبتمبر، يبعث بروافض حاسمة لكل",
+    "word_count": 116,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب العدالة والتنمية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_33b044dbf70b",
+    "stance_analyzed_at": "2026-09-19T20:44:48.283763+00:00"
+  },
+  {
+    "id": "0d5a481e6f910573",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "حزب الأصالة والمعاصرة يندد بـ”اعتداءات” على مناضليه بأكادير ويهدد باللجوء إلى القضاء",
+    "url": "https://al3omk.com/1189139.html",
+    "author": "حفيظ مركوك",
+    "published_at": "2026-09-18",
+    "first_seen_at": "2026-09-19T20:44:48.283763+00:00",
+    "last_checked_at": "2026-09-19T20:44:48.283763+00:00",
+    "language": "ar",
+    "excerpt": "نددت الأمانة الجهوية لحزب الأصالة والمعاصرة بجهة سوس ماسة بما وصفته بـ”استفزازات واعتداءات” طالت مناضلي الحزب ومتضامنيه، وذلك خلال مسيرة نظمها الحزب بحي السلام بأكادير،",
+    "word_count": 299,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها",
+        "تارودانت",
+        "طاطا"
+      ],
+      "secondary_places": [
+        "ماسة",
+        "أورير",
+        "أيت باها",
+        "أيت ملول",
+        "إنزكان"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ",
+            "اعتبر"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "مواضيع سياسية: الحملة الانتخابية, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_0d5a481e6f91",
+    "stance_analyzed_at": "2026-09-19T20:44:48.283763+00:00"
   },
   {
     "id": "d92a0be44c5ef704",
