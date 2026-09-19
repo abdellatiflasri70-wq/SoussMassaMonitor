@@ -11709,5 +11709,54 @@
     "title": "Sebta: comment la «victoire» annoncée des droites se liquéfie à la lecture de la résolution du Parlement européen",
     "status": "excluded",
     "checked_at": "2026-09-18T20:56:44.448271+00:00"
+  },
+  "https://www.chtoukapress.com/306905.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "منح تسهيلات للأطر والموظفين والأعوان من أجل ممارسة حقهم في التصويت",
+    "status": "excluded",
+    "checked_at": "2026-09-19T04:41:49.219993+00:00"
+  },
+  "https://alyaoum24.com/2044954.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "نقابي يحذر من وعد « البام » بمجانية الكهرباء في حدود 100 درهم – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-19T04:41:49.219993+00:00"
+  },
+  "https://ar.le360.ma/politique/LAO3LLNIK5AGRN5AABXVVUUIPI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع من بركان: رفع دعم الأسر إلى 1000 درهم ومعاشات المتقاعدين إلى 3000 درهم في صلب البرنامج الاجتماعي للجرار",
+    "status": "excluded",
+    "checked_at": "2026-09-19T04:41:49.219993+00:00"
+  },
+  "https://www.hespress.com/%d8%a3%d9%88%d8%ac%d8%a7%d8%b1-%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%aa%d8%ad%d8%aa-%d8%a7%d9%84%d8%b4%d9%85-1808995.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أوجار: علاقات المغرب وإسرائيل \"تحت الشمس\".. والتقاطب مع \"البام\" غريب",
+    "status": "excluded",
+    "checked_at": "2026-09-19T04:41:49.219993+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%86%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d8%ba%d8%b6%d8%a8-%d8%b4%d8%b9%d8%a8%d9%8a-%d9%8a%d9%84%d8%a7%d8%ad%d9%82-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad-1809672.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بنعبد الله: غضب شعبي يلاحق الأغلبية الحكومية.. والإدارة الترابية محايدة",
+    "status": "excluded",
+    "checked_at": "2026-09-19T04:41:49.219993+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d9%8a%d8%ad%d8%b0%d8%b1-%d8%a8%d8%a7%d9%84%d8%b9%d9%8a%d9%88%d9%86-%d9%85%d9%86-%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%a3%d8%b5%d9%88%d8%a7%d8%aa-%d9%88-1809638.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بنكيران يحذر بالعيون من شراء الأصوات ويدعو إلى التغيير عبر الانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-09-19T04:41:49.219993+00:00"
+  },
+  "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a%d8%a9-%d9%8a%d8%aa%d8%b9%d9%87%d8%af-%d8%a8%d8%ae%d9%81%d8%b6-%d8%b6%d8%b1-1809620.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "حزب \"التقدم والاشتراكية\" يتعهد بخفض ضرائب المقاولات الصغرى بالمغرب",
+    "status": "excluded",
+    "checked_at": "2026-09-19T04:41:49.219993+00:00"
   }
 }
