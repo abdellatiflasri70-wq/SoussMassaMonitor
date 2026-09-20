@@ -69,6 +69,102 @@
     "stance_analyzed_at": "2026-09-19T20:44:48.283763+00:00"
   },
   {
+    "id": "883c9b0097f7c4dd",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "«الأحرار» بأكادير يناقش حصيلة قطاع التعليم بحضور أطر تربوية وجامعية | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1-%D8%A8%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84.html",
+    "author": "أكادير",
+    "published_at": "2026-09-19",
+    "first_seen_at": "2026-09-20T11:30:21.830981+00:00",
+    "last_checked_at": "2026-09-20T11:30:21.830981+00:00",
+    "language": "ar",
+    "excerpt": "نظم حزب التجمع الوطني للأحرار بأكادير إداوتنان، أمس السبت، لقاء إقليميا خصص لمناقشة حصيلة العمل الحكومي في قطاع التربية والتكوين ومستقبل المدرسة العمومية، بمشاركة نساء",
+    "word_count": 227,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشحة"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_883c9b0097f7",
+    "stance_analyzed_at": "2026-09-20T11:30:21.830981+00:00"
+  },
+  {
     "id": "ddf21496c84ffa80",
     "source_id": "agadir24",
     "source_name": "أكادير24",
@@ -1072,6 +1168,135 @@
     ],
     "event_id": "evt_0d5a481e6f91",
     "stance_analyzed_at": "2026-09-19T20:44:48.283763+00:00"
+  },
+  {
+    "id": "28887c343e074d42",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "أخنوش يكثف تحركاته الميدانية بشمال أكادير، ويعزز حضور الأحرار في سوس ماسة | agadir24.info",
+    "url": "https://agadir24.info/%D8%A3%D8%AE%D9%86%D9%88%D8%B4-%D9%8A%D9%83%D8%AB%D9%81-%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B4%D9%85%D8%A7%D9%84-%D8%A3%D9%83.html",
+    "author": "أكادير",
+    "published_at": "2026-09-18",
+    "first_seen_at": "2026-09-20T11:30:21.830981+00:00",
+    "last_checked_at": "2026-09-20T11:30:21.830981+00:00",
+    "language": "ar",
+    "excerpt": "في إطار تعزيز التواصل المباشر مع الساكنة المحلية وترسيخ سياسة القرب، قاد رئيس حزب التجمع الوطني للأحرار، عزيز أخنوش، جولة ميدانية موسعة بنفوذ عمالة أكادير",
+    "word_count": 173,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة",
+        "أورير",
+        "تغازوت"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_039",
+          "name": "رشيد بوخنفر",
+          "tier": "secondary"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "شخصيات رئيسية: عزيز أخنوش"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_039",
+        "target_type": "person",
+        "target_name": "رشيد بوخنفر",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_28887c343e07",
+    "stance_analyzed_at": "2026-09-20T11:30:21.830981+00:00"
   },
   {
     "id": "d92a0be44c5ef704",
