@@ -12066,5 +12066,61 @@
     "title": "Le prix des alliances: la liberté de décision",
     "status": "excluded",
     "checked_at": "2026-09-20T11:30:21.830981+00:00"
+  },
+  "https://agadir24.info/%d8%ad%d8%b6%d9%88%d8%b1-%d9%86%d8%ac%d9%84-%d8%a8%d9%84%d9%81%d9%82%d9%8a%d9%87-%d9%81%d9%8a-%d9%84%d9%82%d8%a7%d8%a1-%d8%a8%d8%a7%d9%8a%d8%aa%d8%a7%d8%b3-%d8%ad%d8%b6%d9%88%d8%b1-%d9%8a%d8%ad%d9%8a.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "حضور نجل بلفقيه في لقاء بايتاس: حضور يحيي الذاكرة، ورسائل سياسية تتجاوز اللقاء التواصلي | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-09-20T16:11:07.508675+00:00"
+  },
+  "https://agadirinfo.ma/134581.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "في مبادرة متميزة وسط زخم الحملة … الأحرار بأكادير يفتحون نقاش التعليم بحضور نساء ورجال التعليم - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-20T16:11:07.508675+00:00"
+  },
+  "https://www.hespress.com/%d9%82%d8%a8%d9%84-%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%b9-23-%d8%b4%d8%aa%d9%86%d8%a8%d8%b1-%d9%85%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%aa%d9%8a%d8%b3%d9%8a%d8%b1-%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%a7-1810311.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "قبل اقتراع 23 شتنبر.. مطالب بتيسير تصويت الأشخاص في وضعية إعاقة",
+    "status": "excluded",
+    "checked_at": "2026-09-20T16:11:07.508675+00:00"
+  },
+  "https://al3omk.com/1189207.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "“البام” بقرية با محمد يمتنع عن دعم حجيرة والأخير يتهمه بـ”الابتزاز وانتحال الصفة”",
+    "status": "excluded",
+    "checked_at": "2026-09-20T16:11:07.508675+00:00"
+  },
+  "https://al3omk.com/1189208.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "المقاعد الثلاثة بالعيون.. من ينجح في إقناع الناخب؟",
+    "status": "excluded",
+    "checked_at": "2026-09-20T16:11:07.508675+00:00"
+  },
+  "https://ar.le360.ma/politique/PCX2ITX7S5FAZJOW2LPV257YIM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "نزار بركة: في حال فوزنا سنقدم لأول مرة مشروع قانون للتصدي لتضارب المصالح أمام البرلمان",
+    "status": "excluded",
+    "checked_at": "2026-09-20T16:11:07.508675+00:00"
+  },
+  "https://fr.le360.ma/politique/a-ouarzazate-fouzi-lekjaa-fixe-les-priorites-du-pam-a-lhorizon-2031_V56BTGN35NDHTAIER4LJNVDVLA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "À Ouarzazate, Fouzi Lekjaa fixe les priorités du PAM à l’horizon 2031",
+    "status": "excluded",
+    "checked_at": "2026-09-20T16:11:07.508675+00:00"
+  },
+  "https://fr.le360.ma/politique/nizar-baraka-promet-une-loi-sur-les-conflits-dinterets-en-cas-de-victoire-de-listiqlal_VXQNGZPGUZFH5OI7W6XSPQQB5Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Nizar Baraka promet une loi sur les conflits d’intérêts en cas de victoire de l’Istiqlal",
+    "status": "excluded",
+    "checked_at": "2026-09-20T16:11:07.508675+00:00"
   }
 }

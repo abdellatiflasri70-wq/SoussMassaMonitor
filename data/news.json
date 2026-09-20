@@ -165,6 +165,88 @@
     "stance_analyzed_at": "2026-09-20T11:30:21.830981+00:00"
   },
   {
+    "id": "1b480792773c47c5",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "في مبادرة متميزة وسط زخم الحملة … الأحرار بأكادير يفتحون نقاش التعليم بحضور نساء ورجال التعليم - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134581.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-19",
+    "first_seen_at": "2026-09-20T16:11:07.508675+00:00",
+    "last_checked_at": "2026-09-20T16:11:07.508675+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةفي مبادرة متميزة وسط زخم الحملة … الأحرار بأكادير يفتحون نقاش التعليم بحضور نساء ورجال التعليم واصل حزب التجمع الوطني للأحرار بأكادير إداوتنان تعزيز",
+    "word_count": 221,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_1b480792773c",
+    "stance_analyzed_at": "2026-09-20T16:11:07.508675+00:00"
+  },
+  {
     "id": "ddf21496c84ffa80",
     "source_id": "agadir24",
     "source_name": "أكادير24",
