@@ -12325,5 +12325,243 @@
     "title": "قراءة تحليلية في البرامج الانتخابية للأحزاب المغربية على ضوء استحقاقات 23 شتنبر 2026",
     "status": "excluded",
     "checked_at": "2026-09-21T12:54:32.116160+00:00"
+  },
+  "https://agadir24.info/%d9%85%d8%b1%d8%b4%d8%ad-%d8%b9%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d8%a9-%d9%8a%d8%af%d8%b9%d9%88-%d8%a7%d9%84%d9%86%d8%a7%d8%ae%d8%a8%d9%8a%d9%86-%d8%a5.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "مرشح عن الحركة الشعبية يدعو الناخبين إلى عدم التصويت له احتجاجاً على دعم حملته | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://taroudantalaan.ma/politique/%d9%84%d9%82%d8%a7%d8%a1-%d8%b3%d9%8a%d8%af%d9%8a-%d8%a8%d9%88%d9%85%d9%88%d8%b3%d9%89-%d8%ad%d9%85%d9%8a%d8%af-%d8%a7%d9%84%d9%85%d8%a7%d8%b3%d9%8a-%d9%8a%d8%aa%d9%81%d8%a7%d8%b9%d9%84-%d9%85%d8%b9": {
+    "source_id": "taroudantalaan",
+    "source_name": "تارودانت الآن",
+    "title": "لقاء سيدي بوموسى.. حميد الماسي يتفاعل مع مطالب الساكنة ويطرح تعهدات انتخابية | تارودانت الآن الإخبارية",
+    "status": "accepted",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://agadirinfo.ma/134643.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "ناصر بوريطة يتباحث بنيويورك مع الممثلة السامية للاتحاد الأوروبي للشؤون الخارجية والسياسة الأمنية - أكادير انفو - Agadir info",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://agadirinfo.ma/134618.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "تارودانت الشمالية … السعدي مرشح الأحرار يشيد بنضج الحملة ويؤكد : لقاءاتنا كانت عنواناً للاحترام وتقديم الحصيلة والاستماع للمواطنين - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%b7%d8%b9%d9%88%d9%86-%d8%aa%d8%af%d8%ae%d9%84-%d9%85%d8%a8%d9%83%d8%b1%d8%a7-%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d9%88%d9%84%d8%ac%d8%a7-1810900.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "الطعون تدخل مبكرا حسابات الأحزاب .. ولجان يقظة تواكب اقتراع 23 شتنبر",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%a8%d8%b9%d8%ab%d8%a7%d8%aa-%d8%af%d9%88%d9%84%d9%8a%d8%a9-%d8%aa%d8%aa%d8%a7%d8%a8%d8%b9-%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%b9-23-%d8%b4-1810806.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. بعثات دولية تتابع \"اقتراع 23 شتنبر\" في المغرب",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://alyaoum24.com/2045421.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "تحالف اليسار يدين الاعتداء على وكيل لائحته بجرادة – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d8%b3%d8%a8%d8%a8-%d8%b5%d8%b1%d8%a7%d8%b9-%d8%a3%d8%ac%d9%86%d8%ad%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a9-%d9%88%d8%a7%d9%84%d8%b6%d8%ba%d9%88%d8%b7-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بسبب صراع أجنحة السلطة والضغوط الاقتصادية وتراجع احتياطات الصرف.. تقرير يحذر الجزائر من أزمة خانقة قد تدفعها للاقتراض من روسيا والصين وصندوق النقد الدولي",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://thepress.ma/%d8%aa%d9%88%d9%82%d9%8a%d9%81-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a5%d8%b0%d8%a7%d8%b9%d9%8a-%d9%84%d9%85%d8%af%d8%a9-%d8%b4%d9%87%d8%b1-%d8%a8%d8%b3%d8%a8%d8%a8-%d9%85%d8%ae%d8%a7%d9%84%d9%81": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "توقيف برنامج إذاعي لمدة شهر بسبب مخالفات انتخابية ودينية",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://thepress.ma/%d8%a3%d8%b7%d8%a8%d8%a7%d8%a1-%d9%85%d9%82%d9%8a%d9%85%d9%88%d9%86-%d8%a8%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d9%8a%d8%b3%d8%aa%d9%86%d9%83%d8%b1%d9%88%d9%86-%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%af": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "أطباء مقيمون بأكادير يستنكرون الاعتداء على طبيب داخل مؤسسة استشفائية",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://al3omk.com/1189677.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الحملة الانتخابية باعتبارها واقعة سوسيولوجية",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://al3omk.com/1189672.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "صندوق 23 شتنبر.. أزمة النخب السياسية.. عندما تصبح صفة «مقاول» بطاقة انتخابية (2)",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://al3omk.com/1189657.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "من ينتصر على من؟ قراءة تحليلية لاستحقاقات 23 شتنبر 2026",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://al3omk.com/1189649.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "فاطمة الزهراء المنصوري وفوزي لقجع و البام: ماذا لو تجرأنا على السيناريو الأكثر طموحاً؟",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://al3omk.com/1189647.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "خصوصية الحملات الانتخابية للأحزاب في تشريعيات 23 شتنبر 2026 (1)",
+    "status": "accepted",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://al3omk.com/1189580.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الامتناع عن التصويت باعتباره سلوكا سياسيا",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://al3omk.com/1189609.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أنا أكتب عن انتخابات المغرب لأنني قلق!",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://ar.le360.ma/politique/HD6TW4NRZVDF3MIC22JTE2B2ZA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "هل يحق لحزب أخنوش الذي لم يف بوعوده لخمس سنوات أن يقدم وعودا جديدة؟",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://ar.le360.ma/politique/JHX6KEV26NCI3F5QOTXOVTSLEQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "من الأسواق الأسبوعية إلى الدواوير.. الحملة الانتخابية في إقليم صفرو تلامس انتظارات العالم القروي",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://ar.le360.ma/politique/C7EZYX3LBRDDZJWSNJTWGXK6EI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انتخاب الغزيوي رئيسا للمجلس الوطني للصحافة",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://ar.le360.ma/politique/65JZ5QQXBFCA7AAZLVLQDFM4LM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انتخابات 2026: الداخلية تشدد على تسليم محاضر التصويت لممثلي لوائح الترشيح",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://ar.le360.ma/politique/ZVBGRU4V65GCFCHFJ6KRMUCVJU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بويغديمونت يصف سبتة ومليلية بـ«المستعمرتين» ويدعو إلى حسم مصيرهما عبر الاستفتاء",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://ar.le360.ma/politique/WVN5YJSKVZDVNBA4D3W3AZNPOU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "تعبئة مكثفة بالعالم القروي مع اقتراب يوم الاقتراع بإقليم الحسيمة",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://ar.le360.ma/politique/J7ERMZBARFGDREKNQIFDO4A6AE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلمانية تطالب السكوري بتوفير التغطية الصحية والتقاعد للنساء العاملات في القطاع غير المهيكل بالشمال",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://fr.le360.ma/politique/violences-electorales-au-maroc-des-mineurs-fauches-lors-dune-altercation-politique-dans-la-region-de_MLYBYZ3VEFHV3OQV4MFQC5675A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Violences électorales au Maroc: des mineurs fauchés lors d’une altercation politique dans la région de Khémisset",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-le-sprint-final-est-lance_BLUIUIKIQNDCJITPTMWLXMRNYA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: le sprint final est lancé",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://fr.le360.ma/politique/grand-format-le360-legislatives-2026-driss-el-azami-expose-les-ambitions-et-les-priorites-du-pjd_MUFIZDMFIND33HUMVWXGEI23CU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Grand Format-Le360. Législatives 2026: Driss El Azami expose les ambitions et les priorités du PJD",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://fr.le360.ma/politique/lombre-de-reseaux-algeriens-plane-sur-une-nouvelle-vague-de-migration-vers-le-preside-occupe-de_4WCYBESFEBCNRLA64FHCTIHK2M": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "L’ombre de réseaux algériens plane sur une nouvelle vague de migration vers le préside occupé de Sebta",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://fr.le360.ma/politique/agadir-au-coeur-dune-bataille-electorale-decisive_FBUATIEX2BELFF57MB4EHMYYVM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Agadir au cœur d’une bataille électorale décisive",
+    "status": "accepted",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://fr.le360.ma/politique/mokhtar-laghzioui-elu-a-la-tete-du-conseil-national-de-la-presse_YHCLBZJLFFHXDDOPMZOLUYHUUI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "El Mokhtar Laghzioui élu à la tête du Conseil national de la presse",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://fr.le360.ma/politique/legslatives-2026-laftit-rappelle-aux-walis-et-gouverneurs-les-regles-de-remise-des-proces-verbaux_5AMMC65N6FDHDNDOHSGZQI7ALI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Légslatives 2026: Laftit rappelle aux walis et gouverneurs les règles de remise des procès-verbaux",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://fr.le360.ma/politique/le-rni-le-parti-dakhannouch-qui-na-pas-tenu-ses-engagements-pendant-cinq-ans-est-il-legitime-a-faire_W2QMVHSVPFA2JCSRWU7PCUFDCQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le RNI, le parti d’Akhannouch qui n’a pas tenu ses engagements pendant cinq ans, est-il légitime à faire de nouvelles promesses?",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://fr.le360.ma/politique/quand-les-tracts-retombent-que-reste-t-il-de-lexemple_LT6V2R6UZZDANKMLKR3WRU6M7Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Quand les tracts retombent, que reste-t-il de l’exemple?",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-des-garde-fous-renforces-pour-mieux-encadrer-et-moraliser-le-scrutin_HX2C32A5TVAGNMPOEZWKY3NURE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: des garde-fous renforcés pour mieux encadrer et moraliser le scrutin",
+    "status": "excluded",
+    "checked_at": "2026-09-21T22:00:25.830107+00:00"
   }
 }
