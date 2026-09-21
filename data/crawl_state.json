@@ -12150,5 +12150,47 @@
     "title": "La présidence du gouvernement mobilise administrations et entreprises pour garantir le droit de vote des salariés",
     "status": "excluded",
     "checked_at": "2026-09-20T20:52:06.260339+00:00"
+  },
+  "https://www.chtoukapress.com/306926.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "إدانة مدرب وطني سابق لكرة القدم في قضية دعارة والفساد",
+    "status": "excluded",
+    "checked_at": "2026-09-21T05:01:55.900607+00:00"
+  },
+  "https://www.hespress.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%af%d8%b9%d9%88-%d9%85%d9%86-%d8%a8%d9%88%d8%b2%d9%86%d9%8a%d9%82%d8%a9-%d8%a5%d9%84%d9%89-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1-%d9%83-1810630.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "لقجع يدعو من بوزنيقة إلى \"تغيير المسار كاملا\" في تدبير الشأن العام",
+    "status": "excluded",
+    "checked_at": "2026-09-21T05:01:55.900607+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%86%d8%b3%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a%d9%86-%d9%85%d9%85%d9%83%d9%86-%d9%88%d8%a7%d9%84%d8%a8%d8%a7-1810627.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بنسعيد: الحوار مع المحامين ممكن.. و\"البام\" لم يتبرأ من حصيلة الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-09-21T05:01:55.900607+00:00"
+  },
+  "https://www.hespress.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%8a%d9%86%d8%aa%d9%82%d8%af-%d9%85%d8%b1%d9%88%d8%ac%d9%8a-%d8%a7%d9%84%d9%88%d8%b9%d9%88%d8%af-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-%d9%88-1810507.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أخنوش ينتقد مروجي الوعود الانتخابية .. ويوصي \"الأحرار\" بالسير بِهدوء",
+    "status": "excluded",
+    "checked_at": "2026-09-21T05:01:55.900607+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%86%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d9%8a%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%b9%d9%82%d8%a7%d8%a8%d9%8a-%d8%b6%d8%af-%d8%a3%d8%ad%d8%b2%d8%a7-1810499.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بنعبد الله يدعو إلى تصويت عقابي ضد أحزاب حكومة \"تضارب المصالح\"",
+    "status": "excluded",
+    "checked_at": "2026-09-21T05:01:55.900607+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d9%86%d8%aa%d9%82%d8%af-%d8%a7%d9%84%d8%aa%d8%a8%d8%a7%d9%87%d9%8a-%d8%a8%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d8%a7%d8%b2%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%a7%d8%aa%d9%81": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع ينتقد التباهي بالإنجازات والاتفاقيات: اللي دار هو للمغرب واللي تيربحو هما المغاربة",
+    "status": "excluded",
+    "checked_at": "2026-09-21T05:01:55.900607+00:00"
   }
 }
