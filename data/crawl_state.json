@@ -12738,5 +12738,103 @@
     "title": "تشريعيات 2026: من فرجة الحملة إلى لحظة التصويت",
     "status": "excluded",
     "checked_at": "2026-09-22T17:00:04.309332+00:00"
+  },
+  "https://alyaoum24.com/2045753.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "من الحملة الانتخابية إلى الصمت الانتخابي… ساعات تفصل المغرب عن يوم الاقتراع – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/682673-elections-2026-fouzi-lekjaa-appelle-les-marocains-a-voter-massivement.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Elections 2026 : Fouzi Lekjaa appelle les Marocains à voter massivement",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/682671-le-maroc-aux-urnes-ce-quil-faut-savoir-sur-les-legislatives.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Le Maroc aux urnes : ce qu’il faut savoir sur les législatives",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d9%88%d8%a7%d9%84%d9%82%d8%af%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a6%d9%8a%d8%a9-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1%d8%a7%d9%86-%d9%88%d8%b9%d9%88-1811396.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "التشغيل والقدرة الشرائية يتصدران وعود الأحزاب قبل اقتراع 23 شتنبر",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d9%86-%d8%a7%d9%84%d9%86%d8%a7%d8%ae%d8%a8%d9%8a%d9%86-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%ad%d9%8a%d9%86-%d8%a3%d8%b1%d9%82%d8%a7%d9%85-%d8%aa%d8%b1%d8%b3%d9%85-%d8%ae-1811347.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "من الناخبين إلى المرشحين .. أرقام ترسم خريطة اقتراع 23 شتنبر بالمغرب",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://al3omk.com/1189927.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "حزب الاستقلال: أكثر من أربعة آلاف شاب طلبوا الالتحاق بصفوفنا في ظرف أسبوع",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%aa%d9%86%d8%b8%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d8%a9-%d9%88%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d8%a7%d9%86%d8%aa": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "التنظمات السياسية الصغيرة ومعركة انتخابات 2026.. مساحات جديدة داخل البرلمان أم انقراض على يد الأحزاب الكبرى؟",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://ar.le360.ma/politique/KMUKR5FCHJGRNCQTVNGSYVEE4E": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "تشريعيات 2026: النيابة العامة تبت في 92% من الشكايات وتلاحق الاستغلال الدعائي لدور العبادة",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://ar.le360.ma/politique/OFXFIULCERDDFJW4D76FF7R6UU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "تشريعيات 2026: لقجع يختتم الحملة الانتخابية لـ«البام» من الدار البيضاء",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://ar.le360.ma/politique/ZKVK5V4X3FBG5FJ5RHNRNZLU5M": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "برلمانية تطالب قيوح بفك العزلة الجوية عن جهة درعة تافيلالت وربط مطارها بمراكش والرباط",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://fr.le360.ma/politique/loi-sur-les-avocats-nous-gelons-la-greve-pour-ouvrir-le-dialogue-avec-le-futur-gouvernement-explique_5J2DNDN53BBZ7GMDH6UNXF6IUQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Loi sur les avocats. «Nous gelons la grève pour ouvrir le dialogue avec le futur gouvernement», explique le président de l’Association des barreaux du Maroc",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-hay-hassani-ultime-etape-de-la-campagne-electorale-de-fouzi-lekjaa-pour-le-pam_BQOYEYDSMZG5JKKGCITV6BXK5E": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: Hay Hassani, ultime étape de la campagne électorale de Fouzi Lekjaa pour le PAM",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://fr.le360.ma/politique/le-pp-de-feijoo-ayuso-et-almeida-brule-les-ponts-avec-le-maroc_HNPRVHRBURBOHDXUAQFETHHFZA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le PP de Feijóo, Ayuso et Almeida brûle les ponts avec le Maroc",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://fr.le360.ma/politique/le-chili-reconnait-la-souverainete-du-maroc-sur-le-sahara_TLILP3776RC5BPDBBNNLLMB3UM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le Chili reconnaît la souveraineté du Maroc sur le Sahara",
+    "status": "excluded",
+    "checked_at": "2026-09-22T21:23:01.592942+00:00"
   }
 }
