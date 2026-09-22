@@ -12605,5 +12605,68 @@
     "title": "برلمانيون على أعتاب الثمانين.. مُرشحون مُعمرون داخل المؤسسة التشريعية يسعون للحفاظ على مقاعدهم النيابية في انتخابات 2026",
     "status": "excluded",
     "checked_at": "2026-09-22T05:03:05.500860+00:00"
+  },
+  "https://www.hespress.com/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%aa%d8%b3%d8%aa%d8%b4%d8%b1%d9%81-%d8%aa%d8%ad%d9%88%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%81%d8%b3-%d8%a7%d9%84%d8%ad%d8%b2%d8%a8%d9%8a-%d8%a8%d8%a7-1811251.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "دراسة تستشرف تحولات التنافس الحزبي بالمغرب في أفق انتخابات 2026",
+    "status": "excluded",
+    "checked_at": "2026-09-22T11:44:24.084149+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%aa%d8%b9%d8%b1%d8%b6-%d8%a3%d9%88%d9%84%d9%88%d9%8a%d8%a7%d8%aa-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-1811257.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "المنصوري تعرض أولويات برنامج \"البام\"",
+    "status": "excluded",
+    "checked_at": "2026-09-22T11:44:24.084149+00:00"
+  },
+  "https://www.hespress.com/%d8%b4%d9%88%d9%83%d9%8a-%d8%a7%d9%84%d9%85%d8%b3%d8%a4%d9%88%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d9%84%d9%8a%d8%b3%d8%aa-%d8%a3%d8%b1%d8%ae%d8%a8%d9%8a%d9%84%d8%a7-1811235.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "شوكي: المسؤولية الحكومية ليست \"أرخبيلاً\".. ولقجع دعم استيراد المواشي",
+    "status": "excluded",
+    "checked_at": "2026-09-22T11:44:24.084149+00:00"
+  },
+  "https://ar.le360.ma/politique/AS575RB7I5FENLJYSFQVQOR5TM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "كيف تتعرف على مكاتب التصويت؟ وزارة الداخلية تكشف الوسائل التقنية المعتمدة",
+    "status": "excluded",
+    "checked_at": "2026-09-22T11:44:24.084149+00:00"
+  },
+  "https://ar.le360.ma/politique/ZYFJHTWEPREBDD5WWEBSBBKAPM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع يعلن الحرب على الوسطاء ويكشف خطة «البام» للقدرة الشرائية",
+    "status": "excluded",
+    "checked_at": "2026-09-22T11:44:24.084149+00:00"
+  },
+  "https://ar.le360.ma/politique/4J4N4QW6R5DDDOTPW76XJYWSUQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "عضو الكونغرس الأمريكي جو ويلسون يشيد بالريادة الإفريقية للملك وبقيادة الرئيس ترامب الداعمة لسيادة المغرب على صحرائه",
+    "status": "excluded",
+    "checked_at": "2026-09-22T11:44:24.084149+00:00"
+  },
+  "https://fr.le360.ma/politique/elections-legislatives-du-23-septembre-les-dispositifs-du-ministere-de-linterieur-pour-localiser-son_RJWJTXD5TVARPFDU3FOWHL6I54": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Élections législatives du 23 septembre: les dispositifs du ministère de l’Intérieur pour localiser son bureau de vote",
+    "status": "excluded",
+    "checked_at": "2026-09-22T11:44:24.084149+00:00"
+  },
+  "https://al3omk.com/1189796.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "جامعة الدول العربية تراقب تشريعيات المغرب",
+    "status": "excluded",
+    "checked_at": "2026-09-22T11:44:24.084149+00:00"
+  },
+  "https://al3omk.com/1189785.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "خصوصية الحملات الانتخابية للأحزاب في تشريعيات 23 شتنبر 2026 بين الشخصنة السياسية وتشديد المراقبة القانونية (2)",
+    "status": "accepted",
+    "checked_at": "2026-09-22T11:44:24.084149+00:00"
   }
 }

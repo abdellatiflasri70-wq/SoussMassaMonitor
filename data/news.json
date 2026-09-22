@@ -1,5 +1,291 @@
 [
   {
+    "id": "95bb067d74213e61",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "خصوصية الحملات الانتخابية للأحزاب في تشريعيات 23 شتنبر 2026 بين الشخصنة السياسية وتشديد المراقبة القانونية (2)",
+    "url": "https://al3omk.com/1189785.html",
+    "author": "محمد شقير",
+    "published_at": "2026-09-22",
+    "first_seen_at": "2026-09-22T11:44:24.084149+00:00",
+    "last_checked_at": "2026-09-22T11:44:24.084149+00:00",
+    "language": "ar",
+    "excerpt": "خصوصية الحملات الانتخابية للأحزاب في تشريعيات 23 شتنبر 2026 بين الشخصنة السياسية وتشديد المراقبة القانونية (2) 2- خصوصية إدارة الأحزاب المتنافسة لحملاتها الانتخابية يمكن اعتبار",
+    "word_count": 2999,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_022",
+          "name": "عبد الإله بنكيران",
+          "tier": "priority"
+        },
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        },
+        {
+          "id": "person_019",
+          "name": "نزار بركة",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "تشريعيات",
+            "انتخابية",
+            "انتخابات",
+            "التصويت"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية",
+            "حملة انتخابية"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "ترشح",
+            "الترشح",
+            "مرشح",
+            "تزكية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "أغلبية",
+            "صراع"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة",
+            "الأغلبية الحكومية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, حزب الأصالة والمعاصرة, حزب العدالة والتنمية",
+        "شخصيات رئيسية: عبد الإله بنكيران, عزيز أخنوش, فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع, الحملة الانتخابية, الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 15,
+        "editorial_segment_count": 12,
+        "reported_segment_count": 3,
+        "evidence": [
+          "قيادة المرحلة",
+          "إنجاز"
+        ]
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 13,
+        "editorial_segment_count": 9,
+        "reported_segment_count": 4,
+        "evidence": [
+          "قيادة المرحلة",
+          "إنجاز"
+        ]
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 5,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 2,
+        "evidence": [
+          "إنجاز"
+        ]
+      },
+      {
+        "target_id": "person_022",
+        "target_type": "person",
+        "target_name": "عبد الإله بنكيران",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 1,
+        "mention_count": 11,
+        "editorial_segment_count": 9,
+        "reported_segment_count": 2,
+        "evidence": [
+          "انتقادات"
+        ]
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 1,
+        "mention_count": 21,
+        "editorial_segment_count": 18,
+        "reported_segment_count": 3,
+        "evidence": [
+          "انتقادات"
+        ]
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 12,
+        "editorial_segment_count": 9,
+        "reported_segment_count": 3,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_019",
+        "target_type": "person",
+        "target_name": "نزار بركة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_95bb067d7421",
+    "stance_analyzed_at": "2026-09-22T11:44:24.084149+00:00"
+  },
+  {
     "id": "614bcc5c4e5fab19",
     "source_id": "agadir24",
     "source_name": "أكادير24",
