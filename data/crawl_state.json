@@ -12836,5 +12836,75 @@
     "title": "Le Chili reconnaît la souveraineté du Maroc sur le Sahara",
     "status": "excluded",
     "checked_at": "2026-09-22T21:23:01.592942+00:00"
+  },
+  "https://www.chtoukapress.com/306979.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "الانتخابات التشريعية..بلاغ هام لوزارة الداخلية",
+    "status": "excluded",
+    "checked_at": "2026-09-23T04:49:22.928539+00:00"
+  },
+  "https://al3omk.com/1189925.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "بعد تداول صورتها مع أخنوش.. السعديدي توضح موقفها من السياسة وتدعو المغاربة للتصويت",
+    "status": "excluded",
+    "checked_at": "2026-09-23T04:49:22.928539+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d9%87%d8%a7%d8%a1-%d8%a7%d9%84%d8%ad%d9%85%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-%d8%b6%d9%88%d8%a7%d8%a8%d8%b7-%d8%b5%d8%a7%d8%b1%d9%85%d8%a9-1811488.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتهاء الحملة الانتخابية .. ضوابط صارمة تسبق \"اقتراع 23 شتنبر\"",
+    "status": "excluded",
+    "checked_at": "2026-09-23T04:49:22.928539+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%b9-23-%d8%b4%d8%aa%d9%86%d8%a8%d8%b1-%d9%8a%d8%ae%d8%aa%d8%a8%d8%b1-%d9%82%d8%af%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%a7%d9%84%d8%b3%d9%8a-1811760.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"اقتراع 23 شتنبر\" يختبر قدرة الأحزاب السياسية على التعبئة الانتخابية",
+    "status": "excluded",
+    "checked_at": "2026-09-23T04:49:22.928539+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%ad%d8%b6%d9%88%d8%b1-%d9%86%d8%b3%d8%a7%d8%a6%d9%8a-%d9%85%d8%aa%d8%b5%d8%a7%d8%b9%d8%af-%d9%88%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa-%d9%81-1811508.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. حضور نسائي متصاعد وتحديات في الدوائر المحلية",
+    "status": "excluded",
+    "checked_at": "2026-09-23T04:49:22.928539+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%aa%d8%b3%d9%84%d8%b7-%d8%a7%d9%84%d8%b6%d9%88%d8%a1-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a9-%d8%a8%d9%8a%d9%86-1811465.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"انتخابات 2026\" تسلط الضوء على العلاقة بين المغاربة الشباب والسياسة",
+    "status": "excluded",
+    "checked_at": "2026-09-23T04:49:22.928539+00:00"
+  },
+  "https://thepress.ma/%d8%a8%d9%86%d8%b3%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%84%d9%85-%d9%8a%d8%aa%d8%b9%d9%87%d8%af-%d8%a8%d8%b1%d9%81%d8%b9-%d8%a7%d9%84%d8%ad%d8%af-%d8%a7%d9%84%d8%a3": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "بنسعيد: “البام” لم يتعهد برفع الحد الأدنى للأجور إلى 5000 درهم",
+    "status": "excluded",
+    "checked_at": "2026-09-23T04:49:22.928539+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-de-nouvelles-enquetes-judiciaires-apres-la-diffusion-denregistrements-denoncant-lachat_TZ5B5E6PPBDR5FRRAO32KDZ3FQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: de nouvelles enquêtes judiciaires après la diffusion d’enregistrements dénonçant l’achat de voix",
+    "status": "excluded",
+    "checked_at": "2026-09-23T04:49:22.928539+00:00"
+  },
+  "https://fr.le360.ma/politique/a-casablanca-fouzi-lekjaa-appelle-a-une-forte-participation-et-a-une-rupture-avec-la-politique-des_DXACYQQJGJEIHO65HCIPFMHNJM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "A Casablanca, Fouzi Lekjaa appelle à une forte participation et à une rupture avec la politique des promesses",
+    "status": "excluded",
+    "checked_at": "2026-09-23T04:49:22.928539+00:00"
+  },
+  "https://fr.le360.ma/societe/midelt-le-president-de-la-commune-de-maalab-en-garde-a-vue-apres-la-mort-dune-femme_OFHFF3REJJFOPF6LDE4AHPU2WQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Midelt: le président de la commune de Mâalab en garde à vue après la mort d’une femme",
+    "status": "excluded",
+    "checked_at": "2026-09-23T04:49:22.928539+00:00"
   }
 }
