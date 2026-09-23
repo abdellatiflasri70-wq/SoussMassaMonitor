@@ -74,6 +74,578 @@
     "stance_analyzed_at": "2026-09-23T11:43:25.392215+00:00"
   },
   {
+    "id": "6a4c33c3fb37b1c0",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "وكيل لائحة المصباح يطالب بالتدخل الفوري لضمان تسليم محاضر التصويت | agadir24.info",
+    "url": "https://agadir24.info/%D9%88%D9%83%D9%8A%D9%84-%D9%84%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%A8%D8%A7%D8%AD-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D9%81%D9%88.html",
+    "author": "أكادير",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T17:07:12.570004+00:00",
+    "last_checked_at": "2026-09-23T17:07:12.570004+00:00",
+    "language": "ar",
+    "excerpt": "وجه محمد باكيري، وكيل لائحة المصباح بالدائرة الانتخابية المحلية أكادير إداوتنان، مراسلة مستعجلة إلى السيد والي جهة سوس ماسة وعامل عمالة أكادير إداوتنان بصفته رئيساً",
+    "word_count": 167,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_103",
+          "name": "محمد باكيري",
+          "tier": "manual_unverified"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت",
+            "انتخابات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مترشح"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: محمد باكيري",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_103",
+        "target_type": "person",
+        "target_name": "محمد باكيري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_6a4c33c3fb37",
+    "stance_analyzed_at": "2026-09-23T17:07:12.570004+00:00"
+  },
+  {
+    "id": "74d9fb36e2312594",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "توقيف شخص تم ضبطه بساحة مدرسة بطنجة يتواجد بها مكتب للتصويت متحوزا لحقيبة بها أوراق انتخابية - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134690.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T17:07:12.570004+00:00",
+    "last_checked_at": "2026-09-23T17:07:12.570004+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديتوقيف شخص تم ضبطه بساحة مدرسة بطنجة يتواجد بها مكتب للتصويت متحوزا لحقيبة بها أوراق انتخابية أعلن وكيل الملك بالمحكمة الابتدائية بطنجة في بلاغ",
+    "word_count": 113,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_74d9fb36e231",
+    "stance_analyzed_at": "2026-09-23T17:07:12.570004+00:00"
+  },
+  {
+    "id": "43d0ab4043eba989",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "المشاركة الانتخابية ترتفع بسوس ماسة إلى 21.34%.. وأكادير إداوتنان تسجل 14.57%",
+    "url": "https://al3omk.com/1190195.html",
+    "author": "حفيظ مركوك",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T17:07:12.570004+00:00",
+    "last_checked_at": "2026-09-23T17:07:12.570004+00:00",
+    "language": "ar",
+    "excerpt": "ارتفعت نسبة المشاركة في الانتخابات التشريعية بجهة سوس ماسة إلى 21.34 في المائة، فيما بلغت 14.57 في المائة بعمالة أكادير إداوتنان، وذلك إلى حدود الساعة",
+    "word_count": 172,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت",
+            "صناديق الاقتراع",
+            "اللوائح الانتخابية",
+            "انتخابية"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نسبة المشاركة"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع, النتائج والاستطلاعات الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_43d0ab4043eb",
+    "stance_analyzed_at": "2026-09-23T17:07:12.570004+00:00"
+  },
+  {
+    "id": "f57e417fde82ccc2",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "إقبال واسع على مكاتب التصويت في الانتخابات التشريعية بأكادير",
+    "url": "https://ar.le360.ma/politique/SDUZIPEUE5GAVKOMRCGOJENTZA",
+    "author": "امحند أوبركة",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T17:07:12.570004+00:00",
+    "last_checked_at": "2026-09-23T17:07:12.570004+00:00",
+    "language": "ar",
+    "excerpt": "وتوافد العشرات من المواطنين، منذ الساعات الأولى من الصباح، على مكاتب التصويت الخاصة بالانتخابات التشريعية بمدينة أكادير، في ظروف استحسنها الجميع ووسط حضور ميداني لمختلف",
+    "word_count": 199,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت",
+            "انتخابات",
+            "اللوائح الانتخابية",
+            "الاستحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_f57e417fde82",
+    "stance_analyzed_at": "2026-09-23T17:07:12.570004+00:00"
+  },
+  {
+    "id": "7a18179152a4177e",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "مباشر: تابع أحدث مستجدات الانتخابات التشريعية 2026",
+    "url": "https://ar.le360.ma/politique/ZR6U72YJ6VBK5N6OCDLPND6BPM",
+    "author": "هيئة التحرير",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T17:07:12.570004+00:00",
+    "last_checked_at": "2026-09-23T17:07:12.570004+00:00",
+    "language": "ar",
+    "excerpt": ". 16:47 - أجواء الانتخابات في الدار البيضاء من داخل مراكز التصويت انطلقت، صباح اليوم، عملية التصويت برسم الانتخابات التشريعية العامة لانتخاب أعضاء مجلس النواب.",
+    "word_count": 2105,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت",
+            "انتخابات",
+            "انتخابية",
+            "اقتراع",
+            "صناديق الاقتراع"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية",
+            "حملة انتخابية"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "بلاغ"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نسبة المشاركة"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "الأغلبية الحكومية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_7a18179152a4",
+    "stance_analyzed_at": "2026-09-23T17:07:12.570004+00:00"
+  },
+  {
+    "id": "1a57ef7c2a460375",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Agadir: l’ambiance électorale comme si vous y étiez",
+    "url": "https://fr.le360.ma/politique/agadir-lambiance-electorale-comme-si-vous-y-etiez_IVF5PRWB2ZD6PO55H4OQWYYA4A",
+    "author": "M'hand Oubarka",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T17:07:12.570004+00:00",
+    "last_checked_at": "2026-09-23T17:07:12.570004+00:00",
+    "language": "fr",
+    "excerpt": "Le taux de participation aux élections législatives s’élevait à environ 12,49% dans la région Souss-Massa et à 8,32% dans la préfecture d’Agadir Ida-Outanane à la",
+    "word_count": 357,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "électorale",
+            "élections",
+            "scrutin",
+            "vote",
+            "législatives"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "taux de participation",
+            "sièges"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "candidats"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "affirme"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع, النتائج والاستطلاعات الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_1a57ef7c2a46",
+    "stance_analyzed_at": "2026-09-23T17:07:12.570004+00:00"
+  },
+  {
     "id": "95bb067d74213e61",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",
