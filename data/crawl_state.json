@@ -12906,5 +12906,117 @@
     "title": "Midelt: le président de la commune de Mâalab en garde à vue après la mort d’une femme",
     "status": "excluded",
     "checked_at": "2026-09-23T04:49:22.928539+00:00"
+  },
+  "https://www.hespress.com/%d9%86%d8%b3%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%aa%d8%a8%d9%84%d8%ba-423-%d8%ad%d8%aa%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1%d8%a9-1811899.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "نسبة المشاركة تبلغ 4,23 % حتى العاشرة",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://agadirinfo.ma/134666.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "بمدينة أكادير وباقي المدن المغربية … انطلاق عملية التصويت لانتخاب أعضاء مجلس النواب بمكاتب التصويت وسط أجواء منظمة - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://www.chtoukapress.com/307001.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بوريطة يعلن ترشح المغرب لشغل مقعد عضو غير دائم بمجلس الأمن",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://www.chtoukapress.com/306998.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "المغاربة يُدلون بأصواتهم لانتخاب ممثليهم في مجلس النواب",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://alyaoum24.com/videos/%f0%9f%94%b4%d8%ad%d9%88%d8%a7%d8%b1-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%a3%d8%a8%d8%b1%d8%b2-%d9%85%d8%a7-%d9%8a%d9%82%d8%aa%d8%b1%d8%ad-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "🔴حوار مباشر: أبرز ما يقترح حزب الاتحاد الدستوري في برنامجه الانتخابي على اليوم24 – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://alyaoum24.com/videos/%d9%88%d9%83%d9%8a%d9%84-%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d8%b9%d9%86-%d8%af%d8%a7%d8%a6%d8%b1%d8%a9-%d8%a7%d9%84%d8%ad%d8%b3": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "وكيل لائحة حزب الاستقلال عن دائرة الحسيمة متفائل بالفوز في الانتخابات – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d8%a8%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d8%aa%d8%b5%d9%81%d9%8a%d8%a9-%d9%85": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "النيابة العامة بالجديدة: فيديو تصفية مرشح لا أساس له من الصحة",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://al3omk.com/1190087.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "النيابة العامة تحقق في احتمال تعمد ارتكاب حادثة سير لتصفية مرشح للانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://al3omk.com/1190100.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "استحقاقات المغرب الكبرى: هل تنجح صناديق الاقتراع في فك شفرة التحديات الاجتماعية؟",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://al3omk.com/1190076.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "خصوصية الحملات الانتخابية للأحزاب في تشريعيات 23 شتنبر 2026 بين الشخصنة السياسية وتشديد المراقبة القانونية (3)",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://ar.le360.ma/politique/AAZFR2INWFBJ3CAJHRK33OQDWE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بوريطة يعلن ترشح المغرب لشغل مقعد عضو غير دائم بمجلس الأمن للفترة 2028-2029",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-le-scrutin-se-deroule-dans-des-conditions-normales-423-de-participation-a-10h00_72WJLXN4J5GCTFCE5KIYITCGSA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: le scrutin se déroule dans des conditions normales, 4,23% de participation à 10h00",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://fr.le360.ma/politique/en-direct-legislatives-2026-les-dernieres-informations_M6W7VERT7FCIHPWXJGJOO6APIA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "EN DIRECT. Législatives 2026: les dernières informations",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-mehdi-bensaid-pronostique-une-ecrasante-victoire-du-pam_RIIJBK5VUJDLNLMSFTXBPN65ZE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: Mehdi Bensaïd pronostique une écrasante victoire du PAM",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://fr.le360.ma/politique/le-maroc-officiellement-candidat-a-un-siege-non-permanent-au-conseil-de-securite_FUNJGMKJ7NDWBPIOFPADHPN7C4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le Maroc officiellement candidat à un siège de membre non-permanent au Conseil de sécurité",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  "https://fr.le360.ma/politique/menaces-dassauts-migratoire-securite-accrue-autour-de-ceuta_V65HB3Z2ONGHLNTGCOTRGP5AX4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Menaces d’assauts migratoire: sécurité accrue autour de Sebta",
+    "status": "excluded",
+    "checked_at": "2026-09-23T11:43:25.392215+00:00"
   }
 }

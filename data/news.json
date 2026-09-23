@@ -1,5 +1,79 @@
 [
   {
+    "id": "abf1f5df77115d98",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "بمدينة أكادير وباقي المدن المغربية … انطلاق عملية التصويت لانتخاب أعضاء مجلس النواب بمكاتب التصويت وسط أجواء منظمة - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134666.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T11:43:25.392215+00:00",
+    "last_checked_at": "2026-09-23T11:43:25.392215+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةبمدينة أكادير وباقي المدن المغربية … انطلاق عملية التصويت لانتخاب أعضاء مجلس النواب بمكاتب التصويت وسط أجواء منظمة انطلقت قبل قليل من صباح اليوم",
+    "word_count": 246,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت",
+            "اقتراع",
+            "اللوائح الانتخابية",
+            "الاستحقاقات",
+            "استحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نسبة المشاركة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_abf1f5df7711",
+    "stance_analyzed_at": "2026-09-23T11:43:25.392215+00:00"
+  },
+  {
     "id": "95bb067d74213e61",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",
