@@ -13270,5 +13270,208 @@
     "title": "Accident avec délit de fuite à El Jadida: aucun lien avec les élections, selon le procureur du Roi",
     "status": "excluded",
     "checked_at": "2026-09-23T17:07:12.570004+00:00"
+  },
+  "https://agadirinfo.ma/134706.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "إغلاق مكاتب التصويت في مختلف جهات المملكة عند الساعة السابعة مساء - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1-%d8%a7%d9%84%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84%d9%85%d8%a4%d9%82.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "العدالة والتنمية يتصدر النتائج المؤقتة بدائرة إنزكان أيت ملول | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d8%a5%d8%af%d8%a7%d9%88%d8%aa%d9%86%d8%a7%d9%86-2026-%d8%a7%d9%84%d8%ac%d8%b1%d8%a7%d8%b1-%d9%8a%d9%82%d9%88.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "انتخابات أكادير إداوتنان 2026: \"الجرار\" يقود النتائج الأولية وصراع محتدم بين 5 أحزاب، مع الأفضلية للعدالة و الأحرار | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%b3%d9%88%d8%b3-%d9%85%d8%a7%d8%b3%d8%a9-%d8%b7%d8%a7%d8%b7%d8%a7-%d8%aa%d9%82%d9%88%d8%af-%d9%86%d8%b3%d8%a8-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "انتخابات سوس ماسة: طاطا تقود نسب المشاركة وتباين ملحوظ بين الأقاليم... التفاصيل | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/682791-abdelilah-benkirane-retrouve-sa-fille-par-hasard-au-bureau-de-vote.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Abdelilah Benkirane retrouve sa fille par hasard au bureau de vote",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://www.hespress.com/%d8%ad%d8%a7%d9%85%d9%8a-%d8%a7%d9%84%d8%af%d9%8a%d9%86-%d8%a7%d9%84%d8%a8%d9%8a%d8%ac%d9%8a%d8%af%d9%8a-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1-%d8%af%d9%88%d8%a7%d8%a6%d8%b1-1812349.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "حامي الدين: \"البيجيدي\" يتصدر دوائر",
+    "status": "accepted",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d8%b3%d8%aa%d9%86%d9%81%d8%a7%d8%b1-%d9%88%d8%b3%d8%b7-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84%d9%8a%d9%8a%d9%86-%d8%a8%d8%af%d8%a7%d8%a6%d8%b1%d8%a9-%d8%b7%d8%a7%d8%b7%d8%a7-1812328.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "استنفار وسط الاستقلاليين بدائرة طاطا",
+    "status": "accepted",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://www.hespress.com/%d8%a5%d8%ba%d9%84%d8%a7%d9%82-%d9%85%d9%83%d8%a7%d8%aa%d8%a8-%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d9%81%d9%8a-%d8%ac%d9%87%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1812293.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "إغلاق مكاتب التصويت في المغرب",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://www.hespress.com/%d8%b3%d9%8a%d9%86%d8%a7%d8%b1%d9%8a%d9%88-%d9%85%d8%ad%d8%a8%d9%88%d9%83-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%b1%d8%af-%d8%b9%d9%84%d9%89-%d9%88%d8%a7%d9%82%d8%b9%d8%a9-%d9%85%d9%83-1812221.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"سيناريو محبوك\" .. \"البام\" يرد على واقعة مكتب التصويت بمدينة طنجة",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-93-%d8%b4%d9%83%d8%a7%d9%8a%d8%a9-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9-%d8%ae%d9%84%d8%a7%d9%84-%d8%a3": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "النيابة العامة: 93 شكاية انتخابية خلال أقل من شهر وتزايد الجرائم الرقمية",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://al3omk.com/1190318.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "صفحات “مجهولة” تعلن فوز مرشحين قبل إغلاق التصويت بالدار البيضاء",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://al3omk.com/1190302.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "نسبة المشاركة بسوس ماسة تقترب من %27.. طاطا في الصدارة وأكادير وإنزكان في ذيل الترتيب",
+    "status": "accepted",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://al3omk.com/1190310.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "انتخابات 2026.. نسبة المشاركة بالعيون تبلغ 71% إلى حدود الخامسة والنصف مساء",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%b9%d8%b3%d8%b1%d9%8a-%d9%84%d9%80%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d9%81%d8%a9-%d9%85%d8%b3%d8%a4%d9%88%d9%84%d9%8a%d8%a9-%d9%85%d8%a7-%d8%ad%d8%af%d8%ab-%d9%81%d9%8a-%d8%b7%d9%86": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "العسري لـالصحيفة: مسؤولية ما حدث في طنجة تتحملها الداخلية.. وحضور المال في انتخابات 2026 كارثي",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://www.assahifa.com/%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d8%b5%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b5%d8%b1%d8%a9-%d9%85%d8%a7-%d8%ac%d8%b1%d9%89-%d9%81%d9%8a-%d8%b7%d9%86%d8%ac%d8%a9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "قيادة الأصالة والمعاصرة: ما جرى في طنجة سيناريو محبوك لاستهداف الحزب.. ولنا الثقة الكاملة في مؤسسات الدولة والسلطة القضائية",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d8%aa%d8%b5%d9%84%d8%aa-%d8%a8%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d9%85%d8%b1%d8%aa%d9%8a%d9%86-%d8%a8%d8%b4": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بنكيران: اتصلت بوزير الداخلية مرتين بشأن المحاضر.. والرفض يستدعي متابعة جنائية للممتنعين",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://www.assahifa.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d9%8a%d8%ad%d8%b1%d9%83-%d8%b4%d9%83%d8%a7%d9%8a%d8%a9-%d9%81%d9%8a-%d8%aa%d9%8a%d9%81%d9%84%d8%aa-%d8%a8%d8%b3%d8%a8%d8%a8": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "تحالف اليسار يحرك شكاية في تيفلت بسبب شبهات حول العملية الانتخابية",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d8%b9%d8%a7%d8%b2%d9%84-%d9%85%d9%83%d8%b4%d9%88%d9%81%d8%a9-%d9%81%d9%8a-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%87%d9%84-%d8%aa%d9%85%d9%86%d8%b9-%d8%a7%d9%84%d9%88": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "معازل مكشوفة في انتخابات 2026.. هل تمنع الورقة الدوارة وتصوير التصويت؟",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://www.assahifa.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-2805-%d9%86%d8%b3%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a7%d9%86": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الداخلية: 28,05% نسبة المشاركة في الانتخابات التشريعية إلى حدود الخامسة",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://ar.le360.ma/politique/NEQ3KG3WNNAI5BYWJDC45WC5BE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "العيون: إقبال متزايد على مكاتب التصويت وسط أجواء تنظيمية",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://ar.le360.ma/politique/JZL7WCBUGJCFBPNN6B3OXGQQ7Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "عقب جدل مكتب التصويت بطنجة.. «الأصالة والمعاصرة» يندد بـ«سيناريو محبوك» ويلوح بالقضاء",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://ar.le360.ma/politique/IT5QZXEF2ZBI7MMMOD2BJ5CDG4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "وسط إقبال متواصل للناخبين.. هكذا مرت أجواء الانتخابات التشريعية بمدينة فاس",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://fr.le360.ma/politique/le-congres-espagnol-rejette-la-motion-de-vox-sur-sebta-et-melilla_QU2BWUVW45G3PAHVUC6EHPXOTU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le Congrès espagnol rejette la motion de Vox sur Sebta et Melilla",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-faible-affluence-dans-lun-des-bureaux-de-votes-danfa-a-casablanca_OJ2GQI6DZFDZXPJWBYDFZ5DIDY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: faible affluence dans l’un des bureaux de votes d’Anfa à Casablanca",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-la-bataille-des-recours-sengage-avant-meme-la-proclamation-des-resultats_CM2MDHWLQFH5XHDGNFV6ZUF7P4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: la bataille des recours s’engage avant même la proclamation des résultats",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://fr.le360.ma/politique/elections-a-oujda-une-mere-vote-par-procuration-pour-sa-fille-residant-en-allemagne_2FIPE43IAVAKJLHQ3G6BVIYGEM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Élections à Oujda: une mère vote par procuration pour sa fille résidant en Allemagne",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-a-laayoune-les-electeurs-se-pressent-aux-urnes_HJIMAJ5XKFHSVN7SCSBVAPDCJE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: à Laâyoune, les électeurs se pressent aux urnes",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://fr.le360.ma/politique/tensions-electorales-a-tanger-le-pam-denonce-une-machination-et-saisit-le-parquet-general_T5RS2FMOY5C5JOKDHNS4PJPJNM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Tensions électorales à Tanger: le PAM dénonce une «machination» et saisit la justice",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-marocain-la-republique-de-maurice-change-de-position-et-apporte-son-appui-au-plan-dautonomie_QCDIICHX7FCVHFJI5HPEJ2VRAQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara marocain: la République de Maurice change de position et apporte son appui au plan d’autonomie",
+    "status": "excluded",
+    "checked_at": "2026-09-23T21:32:43.910929+00:00"
   }
 }

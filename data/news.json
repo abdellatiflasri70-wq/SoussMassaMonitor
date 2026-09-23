@@ -646,6 +646,749 @@
     "stance_analyzed_at": "2026-09-23T17:07:12.570004+00:00"
   },
   {
+    "id": "cc6f130f3c86271e",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "إغلاق مكاتب التصويت في مختلف جهات المملكة عند الساعة السابعة مساء - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134706.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:32:43.910929+00:00",
+    "last_checked_at": "2026-09-23T21:32:43.910929+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديإغلاق مكاتب التصويت في مختلف جهات المملكة عند الساعة السابعة مساء أُغلقت، في تمام الساعة السابعة مساء اليوم الأربعاء، مكاتب التصويت بمختلف جهات المملكة،",
+    "word_count": 110,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت",
+            "صناديق الاقتراع"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "النتائج الانتخابية",
+            "المقاعد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_cc6f130f3c86",
+    "stance_analyzed_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  {
+    "id": "ed1a91da0bb6be83",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "العدالة والتنمية يتصدر النتائج المؤقتة بدائرة إنزكان أيت ملول | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%8A%D8%AA%D8%B5%D8%AF%D8%B1-%D8%A7%D9%84%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D9%85%D8%A4%D9%82.html",
+    "author": "أكادير",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:32:43.910929+00:00",
+    "last_checked_at": "2026-09-23T21:32:43.910929+00:00",
+    "language": "ar",
+    "excerpt": "أظهرت النتائج الأولية والمؤقتة الصادرة عن عملية فرز بعض الأصوات بدائرة إنزكان أيت ملول، تصدر حزب العدالة والتنمية (PJD) لنتائج الاقتراع، متفوقاً بفارق ملموس على",
+    "word_count": 123,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "أيت ملول",
+        "إنزكان"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "القليعة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب العدالة والتنمية, حزب الأصالة والمعاصرة, حزب الاستقلال, التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_ed1a91da0bb6",
+    "stance_analyzed_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  {
+    "id": "1ab511626b2ddc52",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "انتخابات أكادير إداوتنان 2026: \"الجرار\" يقود النتائج الأولية وصراع محتدم بين 5 أحزاب، مع الأفضلية للعدالة و الأحرار | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D8%B1-%D8%A5%D8%AF%D8%A7%D9%88%D8%AA%D9%86%D8%A7%D9%86-2026-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%B1-%D9%8A%D9%82%D9%88.html",
+    "author": "أكادير",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:32:43.910929+00:00",
+    "last_checked_at": "2026-09-23T21:32:43.910929+00:00",
+    "language": "ar",
+    "excerpt": "أفادت المعطيات الأولية الخاصة بالانتخابات التشريعية على مستوى دائرة أكادير إداوتنان، التي جرت أطوارها اليوم الأربعاء 23 سبتمبر 2026، بتقدم مؤقت لحزب الأصالة والمعاصرة (البام)",
+    "word_count": 129,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        },
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "التصويت"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "صراع"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, التجمع الوطني للأحرار, حزب العدالة والتنمية, الاتحاد الاشتراكي للقوات الشعبية",
+        "مواضيع سياسية: الانتخابات والاقتراع, التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_1ab511626b2d",
+    "stance_analyzed_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  {
+    "id": "201347f08fb5bb51",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "انتخابات سوس ماسة: طاطا تقود نسب المشاركة وتباين ملحوظ بين الأقاليم... التفاصيل | agadir24.info",
+    "url": "https://agadir24.info/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B3%D9%88%D8%B3-%D9%85%D8%A7%D8%B3%D8%A9-%D8%B7%D8%A7%D8%B7%D8%A7-%D8%AA%D9%82%D9%88%D8%AF-%D9%86%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1.html",
+    "author": "أكادير",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:32:43.910929+00:00",
+    "last_checked_at": "2026-09-23T21:32:43.910929+00:00",
+    "language": "ar",
+    "excerpt": "سجلت جهة سوس ماسة نسبة مشاركة إجمالية بلغت 26.98% في الانتخابات التشريعية، وفقاً للمعطيات المسجلة إلى حدود الساعة الخامسة من مساء اليوم الأربعاء. وشهدت العملية",
+    "word_count": 91,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "طاطا"
+      ],
+      "primary_places": [
+        "طاطا"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان",
+        "إنزكان أيت ملول",
+        "اشتوكة أيت باها",
+        "تارودانت"
+      ],
+      "secondary_places": [
+        "ماسة",
+        "أكادير",
+        "أيت باها",
+        "أيت ملول",
+        "إنزكان"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "التصويت"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نسبة التصويت"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_201347f08fb5",
+    "stance_analyzed_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  {
+    "id": "f254fe5aee15e41a",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "حامي الدين: \"البيجيدي\" يتصدر دوائر",
+    "url": "https://www.hespress.com/%D8%AD%D8%A7%D9%85%D9%8A-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%A8%D9%8A%D8%AC%D9%8A%D8%AF%D9%8A-%D9%8A%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AF%D9%88%D8%A7%D8%A6%D8%B1-1812349.html",
+    "author": "هسبريس",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:32:43.910929+00:00",
+    "last_checked_at": "2026-09-23T21:32:43.910929+00:00",
+    "language": "ar",
+    "excerpt": "أفاد قيادي في حزب العدالة والتنمية بأن الفرز الأولي للأصوات المعبّر عنها والمحاضر التي يتوصل بها الحزب، تفيد حتى الآن، بتصدره نتائج الاستحقاق الانتخابي على",
+    "word_count": 114,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان",
+        "إنزكان أيت ملول"
+      ],
+      "secondary_places": [
+        "أكادير",
+        "إنزكان"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "دائرة انتخابية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب العدالة والتنمية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f254fe5aee15",
+    "stance_analyzed_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  {
+    "id": "87b6d6925a24833c",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "استنفار وسط الاستقلاليين بدائرة طاطا",
+    "url": "https://www.hespress.com/%D8%A7%D8%B3%D8%AA%D9%86%D9%81%D8%A7%D8%B1-%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%D9%8A%D9%8A%D9%86-%D8%A8%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D8%B7%D8%A7%D8%B7%D8%A7-1812328.html",
+    "author": "هسبريس من الرباط",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:32:43.910929+00:00",
+    "last_checked_at": "2026-09-23T21:32:43.910929+00:00",
+    "language": "ar",
+    "excerpt": "دعت المفتشية الإقليمية لحزب الاستقلال في طاطا عموم المنتمين للحزب إلى “مواكبة عملية التصويت”، اليوم الأربعاء، بعدد من الجماعات التابعة للإقليم، وذلك بالتزامن مع إجراء",
+    "word_count": 135,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "طاطا"
+      ],
+      "primary_places": [
+        "طاطا"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "فم زكيد"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_87b6d6925a24",
+    "stance_analyzed_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  {
+    "id": "2919acb1d08b2959",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "نسبة المشاركة بسوس ماسة تقترب من %27.. طاطا في الصدارة وأكادير وإنزكان في ذيل الترتيب",
+    "url": "https://al3omk.com/1190302.html",
+    "author": "حفيظ مركوك",
+    "published_at": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:32:43.910929+00:00",
+    "last_checked_at": "2026-09-23T21:32:43.910929+00:00",
+    "language": "ar",
+    "excerpt": "نسبة المشاركة بسوس ماسة تقترب من %27.. طاطا في الصدارة وأكادير وإنزكان في ذيل الترتيب بلغت نسبة المشاركة في الانتخابات التشريعية بجهة سوس ماسة مع",
+    "word_count": 222,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "طاطا"
+      ],
+      "primary_places": [
+        "طاطا"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها",
+        "تزنيت",
+        "إنزكان أيت ملول",
+        "تارودانت"
+      ],
+      "secondary_places": [
+        "أكادير",
+        "إنزكان",
+        "ماسة",
+        "أيت باها",
+        "تارودانت"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نسبة المشاركة",
+            "المقاعد"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية",
+            "التصويت"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: النتائج والاستطلاعات الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_2919acb1d08b",
+    "stance_analyzed_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  {
     "id": "95bb067d74213e61",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",
