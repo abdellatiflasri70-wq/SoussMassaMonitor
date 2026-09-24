@@ -13473,5 +13473,432 @@
     "title": "Sahara marocain: la République de Maurice change de position et apporte son appui au plan d’autonomie",
     "status": "excluded",
     "checked_at": "2026-09-23T21:32:43.910929+00:00"
+  },
+  "https://www.chtoukapress.com/307027.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "نسبة المشاركة في انتخاب اعضاء مجلس النواب في اشتوكة ايت باها",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.chtoukapress.com/307025.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "الداخلية: نسبة المشاركة في التشريعيات 38,02% على الصعيد الوطني",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://agadirinfo.ma/134716.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخاب أعضاء مجلس النواب.. نسبة المشاركة في التصويت على المستوى الوطني بلغت نسبة 38,02 بالمائة - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://agadirinfo.ma/134726.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخابات 2026 .. “الداخلية” تعلن رسميا فوز الأصالة والمعاصرة بالمرتبة الأولى - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://agadirinfo.ma/134724.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "تشريعيات أكادير إداوتنان: نتائج مؤقتة وغير رسمية تضع “المصباح” في الصدارة - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://agadirinfo.ma/134721.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "معطيات أخرى تظهر للعلن مع استمرار عملية تجميع أصوات تشريعيات أكادير - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d8%b4%d8%aa%d9%88%d9%83%d8%a9-%d8%a3%d9%8a%d8%aa-%d8%a8%d8%a7%d9%87%d8%a7-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1-%d8%a7%d9%84%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "اشتوكة أيت باها: البام يتصدر النتائج الأولية والأحرار يلاحقه في سباق الأمتار الأخيرة | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://agadir24.info/%d8%aa%d8%a7%d8%b1%d9%88%d8%af%d8%a7%d9%86%d8%aa-%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1-%d8%a7%d9%84%d8%b3.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تارودانت الشمالية: \"الأحرار\" يتصدر السباق والمنافسة تشتعل بين الاستقلال والجرار في المرتبتين الثانية و الثالثة | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%8a%d8%b9%d9%84%d9%86-%d8%aa%d8%b5%d8%af%d8%b1%d9%87-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%8a-%d9%84.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "\"العدالة والتنمية\" يعلن تصدره الأولي لنتائج الانتخابات في مدن كبرى بفارق ملموس | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d8%a5%d8%af%d8%a7%d9%88%d8%aa%d9%86%d8%a7%d9%86-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "انتخابات أكادير إداوتنان: حزب العدالة والتنمية يتصدر النتائج الأولية، و فيما يلي ترتيب بقية الأحزاب. (مؤقتة) | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://al3omk.com/1190441.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "نسبة المشاركة في الانتخابات بدائرة خنيفرة تتجاوز 43%",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://al3omk.com/1190341.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الفنانون والانتخابات.. حضور محدود في يوم الاقتراع مقابل استمرار الأنشطة الفنية",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/682837-elections-2026-le-pam-arrive-en-tete-avec-97-sieges-resultats-provisoires.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Elections 2026: le PAM arrive en tête avec 97 sièges (Résultats provisoires)",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/682832-pam-samir-goudar-reagit-aux-premiers-resultats-des-elections-video.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "PAM: Samir Goudar réagit aux premiers résultats des élections (VIDEO)",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/682822-legislatives-2026-ambiance-de-fete-au-siege-du-pam-video.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Législatives 2026: ambiance de fête au siège du PAM (VIDEO)",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/682811-resultats-du-pam-mehdi-bensaid-confiant-video.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Résultats du PAM : Mehdi Bensaid confiant (VIDEO)",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/682807-legislatives-2026-les-dirigeants-du-pjd-affluent-au-siege-du-parti-video.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Législatives 2026 : les dirigeants du PJD affluent au siège du parti (VIDEO)",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/682803-resultats-des-elections-le-siege-du-pam-se-prepare-a-accueillir-les-dirigeants-du-parti-video.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Résultats des élections: le siège du PAM se prépare à accueillir les dirigeants du parti (VIDEO)",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/682782-legislatives-2026-fouzi-lekjaa-vote-a-berkane.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Législatives 2026 : Fouzi Lekjaa vote à Berkane",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d8%af%d9%8a%d8%a9-1812717.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "تفاصيل نتائج الانتخابات في المحمدية",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d9%8a%d8%ac%d9%8a%d8%af%d9%8a-%d8%a3%d9%88%d9%84-%d8%a7%d9%84%d9%81%d8%a7%d8%a6%d8%b2%d9%8a%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a%d8%a9-1812709.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"البيجيدي\" أول الفائزين في الرشيدية",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%b9-%d8%a8%d8%af%d8%a7%d8%a6%d8%b1%d8%a9-%d8%b3%d8%b7%d8%a7%d8%aa-1812698.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"البام\" يتصدر الاقتراع بدائرة سطات",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d9%81%d9%88%d8%b2-%d8%a7%d9%84%d8%a3%d8%b5%d8%a7%d9%84%d8%a9-1812597.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. \"الداخلية\" تعلن فوز الأصالة والمعاصرة بالمرتبة الأولى",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%88%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1%d8%a7%d9%86-%d9%81%d9%8a-%d8%aa%d8%a7%d9%88%d9%86%d8%a7%d8%aa-1812672.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"البام والأحرار\" يتصدران في تاونات",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1-%d8%a7%d9%84%d8%af%d9%88%d8%a7%d8%a6%d8%b1-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d8%a9-%d8%a8%d9%85%d8%b1%d8%a7%d9%83%d8%b4-1812659.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"البام\" يتصدر الدوائر المحلية بمراكش",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%b1%d8%a7%d8%b4%d9%8a%d8%af%d9%8a-%d9%86%d8%b3%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%82%d9%88%d9%8a%d8%a9-%d9%83%d8%a7%d9%86%d8%aa-%d8%b3%d8%aa-1812657.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "الراشيدي: نسبة المشاركة القوية كانت ستعزز الحضور الانتخابي للاستقلاليين",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84%d9%85%d8%a4%d9%82%d8%aa%d8%a9-%d9%84%d9%84%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%b9-%d9%81%d9%8a-%d8%b3%d9%8a%d8%af%d9%8a-%d8%a8%d9%86%d9%88%d8%b1-1812647.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "النتائج المؤقتة للاقتراع في سيدي بنور",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d8%a7%d8%af%d9%84-%d9%81%d9%8a-%d9%85%d9%82%d8%af%d9%85%d8%a9-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a8%d8%a8%d8%b1%d8%b4%d9%8a%d8%af-1812685.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بادل في مقدمة نتائج الانتخابات ببرشيد",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1812503.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "مباشر | نتائج انتخابات المغرب",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.hespress.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d9%86%d8%b3%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%a8%d9%84%d8%ba%d8%aa-3802-%d9%81%d9%8a-1812407.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "وزارة الداخلية: نسبة المشاركة بلغت 38,02% في الانتخابات التشريعية",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://thepress.ma/%d8%b2%d9%84%d8%b2%d8%a7%d9%84-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a-%d9%8a%d8%b9%d9%8a%d8%af-%d8%b1%d8%b3%d9%85-%d8%a7%d9%84%d8%ae%d8%b1%d9%8a%d8%b7%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "زلزال انتخابي يعيد رسم الخريطة السياسية.. «البام» يتصدر بـ97 مقعدا والأحرار يتراجعون إلى المرتبة الثانية",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.assahifa.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%a7%d9%84%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84%d9%85%d8%a4%d9%82%d8%aa%d8%a9-%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "وزارة الداخلية تعلن النتائج المؤقتة للتشريعيات.. البام يتصدر بـ97 مقعدا والأحرار والاستقلال خلفه",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%8a%d8%ad%d8%b5%d8%af-%d9%86%d8%ad%d9%88-%d8%ab%d9%8f%d9%84%d8%ab-%d8%a7%d9%84%d8%a3%d8%b5%d9%88%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "العدالة والتنمية يحصد نحو ثُلث الأصوات بدائرة طنجة - أصيلة ويضمن مقعده البرلماني",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.assahifa.com/%d8%ac%d9%8a%d8%b1%d8%a7%d9%86-%d8%b3%d8%a8%d8%aa%d8%a9-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%88%d8%a7%d9%84%d8%a8%d9%8a%d8%ac%d9%8a%d8%af%d9%8a-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1%d8%a7%d9%86": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "جيران سبتة.. البام والبيجيدي يتصدران المشهد الانتخابي في تطوان والمضيق - الفنيدق",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.assahifa.com/%d8%a3%d9%88%d8%b2%d9%8a%d9%86-%d9%88%d8%b4%d8%a8%d8%a7%d8%b7-%d9%88%d8%a7%d9%84%d8%b9%d9%8a%d8%af%d9%88%d8%af%d9%8a-%d8%a3%d8%a8%d8%b1%d8%b2-%d8%a7%d9%84%d9%81%d8%a7%d8%a6%d8%b2%d9%8a%d9%86-%d9%85": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "أوزين وشباط والعيدودي.. أبرز الفائزين بمقاعد برلمانية من الحركة الشعبية",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%88%d9%88%d9%87%d8%a8%d9%8a-%d9%88%d8%a8%d9%86-%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85-%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d9%85%d9%86-%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "المنصوري ووهبي وبن ابراهيم.. وزراء من البام يضمنون مقاعد برلمانية",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.assahifa.com/%d8%a3%d8%b1%d8%a8%d8%b9%d8%a9-%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%aa%d9%82%d8%aa%d8%b3%d9%85-%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d9%88%d8%ac%d8%af%d8%a9-%d8%a3%d9%86%d8%ac%d8%a7%d8%af-%d9%88%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "أربعة أحزاب تقتسم مقاعد وجدة–أنجاد والأصالة والمعاصرة يتصدر النتائج",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.assahifa.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d9%85%d8%b9%d8%af%d9%84-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6%d9%8a": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "وزارة الداخلية: معدل المشاركة النهائية في الانتخابات التشريعية 38,02%.. وعملية التصويت مرت في ظروف عادية باستثناء حالات معزولة",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d8%b9%d8%af-%d9%81%d8%b1%d8%b2-77-5-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%a7%d8%a6%d8%a9-%d8%a8%d8%a8%d8%b1%d9%83%d8%a7%d9%86-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بعد فرز 77.5 في المائة ببركان.. البام يتصدر والاستقلال والأحرار في المراتب الثلاث الأولى",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%84%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1-%d8%a7%d9%84%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "التجمع الوطني للأحرار يتصدر النتائج الأولية للانتخابات التشريعية بإقليم الدريوش",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%a8%d9%8a%d8%ac%d9%8a%d8%af%d9%8a-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1-%d8%af%d8%a7%d8%a6%d8%b1%d8%a9-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d8%a5%d8%af%d8%a7%d9%88%d8%aa%d9%86%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "البيجيدي يتصدر دائرة أكادير - إداوتنان.. والأحرار في الرتبة الثانية",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1-%d8%af%d8%a7%d8%a6%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%b7-%d8%a8%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7-%d9%88%d9%85": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "البام يتصدر دائرة المحيط بالرباط.. ومقعد يقترب من البيجيدي واليسار",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d8%a4%d8%b4%d8%b1%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%aa%d9%82%d8%af%d9%85-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "مؤشرات على تقدم العدالة والتنمية في المدن الكبرى",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://ar.le360.ma/politique/UDWGTTVEVNCDPNCWAFP3X5XPRQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الأزمي: نسبة المشاركة المؤلمة تعكس فشل الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://ar.le360.ma/politique/FTR3UOXPIRDXZAFOJSGZU7FPVU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بنكيران: حزبنا استعاد أنفاسه ويثبت حضوره القوي بقوة الثقة الشعبية والالتزام بالمبادئ",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://ar.le360.ma/politique/SPZSOAJ27RG2FJBMOOUHGCRH3A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "عاجل: وزير الداخلية يكشف النتائج المؤقتة للانتخابات التشريعية 2026",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://ar.le360.ma/politique/AEG6WZ4DVVF67H2M24ZJWGLAME": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "من قلب «حزب التقدم والاشتراكية».. الترقب يخيم على وجوه أعضاء المكتب السياسي",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://ar.le360.ma/politique/XCLWOF3NGVCAXDFSDUDNU32LOY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "من داخل مقر حزب الاستقلال.. أجواء الترقب وقياديون يشيدون بحملة «الميزان»",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://ar.le360.ma/politique/VWTAC2KM25EAPJYFJAWSL55FA4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "حزب «العدالة والتنمية» يعلن تحقيق تقدم لافت بعدة مدن وفق مؤشرات أولية",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://ar.le360.ma/politique/EDD2ENBHS5DLTHT4V4P7KNLRC4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الانتخابات بوجدة: مواطنة تدلي بصوت ابنتها المقيمة بألمانيا.. وحجيرة يصوت أمام عدسات الكاميرا",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://fr.le360.ma/politique/resultats-participation-organisation-les-legislatives-2026-en-chiffres_HWGQBAPS5NFNZAMNYFIAEX5XKM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Résultats, participation, organisation: les Législatives 2026 en chiffres",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://fr.le360.ma/politique/resultats-des-legislatives-2026-le-pam-en-tete-le-rni-deuxieme_DWUNPSSHVFEMVIHEVIZMCCIXGE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Résultats des législatives 2026: le PAM en tête, le RNI deuxième",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-adib-benbrahim-annonce-sa-reelection-a-rabat-chellah_KB7SKETR3JBPTC7XRD3WUL2CSI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: Adib Benbrahim annonce sa réélection à Rabat-Chellah",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-mehdi-bensaid-les-resultats-preliminaires-sont-positifs-et-encourageants_QCA3CQIICVDJDKMBFAICAGTAAQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026. Mehdi Bensaïd: «Les résultats préliminaires sont positifs et encourageants»",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-la-participation-en-retrait-par-rapport-aux-trois-precedents-scrutins_MLK3OTYFY5H7RKLJDR7TZX6FEY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: la participation en retrait par rapport aux trois précédents scrutins",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-au-siege-du-pps-lattente-des-resultats-sous-tension_W5KX2C7ZHJDKVOSHSKXAIQYBBY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: au siège du PPS, l’attente des résultats sous tension",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-au-siege-du-pam-les-premieres-remontees-electorales-nourrissent-loptimisme_FPQTARL56JH6BIZGIP7XBGD5TM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: au siège du PAM, les premières remontées électorales nourrissent l’optimisme",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-au-siege-de-listiqlal-un-optimisme-serein-au-lancement-du-depouillement_3UOJ6TUZ75D23JH66XRNLXRR54": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: au siège de l’Istiqlal, un optimisme serein au lancement du dépouillement",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-la-participation-atteint-38-a-la-cloture-du-scrutin_6XLJF3IYKJDPLALJLIHLJMSSIU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: la participation atteint 38% à la clôture du scrutin",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-le-pjd-revendique-une-percee-dans-plusieurs-villes-sur-la-base-de-resultats_YYEEQQDFFVG2NEIKAN5337BGO4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: le PJD revendique une percée dans plusieurs villes sur la base de résultats préliminaires",
+    "status": "accepted",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
+  },
+  "https://fr.le360.ma/politique/african-lion-2027-une-illustration-de-la-perennite-du-partenariat-strategique-maroc-usa_VTZ7L75Z25H6PES46SLWN6FSNA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "African Lion 2027: une illustration de la pérennité du partenariat stratégique Maroc-USA",
+    "status": "excluded",
+    "checked_at": "2026-09-24T04:57:13.447142+00:00"
   }
 }
