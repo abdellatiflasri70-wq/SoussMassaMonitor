@@ -1,5 +1,186 @@
 [
   {
+    "id": "fcbe8ab223f2a2c4",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "العزيز والعسري يعلقان على سيناريوهات المرحلة القادمة في \"تحالف اليسار\"",
+    "url": "https://www.hespress.com/%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2-%D9%88%D8%A7%D9%84%D8%B9%D8%B3%D8%B1%D9%8A-%D9%8A%D8%B9%D9%84%D9%82%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-1813056.html",
+    "author": "هسبريس",
+    "published_at": "2026-09-25",
+    "first_seen_at": "2026-09-25T05:02:04.056321+00:00",
+    "last_checked_at": "2026-09-25T05:02:04.056321+00:00",
+    "language": "ar",
+    "excerpt": "من المرتقب أن يعمل تحالف اليسار، الذي يضم حزبي فيدرالية اليسار الديمقراطي والاشتراكي الموحد، على تشكيل مجموعة نيابية مشتركة بالبرلمان. وحسب النتائج المؤقتة للانتخابات التشريعية",
+    "word_count": 440,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "FGD",
+          "name": "فيدرالية اليسار الديمقراطي"
+        },
+        {
+          "id": "PSU",
+          "name": "الحزب الاشتراكي الموحد"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_026",
+          "name": "نبيلة منيب",
+          "tier": "priority"
+        },
+        {
+          "id": "person_048",
+          "name": "سناء فوزي",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "الاستحقاقات الانتخابية",
+            "التصويت",
+            "اللوائح الانتخابية",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "تحالف"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        },
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "فساد"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: فيدرالية اليسار الديمقراطي, الحزب الاشتراكي الموحد",
+        "شخصيات رئيسية: نبيلة منيب, سناء فوزي",
+        "مواضيع سياسية: الانتخابات والاقتراع, التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "FGD",
+        "target_type": "party",
+        "target_name": "فيدرالية اليسار الديمقراطي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PSU",
+        "target_type": "party",
+        "target_name": "الحزب الاشتراكي الموحد",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_026",
+        "target_type": "person",
+        "target_name": "نبيلة منيب",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_048",
+        "target_type": "person",
+        "target_name": "سناء فوزي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_fcbe8ab223f2",
+    "stance_analyzed_at": "2026-09-25T05:02:04.056321+00:00"
+  },
+  {
     "id": "e365fa0720835129",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
