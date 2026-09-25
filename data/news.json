@@ -181,6 +181,165 @@
     "stance_analyzed_at": "2026-09-25T05:02:04.056321+00:00"
   },
   {
+    "id": "a6d715e0c2a95f79",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "هؤلاء نواب تحالف اليسار بمجلس النواب",
+    "url": "https://www.hespress.com/%D9%87%D8%A4%D9%84%D8%A7%D8%A1-%D9%86%D9%88%D8%A7%D8%A8-%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D9%8A%D8%B3%D8%A7%D8%B1-%D8%A8%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8-1813410.html",
+    "author": "هسبريس ـ عبد العزيز أكرام",
+    "published_at": "2026-09-25",
+    "first_seen_at": "2026-09-25T17:15:49.302471+00:00",
+    "last_checked_at": "2026-09-25T17:15:49.302471+00:00",
+    "language": "ar",
+    "excerpt": "تمكن تحالف اليسار، الذي يضم كلا من فيدرالية اليسار الديمقراطي والحزب الاشتراكي الموحد، من تحقيق نتائج لافتة برسم انتخابات أعضاء مجلس النواب التي أجريت الأربعاء",
+    "word_count": 254,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PSU",
+          "name": "الحزب الاشتراكي الموحد"
+        },
+        {
+          "id": "FGD",
+          "name": "فيدرالية اليسار الديمقراطي"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_026",
+          "name": "نبيلة منيب",
+          "tier": "priority"
+        },
+        {
+          "id": "person_048",
+          "name": "سناء فوزي",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "تحالف"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: الحزب الاشتراكي الموحد, فيدرالية اليسار الديمقراطي",
+        "شخصيات رئيسية: نبيلة منيب, سناء فوزي",
+        "مواضيع سياسية: التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PSU",
+        "target_type": "party",
+        "target_name": "الحزب الاشتراكي الموحد",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "FGD",
+        "target_type": "party",
+        "target_name": "فيدرالية اليسار الديمقراطي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_026",
+        "target_type": "person",
+        "target_name": "نبيلة منيب",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "person_048",
+        "target_type": "person",
+        "target_name": "سناء فوزي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_a6d715e0c2a9",
+    "stance_analyzed_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  {
     "id": "e365fa0720835129",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
@@ -3592,6 +3751,373 @@
     ],
     "event_id": "evt_50d7e8977d87",
     "stance_analyzed_at": "2026-09-24T21:33:51.295410+00:00"
+  },
+  {
+    "id": "1a05f9b453938160",
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "ثلاثة أحزاب تقتسم المقاعد البرلمانية بدائرة اشتوكة آيت باها",
+    "url": "https://ar.lesiteinfo.com/politique/%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A3%D8%AD%D8%B2%D8%A7%D8%A8-%D8%AA%D9%82%D8%AA%D8%B3%D9%85-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-1022565.html",
+    "author": "ياسين كوسكار",
+    "published_at": "2026-09-24",
+    "first_seen_at": "2026-09-25T17:15:49.302471+00:00",
+    "last_checked_at": "2026-09-25T17:15:49.302471+00:00",
+    "language": "ar",
+    "excerpt": "أفرزت الانتخابات التشريعية التي شهدها إقليم اشتوكة آيت باها، يوم أمس الأربعاء، إسوة بمختلف الدوائر الانتخابية بالمغرب، توزيعا متقاربا للمقاعد البرلمانية الثلاثة، بعدما تمكنت ثلاثة",
+    "word_count": 208,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت باها"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, حزب الاستقلال, التجمع الوطني للأحرار, حزب العدالة والتنمية",
+        "مواضيع سياسية: النتائج والاستطلاعات الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": [
+          "يحسم"
+        ]
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "يحسم"
+        ]
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": [
+          "يحسم"
+        ]
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_1a05f9b45393",
+    "stance_analyzed_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  {
+    "id": "e8988c42b195158d",
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "بنسعيد ووهبي يضمنان مقعدين لـ \"البام\" في الانتخابات التشريعية",
+    "url": "https://ar.lesiteinfo.com/politique/%D8%A8%D9%86%D8%B3%D8%B9%D9%8A%D8%AF-%D9%88%D9%88%D9%87%D8%A8%D9%8A-%D9%8A%D8%B6%D9%85%D9%86%D8%A7%D9%86-%D9%85%D9%82%D8%B9%D8%AF%D9%8A%D9%86-%D9%84%D9%80-%D8%A7%D9%84%D8%A8%D8%A7%D9%85-%D9%81-1022433.html",
+    "author": "أميمة الزموري",
+    "published_at": "2026-09-24",
+    "first_seen_at": "2026-09-25T17:15:49.302471+00:00",
+    "last_checked_at": "2026-09-25T17:15:49.302471+00:00",
+    "language": "ar",
+    "excerpt": "ضمن حزب الأصالة والمعاصرة مقعدين بارزين في الانتخابات التشريعية لـ23 شتنبر 2026، بفضل فوز قيادييه البارزين عبد اللطيف وهبي، ومحمد المهدي بنسعيد، في دائرتين انتخابيتين",
+    "word_count": 149,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "MP",
+          "name": "الحركة الشعبية"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_006",
+          "name": "لحسن السعدي",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "تحالف",
+            "معارضة"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, حزب العدالة والتنمية, التجمع الوطني للأحرار, الحركة الشعبية",
+        "شخصيات رئيسية: عزيز أخنوش, عبد اللطيف وهبي",
+        "مواضيع سياسية: التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "MP",
+        "target_type": "party",
+        "target_name": "الحركة الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 0,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_006",
+        "target_type": "person",
+        "target_name": "لحسن السعدي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_e8988c42b195",
+    "stance_analyzed_at": "2026-09-25T17:15:49.302471+00:00"
   },
   {
     "id": "abf1f5df77115d98",

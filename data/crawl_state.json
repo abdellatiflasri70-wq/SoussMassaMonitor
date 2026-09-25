@@ -14593,5 +14593,355 @@
     "title": "Législatives: les perdants, les gagnants et ce que l’abstention dit du divorce entre les Marocains et la classe politique",
     "status": "excluded",
     "checked_at": "2026-09-25T11:55:13.130155+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%84%d8%a3%d9%85%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d8%aa%d8%ad%d8%b3%d9%85-%d9%85%d9%88%d9%82%d9%81-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "الأمانة العامة تحسم موقف حزب العدالة والتنمية، و تفتح النار على القاسم الانتخابي | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%84%d8%b9%d8%ab%d9%85%d8%a7%d9%86%d9%8a-%d9%8a%d9%86%d9%81%d9%8a-%d8%b4%d8%a7%d8%a6%d8%b9%d8%a9-%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-%d8%a7%d9%84.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "العثماني ينفي شائعة الاتصال الملكي المهين عقب توقيع الاتفاق الثلاثي | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://agadir24.info/%d8%a8%d8%b9%d8%af-%d8%aa%d8%b5%d8%af%d8%b1-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%87%d8%b0%d9%87-%d8%a3%d8%a8%d8%b1%d8%b2-%d8%b3%d9%8a%d9%86%d8%a7%d8%b1%d9%8a%d9%88%d9%87.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "بعد تصدر الانتخابات.. هذه أبرز سيناريوهات تحالفات الأصالة والمعاصرة | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://www.hespress.com/%d9%87%d8%a4%d9%84%d8%a7%d8%a1-%d9%86%d9%88%d8%a7%d8%a8-%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d8%a8%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-1813410.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "هؤلاء نواب تحالف اليسار بمجلس النواب",
+    "status": "accepted",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a-%d9%8a%d8%b4%d9%8a%d8%af-%d8%a8%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a8%d8%a7%d9%84-1813374.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "البرلمان العربي يشيد بانتخابات المغرب",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%8a%d8%ae%d8%aa%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-%d8%a7%d9%84%d9%82%d9%88-1813293.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "العدالة والتنمية يختار \"المعارضة القوية\"",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%ad%d9%82%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%b7%d9%86%d8%ac%d8%a9-%d8%aa%d8%aa%d9%88%d8%b3%d8%b9-4-%d9%85%d9%88%d9%82%d9%88%d9%81%d9%8a%d9%86-1813337.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "تحقيقات انتخابات طنجة تتوسع .. 4 موقوفين وخيوط جديدة قيد البحث",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://al3omk.com/1190942.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "بعد اقتراع 23 شتنبر.. الحركة الشعبية تعلن أسماء 30 فائزا بمقاعد مجلس النواب",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://al3omk.com/1190923.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "مقعد بدائرة الرباط-المحيط يرفع رصيد الحركة الشعبية بمجلس النواب إلى 30 مقعدا",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://al3omk.com/1190935.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تحالف 216 مقعدا… هل يكون بداية توازن سياسي واقتصادي جدي؟",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.le360.ma/politique/SJ3YLPMEXRDMLAM7QKWT76YLBM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "محمد ولد الرشيد.. مهندس النجاح الانتخابي لحزب الاستقلال في الصحراء ورجل السياسة الهادئة",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.le360.ma/politique/VM7REW7HXBFUNLL76DNIEPTMSU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "حزب العدالة والتنمية يحسم موقفه من الأغلبية المقبلة ويختار البقاء في المعارضة",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.le360.ma/politique/ZGHQYESWZFHHNK3PF7BFEFYCUE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "تشريعيات 2026: الرابحون والخاسرون وما تكشفه المقاطعة عن شرخ الثقة بين المغاربة والطبقة السياسية",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.le360.ma/politique/KZEHGAWVHZFMDJ4FPWCHRIUNN4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "المغرب-إسبانيا.. بوريطة: الشراكة لا تبنى على مرافعات لا أساس لها وخطاب عقيم",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://fr.le360.ma/politique/futur-gouvernement-pam-quelle-majorite-pour-gouverner_VCY2K22NWJCJXEMXOXG66OBOCU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Futur gouvernement PAM: quelle majorité pour gouverner?",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-2026-chambre-des-representants-luc-et-le-mds-forment-un-groupe-parlementaire-commun_2VGPXROJGNFARO3YC6UQVZP4OA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives 2026: l’UC et le MDS forment un groupe parlementaire commun",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-marocaines-de-2026-le-pam-en-tete-la-majorite-sortante-recomposee_7T4KT63F5NGJXH3EWV3WEV5INA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives marocaines de 2026: le PAM en tête, la majorité sortante recomposée",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://fr.le360.ma/politique/le-perou-decide-douvrir-un-consulat-a-dakhla_LKZ33MSLLVB4DCBOOOUQPMUHBA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le Pérou décide d’ouvrir un consulat à Dakhla",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://fr.le360.ma/politique/nasser-bourita-si-les-migrants-illegaux-et-les-mineurs-ne-sont-pas-retournes-il-ne-faut-pas-poser-la_UY3STPRH5ZGC5C6HI7N7NB4OD4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Nasser Bourita: «Si les migrants illégaux et les mineurs ne sont pas rentrés, il ne faut pas poser la question au Maroc, mais plutôt à l’Espagne»",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://www.assahifa.com/%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%88%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a%d9%88%d9%86-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%88%d8%a7%d9%84%d8%a8%d9%88%d9%84%d9%8a%d8%b3%d8%a7%d8%b1%d9%8a": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "إيران والحوثيون.. الجزائر والبوليساريو: صراع النفوذ الإقليمي عبر الحركات المسلحة",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://www.assahifa.com/191950-2": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "تعقيدات تشكيل الحكومة بالمغرب.. لبكر: سيناريو الإبقاء على التحالف الثلاثي وارد والبيجيدي لا يجدر أن يُغلق الباب أمام البام",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://www.assahifa.com/%d9%81%d8%b1%d9%8a%d9%82-%d9%85%d8%b4%d8%aa%d8%b1%d9%83-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a-%d9%88%d8%a7%d9%84%d8%ad%d8%b1": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "فريق مشترك بين الاتحاد الدستوري والحركة الديمقراطية الاجتماعية في البرلمان الجديد",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://www.assahifa.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%84%d8%a7-%d8%b9%d9%8f%d9%82%d8%af-%d9%88%d9%84%d8%a7-%d8%ae%d8%b7%d9%88%d8%b7-%d8%ad%d9%85%d8%b1%d8%a7%d8%a1-%d8%aa%d8%ac%d8%a7%d9%87-%d8%a7%d9%84%d8%a8%d9%8a%d8%ac": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "وهبي: لا عُقد ولا خطوط حمراء تجاه البيجيدي.. والبام يضم محافظين أيضا",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://thepress.ma/%d8%b1%d8%b5%d8%af-%d8%b4%d8%a8%d9%87%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%a7%d9%84-%d9%88%d8%a7%d9%84%d8%b1%d8%b4%d9%88%d8%a9-%d9%88%d8%a7%d8%b3%d8%aa%d8%ba%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d8%b7": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "رصد شبهات المال والرشوة واستغلال الأطفال خلال انتخابات 2026",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://thepress.ma/%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86-%d9%8a%d8%b1%d8%b5%d8%af-%d8%b1%d9%87%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%88%d9%8a": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "حقوق الإنسان يرصد رهانات انتخابات 2026 ويدعو إلى تعزيز التمثيلية والثقة",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%b3%d9%8a%d9%86%d8%a7%d8%b1%d9%8a%d9%88%d9%87%d8%a7%d8%aa-%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84%d8%a9-%d9%82%d8%b1%d8%a7-1022544.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "سيناريوهات تشكيل الحكومة المقبلة.. قراءة تحليلية في التحالفات والعقبات المرتقبة",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d9%85%d8%b5%d8%b7%d9%81%d9%89-%d9%84%d8%ae%d8%b5%d9%85-%d9%8a%d9%83%d8%aa%d8%b3%d8%ad-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%b5%d9%81%d8%b1%d9%88-%d9%88%d9%8a%d8%ad%d8%ac%d8%b2-%d9%85-1022426.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "مصطفى لخصم يكتسح انتخابات صفرو ويحجز مقعدا في البرلمان",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a7%d9%84%d8%b9%d9%86%d8%b5%d8%b1-%d9%88%d8%a8%d9%86%d8%b9%d8%aa%d9%8a%d9%82-%d9%85%d9%86-%d8%a3%d8%a8%d8%b1%d8%b2-%d8%a7%d9%84%d8%ae%d8%a7%d8%b3%d8%b1%d9%8a%d9%86-%d9%81%d9%8a-%d8%a7%d9%86%d8%aa-1022484.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "العنصر وبنعتيق أبرز الخاسرين في انتخابات 2026",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%8a%d8%ad%d8%b3%d9%85-%d9%85%d9%88%d9%82%d9%81%d9%87-%d9%85%d9%86-%d8%a7%d9%84%d9%85-1022699.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "حزب العدالة والتنمية يحسم موقفه من المشاركة في الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a3%d9%85%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d8%a6%d8%b4-%d8%aa%d9%87%d9%86%d8%a6-%d8%b2%d9%8a%d9%86%d8%a8-%d8%a7%d9%84%d8%b3%d9%8a%d9%85-1022659.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "أمانة \"البام\" بالعرائش تهنئ زينب السيمو بعد فوزها بمقعد برلماني",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a8%d9%88%d8%b1%d9%8a%d8%b7%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a9-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%aa%d9%82-1022639.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "بوريطة: العلاقة بين المغرب وإسبانيا تقوم على مبادئ بيان أبريل 2022",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%aa%d9%82%d8%aa%d8%b3%d9%85-%d8%a7%d9%84%d9%85%d9%82%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a9-1022565.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "ثلاثة أحزاب تقتسم المقاعد البرلمانية بدائرة اشتوكة آيت باها",
+    "status": "accepted",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/cultures/%d8%a7%d9%84%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8%d8%b1-%d8%a3%d8%b3%d8%a7%d9%85%d8%a9-%d8%a8%d8%b1%d9%8a%d9%83-%d9%8a%d8%ad%d8%ac%d8%b2-%d9%85%d9%82%d8%b9%d8%af%d8%a7-%d8%a8%d8%b1%d9%84%d9%85-1022463.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "\"اليوتيوبر\" أسامة بريك يحجز مقعدا برلمانيا بعد اكتساحه نتائج الانتخابات بميدلت",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/maroc/%d9%85%d9%86%d8%b8%d9%85%d8%a9-%d8%aa%d8%b1%d8%b5%d8%af-%d8%aa%d9%87%d9%85%d9%8a%d8%b4-%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1-%d8%b0%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d8%b9%d8%a7%d9%82%d8%a9-%d9%81-1022546.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "منظمة ترصد تهميش النساء ذوات الإعاقة في انتخابات 23 شتنبر 2026",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%87%d9%88-%d8%a7%d9%84%d9%81%d8%a7%d8%a6%d8%b2-%d8%a7%d9%84-1022458.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "بنكيران: العدالة والتنمية هو الفائز الحقيقي في الانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%84%d8%a7-%d8%ae%d8%b7%d9%88%d8%b7-%d8%ad%d9%85%d8%b1%d8%a7%d8%a1-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81%d8%a7%d8%aa-1018613.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "المنصوري: لا خطوط حمراء في التحالفات -فيديو",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%a8%d9%8a%d8%ac%d9%8a%d8%af%d9%8a-%d9%84%d9%86-%d9%8a%d8%b4%d8%a7%d8%b1%d9%83-%d9%81%d9%8a-%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d9%8a%d9%82-1022489.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "بنكيران: \"البيجيدي\" لن يشارك في حكومة يقودها الأصالة والمعاصرة",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/maroc/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d9%85%d9%88%d9%82%d9%81%d9%87%d8%a7-%d9%85%d9%86-%d8%b1%d8%a6%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-1022503.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "المنصوري تكشف موقفها من رئاسة الحكومة وتشيد بفوزي لقجع -فيديو",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a8%d9%86%d8%b3%d8%b9%d9%8a%d8%af-%d9%88%d9%88%d9%87%d8%a8%d9%8a-%d9%8a%d8%b6%d9%85%d9%86%d8%a7%d9%86-%d9%85%d9%82%d8%b9%d8%af%d9%8a%d9%86-%d9%84%d9%80-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%81-1022433.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "بنسعيد ووهبي يضمنان مقعدين لـ \"البام\" في الانتخابات التشريعية",
+    "status": "accepted",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a8%d9%86%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d9%8a%d8%b5%d9%81-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83-1022440.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "بنعبد الله يصف نتائج التقدم والاشتراكية في الانتخابات بـ\"المخيبة للآمال\"",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d9%81%d8%a7%d8%b7%d9%85%d8%a9-%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%aa%d8%ad%d8%ac%d8%b2-%d9%85%d9%82%d8%b9%d8%af%d8%a7-%d8%a8%d8%b1%d9%84-1022422.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "فاطمة الزهراء المنصوري تحجز مقعدا برلمانيا بمراكش",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/cultures/%d9%81%d8%a7%d8%b7%d9%85%d8%a9-%d9%88%d8%b4%d8%a7%d9%8a-%d8%aa%d9%86%d8%aa%d8%b2%d8%b9-%d9%85%d9%82%d8%b9%d8%af%d8%a7-%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7-%d8%a8%d8%a7%d8%b3%d9%85-%d8%a7-1022421.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "فاطمة وشاي تنتزع مقعدا برلمانيا باسم العدالة والتنمية",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%aa%d8%b5%d8%af%d8%b1-%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a%d8%a7%d8%aa-2026-%d8%a8%d9%8097-%d9%85%d9%82%d8%b9%d8%af%d8%a7-%d9%88%d8%a7%d9%84%d8%a3%d8%ad-1022400.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "\"البام\" يتصدر تشريعيات 2026 بـ97 مقعدا والأحرار والاستقلال في المطاردة",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%a7%d9%84%d9%86%d8%aa%d8%a7-1022389.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "\"البام\" في الصدارة.. الداخلية تعلن النتائج المؤقتة للانتخابات التشريعية لسنة 2026",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%b4%d9%88%d9%83%d9%8a-%d8%a8%d8%b9%d8%af-%d8%a3%d8%af%d8%a7%d8%a1-%d9%88%d8%a7%d8%ac%d8%a8%d9%87-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d9%86%d8%b3%d8%b9%d9%89-%d8%a5%d9%84-1022284.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "شوكي بعد أداء واجبه في التصويت: \"نسعى إلى الإسهام في هذا العرس الديمقراطي\" -فيديو",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d8%aa%d9%82%d8%a7%d8%b9%d8%af%d9%8a%d9%86-%d8%a8%d8%b1%d9%81%d8%b9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b4-%d8%a5%d9%84%d9%89-3000-%d8%af-1021993.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "لقجع يعد المتقاعدين برفع المعاش إلى 3000 درهم ويكشف وصفته لدعم الأرامل -فيديو",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a7%d9%84%d9%81%d9%86-%d8%a7%d9%84%d8%a5%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%a8%d8%af%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d9%86%d8%b3%d8%a8-%d9%88%d8%b3%d9%86%d8%ad%d8%a7%d8%b1%d8%a8-1021985.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "الفن: الإستقلال البديل الأنسب وسنحارب الفساد والبيجيدي قد يصنع المفاجأة -فيديو",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d9%83%d8%b4%d9%81-%d9%88%d8%b5%d9%81%d8%a9-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%84%d9%85%d8%ad%d8%a7%d8%b1%d8%a8%d8%a9-%d8%a7%d9%84%d9%88%d8%b3%d8%b7%d8%a7%d8%a1-1021973.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "لقجع يكشف وصفة \"البام\" لمحاربة الوسطاء وحماية المستهلكين -فيديو",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a8%d8%af%d9%88%d9%86-%d9%82%d9%8a%d9%88%d8%af-%d8%b4%d9%88%d9%83%d9%8a-%d9%8a%d8%b9%d9%84%d9%82-%d9%84%d8%a3%d9%88%d9%84-%d9%85%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d9%85%d9%84%d9%81-%d8%a7%d9%84-1021559.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "\"بدون قيود\".. شوكي يعلق لأول مرة على ملف الفايق والتحالف مع البام وتصدر الانتخابات -فيديو",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d8%a5%d9%84%d9%89-%d9%83%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%b9%d9%82%d9%88%d9%84-%d8%ae%d8%b5%d9%86%d9%8a-%d8%af%d8%a7%d8%a8%d8%a7-%d9%86%d9%83%d9%88%d9%86-1021045.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "بنكيران: إلى كان المعقول خصني دابا نكون رئيس الحكومة والشعب قال بغينا بنكيران -فيديو",
+    "status": "excluded",
+    "checked_at": "2026-09-25T17:15:49.302471+00:00"
   }
 }
