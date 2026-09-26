@@ -15076,5 +15076,61 @@
     "title": "Élue députée, Nabila Rmili conserve son fauteuil de maire de Casablanca",
     "status": "excluded",
     "checked_at": "2026-09-25T21:38:04.928272+00:00"
+  },
+  "https://agadir24.info/%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d8%ad%d9%85%d9%84-%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84%d8%a9-%d8%b9%d9%86-%d8%aa%d8%b9%d9%8a%d9%8a%d9%86-%d8%b1%d8%a6%d9%8a.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "ماذا تحمل الساعات المقبلة عن تعيين رئيس حكومة \"المونديال\" ؟ | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-09-26T05:04:26.213276+00:00"
+  },
+  "https://www.chtoukapress.com/307093.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بلاغ لوزير الداخلية حول النتائج النهائية للانتخابات التشريعية",
+    "status": "excluded",
+    "checked_at": "2026-09-26T05:04:26.213276+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%86%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d9%86%d8%aa%d8%b1%d9%8a%d9%91%d8%ab-%d9%82%d8%a8%d9%84-%d8%ad%d8%b3%d9%85-%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%82%d8%b9-%d9%88%d8%b3%d9%86-1813540.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بنعبد الله: نتريّث قبل حسم التموقع.. وسندرس الفريق مع \"تحالف اليسار\"",
+    "status": "excluded",
+    "checked_at": "2026-09-26T05:04:26.213276+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/683048-pps-nabil-benabdellah-a-t-il-demissionne.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "PPS: Nabil Benabdellah a-t-il démissionné ?",
+    "status": "excluded",
+    "checked_at": "2026-09-26T05:04:26.213276+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%84%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "انتخابات 2026.. المجلس الوطني لحقوق الإنسان يرصد 44 حالة لاستغلال الدين",
+    "status": "excluded",
+    "checked_at": "2026-09-26T05:04:26.213276+00:00"
+  },
+  "https://al3omk.com/1191000.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "هيئة ملاحظة تسجل مشاركة قياسية في تشريعيات العيون وتطالب بتوفير الولوجيات",
+    "status": "excluded",
+    "checked_at": "2026-09-26T05:04:26.213276+00:00"
+  },
+  "https://al3omk.com/1191078.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "خمسة أحزاب بشفشاون تطالب بالتحقيق في “تجاوزات انتخابية” وتعلن التوجه إلى المحكمة",
+    "status": "excluded",
+    "checked_at": "2026-09-26T05:04:26.213276+00:00"
+  },
+  "https://al3omk.com/1191070.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "ماذا بعد انتخابات 2026",
+    "status": "excluded",
+    "checked_at": "2026-09-26T05:04:26.213276+00:00"
   }
 }
