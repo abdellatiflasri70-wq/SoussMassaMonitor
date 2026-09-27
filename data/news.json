@@ -1,5 +1,181 @@
 [
   {
+    "id": "a91684ae8108a2e1",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "ديواني يؤكد نظافة الأصوات المحصل عليها في لقاء تقييمي لمفتشية حزب الاستقلال بأكادير - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134794.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-27",
+    "first_seen_at": "2026-09-27T17:00:50.161354+00:00",
+    "last_checked_at": "2026-09-27T17:00:50.161354+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةديواني يؤكد نظافة الأصوات المحصل عليها في لقاء تقييمي لمفتشية حزب الاستقلال بأكادير احتضنت مفتشية حزب الاستقلال بأكادير، اليوم، لقاء تنظيميا وتقييميا خصص لقراءة",
+    "word_count": 335,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_005",
+          "name": "زينب قيوح",
+          "tier": "priority"
+        },
+        {
+          "id": "person_004",
+          "name": "عبد الصمد قيوح",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_038",
+          "name": "جمال ديواني",
+          "tier": "secondary"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نتائج الانتخابات",
+            "عدد الأصوات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية",
+            "استحقاقات"
+          ]
+        },
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "وكيل اللائحة"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال",
+        "شخصيات رئيسية: زينب قيوح, عبد الصمد قيوح",
+        "مواضيع سياسية: النتائج والاستطلاعات الانتخابية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_005",
+        "target_type": "person",
+        "target_name": "زينب قيوح",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_004",
+        "target_type": "person",
+        "target_name": "عبد الصمد قيوح",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": [
+          "أشاد"
+        ]
+      },
+      {
+        "target_id": "person_038",
+        "target_type": "person",
+        "target_name": "جمال ديواني",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_a91684ae8108",
+    "stance_analyzed_at": "2026-09-27T17:00:50.161354+00:00"
+  },
+  {
     "id": "fcbe8ab223f2a2c4",
     "source_id": "hespress",
     "source_name": "هسبريس",
