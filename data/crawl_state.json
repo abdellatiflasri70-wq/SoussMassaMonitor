@@ -15398,5 +15398,68 @@
     "title": "Responsables: l’obligation de répondre",
     "status": "excluded",
     "checked_at": "2026-09-26T21:13:50.603796+00:00"
+  },
+  "https://www.chtoukapress.com/307135.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "أوراق انتخابية داخل حقيبة.. النيابة العامة بطنجة تكشف تفاصيل جديدة",
+    "status": "excluded",
+    "checked_at": "2026-09-27T05:22:56.537152+00:00"
+  },
+  "https://www.chtoukapress.com/307138.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بالإجماع.. “البيجيدي” يطوي نقاش المشاركة في الحكومة ويختار المعارضة",
+    "status": "excluded",
+    "checked_at": "2026-09-27T05:22:56.537152+00:00"
+  },
+  "https://fr.le360.ma/politique/fraude-electorale-a-tanger-le-parquet-devoile-le-mode-operatoire-cinq-suspects-poursuivis_V63TMUGFZJHUXPQWEOAI5B5NZY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fraude électorale à Tanger: le parquet dévoile le mode opératoire, cinq suspects poursuivis",
+    "status": "excluded",
+    "checked_at": "2026-09-27T05:22:56.537152+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d9%88%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d9%84%d9%84%d9%85%d9%84%d9%83-%d9%84%d8%af%d9%89-%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a6%d9%86%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الوكيل العام للملك لدى محكمة الاستئناف: توقيف خمسة مشتبه فيهم على ذمة واقعة ضبط أحد الأشخاص متحوزا لحقيبة بها أوراق انتخابية",
+    "status": "excluded",
+    "checked_at": "2026-09-27T05:22:56.537152+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d8%b1%d8%a6%d9%8a%d8%b3%d8%a7%d9%86-%d9%84%d9%85%d9%83%d8%aa%d8%a8%d9%8a-%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d9%88%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "النيابة العامة: رئيسان لمكتبي تصويت واثنان من نوابهما وراء اختلاس أوراق انتخابية بطنجة.. وسنكشف عن كافة الأشخاص المتورطين مهما كانت صفتهم أو مواقعهم",
+    "status": "excluded",
+    "checked_at": "2026-09-27T05:22:56.537152+00:00"
+  },
+  "https://al3omk.com/1191258.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تحالف اليسار بأزيلال ينتقد ظروف الانتخابات ويتحدث عن “خروقات”",
+    "status": "excluded",
+    "checked_at": "2026-09-27T05:22:56.537152+00:00"
+  },
+  "https://al3omk.com/1191330.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تراجع نسبة المشاركة في الانتخابات التشريعية 2026",
+    "status": "excluded",
+    "checked_at": "2026-09-27T05:22:56.537152+00:00"
+  },
+  "https://al3omk.com/1191327.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "ماذا لو فازت العدالة والتنمية بالانتخابات التشريعية؟",
+    "status": "excluded",
+    "checked_at": "2026-09-27T05:22:56.537152+00:00"
+  },
+  "https://al3omk.com/1191376.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "انتخابات 23 شتنبر.. بين حياد الإدارة وواقعة طنجة",
+    "status": "excluded",
+    "checked_at": "2026-09-27T05:22:56.537152+00:00"
   }
 }
