@@ -15636,5 +15636,54 @@
     "title": "Le roi Mohammed VI condamne fermement les attaques houthies et réaffirme le soutien du Maroc à l’Arabie saoudite",
     "status": "excluded",
     "checked_at": "2026-09-27T21:23:45.657182+00:00"
+  },
+  "https://www.chtoukapress.com/307189.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "من هو رئيس الحكومة المقبل؟ أبرز الأسماء المتداولة",
+    "status": "accepted",
+    "checked_at": "2026-09-28T05:29:21.058021+00:00"
+  },
+  "https://alyaoum24.com/2046998.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "البطولة.. الكوكب المراكشي يفتتح مشواره بهزيمة أمام حسنية أكادير – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-28T05:29:21.058021+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%aa%d8%ad%d8%aa%d9%81%d8%b8-%d8%a8%d8%a7%d9%84%d8%a3%d8%b1%d9%82%d8%a7%d9%85-%d9%88%d8%a7-1814609.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. الأغلبية تحتفظ بالأرقام والمعارضة بأدوات تأثير أكبر",
+    "status": "excluded",
+    "checked_at": "2026-09-28T05:29:21.058021+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d9%87%d9%86%d8%af%d8%b3%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9-1814379.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "انتخابات 2026 .. هندسة جديدة للأغلبية والمعارضة في أفق 2030",
+    "status": "excluded",
+    "checked_at": "2026-09-28T05:29:21.058021+00:00"
+  },
+  "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d9%8a%d8%aa%d8%b1%d9%82%d8%a8-%d8%a7%d9%84%d8%aa%d8%b9%d9%8a%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-%d9%82-1814507.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "حزب الاستقلال يترقب \"التعيين الملكي\" قبل مناقشة المشاركة في الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-09-28T05:29:21.058021+00:00"
+  },
+  "https://al3omk.com/1191594.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "جامعة الصناعات السينمائية تدعو الحكومة المقبلة إلى إرساء سياسة عمومية شاملة للنهوض بالقطاع",
+    "status": "excluded",
+    "checked_at": "2026-09-28T05:29:21.058021+00:00"
+  },
+  "https://thepress.ma/%d8%b7%d9%86%d8%ac%d8%a9-%d8%aa%d9%88%d9%82%d9%8a%d9%81-5-%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d9%81%d9%8a-%d9%82%d8%b6%d9%8a%d8%a9-%d8%a3%d9%88%d8%b1%d8%a7%d9%82-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "طنجة.. توقيف 5 أشخاص في قضية أوراق انتخابية وإحالتهم على قاضي التحقيق",
+    "status": "excluded",
+    "checked_at": "2026-09-28T05:29:21.058021+00:00"
   }
 }

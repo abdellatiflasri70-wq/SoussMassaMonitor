@@ -176,6 +176,173 @@
     "stance_analyzed_at": "2026-09-27T17:00:50.161354+00:00"
   },
   {
+    "id": "12a8989b4430b45f",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "من هو رئيس الحكومة المقبل؟ أبرز الأسماء المتداولة",
+    "url": "https://www.chtoukapress.com/307189.html",
+    "author": "Chtouka",
+    "published_at": "2026-09-27",
+    "first_seen_at": "2026-09-28T05:29:21.058021+00:00",
+    "last_checked_at": "2026-09-28T05:29:21.058021+00:00",
+    "language": "ar",
+    "excerpt": "بعد تصدر حزب الأصالة والمعاصرة نتائج الانتخابات التشريعية لـ23 شتنبر 2026 بحصوله على 97 مقعدا، انتقل النقاش السياسي في المغرب من سؤال نتائج الاقتراع إلى",
+    "word_count": 416,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نتائج الانتخابات"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشحا"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية, الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 6,
+        "editorial_segment_count": 6,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_12a8989b4430",
+    "stance_analyzed_at": "2026-09-28T05:29:21.058021+00:00"
+  },
+  {
     "id": "fcbe8ab223f2a2c4",
     "source_id": "hespress",
     "source_name": "هسبريس",
