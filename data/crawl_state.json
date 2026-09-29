@@ -15839,5 +15839,75 @@
     "title": "Dans la coalition ou l’opposition: l’Istiqlal reporte sa décision",
     "status": "excluded",
     "checked_at": "2026-09-28T23:19:22.800879+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/683271-participation-au-prochain-gouvernement-listiqlal-rendra-bientot-sa-decision.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Participation au prochain gouvernement: l’Istiqlal rendra bientôt sa décision",
+    "status": "excluded",
+    "checked_at": "2026-09-29T12:58:36.408471+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d9%8a%d9%86-%d9%82%d9%84%d9%82-%d9%85%d9%84%d9%8a%d9%84%d9%8a%d8%a9-%d9%88%d8%aa%d8%af%d8%b1%d9%8a%d8%a8-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d9%8f": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بين قلق مليلية وتدريب أكادير.. المغرب يُحرك ورقة الطائرات المُسيرة وينتقل من تشغيلها إلى توطين خبرتها",
+    "status": "excluded",
+    "checked_at": "2026-09-29T12:58:36.408471+00:00"
+  },
+  "https://alyaoum24.com/videos/%f0%9f%94%b4%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%a7%d9%84%d8%b5%d8%a7%d8%a8%d8%b1%d9%8a-%d9%8a%d9%81%d8%aa%d8%ad-%d8%a7%d9%84%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%a7%d8%ae%d9%86%d8%a9": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "🔴مباشر: الصابري يفتح الملفات الساخنة الحكومة المقبلة، التحالفات وصراع البام و البيجيدي – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-29T12:58:36.408471+00:00"
+  },
+  "https://alyaoum24.com/videos/%d8%a7%d9%84%d9%8a%d8%ad%d9%8a%d8%a7%d9%88%d9%8a-%d8%ab%d9%82%d8%a7%d9%81%d8%a9-%d8%a7%d9%84%d9%87%d9%85%d8%b2%d8%a9-%d8%a3%d9%81%d8%b3%d8%af%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "اليحياوي: « ثقافة الهمزة » أفسدت البرلمان ولقجع لعب دورا استراتيجيا في فوز البام – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-29T12:58:36.408471+00:00"
+  },
+  "https://alyaoum24.com/2047306.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "« فيفا » يتهم « اليويفا » بحملة تضليل للتأثير على انتخابات رئاسة الاتحاد الدولي – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-29T12:58:36.408471+00:00"
+  },
+  "https://ar.le360.ma/politique/WCL5FJKRJJELPNNVX4PNGBO3II": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "ملف «العمال الأشباح» بإيموزار كندر.. تأجيل محاكمة مصطفى لخصم ومن معه إلى 3 نونبر المقبل",
+    "status": "excluded",
+    "checked_at": "2026-09-29T12:58:36.408471+00:00"
+  },
+  "https://ar.le360.ma/politique/LTSLLSFGBFCUXELK3IEAGFZSP4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الداخلية توفد لجنة تفتيش مركزية إلى مدينة طنجة للتحري في فضيحة «حقيبة الأوراق الانتخابية»",
+    "status": "excluded",
+    "checked_at": "2026-09-29T12:58:36.408471+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-la-diplomatie-algerienne-senlise-de-nouveau-dans-le-deni-et-nage-a-contre-courant-de_IX27EBZPOFAXHJXTOCB6U3TZTQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: la diplomatie algérienne s’enlise de nouveau dans le déni et nage à contre-courant de l’Histoire",
+    "status": "excluded",
+    "checked_at": "2026-09-29T12:58:36.408471+00:00"
+  },
+  "https://fr.le360.ma/politique/rabat-alger-une-competition-sur-seine_2BMNVPO3UREAFIH3YQNKDTFBAA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Rabat-Alger: une compétition sur Seine?",
+    "status": "excluded",
+    "checked_at": "2026-09-29T12:58:36.408471+00:00"
+  },
+  "https://al3omk.com/1191602.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تراجع المشاركة وتحديات اقتصادية ترسم معالم الحكومة المقبلة بعد انتخابات 2026",
+    "status": "excluded",
+    "checked_at": "2026-09-29T12:58:36.408471+00:00"
   }
 }
