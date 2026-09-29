@@ -1,5 +1,108 @@
 [
   {
+    "id": "f68a209a440d88a8",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "استقبال ملكي لفاطمة الزهراء المنصوري وتكليفها بتشكيل الحكومة - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134830.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-09-29",
+    "first_seen_at": "2026-09-29T22:19:26.435491+00:00",
+    "last_checked_at": "2026-09-29T22:19:26.435491+00:00",
+    "language": "ar",
+    "excerpt": "أكادير والجهةاستقبال ملكي لفاطمة الزهراء المنصوري وتكليفها بتشكيل الحكومة الرباط – أعلن بلاغ لوزارة القصور الملكية والتشريفات والأوسمة أن صاحب الجلالة الملك محمد السادس، نصره",
+    "word_count": 115,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فاطمة الزهراء المنصوري"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f68a209a440d",
+    "stance_analyzed_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  {
     "id": "a91684ae8108a2e1",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",

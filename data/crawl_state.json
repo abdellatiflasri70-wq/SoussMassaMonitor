@@ -15909,5 +15909,292 @@
     "title": "تراجع المشاركة وتحديات اقتصادية ترسم معالم الحكومة المقبلة بعد انتخابات 2026",
     "status": "excluded",
     "checked_at": "2026-09-29T12:58:36.408471+00:00"
+  },
+  "https://agadir24.info/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d9%8a%d8%ad%d8%af%d8%af-3-%d8%a3%d9%83%d8%aa%d9%88%d8%a8%d8%b1-%d9%84%d8%ad%d8%b3%d9%85-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b1.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "حزب الاستقلال يحدد 3 أكتوبر لحسم المشاركة الحكومية ويكشف موقفه من نتائج انتخابات 2026 | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://agadirinfo.ma/134830.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "استقبال ملكي لفاطمة الزهراء المنصوري وتكليفها بتشكيل الحكومة - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://tiznit24.com/?p=195462": {
+    "source_id": "tiznit24",
+    "source_name": "تيزنيت24",
+    "title": "مشروع محطة شمسية بإقليم تزنيت يجمع الفاعلين المحليين في لقاء تشاوري بجماعة وجان",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.chtoukapress.com/307230.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "تعيين فاطمة الزهراء المنصوري رئيسة للحكومة تأكيد لتوجه ملكي راسخ لتمكين المرأة من تولي أعلى المسؤوليات",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.chtoukapress.com/307223.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "الملك يستقبل فاطمة الزهراء المنصوري ويعينها رئيسة للحكومة",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://alyaoum24.com/2047420.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "فاطمة الزهراء المنصوري.. التاريخ أولا والسياسة تبدأ غدا – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%8a%d9%86%d8%b7%d9%84%d9%82-%d8%ba%d8%af%d8%a7-%d8%a7%d9%84%d9%85%d9%86%d8%b5-1815578.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "تشكيل الحكومة الجديدة ينطلق غدا .. المنصوري تلتقي \"الأحرار\" و\"الاستقلال\"",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d9%8a%d8%a7%d8%b1%d8%a9-%d9%88%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1%d9%8a-%d9%8a%d9%86%d9%81%d9%8a%d8%a7%d9%86-%d8%a7%d8%aa%d9%87%d8%a7%d9%85%d8%a7%d8%aa-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8-1815261.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "ميارة والقادري ينفيان \"اتهامات انتخابية\"",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d8%b1%d8%a7%d9%82%d8%a8%d9%88%d9%86-%d8%b9%d8%b1%d8%a8-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%b4%d9%81%d8%a7%d9%81%d8%a9-1815165.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "مراقبون عرب: انتخابات المغرب شفافة",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.hespress.com/%d9%86%d8%a8%d8%b0%d8%a9-%d8%b9%d9%86-%d9%81%d8%a7%d8%b7%d9%85%d8%a9-%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-1815340.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "نبذة عن مسار فاطمة الزهراء المنصوري",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d8%af%d8%b1%d8%a7%d8%ac-%d8%a7%d8%b3%d8%aa%d8%a8%d8%a7%d9%82%d9%8a-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%8a%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-1813298.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "الملك محمد السادس يعين فاطمة الزهراء المنصوري رئيسة للحكومة الجديدة",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%b3%d9%86%d8%a8%d9%84%d8%a9-%d9%8a%d8%a4%d8%ac%d9%84-%d8%a7%d9%84%d8%ad%d8%b3%d9%85-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a-1815303.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"حزب السنبلة\" يؤجل الحسم الحكومي",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%8a%d9%86%d8%aa%d8%b8%d8%b1-%d8%ad%d8%b3%d9%85-%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%82%d8%b9%d8%a7%d8%aa-1815260.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "العدالة والتنمية ينتظر حسم التموقعات لبناء جبهة تنسيق داخل المعارضة",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://al3omk.com/1192173.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تعيين فاطمة الزهراء المنصوري رئيسة للحكومة.. قراءة دستورية",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://al3omk.com/1192132.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "فاطمة الزهراء المنصوري.. ثلاث رسائل في اختيار رئيسة للحكومة",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://al3omk.com/1192115.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "قراءة في نتائج الانتخابات التشريعية الأخيرة",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://al3omk.com/1192022.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "قراءة في نتائج الانتخابات التشريعية الأخيرة في المغرب",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://thepress.ma/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%85%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3-%d9%8a%d8%b9%d9%8a%d9%86-%d9%81%d8%a7%d8%b7%d9%85%d8%a9-%d8%a7%d9%84%d8%b2": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "رسميا..الملك محمد السادس يعين فاطمة الزهراء المنصوري رئيسة للحكومة",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d8%b9%d8%af-%d8%aa%d8%b9%d9%8a%d9%8a%d9%86%d9%87%d8%a7-%d9%85%d9%86-%d8%b7%d8%b1%d9%81-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a3%d9%88": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بعد تعيينها من طرف الملك.. المنصوري أول امرأة عربية تصل إلى رئاسة الحكومة كزعيمة لحزب تصدّر الانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d9%86-%d8%a7%d9%84%d9%81%d8%a7%d8%b3%d9%8a-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%8a%d8%b9%d9%85%d9%84-%d8%a8%d9%80%d9%86": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "من الفاسي إلى المنصوري.. الملك يعمل بـنصيحة اليوسفي ويحافظ على عُرف تعيين قادة الأحزاب في منصب رئيس الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%aa%d8%a8%d8%af%d8%a3-%d8%ba%d8%af%d8%a7%d9%8b-%d9%85%d8%b4%d8%a7%d9%88%d8%b1%d8%a7%d8%aa-%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%ad%d9%83": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "المنصوري تبدأ غداً مشاورات تشكيل الحكومة بلقاءي الأحرار والاستقلال",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.assahifa.com/%d9%81%d8%a7%d8%b7%d9%85%d8%a9-%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%85%d9%86-%d9%85%d8%b1%d8%a7%d9%83%d8%b4-%d8%a5%d9%84%d9%89-%d8%b1%d8%a6": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "فاطمة الزهراء المنصوري.. من مراكش إلى رئاسة الحكومة في محطة تاريخية للمغرب",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%85%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3-%d9%8a%d8%b9%d9%8a%d9%91%d9%86-%d9%81%d8%a7%d8%b7%d9%85%d8%a9-%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d8%a1": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الملك محمد السادس يعيّن فاطمة الزهراء المنصوري رئيسةً للحكومة ويكلّفها بتشكيلها وفق الفصل 47 من الدستور",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d9%86-%d8%a5%d8%b3%d9%83%d9%88%d8%a8%d8%a7%d8%b1-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d8%a5%d9%84%d9%89-%d8%ad%d9%82%d9%8a%d8%a8%d8%a9-%d8%b7%d9%86%d8%ac%d8%a9-%d9%84%d8%b9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "من إسكوبار الصحراء إلى حقيبة طنجة.. لعنة الفساد تطارد البام وتُجبر قياداته على دفع الثمن",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://ar.le360.ma/politique/2JFJTR52OVFHNEXCTCNVCBHMX4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "من القصر إلى مقر الحزب.. فاطمة الزهراء المنصوري تشرع في هندسة أغلبيتها الحكومية",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://ar.le360.ma/politique/7OWRL4N2V5G7RJTATM3DBYFVQE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الملك محمد السادس يعين فاطمة الزهراء المنصوري رئيسة للحكومة",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://ar.le360.ma/politique/6WZW3CFKIZH43OEZ2KZEQCJ6NE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "أول رئيسة حكومة في تاريخ المغرب.. فاطمة الزهراء المنصوري وسر الصعود إلى واجهة السلطة",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://ar.le360.ma/politique/BZ46YJBS75EQTNUYB7RIWPJS7Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "«برلمان الاستقلال» يجتمع للحسم في التحالف الحكومي وسط تحذير من أزمة الثقة والعزوف الانتخابي",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://fr.le360.ma/politique/fatima-ezzahra-el-mansouri-cheffe-du-gouvernement-la-presse-internationale-salue-une-nomination_WCVULORLABA5XKAZXAXH4EWJ5A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fatima Ezzahra El Mansouri cheffe du gouvernement: la presse internationale salue une nomination «historique»",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://fr.le360.ma/politique/coalition-gouvernementale-le-parti-de-listiqlal-choisit-lattentisme_ELZGL57DJNHOZCWCHEP4TU7XEY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Coalition gouvernementale: le parti de l’Istiqlal choisit l’attentisme",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://fr.le360.ma/politique/gouvernement-el-mansouri-dernieres-actus_462V2MDRPJGKBNQNCLNUQD5DSI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "EN DIRECT. Gouvernement El Mansouri: dernières actus",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://fr.le360.ma/politique/tanger-le-maire-mounir-laymouri-en-garde-a-vue-dans-le-dossier-des-bulletins-de-vote-saisis_E6XZOGGY4RF2FKUNFDG2UQRHHM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Tanger: le maire Mounir Laymouri en garde à vue dans le dossier des bulletins de vote saisis",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://fr.le360.ma/politique/exclusif-premiere-declaration-de-fatima-ezzahra-el-mansouri-apres-sa-nomination-comme-cheffe-du_YNKSM2PMCVHFTFE6APEYXREH3E": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Exclusif. Première déclaration de Fatima Ezzahra El Mansouri après sa nomination comme cheffe du gouvernement",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://fr.le360.ma/politique/enfin-une-femme-a-la-tete-du-gouvernement_PTAMVB24ERDYPHSQ47J6W6C3SE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Enfin, une femme à la tête du gouvernement",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-a-rabat-chellah-un-recours-devant-la-justice-remet-en-question-les-resultats-du-vote_4HTPN5OCVVFJPFDAKWTMBES43E": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives à Rabat-Chellah: un recours devant la justice remet en question les résultats du vote",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://fr.le360.ma/politique/margarita-robles-renvoie-les-nouvelles-accusations-del-espanol-sur-sebta-au-rang-des-speculations_WBVBORWEIBHH3OGGK3G6OR2LCA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Margarita Robles renvoie les nouvelles accusations d’El Español sur Sebta au rang des «spéculations»",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://fr.le360.ma/politique/fatima-ezzahra-el-mansouri-le-droit-detre-premiere-et-le-devoir-de-reussir_R45BNCYU4NAX7MVQTPU2QVHIOY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fatima Ezzahra El Mansouri: le droit d’être première et le devoir de réussir",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://fr.le360.ma/politique/apres-la-nomination-de-fatima-ezzahra-el-mansouri-voici-les-prochaines-etapes_UT6NGJUKYFGSXIXIKYSC7GW4NA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Après la nomination de Fatima Ezzahra El Mansouri, voici les prochaines étapes",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://fr.le360.ma/politique/fatima-ezzahra-el-mansouri-lavocate-marrakchie-a-la-tete-du-nouveau-gouvernement_POR5WZFBFVFCRFBC2UU6YATIIQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fatima Ezzahra El Mansouri, l’avocate marrakchie à la tête du nouveau gouvernement",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://fr.le360.ma/politique/le-roi-nomme-fatima-ezzahra-el-mansouri-cheffe-du-gouvernement-et-la-charge-de-former-le-nouveau_24TJGSTWZFDNFMZMFBPZ6YP4HE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le Roi nomme Fatima Ezzahra El Mansouri Cheffe du gouvernement et la charge de former le nouveau gouvernement",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://fr.le360.ma/politique/legislatives-listiqlal-tient-son-conseil-national-samedi-prochain_6I2F4RKXAFD7NEUPIWAAK4ESQY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Législatives: l’Istiqlal tient son Conseil national samedi prochain",
+    "status": "excluded",
+    "checked_at": "2026-09-29T22:19:26.435491+00:00"
   }
 }
