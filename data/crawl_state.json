@@ -16196,5 +16196,47 @@
     "title": "Législatives: l’Istiqlal tient son Conseil national samedi prochain",
     "status": "excluded",
     "checked_at": "2026-09-29T22:19:26.435491+00:00"
+  },
+  "https://www.chtoukapress.com/307242.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "كواليس تشكيل الحكومة: اتصال هاتفي بين المنصوري وبنكيران",
+    "status": "excluded",
+    "checked_at": "2026-09-30T05:37:36.435958+00:00"
+  },
+  "https://www.hespress.com/%d8%b1%d8%ba%d9%85-%d8%a7%d9%84%d8%aa%d8%b9%d8%a8%d8%a6%d8%a9-%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%ae%d8%b1%d8%ac-%d9%85%d9%86-%d8%b3%d8%a8%d8%a7%d9%82-1815311.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "رغم التعبئة .. أحزاب مغربية تخرج من سباق المقاعد البرلمانية بخفّي حنين",
+    "status": "excluded",
+    "checked_at": "2026-09-30T05:37:36.435958+00:00"
+  },
+  "https://www.hespress.com/%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%b1%d8%ba%d8%a8-%d9%81%d9%8a-%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-1815688.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "حزب \"البام\" يرغب في تشكيل أغلبية حكومية منسجمة في أقرب الآجال",
+    "status": "excluded",
+    "checked_at": "2026-09-30T05:37:36.435958+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d9%8a%d8%b1%d8%ad%d8%a8-%d8%a8%d9%84%d9%82%d8%a7%d8%a1-%d8%aa%d9%88%d8%a7%d8%b5%d9%84%d9%8a-%d9%85%d8%b9-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-1815654.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بنكيران يرحب بلقاء تواصلي مع المنصوري",
+    "status": "excluded",
+    "checked_at": "2026-09-30T05:37:36.435958+00:00"
+  },
+  "https://fr.le360.ma/politique/nouveau-gouvernement-el-mansouri-propose-une-rencontre-a-benkirane_UOO7AALCSNGOBI4KLVA7CUZNLU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Nouveau gouvernement: El Mansouri propose une rencontre à Benkirane",
+    "status": "excluded",
+    "checked_at": "2026-09-30T05:37:36.435958+00:00"
+  },
+  "https://www.assahifa.com/%d8%ad%d9%8a%d9%86-%d8%aa%d8%b5%d9%84-%d8%a7%d9%85%d8%b1%d8%a3%d8%a9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a5%d9%84%d9%89-%d8%b1%d8%a6%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "حين تصل امرأة مغربية إلى رئاسة الحكومة.. انتصار للمرأة لا شيك على بياض للسياسة",
+    "status": "excluded",
+    "checked_at": "2026-09-30T05:37:36.435958+00:00"
   }
 }
