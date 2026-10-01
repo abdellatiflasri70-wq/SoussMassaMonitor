@@ -16609,5 +16609,103 @@
     "title": "الأزمي وبوانو ومنيب وبنجلون والحموني وشباط.. هل المنصوري قادرة على مواجهة معارضة صدامية في مجلس النواب أم ستستعين بـلسان وهبي؟",
     "status": "accepted",
     "checked_at": "2026-10-01T06:01:26.085488+00:00"
+  },
+  "https://www.chtoukapress.com/307271.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "أخنوش يواصل دعم مهنيي النقل",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://www.hespress.com/%d8%ac%d9%88%d8%af%d8%a7%d8%b1-%d9%8a%d9%83%d8%b4%d9%81-%d8%a3%d9%88%d9%84%d9%88%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a-1816433.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "جودار يكشف أولويات \"الاتحاد الدستوري\" في مشاورات تشكيل الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%b9%d9%84%d9%86-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d8%af%d8%a7%d8%af-%d9%84%d9%84%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d9%81%d9%8a-%d8%a7-1816413.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"الأحرار\" يعلن الاستعداد للمشاركة في الحكومة ومواصلة الأوراش المفتوحة",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://fr.le360.ma/politique/quotient-electoral-pourquoi-laccusation-de-deformation-de-la-volonte-populaire-ne-tient-pas_MYQNJ75M5RFTRO27KCMGMYKRFY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Quotient électoral: pourquoi l’accusation de «déformation» de la volonté populaire ne tient pas",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/683474-participation-au-prochain-gouvernement-le-rni-tranchera-ce-samedi-video.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Participation au prochain gouvernement : le RNI tranchera ce samedi (VIDEO)",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/683451-abdelilah-benkirane-refuse-de-se-rendre-au-siege-du-pam.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Abdelilah Benkirane refuse de se rendre au siège du PAM",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/683436-gouvernement-el-mansouri-le-pps-na-pas-encore-tranche.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Gouvernement El Mansouri : le PPS n’a pas encore tranché",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://al3omk.com/1192598.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "وفاة الفنان الأمازيغي عمر بوتمزوغت بعد صراع طويل مع مرض السرطان",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://thepress.ma/%d8%a8%d9%86%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a%d8%a9-%d9%84%d9%85-%d9%8a%d8%ad%d8%b3%d9%85": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "بنعبد الله: التقدم والاشتراكية لم يحسم بعد موقفه من المشاركة في الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d8%b9%d8%b5%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%84%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86-%d8%aa%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "العصبة المغربية لحقوق الإنسان تطالب بكشف نتائج التحقيقات في خروقات انتخابات 23 شتنبر",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://thepress.ma/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d9%8a%d9%81%d8%aa%d8%ad-%d9%86%d9%82%d8%a7": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "بعد الانتخابات.. حزب الاستقلال يفتح نقاش المشاركة في الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://www.assahifa.com/%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%84%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d8%aa%d8%b9%d9%84%d9%86-%d8%a7%d8%b3%d8%aa%d8%b9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "قيادة التجمع الوطني للأحرار تعلن استعدادها للمشاركة في حكومة المنصوري.. وتحيل الحسم على المجلس الوطني للحزب",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://www.assahifa.com/%d8%ac%d9%88%d8%af%d8%a7%d8%b1-%d9%8a%d8%aa%d8%ad%d8%af%d8%ab-%d8%b9%d9%86-%d8%a3%d9%88%d9%84%d9%88%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%ad%d9%83%d9%88": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "جودار يتحدث عن أولويات البرنامج الحكومي المقبل بعد لقاء المنصوري",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%81%d8%aa%d8%aa%d8%a7%d8%ad%d9%8a%d8%a9-%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d9%85%d9%84%d9%83-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d9%84%d8%b3%d8%a8%d8%aa%d8%a9-%d8%a7%d9%84%d9%85%d8%ad": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "زيارة ملك إسبانيا لسبتة المحتلة يجب ألا تمر بلا ثمن سياسي",
+    "status": "excluded",
+    "checked_at": "2026-10-01T13:25:22.880866+00:00"
   }
 }
