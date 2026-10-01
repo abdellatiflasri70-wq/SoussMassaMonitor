@@ -16707,5 +16707,222 @@
     "title": "زيارة ملك إسبانيا لسبتة المحتلة يجب ألا تمر بلا ثمن سياسي",
     "status": "excluded",
     "checked_at": "2026-10-01T13:25:22.880866+00:00"
+  },
+  "https://www.chtoukapress.com/307289.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "النيابة العامة بطنجة تكشف نتائج التحقيق في فضيحة تزوير أوراق التصويت",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://agadirinfo.ma/134876.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "حزب التجمع الوطني للأحرار يعلن استعداده للمشاركة في الحكومة المقبلة - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://agadir24.info/%d8%aa%d9%88%d9%84%d9%91%d9%8a-%d8%a7%d9%84%d9%85%d8%b1%d8%a3%d8%a9-%d9%84%d8%b1%d8%a6%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تولّي المرأة لرئاسة الحكومة المغربية: قراءة فقهية ودستورية في موقف الرميد | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://agadir24.info/%d8%a8%d9%86%d8%aa%d9%86%d8%a7-%d9%88%d8%b5%d9%84%d8%aa-%d8%b5%d8%af%d9%89-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%8a%d8%a8%d9%84%d8%ba-%d8%aa%d9%86%d8%af%d9%88%d9%81.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "«بنتنا وصلت».. صدى المنصوري يبلغ تندوف: هل جاء حل الأزمة من حيث لم يتوقع أحد؟ | agadir24.info",
+    "status": "accepted",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/683481-formation-du-gouvernement-fatima-ezzahra-el-mansouri-recoit-une-delegation-de-luc.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Formation du gouvernement : Fatima Ezzahra El Mansouri reçoit une délégation de l’UC",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d8%ae%d8%b7%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d9%8f%d9%86%d9%82%d8%b6-%d8%a7%d9%84%d9%88%d8%b6%d9%88%d8%a1-%d9%88%d9%87%d8%b0-1816790.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "وهبي: كلام بنكيران \"ينقض الوضوء\".. وهذه كواليس تعيين المنصوري",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%b5%d8%a7%d8%a8%d8%b1%d9%8a-%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d9%84%d8%a7-%d9%8a%d9%85%d9%8a%d8%b2-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a7%d9%84%d8%b3-1816600.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "الصابري: \"بنكيران لا يميز بين العمل السياسي وأعراف حفلات الزفاف\"",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d9%8a%d9%86%d8%aa%d8%b8%d8%b1-%d9%85%d9%83%d8%a7%d9%86-%d9%84%d9%82%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1-1816559.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"تحالف اليسار\" يعلق لقاء المنصوري ويطالب بفضاء مستقل للمشاورات",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://al3omk.com/1192765.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "معاناة المرضى وحرمان من الإنعاش.. حقوقيون يفضحون واقع الصحة بطاطا",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://al3omk.com/1192663.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "معادلة الـ350 مليارات.. هل تملك حكومة المنصوري الموارد المالية لتنفيذ وعود الانتخابات؟",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://thepress.ma/%d9%86%d8%b2%d8%a7%d8%b1-%d8%a8%d8%b1%d9%83%d8%a9-%d9%8a%d9%84%d8%aa%d9%82%d9%8a-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%84%d8%a8%d8%ad%d8%ab-%d9%85%d8%b4%d8%a7%d9%88%d8%b1%d8%a7%d8%aa": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "نزار بركة يلتقي المنصوري لبحث مشاورات تشكيل الحكومة الجديدة",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d8%a8%d9%86-%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d9%8a%d8%b1%d9%81%d8%b6-%d9%84%d9%82%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a8%d9%85%d9%82%d8%b1-%d8%a7%d9%84": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "ابن كيران يرفض لقاء المنصوري بمقر “البام\"",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://www.assahifa.com/%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-%d8%a8%d9%8054-%d9%85%d9%82%d8%b9%d8%af%d8%a7-%d9%87%d9%84-%d9%87%d9%8a-%d8%ae%d8%b7%d9%88%d8%a9-%d8%a3%d9%88%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "قيادة المعارضة بـ54 مقعدا.. هل هي خطوة أولى من العدالة والتنمية نحو 2031 على درب تكرار سيناريو 2011؟",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://www.assahifa.com/%d9%81%d9%8a-%d8%ba%d9%8a%d8%a7%d8%a8-%d9%84%d9%8a%d9%85%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b0%d9%8a-%d9%83%d8%a7%d9%86-%d9%8a%d9%85%d8%ab%d9%84-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d9%86%d9%8a%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "في غياب ليموري الذي كان يمثل أمام النيابة العامة في قضية الأوراق الانتخابية.. جماعة طنجة تعقد دورة أكتوبر تحت رئاسة النائب الأول لرئيس المجلس",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://www.assahifa.com/%d9%81%d8%a7%d8%b7%d9%85%d8%a9-%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%88%d8%b5%d9%81%d9%91-%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d8%a9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "فاطمة الزهراء المنصوري وصفّ الصلاة",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://www.assahifa.com/%d9%82%d8%b6%d9%8a%d8%a9-%d8%a7%d8%ae%d8%aa%d9%84%d8%a7%d8%b3-%d8%a3%d9%88%d8%b1%d8%a7%d9%82-%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%a8%d8%b7%d9%86%d8%ac%d8%a9-%d8%aa%d9%88%d9%82%d9%8a%d9%81": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "قضية اختلاس أوراق التصويت بطنجة.. توقيف مشتبه فيهما إضافيين وطلب التحقيق معهما",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://www.assahifa.com/%d8%ae%d9%84%d8%a7%d9%81-%d8%ad%d9%88%d9%84-%d9%85%d9%83%d8%a7%d9%86-%d8%a7%d9%84%d9%84%d9%82%d8%a7%d8%a1-%d9%8a%d9%8f%d9%81%d8%b4%d9%84-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d8%a7-%d8%a8%d9%8a%d9%86": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "تحالف اليسار.. ثاني تمثيلية في البرلمان تمتنع عن لقاء المنصوري بمقر البام",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://ar.le360.ma/politique/YM6TJPKURZDL7DLLUQFMG6G3DE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "النيابة العامة بطنجة تكشف نتائج التحقيق في فضيحة أوراق التصويت: الهاتف وكاميرات فندق تورط العمدة ليموري",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://ar.le360.ma/politique/7KJ4ALE2S5EANPVLLB4YMEF75U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "شبهة التقارب مع «البام» تعصف بمدير فريق «الأحرار» في مجلس المستشارين",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://ar.le360.ma/politique/LOAM7TEX2JHJDDW3K47QH5RFOE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "مشاورات تشكيل الحكومة.. عبد الصمد عرشان: سيتعين اتخاذ قرارات جريئة",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://ar.le360.ma/politique/O6CZT5PJ2ZFBDMX3HMG7FOH5ZM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "تشكيل الحكومة.. جودار: «ينبغي إيلاء اهتمام خاص للشباب ومحاربة البطالة وغلاء المعيشة»",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://fr.le360.ma/politique/soupcons-de-fraude-electorale-a-tanger-le-maire-mounir-laymouri-transfere-a-la-prison-dassilah_MCXBG4ECOFGK3NMJAMFJ3RABAQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Soupçons de fraude électorale à Tanger: le maire Mounir Laymouri transféré à la prison d’Assilah",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://fr.le360.ma/politique/formation-du-gouvernement-lalliance-de-la-gauche-annule-sa-rencontre-vendredi-avec-fatima-ezzahra-el_TGTE7MOHPZC5PNTYVJYQLZZHXA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Formation du gouvernement: l’Alliance de la gauche annule sa rencontre vendredi avec Fatima Ezzahra El Mansouri",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://fr.le360.ma/politique/soupcons-de-fraude-electorale-a-tanger-deux-nouveaux-suspects-deferes-le-parquet-detaille-leur-role_XNKVUR5TC5C6HIPHZCNN237AH4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Soupçons de fraude électorale à Tanger: deux nouveaux suspects déférés, le parquet détaille le rôle de chacun",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://fr.le360.ma/politique/gouvernement-el-mansouri-a-lepreuve-des-alliances-et-des-equilibres-politiques_KKUWO37SOBC6JOY3FBSCW2UCDE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Gouvernement: El Mansouri à l’épreuve des alliances et des équilibres politiques",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://fr.le360.ma/politique/gouvernement-abdessamad-archane-secretaire-general-du-mds-il-faudra-prendre-des-decisions_FU2ORC7SBVBLZDBAOCUUE4IFJE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Gouvernement. Abdessamad Archane, secrétaire général du MDS: «Il faudra prendre des décisions courageuses»",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://fr.le360.ma/politique/gouvernement-mohamed-joudar-secretaire-general-de-luc-un-interet-particulier-doit-etre-accorde-a-la_UMNZQVDDA5BO5GYCHLYTZWRVYA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Gouvernement. Mohamed Joudar, secrétaire général de l’UC: «Un intérêt particulier doit être accordé à la jeunesse, à la lutte contre le chômage et à la cherté de la vie»",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://fr.le360.ma/politique/elections-legislatives-les-recours-se-multiplient-devant-la-cour-constitutionnelle_EW6SKAIAQFGE7MVFWS5TJWTNII": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Élections législatives : les recours se multiplient devant la Cour constitutionnelle",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://fr.le360.ma/politique/du-journalisme-prefabrique-espagnol_LHK32GAWMNC2BBQE5GDVWEBYXE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Du journalisme préfabriqué espagnol",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://fr.le360.ma/politique/soupcons-de-fraude-electorale-a-tanger-le-maire-mounir-laymouri-renvoye-devant-le-juge-dinstruction_AOKLYQ566NHLHHXE43Z2MKIQLI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Soupçons de fraude électorale à Tanger: le maire Mounir Laymouri renvoyé devant le juge d’instruction, une détention provisoire requise",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://fr.le360.ma/politique/le-rni-se-separe-de-son-directeur-a-la-chambre-des-conseillers-soupconne-de-connivence-avec-le-pam_QBKQ7AEKOJAXTPACDIJGRXVFMY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le RNI se sépare de son directeur à la Chambre des conseillers, soupçonné de connivence avec le PAM",
+    "status": "excluded",
+    "checked_at": "2026-10-01T22:44:00.257098+00:00"
   }
 }

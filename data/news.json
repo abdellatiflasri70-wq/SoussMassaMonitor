@@ -1,5 +1,210 @@
 [
   {
+    "id": "14fce6fce16dca9d",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "حزب التجمع الوطني للأحرار يعلن استعداده للمشاركة في الحكومة المقبلة - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134876.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-01",
+    "first_seen_at": "2026-10-01T22:44:00.257098+00:00",
+    "last_checked_at": "2026-10-01T22:44:00.257098+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربحزب التجمع الوطني للأحرار يعلن استعداده للمشاركة في الحكومة المقبلة أعرب المكتب السياسي لحزب التجمع الوطني للأحرار عن استعداده للمشاركة في الحكومة المقبلة، بما",
+    "word_count": 264,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابية",
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ",
+            "أكد"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "حملة انتخابية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار",
+        "مواضيع سياسية: الانتخابات والاقتراع, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_14fce6fce16d",
+    "stance_analyzed_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  {
+    "id": "74570a83afa1dcc4",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "«بنتنا وصلت».. صدى المنصوري يبلغ تندوف: هل جاء حل الأزمة من حيث لم يتوقع أحد؟ | agadir24.info",
+    "url": "https://agadir24.info/%D8%A8%D9%86%D8%AA%D9%86%D8%A7-%D9%88%D8%B5%D9%84%D8%AA-%D8%B5%D8%AF%D9%89-%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%88%D8%B1%D9%8A-%D9%8A%D8%A8%D9%84%D8%BA-%D8%AA%D9%86%D8%AF%D9%88%D9%81.html",
+    "author": "أكادير",
+    "published_at": "2026-10-01",
+    "first_seen_at": "2026-10-01T22:44:00.257098+00:00",
+    "last_checked_at": "2026-10-01T22:44:00.257098+00:00",
+    "language": "ar",
+    "excerpt": "بقلم: أحمد بومهرود باحث في الإعلام والصناعة الثقافية من «بنت الصحراء» إلى رئاسة الحكومة.. حين تتجاوز الذاكرة الاجتماعية حدود السياسة لم يكن صدى تعيين فاطمة",
+    "word_count": 1171,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية",
+            "تجمع انتخابي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فاطمة الزهراء المنصوري"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 11,
+        "editorial_segment_count": 9,
+        "reported_segment_count": 2,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_74570a83afa1",
+    "stance_analyzed_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  {
     "id": "6896de77eb235de8",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
