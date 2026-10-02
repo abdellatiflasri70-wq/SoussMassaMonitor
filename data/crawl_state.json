@@ -16945,5 +16945,47 @@
     "title": "العسري: “غزة×كازا” محاولة لمصارعة هواجسي تجاه الإبادة في غزة.. والسينما ليست بديلا للسياسة",
     "status": "excluded",
     "checked_at": "2026-10-02T05:44:29.953867+00:00"
+  },
+  "https://www.chtoukapress.com/307307.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "إدانة “موسى” صاحب العرس الأسطوري بالسجن 30 سنة",
+    "status": "excluded",
+    "checked_at": "2026-10-02T12:42:27.421118+00:00"
+  },
+  "https://www.hespress.com/%d8%a5%d8%b4%d8%a7%d8%af%d8%a9-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-%d8%a8%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%b9-%d8%a7%d9%84%d8%a3%d9%82%d8%a7%d9%84%d9%8a%d9%85-%d8%a7%d9%84%d8%ac%d9%86%d9%88-1816387.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "إشادة أمريكية باقتراع الأقاليم الجنوبية",
+    "status": "excluded",
+    "checked_at": "2026-10-02T12:42:27.421118+00:00"
+  },
+  "https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%84%d9%82%d8%ac%d8%b9-%d9%85%d8%a4%d9%87%d9%84-%d9%84%d8%ad%d9%82%d9%8a%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a2%d9%86-%d9%88%d8%b1-1816539.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "وهبي: لقجع مؤهل لحقيبة المالية الآن .. ورئاسة الحكومة بعد خمس سنوات",
+    "status": "excluded",
+    "checked_at": "2026-10-02T12:42:27.421118+00:00"
+  },
+  "https://fr.le360.ma/politique/tribune-adresse-a-madame-la-cheffe-de-gouvernement-faites-de-la-jeunesse-une-cause-nationale_SFS6NPLWTJGVRESA5AXUDAR6II": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Tribune. Adresse à madame la Cheffe de gouvernement: faites de la jeunesse une cause nationale",
+    "status": "excluded",
+    "checked_at": "2026-10-02T12:42:27.421118+00:00"
+  },
+  "https://al3omk.com/1192920.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "خلال ولاية أخنوش.. نجاعة الحكومة بالمغرب ترتفع بأكثر من 4 نقاط وفق البنك الدولي",
+    "status": "excluded",
+    "checked_at": "2026-10-02T12:42:27.421118+00:00"
+  },
+  "https://thepress.ma/%d8%b7%d9%86%d8%ac%d8%a9-%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9-%d8%aa%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%a7%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d9%85%d8%b9": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "طنجة.. النيابة العامة تطالب بالتحقيق مع مشتبه فيهما في قضية اختلاس أوراق التصويت",
+    "status": "excluded",
+    "checked_at": "2026-10-02T12:42:27.421118+00:00"
   }
 }
