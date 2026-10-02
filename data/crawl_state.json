@@ -16924,5 +16924,26 @@
     "title": "Le RNI se sépare de son directeur à la Chambre des conseillers, soupçonné de connivence avec le PAM",
     "status": "excluded",
     "checked_at": "2026-10-01T22:44:00.257098+00:00"
+  },
+  "https://www.hespress.com/%d8%ae%d8%a8%d8%b1%d8%a7%d8%a1-%d9%8a%d8%a8%d8%b1%d8%b2%d9%88%d9%86-%d8%a3%d9%87%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d8%b7%d8%b9%d9%88%d9%86-%d9%81%d9%8a-%d8%b6%d8%a8%d8%b7-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-1814951.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "خبراء يبرزون أهمية الطعون في ضبط نتائج الانتخابات التشريعية بالمغرب",
+    "status": "excluded",
+    "checked_at": "2026-10-02T05:44:29.953867+00:00"
+  },
+  "https://al3omk.com/1192886.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "270 مليون يورو لتوسعة مطارات مراكش وأكادير وطنجة وفاس في أفق 2030",
+    "status": "excluded",
+    "checked_at": "2026-10-02T05:44:29.953867+00:00"
+  },
+  "https://al3omk.com/1192656.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "العسري: “غزة×كازا” محاولة لمصارعة هواجسي تجاه الإبادة في غزة.. والسينما ليست بديلا للسياسة",
+    "status": "excluded",
+    "checked_at": "2026-10-02T05:44:29.953867+00:00"
   }
 }
