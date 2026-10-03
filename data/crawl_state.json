@@ -17148,5 +17148,40 @@
     "title": "انتخاب رؤساء اللجان الدائمة ينهي مسار إعادة هيكلة المجلس الوطني للصحافة",
     "status": "excluded",
     "checked_at": "2026-10-03T05:23:03.356735+00:00"
+  },
+  "https://www.chtoukapress.com/307337.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "البام يجمد عضوية منير ليموري",
+    "status": "excluded",
+    "checked_at": "2026-10-03T11:43:56.856489+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%a8%d8%ad%d8%ab-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-1817298.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"برلمان البام\" يبحث التحالفات الحكومية",
+    "status": "excluded",
+    "checked_at": "2026-10-03T11:43:56.856489+00:00"
+  },
+  "https://www.hespress.com/%d9%82%d9%8a%d8%a7%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d8%aa%d8%b6%d8%b9-%d8%b7%d9%84%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%88%d8%b2%d8%a7%d8%b1-1817081.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "قيادات \"البام\" تضع طلبات الاستوزار",
+    "status": "excluded",
+    "checked_at": "2026-10-03T11:43:56.856489+00:00"
+  },
+  "https://fr.le360.ma/politique/budgets-communaux-la-circulaire-de-laftit-impose-une-nouvelle-discipline-financiere_IGH32R6LAJDYLB6PKCBDXVIP7A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Budgets communaux: la circulaire de Laftit impose une nouvelle discipline financière",
+    "status": "excluded",
+    "checked_at": "2026-10-03T11:43:56.856489+00:00"
+  },
+  "https://www.assahifa.com/%d8%a3%d8%b3%d8%b1-%d8%aa%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d9%84%d9%82%d8%a7%d8%ad%d8%a7%d8%aa-%d8%a7%d9%84%d8%af%d9%81%d8%aa%d9%8a%d8%b1%d9%8a%d8%a7-%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84%d9%87": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "أسر تبحث عن لقاحات الدفتيريا لأطفالها وسط خصاص كبير بالصيدليات عقب ظهور بؤر بسوس ماسة",
+    "status": "excluded",
+    "checked_at": "2026-10-03T11:43:56.856489+00:00"
   }
 }
