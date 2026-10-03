@@ -1,5 +1,586 @@
 [
   {
+    "id": "fb964e8f2863b4f4",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "عاجل..البام يوجه صفعة قوية للأحرار باشتوكة آيت باها",
+    "url": "https://www.chtoukapress.com/307341.html",
+    "author": "Amikkk",
+    "published_at": "2026-10-03",
+    "first_seen_at": "2026-10-03T21:21:36.588645+00:00",
+    "last_checked_at": "2026-10-03T21:21:36.588645+00:00",
+    "language": "ar",
+    "excerpt": "قرر حزب الأصالة والمعاصرة بإقليم اشتوكة آيت باها، عشية اليوم السبت ثالث أكتوبر الجاري، فك الارتباط مع حزب الأحرار بالمجلس الإقليمي والجماعات. وحسب البيان الذي",
+    "word_count": 279,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت باها"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "بيوكرى"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "تحالف"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الإقليمي"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, التجمع الوطني للأحرار",
+        "مواضيع سياسية: التحالفات والخلافات السياسية, المجالس المنتخبة والتدبير المحلي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 7,
+        "editorial_segment_count": 6,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_fb964e8f2863",
+    "stance_analyzed_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  {
+    "id": "7200f5b8f6b50f95",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "رئاسة النيابة العامة: العملية الانتخابية للانتخابات التشريعية 2026 مرت في أجواء عادية - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134908.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-03",
+    "first_seen_at": "2026-10-03T21:21:36.588645+00:00",
+    "last_checked_at": "2026-10-03T21:21:36.588645+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديرئاسة النيابة العامة: العملية الانتخابية للانتخابات التشريعية 2026 مرت في أجواء عادية أكد رئيس قطب الدعوى العمومية وتتبع تنفيذ السياسة الجنائية وتحليل ظاهرة الجريمة",
+    "word_count": 428,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "استحقاقات",
+            "التصويت"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_7200f5b8f6b5",
+    "stance_analyzed_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  {
+    "id": "e47085dcfc1134e7",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "المجلس الوطني لحزب الأصالة والمعاصرة يفوض للجنة قيادة المشاورات مواصلة مفاوضات تشكيل الحكومة المقبلة - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/134912.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-03",
+    "first_seen_at": "2026-10-03T21:21:36.588645+00:00",
+    "last_checked_at": "2026-10-03T21:21:36.588645+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربالمجلس الوطني لحزب الأصالة والمعاصرة يفوض للجنة قيادة المشاورات مواصلة مفاوضات تشكيل الحكومة المقبلة قالت رئيسة المجلس الوطني لحزب الأصالة والمعاصرة، نجوى كوكوس، اليوم",
+    "word_count": 192,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نتائج الانتخابات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: فاطمة الزهراء المنصوري"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 4,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_e47085dcfc11",
+    "stance_analyzed_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  {
+    "id": "4ffa6ef6232f31f9",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "«البام» يفك تحالفه مع «الأحرار» باشتوكة آيت باها",
+    "url": "https://ar.le360.ma/politique/RJEYFNACFNDNLAQPMU2Y737FJY",
+    "author": "وديع المودن",
+    "published_at": "2026-10-03",
+    "first_seen_at": "2026-10-03T21:21:36.588645+00:00",
+    "last_checked_at": "2026-10-03T21:21:36.588645+00:00",
+    "language": "ar",
+    "excerpt": "ويشمل قرار فك الارتباط، على وجه الخصوص، جماعة وادي الصفاء والمجلس الإقليمي لاشتوكة آيت باها. وبرر الحزب، في بلاغ له، هذه الخطوة بـ«اعتبارات سياسية وتنظيمية»",
+    "word_count": 218,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت باها"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "بلاغ"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "التحالفات",
+            "أغلبية"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الإقليمي"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشحة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, التجمع الوطني للأحرار",
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_4ffa6ef6232f",
+    "stance_analyzed_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  {
+    "id": "69335a79a466e683",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le PAM rompt avec le RNI à Chtouka Aït Baha",
+    "url": "https://fr.le360.ma/politique/le-pam-rompt-avec-le-rni-a-chtouka-ait-baha_MYTB67VEYBHDZMVJJJC4YKHIJY",
+    "author": "Wadie El Mouden",
+    "published_at": "2026-10-03",
+    "first_seen_at": "2026-10-03T21:21:36.588645+00:00",
+    "last_checked_at": "2026-10-03T21:21:36.588645+00:00",
+    "language": "fr",
+    "excerpt": "La rupture concerne notamment la commune de Oued Essafa ainsi que le conseil provincial de Chtouka Aït Baha. Dans un communiqué, le PAM justifie cette",
+    "word_count": 303,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت باها"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "rupture",
+            "coalition",
+            "majorité"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "conseil provincial",
+            "commune",
+            "collectivités territoriales"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "secrétariat",
+            "coordination"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "affirme",
+            "communiqué"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "gouvernement",
+            "majorité gouvernementale"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "élections"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, حزب الأصالة والمعاصرة",
+        "مواضيع سياسية: التحالفات والخلافات السياسية, المجالس المنتخبة والتدبير المحلي, الأنشطة والتنظيمات الحزبية, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_69335a79a466",
+    "stance_analyzed_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  {
     "id": "14fce6fce16dca9d",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",

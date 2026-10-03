@@ -17344,5 +17344,96 @@
     "title": "Tanger: ce que l’on sait de la détention provisoire du maire Mounir Laymouri",
     "status": "excluded",
     "checked_at": "2026-10-03T16:26:00.207944+00:00"
+  },
+  "https://www.chtoukapress.com/307341.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "عاجل..البام يوجه صفعة قوية للأحرار باشتوكة آيت باها",
+    "status": "accepted",
+    "checked_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  "https://agadirinfo.ma/134908.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "رئاسة النيابة العامة: العملية الانتخابية للانتخابات التشريعية 2026 مرت في أجواء عادية - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  "https://agadirinfo.ma/134912.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "المجلس الوطني لحزب الأصالة والمعاصرة يفوض للجنة قيادة المشاورات مواصلة مفاوضات تشكيل الحكومة المقبلة - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  "https://alyaoum24.com/2048289.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "البطولة: المغرب الفاسي يعتلي الصدارة بانتصاره على حسنية أكادير – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  "https://www.hespress.com/%d8%a3%d9%88%d8%b2%d9%8a%d9%86-%d9%8a%d9%83%d8%b4%d9%81-%d8%aa%d9%82%d8%a7%d8%b1%d8%a8%d8%a7-%d9%85%d8%b1%d8%ac%d8%b9%d9%8a%d8%a7-%d9%85%d8%b9-%d8%a7%d9%84%d8%a8%d8%a7%d9%85-1817632.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أوزين يكشف تقاربا مرجعيا مع \"البام\"",
+    "status": "excluded",
+    "checked_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d8%a9-%d8%aa%d9%81%d9%88%d8%b6-%d8%a3%d9%88%d8%b2%d9%8a%d9%86-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%84%d8%a9-%d9%85%d8%b4%d8%a7-1817594.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "الحركة الشعبية تفوض أوزين بمواصلة مشاورات تشكيل الحكومة الجديدة",
+    "status": "excluded",
+    "checked_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d9%88%d8%a7%d8%b2%d9%8a%d9%86-%d8%a7%d9%84%d9%82%d9%88%d9%89-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%b9%d8%af%d8%a9-%d8%b3%d9%8a%d9%86%d8%a7-1817082.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "موازين القوى البرلمانية تطرح عدة سيناريوهات لتشكيل الأغلبية الحكومية",
+    "status": "excluded",
+    "checked_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  "https://al3omk.com/1193328.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الكاف يعتمد تعديلات جديدة على مسابقاته ويحدد مواعيد عدد من الاستحقاقات",
+    "status": "excluded",
+    "checked_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  "https://ar.le360.ma/politique/RJEYFNACFNDNLAQPMU2Y737FJY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "«البام» يفك تحالفه مع «الأحرار» باشتوكة آيت باها",
+    "status": "accepted",
+    "checked_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  "https://fr.le360.ma/politique/le-pam-rompt-avec-le-rni-a-chtouka-ait-baha_MYTB67VEYBHDZMVJJJC4YKHIJY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le PAM rompt avec le RNI à Chtouka Aït Baha",
+    "status": "accepted",
+    "checked_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  "https://fr.le360.ma/politique/el-mansouri-devant-le-conseil-national-du-pam-nous-voulons-un-gouvernement-politique-fort_NFZHGUILZFC23PXQCQULLAP3LE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "El Mansouri devant le Conseil national du PAM: «Nous voulons un gouvernement politique fort»",
+    "status": "excluded",
+    "checked_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b9%d8%b2%d8%b2-%d9%82%d8%af%d8%b1%d8%a7%d8%aa%d9%87%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "القوات المسلحة المغربية تعزز قدراتها في تشغيل الطائرات المسيرة بتدريب مشترك مع الجيش الأمريكي بأكادير",
+    "status": "excluded",
+    "checked_at": "2026-10-03T21:21:36.588645+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d8%a9-%d8%aa%d9%8f%d9%81%d9%88%d8%b6-%d9%84%d8%a3%d9%88%d8%b2%d9%8a%d9%86-%d9%85%d8%b4%d8%a7%d9%88%d8%b1%d8%a7%d8%aa-%d8%aa": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الحركة الشعبية تُفوض لأوزين مشاورات تشكيل الحكومة.. ويشترط الدور المؤثر",
+    "status": "excluded",
+    "checked_at": "2026-10-03T21:21:36.588645+00:00"
   }
 }
