@@ -1,5 +1,122 @@
 [
   {
+    "id": "f2dedb39e83feb2f",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "بعمر 90 سنة.. والد أكبر مرشح خاسر بسوس ماسة يتولى رئاسة جماعة بالمغرب | agadir24.info",
+    "url": "https://agadir24.info/%D8%A8%D8%B9%D9%85%D8%B1-90-%D8%B3%D9%86%D8%A9-%D9%88%D8%A7%D9%84%D8%AF-%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D8%B1%D8%B4%D8%AD-%D8%AE%D8%A7%D8%B3%D8%B1-%D8%A8%D8%B3%D9%88%D8%B3-%D9%85%D8%A7%D8%B3%D8%A9.html",
+    "author": "أكادير",
+    "published_at": "2026-10-04",
+    "first_seen_at": "2026-10-04T21:32:28.768553+00:00",
+    "last_checked_at": "2026-10-04T21:32:28.768553+00:00",
+    "language": "ar",
+    "excerpt": "في واقعة سياسية فريدة هي الأولى من نوعها بالمجالس الجماعية في المغرب، انتُخب أحمد أمين رئيساً لمجلس جماعة “أولاد عمران” التابعة لإقليم سيدي بنور بالإجماع،",
+    "word_count": 97,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "إنزكان أيت ملول"
+      ],
+      "primary_places": [
+        "أيت ملول",
+        "إنزكان"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_052",
+          "name": "عمر أمين",
+          "tier": "secondary"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "استقالته",
+            "قدم استقالته"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: عمر أمين",
+        "مواضيع سياسية: الاستقالة وتغيير الانتماء, الترشح والتزكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_052",
+        "target_type": "person",
+        "target_name": "عمر أمين",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f2dedb39e83f",
+    "stance_analyzed_at": "2026-10-04T21:32:28.768553+00:00"
+  },
+  {
     "id": "fb964e8f2863b4f4",
     "source_id": "chtoukapress",
     "source_name": "اشتوكة بريس",
