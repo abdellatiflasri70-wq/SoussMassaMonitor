@@ -17505,5 +17505,68 @@
     "title": "المعارضة البرلمانية المقبلة تُسائل القوة العددية ورهان الفاعلية السياسية",
     "status": "excluded",
     "checked_at": "2026-10-05T05:47:20.148442+00:00"
+  },
+  "https://www.chtoukapress.com/307373.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "سانشيز يحل البرلمان ويدعو إلى إجراء انتخابات عامة مبكرة",
+    "status": "excluded",
+    "checked_at": "2026-10-05T14:47:44.093772+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d9%82%d9%88%d9%8a-%d8%b5%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%aa-%d8%b4%d9%88%d9%83%d9%8a-1818188.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"برلمان الأحرار\" يقوي صلاحيات شوكي",
+    "status": "excluded",
+    "checked_at": "2026-10-05T14:47:44.093772+00:00"
+  },
+  "https://thepress.ma/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%a8%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-%d8%aa%d9%86%d8%aa%d9%82%d8%af-%d8%aa%d8%af%d8%a8%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%a7": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "جامعة الصحة بأكادير تنتقد تدبير الموارد البشرية وتحذر من تداعيات الخصاص",
+    "status": "excluded",
+    "checked_at": "2026-10-05T14:47:44.093772+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d8%b9%d8%af-%d8%b3%d8%a8%d8%aa%d8%a9-%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7%d9%84%d8%b3%d9%83%d9%86-%d8%aa%d9%86%d9%87%d9%8a-%d9%85%d9%8f%d9%82%d8%a7%d9%88%d9%85%d8%a9-%d8%b3%d8%a7%d9%86%d8%b4%d9%8a": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بعد سبتة.. أزمة السكن تنهي مُقاومة سانشيز: رئيس الحكومة الإسبانية يحل البرلمان ويدعو إلى انتخابات مبكرة في 29 نونبر",
+    "status": "excluded",
+    "checked_at": "2026-10-05T14:47:44.093772+00:00"
+  },
+  "https://al3omk.com/1193621.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "قبيل استئناف مشاورات تشكيل الحكومة .. بنعبد الله في مقر “البام” (فيديو)",
+    "status": "excluded",
+    "checked_at": "2026-10-05T14:47:44.093772+00:00"
+  },
+  "https://al3omk.com/1193559.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "سانشيز يحل البرلمان الاسباني ويدعو لانتخابات مبكرة عقب رفض مراسيم السكن",
+    "status": "excluded",
+    "checked_at": "2026-10-05T14:47:44.093772+00:00"
+  },
+  "https://ar.le360.ma/politique/FVY6TJLWMZFUNOUHVJNVK352QY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "البام والاستقلال «يسقطان» دورة مجلس جهة سوس.. والأحرار يجد نفسه معزولا",
+    "status": "accepted",
+    "checked_at": "2026-10-05T14:47:44.093772+00:00"
+  },
+  "https://fr.le360.ma/politique/nouveau-gouvernement-el-mansouri-entame-avec-benabdallah-le-deuxieme-round-des-consultations_QJYMS4VCUNFBLFBDE342YMCL4I": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Nouveau gouvernement: El Mansouri entame avec Benabdallah le deuxième round des consultations",
+    "status": "excluded",
+    "checked_at": "2026-10-05T14:47:44.093772+00:00"
+  },
+  "https://fr.le360.ma/politique/gouvernement-el-mansouri-le-pam-reunit-ce-lundi-sa-commission-des-consultations_7JDRWSYVRVBNJB43D75WYIA6GM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Gouvernement El Mansouri: le PAM réunit ce lundi sa commission des consultations",
+    "status": "excluded",
+    "checked_at": "2026-10-05T14:47:44.093772+00:00"
   }
 }
