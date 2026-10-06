@@ -1,5 +1,344 @@
 [
   {
+    "id": "89d18dd216bfb8c0",
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الاقتصاد والمالية والفلاحة والسياحة.. وزارات يقترب التجمعيون من توديعها مع حكومة المنصوري بعد أن عمّروا فيها طويلا",
+    "url": "https://www.assahifa.com/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9",
+    "author": null,
+    "published_at": "2026-10-06",
+    "first_seen_at": "2026-10-06T18:25:32.107241+00:00",
+    "last_checked_at": "2026-10-06T18:25:32.107241+00:00",
+    "language": "ar",
+    "excerpt": "الاقتصاد والمالية والفلاحة والسياحة.. وزارات يقترب التجمعيون من توديعها مع حكومة المنصوري بعد أن عمّروا فيها طويلا في ضوء التحولات التي أفرزتها انتخابات 23 شتنبر",
+    "word_count": 1052,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        },
+        {
+          "id": "MP",
+          "name": "الحركة الشعبية"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_022",
+          "name": "عبد الإله بنكيران",
+          "tier": "priority"
+        },
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        },
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_029",
+          "name": "إدريس الأزمي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_028",
+          "name": "رشيد الطالبي العلمي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        },
+        {
+          "id": "person_025",
+          "name": "محمد ساجد",
+          "tier": "priority"
+        },
+        {
+          "id": "person_019",
+          "name": "نزار بركة",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "الاستحقاقات الانتخابية",
+            "الاستحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "أغلبية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, حزب الأصالة والمعاصرة, حزب الاستقلال, حزب العدالة والتنمية",
+        "شخصيات رئيسية: عبد الإله بنكيران, عزيز أخنوش, فوزي لقجع",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 15,
+        "editorial_segment_count": 9,
+        "reported_segment_count": 6,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "MP",
+        "target_type": "party",
+        "target_name": "الحركة الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_022",
+        "target_type": "person",
+        "target_name": "عبد الإله بنكيران",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_029",
+        "target_type": "person",
+        "target_name": "إدريس الأزمي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_028",
+        "target_type": "person",
+        "target_name": "رشيد الطالبي العلمي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_025",
+        "target_type": "person",
+        "target_name": "محمد ساجد",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_019",
+        "target_type": "person",
+        "target_name": "نزار بركة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_89d18dd216bf",
+    "stance_analyzed_at": "2026-10-06T18:25:32.107241+00:00"
+  },
+  {
     "id": "266736c0c6ec986c",
     "source_id": "le360",
     "source_name": "Le360",
