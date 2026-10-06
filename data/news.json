@@ -180,6 +180,218 @@
     "stance_analyzed_at": "2026-10-05T14:47:44.093772+00:00"
   },
   {
+    "id": "e4ddee7328fcb485",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Souss-Massa: PAM et Istiqlal boudent la session du Conseil régional, le RNI d’Achengli sans quorum",
+    "url": "https://fr.le360.ma/politique/souss-massa-pam-et-istiqlal-boudent-la-session-du-conseil-regional-le-rni-dachengli-sans-quorum_IQWRBPXNFJHGTEB6O557BMXTVM",
+    "author": "M'hand Oubarka",
+    "published_at": "2026-10-05",
+    "first_seen_at": "2026-10-06T00:06:22.351641+00:00",
+    "last_checked_at": "2026-10-06T00:06:22.351641+00:00",
+    "language": "fr",
+    "excerpt": "Présidée par Karim Achengli, également coordinateur régional du RNI et membre de son bureau politique, la session ordinaire du Conseil régional de Souss-Massa a enregistré",
+    "word_count": 245,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أيت باها"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        },
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_003",
+          "name": "كريم أشنكلي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "conseil régional",
+            "session ordinaire",
+            "collectivités territoriales"
+          ]
+        },
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "bureau politique",
+            "secrétariat",
+            "coordination"
+          ]
+        },
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "alliance",
+            "majorité",
+            "rupture"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "internal_party_election",
+          "name": "انتخاب المسؤولين والهياكل الحزبية",
+          "hits": [
+            "coordinateur régional"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "élections"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "communiqué"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 7,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب التقدم والاشتراكية, التجمع الوطني للأحرار, حزب الأصالة والمعاصرة, حزب الاستقلال",
+        "شخصيات رئيسية: كريم أشنكلي",
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي, الأنشطة والتنظيمات الحزبية, التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "progrès"
+        ]
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 1,
+        "evidence": [
+          "progrès"
+        ]
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 2,
+        "evidence": [
+          "progrès"
+        ]
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": [
+          "progrès"
+        ]
+      },
+      {
+        "target_id": "person_003",
+        "target_type": "person",
+        "target_name": "كريم أشنكلي",
+        "label": "favorable",
+        "label_ar": "إيجابي أو داعم",
+        "confidence": "medium",
+        "positive_score": 2,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "progrès"
+        ]
+      }
+    ],
+    "event_id": "evt_e4ddee7328fc",
+    "stance_analyzed_at": "2026-10-06T00:06:22.351641+00:00"
+  },
+  {
     "id": "f2dedb39e83feb2f",
     "source_id": "agadir24",
     "source_name": "أكادير24",
