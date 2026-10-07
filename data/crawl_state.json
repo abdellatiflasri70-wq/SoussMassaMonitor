@@ -17932,5 +17932,40 @@
     "title": "Espagne: le pari des urnes et la variable marocaine",
     "status": "excluded",
     "checked_at": "2026-10-07T06:05:34.679634+00:00"
+  },
+  "https://www.chtoukapress.com/307418.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "اشتوكة أيت باها .. جماعة ايت عميرة على موعد مع حملة تلقيح واسعة ضد مرض الدفتريا",
+    "status": "excluded",
+    "checked_at": "2026-10-07T13:30:24.410422+00:00"
+  },
+  "https://www.hespress.com/%d9%84%d8%b4%d9%83%d8%b1-%d9%8a%d9%86%d9%82%d9%84-%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a5%d9%84%d9%89-%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad-1819163.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "لشكر ينقل عرض المنصوري إلى قيادة \"الاتحاد\" .. وتوجه نحو المشاركة",
+    "status": "excluded",
+    "checked_at": "2026-10-07T13:30:24.410422+00:00"
+  },
+  "https://www.assahifa.com/%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d9%85%d8%b9-%d8%a7%d9%84%d9%83%d8%aa%d9%84%d8%a9-%d9%88%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-%d9%8a%d9%82%d9%88%d8%af%d9%87%d8%a7-%d8%a7%d9%84%d8%a3%d8%ad": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "أغلبية مع الكتلة ومعارضة يقودها الأحرار.. هل تراهن المنصوري على خلط أوراق خصومها لحماية أغلبية مُقلقة عدديا؟",
+    "status": "excluded",
+    "checked_at": "2026-10-07T13:30:24.410422+00:00"
+  },
+  "https://ar.le360.ma/politique/ROOUMGTJSJCHVJLHAXJHDTWIYI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "رئيس مجلس المستشارين يبرز بأروشا التجربة المغربية في تعزيز الحكامة وتمكين المواطنين والمجالات الترابية",
+    "status": "excluded",
+    "checked_at": "2026-10-07T13:30:24.410422+00:00"
+  },
+  "https://fr.le360.ma/politique/cooperation-militaire-tenue-de-la-troisieme-commission-mixte-maroco-emiratie_65MBDSQHA5DF3E22JWEN4LTNOY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Coopération militaire: tenue de la troisième Commission mixte maroco-émiratie",
+    "status": "excluded",
+    "checked_at": "2026-10-07T13:30:24.410422+00:00"
   }
 }
