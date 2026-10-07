@@ -339,6 +339,109 @@
     "stance_analyzed_at": "2026-10-06T18:25:32.107241+00:00"
   },
   {
+    "id": "0803828ee820e75e",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الاتحاد الاشتراكي يجدد الثقة في عبد الرحيم شهيد لقيادة فريقه النيابي لولاية ثانية",
+    "url": "https://al3omk.com/1194083.html",
+    "author": "العمق المغربي",
+    "published_at": "2026-10-06",
+    "first_seen_at": "2026-10-07T06:05:34.679634+00:00",
+    "last_checked_at": "2026-10-07T06:05:34.679634+00:00",
+    "language": "ar",
+    "excerpt": "جدد حزب الاتحاد الاشتراكي للقوات الشعبية، مساء اليوم الثلاثاء، الثقة في عبد الرحيم شهيد لقيادة فريقه النيابي بمجلس النواب لولاية ثانية. وجاء القرار خلال اجتماع",
+    "word_count": 145,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "USFP",
+          "name": "الاتحاد الاشتراكي للقوات الشعبية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_020",
+          "name": "إدريس لشكر",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: الاتحاد الاشتراكي للقوات الشعبية",
+        "شخصيات رئيسية: إدريس لشكر"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "USFP",
+        "target_type": "party",
+        "target_name": "الاتحاد الاشتراكي للقوات الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 3,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_020",
+        "target_type": "person",
+        "target_name": "إدريس لشكر",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_0803828ee820",
+    "stance_analyzed_at": "2026-10-07T06:05:34.679634+00:00"
+  },
+  {
     "id": "266736c0c6ec986c",
     "source_id": "le360",
     "source_name": "Le360",
