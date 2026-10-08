@@ -18142,5 +18142,40 @@
     "title": "Abdellatif Loudiyi: le Maroc veut «passer d’un pays qui importe des capacités de défense à un pays qui bâtit une capacité nationale»",
     "status": "excluded",
     "checked_at": "2026-10-07T23:08:16.217447+00:00"
+  },
+  "https://www.chtoukapress.com/307444.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "جماعة أكادير تصادق على ميزانية 2027 وتواصل تعزيز توازناتها المالية",
+    "status": "excluded",
+    "checked_at": "2026-10-08T06:11:09.550085+00:00"
+  },
+  "https://alyaoum24.com/2049054.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "المغرب يجمع بوينغ وإيرباص ولوكهيد مارتن وسافران في تحالف صناعي لتطوير تكنولوجيا الطيران والدفاع – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-10-08T06:11:09.550085+00:00"
+  },
+  "https://al3omk.com/1194413.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "بعد انتخابات 23 شتنبر.. استقالة “مفاجئة” لتوفيق البورش من رئاسة “أحرار تطوان”",
+    "status": "excluded",
+    "checked_at": "2026-10-08T06:11:09.550085+00:00"
+  },
+  "https://fr.le360.ma/politique/rabat-les-divisions-de-la-majorite-menacent-ladoption-du-budget-2027_XVPGQKCFVFGV5O7EQUPOUXLZF4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Rabat: les divisions de la majorité menacent l’adoption du budget 2027",
+    "status": "excluded",
+    "checked_at": "2026-10-08T06:11:09.550085+00:00"
+  },
+  "https://fr.le360.ma/politique/naturalisation-des-sahraouis-la-dissolution-du-parlement-espagnol-reporte-le-projet_UCJNQY72CZHJVEI6WELM62NGBI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Naturalisation des Sahraouis: la dissolution du Parlement espagnol reporte le projet",
+    "status": "excluded",
+    "checked_at": "2026-10-08T06:11:09.550085+00:00"
   }
 }
