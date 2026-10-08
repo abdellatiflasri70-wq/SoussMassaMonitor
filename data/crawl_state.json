@@ -18177,5 +18177,33 @@
     "title": "Naturalisation des Sahraouis: la dissolution du Parlement espagnol reporte le projet",
     "status": "excluded",
     "checked_at": "2026-10-08T06:11:09.550085+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%ac%d8%b1%d9%8a-%d8%a7%d8%b3%d8%aa%d8%a8%d8%b9%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%b3%d8%a7%d9%8a%d8%b1-%d8%a7%d9%84%d8%aa%d9%88-1819643.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "المهاجري: استبعاد \"الأحرار\" يساير التوجه العام للمجلس الوطني لـ\"البام\"",
+    "status": "excluded",
+    "checked_at": "2026-10-08T13:36:28.519492+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d9%8a%d8%b6%d8%b9-%d8%ae%d8%b7%d8%a9-%d8%b7%d8%b1%d9%8a%d9%82-%d9%84%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86-1819320.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "تحالف اليسار يضع خطة طريق للبرلمان",
+    "status": "accepted",
+    "checked_at": "2026-10-08T13:36:28.519492+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d8%b5%d8%a7%d8%af%d8%b1-%d8%ad%d8%b2%d8%a8%d9%8a%d8%a9-%d9%84%d9%80%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d9%81%d8%a9-%d8%a8%d8%b1%d9%83%d8%a9-%d8%ba%d8%a7%d8%af%d8%b1-%d9%85%d8%b1%d8%aa%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "مصادر حزبية لـالصحيفة: بركة غادر مرتاحا بعد اتفاقه مع المنصوري على الحقائب الوزارية.. وحصة الاستقلاليين ستتجاوز نظيرتها في حكومة أخنوش",
+    "status": "excluded",
+    "checked_at": "2026-10-08T13:36:28.519492+00:00"
+  },
+  "https://thepress.ma/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%aa%d8%b1%d8%b5%d8%af-628-%d8%ad%d8%a7%d9%84%d8%a9-%d8%b9%d9%86%d9%81-%d8%b1%d9%82%d9%85%d9%8a-%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d9%81%d8%aa-%d9%86%d8%b3%d8%a7%d8%a1": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "دراسة ترصد 628 حالة عنف رقمي استهدفت نساء مرشحات في انتخابات 2026",
+    "status": "excluded",
+    "checked_at": "2026-10-08T13:36:28.519492+00:00"
   }
 }

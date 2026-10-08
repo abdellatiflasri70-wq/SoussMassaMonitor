@@ -1,5 +1,169 @@
 [
   {
+    "id": "f3b0fae7f58cb275",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "تحالف اليسار يضع خطة طريق للبرلمان",
+    "url": "https://www.hespress.com/%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D9%8A%D8%B3%D8%A7%D8%B1-%D9%8A%D8%B6%D8%B9-%D8%AE%D8%B7%D8%A9-%D8%B7%D8%B1%D9%8A%D9%82-%D9%84%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-1819320.html",
+    "author": "هسبريس",
+    "published_at": "2026-10-08",
+    "first_seen_at": "2026-10-08T13:36:28.519492+00:00",
+    "last_checked_at": "2026-10-08T13:36:28.519492+00:00",
+    "language": "ar",
+    "excerpt": "ينتظر تحالف اليسار، على أحر من الجمر، افتتاح الدورة الخريفية للسنة الأولى من الولاية التشريعية الثانية عشرة، للشروع في ممارسة دوره الرقابي على أداء الحكومة",
+    "word_count": 276,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PSU",
+          "name": "الحزب الاشتراكي الموحد"
+        },
+        {
+          "id": "FGD",
+          "name": "فيدرالية اليسار الديمقراطي"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_026",
+          "name": "نبيلة منيب",
+          "tier": "priority"
+        },
+        {
+          "id": "person_048",
+          "name": "سناء فوزي",
+          "tier": "secondary"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "تحالف",
+            "معارضة"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: الحزب الاشتراكي الموحد, فيدرالية اليسار الديمقراطي",
+        "شخصيات رئيسية: فاطمة الزهراء المنصوري",
+        "مواضيع سياسية: التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PSU",
+        "target_type": "party",
+        "target_name": "الحزب الاشتراكي الموحد",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "FGD",
+        "target_type": "party",
+        "target_name": "فيدرالية اليسار الديمقراطي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_026",
+        "target_type": "person",
+        "target_name": "نبيلة منيب",
+        "label": "unclear",
+        "label_ar": "غير واضح",
+        "confidence": "low",
+        "positive_score": 1,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فاز"
+        ]
+      },
+      {
+        "target_id": "person_048",
+        "target_type": "person",
+        "target_name": "سناء فوزي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_f3b0fae7f58c",
+    "stance_analyzed_at": "2026-10-08T13:36:28.519492+00:00"
+  },
+  {
     "id": "89d18dd216bfb8c0",
     "source_id": "assahifa",
     "source_name": "الصحيفة",
