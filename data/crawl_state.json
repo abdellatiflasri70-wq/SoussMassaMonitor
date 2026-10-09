@@ -18296,5 +18296,33 @@
     "title": "Le Roi préside vendredi l’ouverture de la session d’automne du Parlement",
     "status": "excluded",
     "checked_at": "2026-10-08T23:23:55.009264+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d8%b1%d9%83%d8%b2-%d8%ad%d9%82%d9%88%d9%82%d9%8a-%d9%8a%d9%8f%d9%82%d9%8e%d9%8a%d9%85-%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%b9-23-%d8%b4%d8%aa%d9%86%d8%a8%d8%b1-%d9%85%d9%83%d8%a7%d8%b3%d8%a8-1819835.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "مركز حقوقي يُقَيم اقتراع 23 شتنبر .. مكاسب قانونية ومطالب إصلاحية",
+    "status": "excluded",
+    "checked_at": "2026-10-09T06:14:36.848992+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%a8%d9%8a-%d9%88%d8%ae%d8%b1%d9%88%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%8a-1819930.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"التصويت العقابي وخروقات الانتخابات\" يتصدران نقاش اليسار المغربي",
+    "status": "accepted",
+    "checked_at": "2026-10-09T06:14:36.848992+00:00"
+  },
+  "https://www.hespress.com/%d8%a3%d8%ba%d9%85%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%aa-%d9%85%d8%b5%d9%8a%d8%b1-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a-%d8%a5-1820015.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "أغماني: \"الموت مصير الاتحاد الاشتراكي إذا لم يشارك في الحكومة\"",
+    "status": "excluded",
+    "checked_at": "2026-10-09T06:14:36.848992+00:00"
+  },
+  "https://al3omk.com/1194774.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "طاطا.. سيول تخلف أضرارا جسيمة بتمنارت وتعيد إلى الواجهة مخاطر البناء بمحاذاة مجاري الأودية",
+    "status": "excluded",
+    "checked_at": "2026-10-09T06:14:36.848992+00:00"
   }
 }
