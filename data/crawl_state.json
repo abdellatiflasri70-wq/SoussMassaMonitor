@@ -18394,5 +18394,96 @@
     "title": "ياسين زيزي: العدالة والتنمية وراء توقيف برنامج اكتشاف المواهب “كوميديا”",
     "status": "excluded",
     "checked_at": "2026-10-09T13:26:37.108562+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%84%d8%a3%d8%b5%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b5%d8%b1%d8%a9-%d9%8a%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%ad%d8%b3%d9%85-%d8%b1%d8%a6%d8%a7%d8%b3%d8%a9-%d9%85.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "الأصالة والمعاصرة يقترب من حسم رئاسة مجلس النواب | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-10-09T22:41:49.621022+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%84-1820473.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "المعارضة البرلمانية تدعو إلى ترجمة الخطاب الملكي إلى سياسات عمومية",
+    "status": "excluded",
+    "checked_at": "2026-10-09T22:41:49.621022+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/684202-rni-des-sources-dementent-les-rivalites-entre-les-dirigeants.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "RNI: des sources démentent les rivalités entre les dirigeants",
+    "status": "excluded",
+    "checked_at": "2026-10-09T22:41:49.621022+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d8%ad%d8%aa%d9%82%d8%a7%d9%86-%d8%af%d8%a7%d8%ae%d9%84-%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a-%d9%84%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d8%aa%d9%82%d8%af": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "احتقان داخل المكتب السياسي لحزب التقدم والاشتراكية بسبب انفراد بنعبد الله بمفاوضات الاستوزار مع المنصوري",
+    "status": "excluded",
+    "checked_at": "2026-10-09T22:41:49.621022+00:00"
+  },
+  "https://fr.thepress.ma/mohammed-vi-une-nomination-qui-raconte-un-regne": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "Mohammed VI : une nomination qui raconte un règne",
+    "status": "excluded",
+    "checked_at": "2026-10-09T22:41:49.621022+00:00"
+  },
+  "https://ar.le360.ma/politique/AUKBYSTX7BBFBM4BXF677VEHQE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "طعون انتخابية تهدد الخريطة البرلمانية بالرباط",
+    "status": "excluded",
+    "checked_at": "2026-10-09T22:41:49.621022+00:00"
+  },
+  "https://ar.le360.ma/politique/PQ7GOWFG25FQTMFK244CYPDHEM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "«الاستقلال» و«البيجيدي» يختاران رئيسي فريقيهما بالبرلمان",
+    "status": "excluded",
+    "checked_at": "2026-10-09T22:41:49.621022+00:00"
+  },
+  "https://fr.le360.ma/politique/benslimane-le-president-dune-commune-vise-par-une-enquete-pour-intrusion-dans-un-bureau-de-vote_7LH6WGO2NJBNLOBGLMGUMYJOAI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Benslimane: le président d’une commune visé par une enquête pour intrusion dans un bureau de vote",
+    "status": "excluded",
+    "checked_at": "2026-10-09T22:41:49.621022+00:00"
+  },
+  "https://fr.le360.ma/politique/souverainete-jeunesse-deconcentration-migration-les-messages-forts-du-discours-royal-devant-le_6F4VUXD6TFCABF76F77ISLAAJM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Souveraineté, jeunesse, déconcentration, migration… les messages forts du discours royal devant le Parlement",
+    "status": "excluded",
+    "checked_at": "2026-10-09T22:41:49.621022+00:00"
+  },
+  "https://fr.le360.ma/politique/le-roi-mohammed-vi-fixe-les-priorites-de-la-12eme-legislature-devant-le-parlement_U3UZIN7N5RF7HD6YHPX6M6BMUA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le roi Mohammed VI fixe les priorités de la 12ème législature devant le Parlement",
+    "status": "excluded",
+    "checked_at": "2026-10-09T22:41:49.621022+00:00"
+  },
+  "https://fr.le360.ma/politique/a-rabat-lancement-des-travaux-de-construction-du-siege-de-lorganisation-arabe-de-laviation-civile_NZENGBHHNZANBM7T6LDFWMMEDQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "À Rabat, lancement des travaux de construction du siège de l’Organisation arabe de l’aviation civile",
+    "status": "excluded",
+    "checked_at": "2026-10-09T22:41:49.621022+00:00"
+  },
+  "https://fr.le360.ma/politique/casablanca-un-conseil-municipal-sous-haute-tension-pour-la-rentree-doctobre-2026_QVUIOV7Z4JHOZLBFTGY2UUUVEI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Casablanca: un conseil municipal sous haute tension pour la rentrée d’octobre 2026",
+    "status": "excluded",
+    "checked_at": "2026-10-09T22:41:49.621022+00:00"
+  },
+  "https://fr.le360.ma/politique/rentree-parlementaire-tractations-decisives-pour-la-presidence-de-la-chambre-des-representants_WIFSOAC5Z5CQTDLY63NKHJQFQ4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Rentrée parlementaire: tractations décisives pour la présidence de la Chambre des représentants",
+    "status": "excluded",
+    "checked_at": "2026-10-09T22:41:49.621022+00:00"
   }
 }
