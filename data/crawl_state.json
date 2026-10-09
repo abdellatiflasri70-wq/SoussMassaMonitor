@@ -18324,5 +18324,75 @@
     "title": "طاطا.. سيول تخلف أضرارا جسيمة بتمنارت وتعيد إلى الواجهة مخاطر البناء بمحاذاة مجاري الأودية",
     "status": "excluded",
     "checked_at": "2026-10-09T06:14:36.848992+00:00"
+  },
+  "https://www.chtoukapress.com/307484.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "إختلاس الدقيق المدعم يورط مسؤولين وتجار وأرباب مطاحن",
+    "status": "excluded",
+    "checked_at": "2026-10-09T13:26:37.108562+00:00"
+  },
+  "https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%84%d9%87%d8%b3%d8%a8%d8%b1%d9%8a%d8%b3-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d9%85%d8%b9-%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%a7%d9%84%d9%83%d8%aa%d9%84%d8%a9-1820239.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "وهبي لهسبريس: التحالف مع \"أحزاب الكتلة\" لم يُحسم.. ولا حزب خارج الحسابات",
+    "status": "excluded",
+    "checked_at": "2026-10-09T13:26:37.108562+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%84%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-1820199.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "التجمع الوطني للأحرار يستعد للمعارضة ويرهن الحسم باكتمال المشاورات",
+    "status": "excluded",
+    "checked_at": "2026-10-09T13:26:37.108562+00:00"
+  },
+  "https://ar.le360.ma/politique/PZZVXVB4GJAQFNLENNI7QZ3IUM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "ثلث الحكومة للنساء.. المنصوري تحسم أولى ملامح الهندسة الحكومي",
+    "status": "excluded",
+    "checked_at": "2026-10-09T13:26:37.108562+00:00"
+  },
+  "https://fr.le360.ma/politique/listiqlal-et-le-pjd-designent-leur-chef-de-groupe-parlementaire_WST4FJ53ZBDWRAKL7DNGRETQ2M": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "L’Istiqlal et le PJD ont désigné leur chef de groupe parlementaire: qui sont-ils?",
+    "status": "excluded",
+    "checked_at": "2026-10-09T13:26:37.108562+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d8%b5%d8%a7%d8%af%d8%b1-%d8%ad%d8%b2%d8%a8%d9%8a%d8%a9-%d9%84%d9%80%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d9%81%d8%a9-%d8%aa%d9%81%d8%a7%d9%87%d9%85-%d9%85%d8%a8%d8%af%d8%a6%d9%8a-%d8%b9%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "مصادر حزبية لـالصحيفة: تفاهم مبدئي على تقاسم حقائب حكومة المنصوري.. 8 لـالبام و6 للاستقلال و3 لكل من الاتحاد الاشتراكي والتقدم والاشتراكية",
+    "status": "excluded",
+    "checked_at": "2026-10-09T13:26:37.108562+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%b1%d9%8a%d8%aa%d8%a7%d9%86%d9%8a-%d9%8a%d9%82%d8%af%d9%85-%d8%a7%d8%b3%d8%aa%d9%82%d8%a7%d9%84%d8%a9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الوزير الأول الموريتاني يقدم استقالة حكومته بعد تقرير عن حرائق شركة الكهرباء",
+    "status": "excluded",
+    "checked_at": "2026-10-09T13:26:37.108562+00:00"
+  },
+  "https://al3omk.com/1194946.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "بنازير بوتو المغرب: هل تكسر فاطمة الزهراء المنصوري كفة الرجال في رئاسة الحكومة؟",
+    "status": "excluded",
+    "checked_at": "2026-10-09T13:26:37.108562+00:00"
+  },
+  "https://al3omk.com/1194891.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "ذكورية الخوارزميات: إعادة إنتاج التمييز في العصر الرقمي",
+    "status": "excluded",
+    "checked_at": "2026-10-09T13:26:37.108562+00:00"
+  },
+  "https://al3omk.com/1194677.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "ياسين زيزي: العدالة والتنمية وراء توقيف برنامج اكتشاف المواهب “كوميديا”",
+    "status": "excluded",
+    "checked_at": "2026-10-09T13:26:37.108562+00:00"
   }
 }
