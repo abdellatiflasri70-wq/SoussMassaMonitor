@@ -1,5 +1,68 @@
 [
   {
+    "id": "67c378949f7c3df7",
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "البطولة: نهضة الزمامرة يحتج على التحكيم في مواجهة حسنية أكادير ويطالب بفتح تحقيق عاجل – اليوم 24",
+    "url": "https://alyaoum24.com/2049691.html",
+    "author": "عماد الدين تزريت",
+    "published_at": "2026-10-11",
+    "first_seen_at": "2026-10-11T22:01:55.366029+00:00",
+    "last_checked_at": "2026-10-11T22:01:55.366029+00:00",
+    "language": "ar",
+    "excerpt": "عبرت إدارة نادي نهضة الزمامرة عن استنكارها الشديد واحتجاجها على عدد من القرارات التحكيمية التي شهدتها مباراته أمام حسنية أكادير، الخميس 8 أكتوبر 2026، برسم",
+    "word_count": 381,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ",
+            "اعتبر"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_67c378949f7c",
+    "stance_analyzed_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  {
     "id": "0ea3d3a37ed359ea",
     "source_id": "hespress",
     "source_name": "هسبريس",

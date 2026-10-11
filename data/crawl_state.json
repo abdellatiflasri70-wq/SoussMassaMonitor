@@ -18667,5 +18667,103 @@
     "title": "احتجاجات ضد “التلاعب بالانتخابات” في الهند.. حزب “الصراصير” في الواجهة والاعتقالات بالآلاف",
     "status": "excluded",
     "checked_at": "2026-10-11T12:56:40.458348+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a%d8%a9-%d9%8a%d8%b9%d9%82%d8%af-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d8%a7-%d8%ad%d8%a7%d8%b3%d9%85-1821214.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"التقدم والاشتراكية\" يعقد اجتماعا حاسما قبل إعلان الحكومة الجديدة",
+    "status": "excluded",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  "https://agadir24.info/%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a7%d9%84%d8%b3%d8%a7%d8%b9.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "تشكيل الحكومة المغربية الجديدة: الساعات الحاسمة لإعلان تشكيلة المنصوري ورهانات الأغلبية | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  "https://agadir24.info/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a-%d9%8a%d8%ae%d8%aa%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%86%d8%af%d8%a9-%d8%a7%d9%84%d9%86%d9%82.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "الاتحاد الدستوري يختار المساندة النقدية للحكومة المقبلة بعد الخطاب الملكي | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  "https://alyaoum24.com/2049691.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "البطولة: نهضة الزمامرة يحتج على التحكيم في مواجهة حسنية أكادير ويطالب بفتح تحقيق عاجل – اليوم 24",
+    "status": "accepted",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  "https://al3omk.com/1195511.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "حق التمدرس يصطدم بمعاناة التنقل.. تلاميذ “مغيميمة” يناشدون مسؤولي طاطا (صور)",
+    "status": "excluded",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  "https://www.assahifa.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d9%8a%d8%ae%d8%aa%d8%a7%d8%b1-%d9%86%d8%a8%d9%8a%d9%84%d8%a9-%d8%ac%d9%84%d8%a7%d9%84-%d9%85%d9%86%d8%b3%d9%82%d8%a9-%d9%84%d9%85": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "تحالف اليسار يختار نبيلة جلال منسقة لمجموعته النيابية بمجلس النواب",
+    "status": "excluded",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  "https://ar.le360.ma/politique/2FQYCYRNCJBIXLAGADBNVWB2ME": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "حسن بنعدي: «حزب الأصالة والمعاصرة ليس بحاجة إلى شرعية سياسية»",
+    "status": "excluded",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  "https://fr.le360.ma/politique/grand-format-le360-hassan-benaddi-le-pam-na-pas-besoin-de-legitimite-politique_PEAAVAP2TJBXPBXEEUDKUSLHHM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Grand Format Le360. Hassan Benaddi: «Le PAM n’a pas besoin de légitimité politique»",
+    "status": "excluded",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  "https://fr.le360.ma/politique/el-mansouri-les-consultations-avancent-dans-le-calme-pour-former-un-gouvernement-fort_56TUAALLWVDMBBUI2GDIZMETC4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "El Mansouri: les consultations avancent dans le calme pour former un gouvernement fort",
+    "status": "excluded",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  "https://fr.le360.ma/politique/chambre-des-representants-un-bureau-provisoire-aux-commandes-en-attendant-lelection-du-president_55MT3YII6FDNTLU62MHEYCPUOE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Chambre des représentants: un bureau provisoire aux commandes en attendant l’élection du président",
+    "status": "excluded",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  "https://fr.le360.ma/politique/lunion-constitutionnelle-opte-pour-un-soutien-critique-au-prochain-gouvernement_EI4LVEYESRHOVENKMFK75MG3GI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "L’Union constitutionnelle opte pour un «soutien critique» au prochain gouvernement",
+    "status": "excluded",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  "https://fr.le360.ma/politique/archives-militaires-de-vincennes-ep-14-le-sahara-oriental-une-dependance-du-maroc-placee-sous-sa_73FN732HWRAYPA5JP2GM4ODOUM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Archives militaires de Vincennes. Ep. 14. Le Sahara oriental, une «dépendance du Maroc» placée sous sa «suzeraineté»",
+    "status": "excluded",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  "https://fr.le360.ma/politique/une-delegation-de-larmee-de-lair-israelienne-participe-au-marrakech-air-show_FI2IFLIX6VDFVNCJTCU3HJHYXM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Une délégation de l’armée de l’air israélienne participe au Marrakech Air Show",
+    "status": "excluded",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
+  },
+  "https://fr.le360.ma/politique/defense-lemirati-edge-equipera-les-drones-de-combat-des-fra-ce-que-couvre-laccord-signe-avec_WKTOH2K2VFF5LDNBG4DBDMXGYE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Défense. L’Émirati EDGE équipera les drones de combat des FRA: ce que couvre l’accord signé avec l’Administration de la défense nationale",
+    "status": "excluded",
+    "checked_at": "2026-10-11T22:01:55.366029+00:00"
   }
 }
