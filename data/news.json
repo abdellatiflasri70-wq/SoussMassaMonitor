@@ -418,6 +418,213 @@
     "stance_analyzed_at": "2026-10-14T04:58:40.748674+00:00"
   },
   {
+    "id": "53053196b99c440d",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "من يكون أحمد التويزي.. الرئيس الجديد لمجلس النواب؟",
+    "url": "https://ar.le360.ma/politique/JATTPXCPFFD7ZOYXJJZ5N74JNM",
+    "author": "ميلود الشلح",
+    "published_at": "2026-10-13",
+    "first_seen_at": "2026-10-14T11:58:51.924391+00:00",
+    "last_checked_at": "2026-10-14T11:58:51.924391+00:00",
+    "language": "ar",
+    "excerpt": "وأسفرت عملية التصويت، التي شارك فيها 369 نائبا ونائبة، عن فوز التويزي بعد حصوله على 220 صوتا، متقدما على منافسه إدريس الأزمي الإدريسي، مرشح حزب",
+    "word_count": 732,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أورير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        },
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_029",
+          "name": "إدريس الأزمي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "person_028",
+          "name": "رشيد الطالبي العلمي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "مرشح"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "عدد الأصوات"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "الأغلبية الحكومية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب العدالة والتنمية, حزب الأصالة والمعاصرة",
+        "شخصيات رئيسية: إدريس الأزمي"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 3,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_029",
+        "target_type": "person",
+        "target_name": "إدريس الأزمي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_028",
+        "target_type": "person",
+        "target_name": "رشيد الطالبي العلمي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_53053196b99c",
+    "stance_analyzed_at": "2026-10-14T11:58:51.924391+00:00"
+  },
+  {
     "id": "6586ade4391cd110",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
