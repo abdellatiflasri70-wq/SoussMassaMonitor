@@ -354,6 +354,70 @@
     "stance_analyzed_at": "2026-10-13T14:17:20.928226+00:00"
   },
   {
+    "id": "da9543273c0e8467",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "بعد منعه بإقليم طاطا.. الدلاح يشعل نقاش تقنين الزراعات المستنزفة للمياه بزاكورة",
+    "url": "https://al3omk.com/1196297.html",
+    "author": "جمال زروال",
+    "published_at": "2026-10-13",
+    "first_seen_at": "2026-10-14T04:58:40.748674+00:00",
+    "last_checked_at": "2026-10-14T04:58:40.748674+00:00",
+    "language": "ar",
+    "excerpt": "في سياق يتسم بتوالي سنوات الجفاف وتزايد الضغط على الموارد المائية، يعود ملف زراعة البطيخ الأحمر (الدلاح) إلى واجهة النقاش بإقليمي زاكورة، وسط مطالب بإعادة",
+    "word_count": 743,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "طاطا"
+      ],
+      "primary_places": [
+        "طاطا"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر",
+            "انتقد",
+            "دعا إلى"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_da9543273c0e",
+    "stance_analyzed_at": "2026-10-14T04:58:40.748674+00:00"
+  },
+  {
     "id": "6586ade4391cd110",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
