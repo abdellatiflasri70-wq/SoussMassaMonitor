@@ -19451,5 +19451,47 @@
     "title": "الملك محمد السادس يستقبل فاطمة الزهراء المنصوري للاطلاع على مستجدات تشكيل الحكومة",
     "status": "excluded",
     "checked_at": "2026-10-14T17:16:05.217343+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%aa%d9%88%d9%8a%d8%b2%d9%8a-%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%b9%d9%82%d9%88%d8%af-%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%aa%d9%82%d9%88%d8%af-%d8%a7%d8%a8-1822870.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "التويزي .. ثلاثة عقود من السياسة تقود ابن حقول آيت أورير إلى رئاسة النواب",
+    "status": "accepted",
+    "checked_at": "2026-10-14T21:44:43.375236+00:00"
+  },
+  "https://www.chtoukapress.com/307633.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بلاغ من الديوان الملكي",
+    "status": "excluded",
+    "checked_at": "2026-10-14T21:44:43.375236+00:00"
+  },
+  "https://fr.le360.ma/politique/rabat-les-recompositions-politiques-nationales-fragilisent-la-majorite-du-conseil-communal_47DDARIQWVGAHBP3B2CDCCN2II": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Rabat: les recompositions politiques nationales fragilisent la majorité du Conseil communal",
+    "status": "excluded",
+    "checked_at": "2026-10-14T21:44:43.375236+00:00"
+  },
+  "https://fr.le360.ma/politique/apres-larrestation-dun-cinquieme-fugitif-suedois-au-maroc-stockholm-vante-sa-cooperation-avec-la_MEAWRDDL4JCAPFFMKBF4EXHB3Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Après l’arrestation d’un cinquième fugitif suédois au Maroc, Stockholm vante sa coopération avec la DGSN",
+    "status": "excluded",
+    "checked_at": "2026-10-14T21:44:43.375236+00:00"
+  },
+  "https://fr.le360.ma/politique/ahmed-touizi-du-haouz-au-perchoir-de-la-chambre-des-representants_IZSYWF7U6FCLXIUHHKT6OBA7B4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Portrait. Ahmed Touizi, du Haouz au perchoir de la Chambre des représentants",
+    "status": "excluded",
+    "checked_at": "2026-10-14T21:44:43.375236+00:00"
+  },
+  "https://fr.le360.ma/politique/la-chambre-des-representants-elit-ce-mercredi-ses-structures_DBYKI2WAPZBV3P5XOG2FEJCP7I": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "La Chambre des représentants élit ce mercredi ses structures",
+    "status": "excluded",
+    "checked_at": "2026-10-14T21:44:43.375236+00:00"
   }
 }

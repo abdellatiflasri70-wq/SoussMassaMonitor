@@ -322,6 +322,178 @@
     "stance_analyzed_at": "2026-10-14T17:16:05.217343+00:00"
   },
   {
+    "id": "3a7c1eb33c841bd6",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "التويزي .. ثلاثة عقود من السياسة تقود ابن حقول آيت أورير إلى رئاسة النواب",
+    "url": "https://www.hespress.com/%D8%A7%D9%84%D8%AA%D9%88%D9%8A%D8%B2%D9%8A-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B9%D9%82%D9%88%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%AA%D9%82%D9%88%D8%AF-%D8%A7%D8%A8-1822870.html",
+    "author": "هسبريس",
+    "published_at": "2026-10-14",
+    "first_seen_at": "2026-10-14T21:44:43.375236+00:00",
+    "last_checked_at": "2026-10-14T21:44:43.375236+00:00",
+    "language": "ar",
+    "excerpt": "من آيت أورير، إحدى بلدات إقليم الحوز، حيث الهامش والبعد عن المركز يصعّبان الوصول إلى المناصب، ومن الاشتغال في الفلاحة وتحمل مسؤولية أسرة كبيرة في",
+    "word_count": 1063,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أورير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "UC",
+          "name": "الاتحاد الدستوري"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "person_029",
+          "name": "إدريس الأزمي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_028",
+          "name": "رشيد الطالبي العلمي",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "الترشح"
+          ]
+        },
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "مجلس الجهة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة, حزب العدالة والتنمية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 4,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "UC",
+        "target_type": "party",
+        "target_name": "الاتحاد الدستوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_029",
+        "target_type": "person",
+        "target_name": "إدريس الأزمي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_028",
+        "target_type": "person",
+        "target_name": "رشيد الطالبي العلمي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_3a7c1eb33c84",
+    "stance_analyzed_at": "2026-10-14T21:44:43.375236+00:00"
+  },
+  {
     "id": "1b443171d54002c8",
     "source_id": "le360",
     "source_name": "Le360",
