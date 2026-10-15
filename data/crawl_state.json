@@ -19493,5 +19493,33 @@
     "title": "La Chambre des représentants élit ce mercredi ses structures",
     "status": "excluded",
     "checked_at": "2026-10-14T21:44:43.375236+00:00"
+  },
+  "https://al3omk.com/1195865.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الاشتراكي الموحد يدين منع “وقفات التطبيع” بطنجة ويطالب بفتح تحقيق",
+    "status": "excluded",
+    "checked_at": "2026-10-15T04:46:21.429769+00:00"
+  },
+  "https://al3omk.com/1196698.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "المستشفى الجامعي بأكادير ينجح في إجراء أولى عمليات علاج الرجفان الأذيني بتقنيتين متطورتين",
+    "status": "excluded",
+    "checked_at": "2026-10-15T04:46:21.429769+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d8%a3%d9%88%d9%84-%d9%85%d8%b1%d8%a9-%d9%85%d9%86%d8%b0-%d8%a7%d8%b9%d8%aa%d9%84%d8%a7%d8%a6%d9%87-%d8%a7%d9%84%d8%b9%d8%b1%d8%b4-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d9%8a%d8%b3%d8%aa%d9%82%d8%a8": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الملك يستقبل المنصوري.. وبلاغ للديوان الملكي يدعو لتعبئة شاملة، وأداء حكومي جاد ومسؤول، استحضارا لحجم الرهانات والتحديات",
+    "status": "excluded",
+    "checked_at": "2026-10-15T04:46:21.429769+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d9%8a%d9%86-%d8%b9%d9%82%d8%a7%d8%a8-%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%af%d9%8a%d9%82-%d9%88%d9%87%d9%86%d8%af%d8%b3%d8%a9-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81%d8%a7%d8%aa-%d8%ad%d9%83": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بين عقاب الصناديق وهندسة التحالفات.. حكومة المنصوري ومحك المشروعية الشعبية",
+    "status": "excluded",
+    "checked_at": "2026-10-15T04:46:21.429769+00:00"
   }
 }
