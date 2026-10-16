@@ -19668,5 +19668,26 @@
     "title": "وهبي مرشح فوق العادة للبقاء وزيرا للعدل.. كيف ستتصرف المنصوري مع غضب المحامين وتهديداتهم بشل المحاكم؟",
     "status": "excluded",
     "checked_at": "2026-10-16T04:37:14.147332+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d8%ae%d8%aa%d9%84%d8%a7%d9%81-%d8%a7%d9%84%d9%85%d8%b1%d8%ac%d8%b9%d9%8a%d8%a7%d8%aa-%d9%8a%d8%b7%d8%b1%d8%ad-%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%86%d8%b3%d9%8a%d9%82-1823336.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "اختلاف المرجعيات يطرح تحديات التنسيق بين مكونات المعارضة البرلمانية",
+    "status": "excluded",
+    "checked_at": "2026-10-16T11:30:06.446584+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/684751-marches-publics-le-pam-rejette-les-accusations-visant-mehdi-bensaid.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Marchés publics : le PAM rejette les accusations visant Mehdi Bensaid",
+    "status": "excluded",
+    "checked_at": "2026-10-16T11:30:06.446584+00:00"
+  },
+  "https://ar.le360.ma/politique/EQX4KBFLLVCJ7EKJL2GN22XQYI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الأمم المتحدة: اللجنة الرابعة تعتمد قرارا يكرس القرار التاريخي رقم 2797 لمجلس الأمن",
+    "status": "excluded",
+    "checked_at": "2026-10-16T11:30:06.446584+00:00"
   }
 }
