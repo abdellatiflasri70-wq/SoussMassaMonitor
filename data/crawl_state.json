@@ -20018,5 +20018,89 @@
     "title": "البرلمان يعقد الاثنين جلسة مشتركة لتقديم البرنامج الحكومي",
     "status": "excluded",
     "checked_at": "2026-10-17T10:50:06.573055+00:00"
+  },
+  "https://agadirino.ma/2026/10/17/%d8%aa%d8%b3%d9%84%d9%8a%d9%85-%d8%a7%d9%84%d8%b3%d9%84%d8%b7-%d8%a8%d9%8a%d9%86-%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%88%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%85%d9%88%d8%a7%d8%b5%d9%84": {
+    "source_id": "agadirino",
+    "source_name": "أكاديرينو",
+    "title": "تسليم السلط بين أخنوش والمنصوري.. تأكيد على مواصلة الأوراش الحكومية - agadirino.ma",
+    "status": "excluded",
+    "checked_at": "2026-10-17T15:39:33.051863+00:00"
+  },
+  "https://agadirinfo.ma/135212.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "فاطمة الزهراء المنصوري تتسلم مهام رئاسة الحكومة من عزيز أخنوش - أكادير انفو - Agadir info",
+    "status": "excluded",
+    "checked_at": "2026-10-17T15:39:33.051863+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%aa%d8%aa%d8%b3%d9%84%d9%85-%d8%a7%d9%84%d8%b3%d9%84%d8%b7-%d9%85%d9%86-%d8%a3%d8%ae%d9%86%d9%88%d8%b4-1824470.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "المنصوري تتسلم السلط من أخنوش",
+    "status": "excluded",
+    "checked_at": "2026-10-17T15:39:33.051863+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a-%d8%a7%d9%84%d9%85%d8%b2%d9%88%d8%a7%d8%b1%d9%8a-%d9%85%d9%86-%d8%af%d9%87%d8%a7%d9%84%d9%8a%d8%b2-%d8%a7%d9%84%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84-1824004.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "المهدي المزواري .. من دهاليز \"التنظيم الاتحادي\" إلى تدبير الصيد البحري",
+    "status": "excluded",
+    "checked_at": "2026-10-17T15:39:33.051863+00:00"
+  },
+  "https://www.assahifa.com/%d8%ac%d8%af%d9%84-%d8%aa%d8%b3%d9%84%d9%8a%d9%85-%d8%a7%d9%84%d8%b3%d9%84%d8%b7-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%aa%d9%86%d8%b5%d9%8a%d8%a8-%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "جدل تسليم السلط قبل التنصيب البرلماني مستمر من حكومة بنكيران إلى تجربة المنصوري.. هل يتغير فهم القانون بتغير الموقع السياسي؟",
+    "status": "excluded",
+    "checked_at": "2026-10-17T15:39:33.051863+00:00"
+  },
+  "https://www.assahifa.com/%d8%a3%d8%ae%d9%86%d9%88%d8%b4-%d9%8a%d8%b3%d9%84%d9%85-%d9%85%d9%87%d8%a7%d9%85%d9%87-%d9%84%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%88%d9%8a%d8%ba%d8%a7%d8%af%d8%b1-%d9%85%d9%82%d8%b1-%d8%b1": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "أخنوش يسلم مهامه للمنصوري ويغادر مقر رئاسة الحكومة رسميا",
+    "status": "excluded",
+    "checked_at": "2026-10-17T15:39:33.051863+00:00"
+  },
+  "https://ar.le360.ma/politique/NQHZO6TIZRGDFLWDJXLNVJ3URA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الأمم المتحدة تتهيأ لطي ملف الصحراء",
+    "status": "excluded",
+    "checked_at": "2026-10-17T15:39:33.051863+00:00"
+  },
+  "https://ar.le360.ma/politique/K32P6DHMNNEDXIIH3YKZ76SGFU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "عمر حجيرة.. سليل الحركة الوطنية وطبيب التوازنات على رأس التجارة الخارجية",
+    "status": "excluded",
+    "checked_at": "2026-10-17T15:39:33.051863+00:00"
+  },
+  "https://fr.le360.ma/politique/passation-de-pouvoirs-entre-fatima-ezzahra-el-mansouri-et-aziz-akhannouch-a-rabat_EBZTFXCS2JALLPOYOW5VZ6ASFU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Passation de pouvoir entre Fatima Ezzahra El Mansouri et Aziz Akhannouch à Rabat",
+    "status": "excluded",
+    "checked_at": "2026-10-17T15:39:33.051863+00:00"
+  },
+  "https://fr.le360.ma/politique/le-programme-du-gouvernement-presente-lundi-en-seance-pleniere-aux-deux-chambres-du-parlement_CA37AANIGZDUTDZYV24TUXJCTM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le programme du gouvernement présenté lundi en séance plénière aux deux chambres du Parlement",
+    "status": "excluded",
+    "checked_at": "2026-10-17T15:39:33.051863+00:00"
+  },
+  "https://fr.le360.ma/politique/majorite-ce-qui-rapproche-et-ce-qui-distingue-les-programmes-des-quatre-partis_2TTA5NNDMBBAVHMECORDLO6R7Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Majorité. Ce qui rapproche et ce qui distingue les programmes des quatre partis",
+    "status": "excluded",
+    "checked_at": "2026-10-17T15:39:33.051863+00:00"
+  },
+  "https://fr.le360.ma/politique/artisanat-et-economie-solidaire-le-profil-dabdeljabbar-errachidi_OD3ZFNZH4ZHRZFY3SNRUIBSHT4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Artisanat et Économie solidaire: le profil d’Abdeljabbar Errachidi",
+    "status": "excluded",
+    "checked_at": "2026-10-17T15:39:33.051863+00:00"
   }
 }
