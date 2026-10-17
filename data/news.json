@@ -1,5 +1,67 @@
 [
   {
+    "id": "7497e371849c94f0",
+    "source_id": "taroudantalaan",
+    "source_name": "تارودانت الآن",
+    "title": "جلالة الملك محمد السادس يترأس مجلسا وزاريا | تارودانت الآن الإخبارية",
+    "url": "https://taroudantalaan.ma/politique/%D8%AC%D9%84%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%83-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D9%8A%D8%AA%D8%B1%D8%A3%D8%B3-%D9%85%D8%AC%D9%84%D8%B3%D8%A7-%D9%88%D8%B2",
+    "author": "تارودانت الآن الإخبارية",
+    "published_at": "2026-10-17",
+    "first_seen_at": "2026-10-17T20:39:33.930756+00:00",
+    "last_checked_at": "2026-10-17T20:39:33.930756+00:00",
+    "language": "ar",
+    "excerpt": "ترأس صاحب الجلالة الملك محمد السادس، نصره الله، مرفوقا بصاحب السمو الملكي ولي العهد الأمير مولاي الحسن، يومه السبت 17 أكتوبر 2026 م، الموافق لـ",
+    "word_count": 514,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "مشروع قانون"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_7497e371849c",
+    "stance_analyzed_at": "2026-10-17T20:39:33.930756+00:00"
+  },
+  {
     "id": "a6d2010e274983cf",
     "source_id": "taroudantalaan",
     "source_name": "تارودانت الآن",
