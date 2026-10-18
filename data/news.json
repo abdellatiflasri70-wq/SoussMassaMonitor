@@ -1,5 +1,75 @@
 [
   {
+    "id": "bff117181ab3d8d5",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخاب ممثلي القضاة بالمجلس الأعلى للسلطة القضائية - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135234.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-18",
+    "first_seen_at": "2026-10-18T15:55:14.672707+00:00",
+    "last_checked_at": "2026-10-18T15:55:14.672707+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديانتخاب ممثلي القضاة بالمجلس الأعلى للسلطة القضائية أسفرت النتائج النهائية لانتخاب ممثلي القضاة بالمجلس الأعلى للسلطة القضائية، التي جرت أمس السبت، عن انتخاب ممثلي",
+    "word_count": 255,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ",
+            "أكد"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_bff117181ab3",
+    "stance_analyzed_at": "2026-10-18T15:55:14.672707+00:00"
+  },
+  {
     "id": "7497e371849c94f0",
     "source_id": "taroudantalaan",
     "source_name": "تارودانت الآن",

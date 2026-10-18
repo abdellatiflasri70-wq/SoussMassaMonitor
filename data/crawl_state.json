@@ -20193,5 +20193,54 @@
     "title": "مشروع قانون المالية 2027 والخطاب الملكي: رهان الانتقال من التوجيهات إلى النتائج",
     "status": "excluded",
     "checked_at": "2026-10-18T04:39:43.797984+00:00"
+  },
+  "https://agadirinfo.ma/135234.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخاب ممثلي القضاة بالمجلس الأعلى للسلطة القضائية - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-18T15:55:14.672707+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%af%d8%a7%d8%ae%d9%84-%d9%85%d9%8a%d8%a7%d9%87-%d8%b3%d8%a8%d8%aa%d8%a9-%d9%85%d8%a7-%d8%aa%d9%8f%d8%ba": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "البحرية المغربية داخل مياه سبتة.. ما تُغفله رواية المياه الإسبانية عن خلاف الحدود غير المرسومة",
+    "status": "excluded",
+    "checked_at": "2026-10-18T15:55:14.672707+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d9%86%d9%81%d9%8a-%d8%a7%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d8%a9-%d8%b2%d9%88%d8%ac%d8%a9-%d8%a8%d9%86%d8%b3%d8%b9%d9%8a%d8%af-%d9%85%d9%86-%d8%b5%d9%81": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "«البام» ينفي استفادة زوجة بنسعيد من صفقة للطباعة بوزارة الثقافة",
+    "status": "excluded",
+    "checked_at": "2026-10-18T15:55:14.672707+00:00"
+  },
+  "https://fr.le360.ma/politique/le-gouvernement-a-lepreuve-du-reel-ne-faut-il-pas-changer-la-maniere-de-gouverner_YJFQ7O65MBF7LDJAIVPN7RR2JA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le gouvernement à l’épreuve du réel: ne faut-il pas changer la manière de gouverner?",
+    "status": "excluded",
+    "checked_at": "2026-10-18T15:55:14.672707+00:00"
+  },
+  "https://fr.le360.ma/politique/le-roi-accepte-la-fin-des-fonctions-de-madiha-khayr-ministre-deleguee-chargee-de-la-formation_Q4PY7LK5ZJDMZOELUPY3OBXY3Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le Roi accepte la fin des fonctions de Madiha Khayr, ministre déléguée chargée de la Formation professionnelle",
+    "status": "excluded",
+    "checked_at": "2026-10-18T15:55:14.672707+00:00"
+  },
+  "https://fr.le360.ma/politique/energie-et-mines-charafat-afailal-veut-corriger-les-disparites-spatiales-et-sociales_ZR57B27OUVAOBN4E3DFNFSWUTE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Énergie et mines: Charafat Afailal veut corriger «les disparités spatiales et sociales»",
+    "status": "excluded",
+    "checked_at": "2026-10-18T15:55:14.672707+00:00"
+  },
+  "https://fr.le360.ma/politique/le-consulat-du-maroc-a-orly-vandalise-par-des-individus-se-revendiquant-du-polisario_XHJL45PMZNBURGOCS72TQDHCMQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le consulat du Maroc à Orly vandalisé par des individus se revendiquant du Polisario",
+    "status": "excluded",
+    "checked_at": "2026-10-18T15:55:14.672707+00:00"
   }
 }
