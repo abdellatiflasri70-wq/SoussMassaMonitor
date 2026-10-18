@@ -20242,5 +20242,40 @@
     "title": "Le consulat du Maroc à Orly vandalisé par des individus se revendiquant du Polisario",
     "status": "excluded",
     "checked_at": "2026-10-18T15:55:14.672707+00:00"
+  },
+  "https://al3omk.com/1198044.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أقا إيغان على موعد مع أول منتدى للجمعيات المحلية بإقليم طاطا",
+    "status": "excluded",
+    "checked_at": "2026-10-18T20:48:42.987529+00:00"
+  },
+  "https://al3omk.com/1198061.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تحالف اليسار وادّعاء التفوق السياسي",
+    "status": "excluded",
+    "checked_at": "2026-10-18T20:48:42.987529+00:00"
+  },
+  "https://ar.le360.ma/politique/AT2OQCXMV5DCZKAICDBQ65AHUE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "روائح كريهة تخنق سكان أنزا بأكادير.. والوالي يمنح مهلة سنة للوحدات الصناعية المعنية",
+    "status": "excluded",
+    "checked_at": "2026-10-18T20:48:42.987529+00:00"
+  },
+  "https://fr.le360.ma/politique/yanja-el-khattat-face-a-un-recours-juridique-visant-lannulation-de-son-election-comme-depute_RL2P2RBLVNBYXL2YIAZPHAMHWI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Yanja El Khattat face à un recours juridique visant l’annulation de son élection comme député",
+    "status": "excluded",
+    "checked_at": "2026-10-18T20:48:42.987529+00:00"
+  },
+  "https://fr.le360.ma/politique/gouvernement-el-mansouri-les-chantiers-dune-mandature-sous-pression_B7JCRUVFNZFN3C7RKMCHUYT2TM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Gouvernement El Mansouri: les chantiers d’une mandature sous pression",
+    "status": "excluded",
+    "checked_at": "2026-10-18T20:48:42.987529+00:00"
   }
 }
