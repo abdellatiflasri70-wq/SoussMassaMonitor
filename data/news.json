@@ -1,5 +1,216 @@
 [
   {
+    "id": "43a0e0cd7a67e7cb",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "المنصوري: البرنامج الحكومي تعاقد سياسي ومؤسساتي يستند إلى الثقة الملكية وإلى الإرادة التي عبر عنها المواطنون في الانتخابات - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135253.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-19",
+    "first_seen_at": "2026-10-19T22:23:55.878601+00:00",
+    "last_checked_at": "2026-10-19T22:23:55.878601+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربالمنصوري: البرنامج الحكومي تعاقد سياسي ومؤسساتي يستند إلى الثقة الملكية وإلى الإرادة التي عبر عنها المواطنون في الانتخابات أكدت رئيسة الحكومة السيدة فاطمة الزهراء",
+    "word_count": 583,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "البرنامج الحكومي",
+            "رئيس الحكومة"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "صناديق الاقتراع"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "أغلبية",
+            "معارضة"
+          ]
+        },
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "ربط المسؤولية بالمحاسبة"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "نتائج الانتخابات"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: فاطمة الزهراء المنصوري",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية, الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_43a0e0cd7a67",
+    "stance_analyzed_at": "2026-10-19T22:23:55.878601+00:00"
+  },
+  {
+    "id": "09cf08623fc33279",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "رئيسة الحكومة: المؤسسات لن تستعيد الثقة دون محاربة فعلية للفساد ولتضارب المصالح - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135262.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-19",
+    "first_seen_at": "2026-10-19T22:23:55.878601+00:00",
+    "last_checked_at": "2026-10-19T22:23:55.878601+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربرئيسة الحكومة: المؤسسات لن تستعيد الثقة دون محاربة فعلية للفساد ولتضارب المصالح أكدت رئيسة الحكومة، فاطمة الزهراء المنصوري، اليوم الاثنين، أن المؤسسات لن تستعيد",
+    "word_count": 137,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "فساد",
+            "تضارب المصالح"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "البرنامج الحكومي"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: فاطمة الزهراء المنصوري",
+        "مواضيع سياسية: المتابعات والعزل والمحاسبة"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "critical",
+        "label_ar": "ناقد أو سلبي",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 2,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": [
+          "فساد"
+        ]
+      }
+    ],
+    "event_id": "evt_09cf08623fc3",
+    "stance_analyzed_at": "2026-10-19T22:23:55.878601+00:00"
+  },
+  {
     "id": "bff117181ab3d8d5",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
