@@ -20277,5 +20277,47 @@
     "title": "Gouvernement El Mansouri: les chantiers d’une mandature sous pression",
     "status": "excluded",
     "checked_at": "2026-10-18T20:48:42.987529+00:00"
+  },
+  "https://www.chtoukapress.com/307757.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بلاغ للناطق الرسمي باسم حكومة المنصوري بعد إبعاد ماديحة خيير",
+    "status": "excluded",
+    "checked_at": "2026-10-19T04:46:56.892545+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7-%d8%aa%d8%b9%d8%b2%d8%b2-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84%d9%8a%d8%a9-1824694.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "تقرير إسباني: الرباط تعزز الاستقلالية .. ومدريد تفقد النفوذ بشمال إفريقيا",
+    "status": "excluded",
+    "checked_at": "2026-10-19T04:46:56.892545+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d8%ad%d8%b3%d8%a7%d8%a8-1823752.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "الأغلبية الحكومية الجديدة تواجه حسابات معقدة في مجلس المستشارين",
+    "status": "excluded",
+    "checked_at": "2026-10-19T04:46:56.892545+00:00"
+  },
+  "https://alyaoum24.com/2051417.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "البطولة: الوداد الرياضي يواصل إهدار النقاط بتعادل مع أمل تزنيت – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-10-19T04:46:56.892545+00:00"
+  },
+  "https://al3omk.com/1198143.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "لشكر يخلف شهيد على رأس الفريق الاشتراكي بمجلس النواب",
+    "status": "excluded",
+    "checked_at": "2026-10-19T04:46:56.892545+00:00"
+  },
+  "https://thepress.ma/%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%85%d9%85%d8%ab%d9%84%d9%8a-%d8%a7%d9%84%d9%82%d8%b6%d8%a7": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "مشاركة قياسية في انتخابات ممثلي القضاة بنسبة 94,9 بالمائة",
+    "status": "excluded",
+    "checked_at": "2026-10-19T04:46:56.892545+00:00"
   }
 }
