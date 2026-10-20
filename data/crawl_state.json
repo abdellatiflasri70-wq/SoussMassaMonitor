@@ -20508,5 +20508,19 @@
     "title": "Loi de finances 2027: de véritables capharnaüms sociaux et économiques, au cœur des priorités gouvernementales",
     "status": "excluded",
     "checked_at": "2026-10-19T22:23:55.878601+00:00"
+  },
+  "https://ar.le360.ma/politique/ORPG7UJONBHEFJP6MGOPXVOG3Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بعد إعفائها من الحكومة.. «الاستقلال» ينتزع رئاسة الفريق من مديحة خيير ويعوضها برحال مكاوي",
+    "status": "excluded",
+    "checked_at": "2026-10-20T04:56:10.402888+00:00"
+  },
+  "https://al3omk.com/1198471.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تقرير يدق ناقوس الخطر حول واقع الصحة بـ”طاطا” ويطالب بتقييم استعجالي للمستشفى الإقليمي",
+    "status": "accepted",
+    "checked_at": "2026-10-20T04:56:10.402888+00:00"
   }
 }

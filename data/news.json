@@ -1,5 +1,85 @@
 [
   {
+    "id": "0143eecd865afa59",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تقرير يدق ناقوس الخطر حول واقع الصحة بـ”طاطا” ويطالب بتقييم استعجالي للمستشفى الإقليمي",
+    "url": "https://al3omk.com/1198471.html",
+    "author": "العمق المغربي",
+    "published_at": "2026-10-20",
+    "first_seen_at": "2026-10-20T04:56:10.402888+00:00",
+    "last_checked_at": "2026-10-20T04:56:10.402888+00:00",
+    "language": "ar",
+    "excerpt": "كشف المكتب الإقليمي للمرصد المغربي للدفاع عن حقوق الإنسان والحريات بطاطا، في تقرير حقوقي حول واقع المنظومة الصحية بالإقليم تحت شعار “من الحق في العلاج",
+    "word_count": 508,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "طاطا"
+      ],
+      "primary_places": [
+        "طاطا"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أقا",
+        "فم الحصن"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "المكتب الإقليمي"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "رئيس الحكومة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الأنشطة والتنظيمات الحزبية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_0143eecd865a",
+    "stance_analyzed_at": "2026-10-20T04:56:10.402888+00:00"
+  },
+  {
     "id": "43a0e0cd7a67e7cb",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
