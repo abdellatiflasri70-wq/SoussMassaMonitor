@@ -20529,5 +20529,61 @@
     "title": "Programme gouvernemental 2026–2031: le temps des résultats mesurables",
     "status": "excluded",
     "checked_at": "2026-10-20T11:44:29.153899+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-%d9%8a%d8%b3%d8%b1%d8%b9-%d8%a7%d9%84%d8%aa%d8%ad%d8%b6%d9%8a%d8%b1%d8%a7%d8%aa-%d9%84%d8%ac%d9%84%d8%b3%d8%a9-%d8%a7%d9%84%d8%aa%d8%b5-1826121.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "مجلس النواب يسرع التحضيرات لجلسة التصويت على البرنامج الحكومي",
+    "status": "excluded",
+    "checked_at": "2026-10-20T17:13:41.968472+00:00"
+  },
+  "https://al3omk.com/1198674.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "مجلس الحكومة يصادق على مشروع قانون مالية 2027",
+    "status": "excluded",
+    "checked_at": "2026-10-20T17:13:41.968472+00:00"
+  },
+  "https://al3omk.com/1198639.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تأجيل محاكمة المتهمين في انهيار بنايتي فاس وغياب متكرر لرئيس مقاطعة زواغة",
+    "status": "excluded",
+    "checked_at": "2026-10-20T17:13:41.968472+00:00"
+  },
+  "https://al3omk.com/1198589.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "البرنامج الحكومي الجديد.. معادلة تنزيل الجيل الثاني من الإصلاحات في زمن التحديات و الاستحقاقات الكبرى",
+    "status": "excluded",
+    "checked_at": "2026-10-20T17:13:41.968472+00:00"
+  },
+  "https://fr.le360.ma/politique/le-cndh-appelle-le-gouvernement-a-adopter-une-loi-abolissant-la-peine-de-mort_YAAOTHJK6JFSLJIPBZKSXL5L24": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le CNDH appelle le gouvernement à adopter une loi abolissant la peine de mort",
+    "status": "excluded",
+    "checked_at": "2026-10-20T17:13:41.968472+00:00"
+  },
+  "https://fr.le360.ma/politique/plf-2027-le-conseil-de-gouvernement-adopte-le-projet-avant-son-depot-au-parlement_CZGND5SGUNBSXNACTAXZOFAMWQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "PLF 2027: le Conseil de gouvernement adopte le projet avant son dépôt au Parlement",
+    "status": "excluded",
+    "checked_at": "2026-10-20T17:13:41.968472+00:00"
+  },
+  "https://fr.le360.ma/politique/contentieux-electoraux-38-recours-deposes-devant-la-cour-constitutionnelle_24776VZOXZC4TAF5K4T64SWX6E": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Contentieux électoraux: 38 recours déposés devant la Cour constitutionnelle",
+    "status": "excluded",
+    "checked_at": "2026-10-20T17:13:41.968472+00:00"
+  },
+  "https://fr.le360.ma/societe/gct-casablanca-settat-une-session-sur-fond-de-profondes-divergences_J576GDSQX5DOTNNX2HHWF4VJ3U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "GCT-Casablanca-Settat: une session sur fond de profondes divergences",
+    "status": "excluded",
+    "checked_at": "2026-10-20T17:13:41.968472+00:00"
   }
 }
