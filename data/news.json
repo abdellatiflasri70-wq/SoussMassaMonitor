@@ -80,6 +80,83 @@
     "stance_analyzed_at": "2026-10-20T04:56:10.402888+00:00"
   },
   {
+    "id": "1e15b36637959257",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مجلس النواب يعقد الخميس جلستين عموميتين لمناقشة البرنامج الحكومي والتصويت عليه - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135281.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-20",
+    "first_seen_at": "2026-10-20T21:40:25.089793+00:00",
+    "last_checked_at": "2026-10-20T21:40:25.089793+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديمجلس النواب يعقد الخميس جلستين عموميتين لمناقشة البرنامج الحكومي والتصويت عليه يعقد مجلس النواب، بعد غد الخميس، جلستين عموميتين لمناقشة البرنامج الحكومي والتصويت عليه.",
+    "word_count": 88,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "البرنامج الحكومي"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع, السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_1e15b3663795",
+    "stance_analyzed_at": "2026-10-20T21:40:25.089793+00:00"
+  },
+  {
     "id": "43a0e0cd7a67e7cb",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",

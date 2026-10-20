@@ -20585,5 +20585,75 @@
     "title": "GCT-Casablanca-Settat: une session sur fond de profondes divergences",
     "status": "excluded",
     "checked_at": "2026-10-20T17:13:41.968472+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-%d9%8a%d9%86%d8%a7%d9%82%d8%b4-%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a-1826254.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "مجلس النواب يناقش البرنامج الحكومي",
+    "status": "excluded",
+    "checked_at": "2026-10-20T21:40:25.089793+00:00"
+  },
+  "https://agadirinfo.ma/135281.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مجلس النواب يعقد الخميس جلستين عموميتين لمناقشة البرنامج الحكومي والتصويت عليه - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-20T21:40:25.089793+00:00"
+  },
+  "https://al3omk.com/1198722.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تحالف اليسار بأزيلال ينتقد طريقة تدبير المال العام ويحذر من اتساع الفوارق التنموية بالإقليم",
+    "status": "excluded",
+    "checked_at": "2026-10-20T21:40:25.089793+00:00"
+  },
+  "https://www.assahifa.com/%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d8%a9-%d9%8a%d8%aa%d9%87%d9%85-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d8%a7%d9%84%d9%85": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "رئيس الحكومة الفرنسية يتهم اليسار المتطرف بالتخطط لـتمرد",
+    "status": "excluded",
+    "checked_at": "2026-10-20T21:40:25.089793+00:00"
+  },
+  "https://thepress.ma/%d8%b9%d8%b4%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85%d8%a7%d8%aa-%d9%84%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%88%d8%a7%d8%a9-%d9%88%d8%a7%d9%84%d8%b4%d9%81%d8%a7": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "عشرة التزامات لتعزيز المساواة والشفافية في البرنامج الحكومي الجديد",
+    "status": "excluded",
+    "checked_at": "2026-10-20T21:40:25.089793+00:00"
+  },
+  "https://ar.le360.ma/politique/EAUPW6M7QZHFBMPGOSOK7XZV7Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "12 وزيرا سيفقدون عضويتهم بمجلس النواب",
+    "status": "excluded",
+    "checked_at": "2026-10-20T21:40:25.089793+00:00"
+  },
+  "https://fr.le360.ma/politique/programme-gouvernemental-une-feuille-de-route-pour-restaurer-la-confiance-reguler-les-marches-et_6CVWVYR3DRD2XFBEPW4FD4B4RE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Programme gouvernemental: une feuille de route pour restaurer la confiance, réguler les marchés et consolider l’État social",
+    "status": "excluded",
+    "checked_at": "2026-10-20T21:40:25.089793+00:00"
+  },
+  "https://fr.le360.ma/politique/moralisation-de-la-vie-publique-la-corruption-de-retour-dans-les-debats_FNHIKZWJ25A3BMZSCQA22I6QLM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Moralisation de la vie publique: la corruption de retour dans les débats",
+    "status": "excluded",
+    "checked_at": "2026-10-20T21:40:25.089793+00:00"
+  },
+  "https://fr.le360.ma/politique/la-chambre-des-representants-se-prononcera-jeudi-sur-le-programme-gouvernemental_ZYUEKBFIKJDCPHCZSDTWIKZ6HI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "La Chambre des représentants se prononcera jeudi sur le programme gouvernemental",
+    "status": "excluded",
+    "checked_at": "2026-10-20T21:40:25.089793+00:00"
+  },
+  "https://fr.le360.ma/politique/ahmed-rahhou-au-ministere-de-lia-le-proces-en-age-et-en-competence-a-t-il-un-sens_SWLO4PNS35G7HPY62RFO4CAKHI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Ahmed Rahhou au ministère de l’IA: le procès en âge et en compétence a-t-il un sens?",
+    "status": "excluded",
+    "checked_at": "2026-10-20T21:40:25.089793+00:00"
   }
 }
