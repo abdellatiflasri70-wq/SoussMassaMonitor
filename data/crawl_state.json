@@ -20823,5 +20823,89 @@
     "title": "تصريحات مرشح للرئاسة الفرنسية بشأن مجزرة الجزائريين في باريس تشعل مواجهة سياسية وتعيد اختبار حدود الاعتراف بالماضي الاستعماري",
     "status": "excluded",
     "checked_at": "2026-10-21T17:16:09.931578+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a9-%d8%aa%d9%86%d9%81%d8%b5%d9%84-%d8%b9%d9%86-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-1826544.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "العدالة الاجتماعية تنفصل عن \"الأحرار\"",
+    "status": "excluded",
+    "checked_at": "2026-10-21T21:46:02.082317+00:00"
+  },
+  "https://agadirinfo.ma/135299.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مجلس المستشارين.. فرق الأغلبية تنوه بأولويات البرنامج الحكومي وتدعو إلى الرفع من وتيرة الإصلاحات الهيكلية - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-21T21:46:02.082317+00:00"
+  },
+  "https://al3omk.com/1199076.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "فيديو تحريض كلب على أطفال يطيح بشخصين بأكادير",
+    "status": "excluded",
+    "checked_at": "2026-10-21T21:46:02.082317+00:00"
+  },
+  "https://al3omk.com/1199125.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "من “وطني مستقبلي” إلى البرنامج الحكومي: عندما تتحول بصمة حزب الاستقلال إلى اختيارات للدولة",
+    "status": "excluded",
+    "checked_at": "2026-10-21T21:46:02.082317+00:00"
+  },
+  "https://al3omk.com/1199117.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "التحالف الحكومي بين التباين الأيديولوجي ورهان الإنجاز: أية سيناريوهات لتنفيذ البرنامج الحكومي؟",
+    "status": "excluded",
+    "checked_at": "2026-10-21T21:46:02.082317+00:00"
+  },
+  "https://ar.le360.ma/politique/APWFMIFXGJF3LIKDLWHKW4AU6Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "المنصوري للمعارضة بمجلس المستشارين: إعفاء خيير «جرأة سياسية».. والنزاهة خط أحمر",
+    "status": "excluded",
+    "checked_at": "2026-10-21T21:46:02.082317+00:00"
+  },
+  "https://ar.le360.ma/politique/N4R7DJSSZJAVZP66PMIASWPNTY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "المنصوري: تكريس دولة الحق والقانون والمؤسسات شرط أساسي لإعادة بناء الثقة في العمل العمومي",
+    "status": "excluded",
+    "checked_at": "2026-10-21T21:46:02.082317+00:00"
+  },
+  "https://fr.le360.ma/politique/apres-le-gouvernement-madiha-khayr-quitte-la-chambre-des-representants_LKWCPC4LE5GLFODKM333UALPPQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Après son éviction du gouvernement, Madiha Khayr quitte la Chambre des représentants",
+    "status": "excluded",
+    "checked_at": "2026-10-21T21:46:02.082317+00:00"
+  },
+  "https://fr.le360.ma/politique/gouvernement-el-mansouri-la-bataille-des-postes-dans-les-cabinets-ministeriels_VOZH7ZNPNNA2RNK73IQJPIAFVI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Gouvernement El Mansouri: la bataille des postes dans les cabinets ministériels",
+    "status": "excluded",
+    "checked_at": "2026-10-21T21:46:02.082317+00:00"
+  },
+  "https://fr.le360.ma/politique/terrorisme-coordination-entre-le-maroc-et-lespagne-pour-traquer-des-extremistes-a-ceuta_F4CVTQPWXFCUHAS3G3WTC2GJCU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Terrorisme: coordination entre le Maroc et l’Espagne pour traquer des extrémistes à Sebta",
+    "status": "excluded",
+    "checked_at": "2026-10-21T21:46:02.082317+00:00"
+  },
+  "https://fr.le360.ma/politique/programme-gouvernemental-35-professionnels-de-sante-pour-10000-habitants-et-4-nouveaux-chu_FDAFZ7L2TRESRMUZ2OLBWFPWT4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Programme gouvernemental: 35 professionnels de santé pour 10.000 habitants et 4 nouveaux CHU",
+    "status": "excluded",
+    "checked_at": "2026-10-21T21:46:02.082317+00:00"
+  },
+  "https://fr.le360.ma/politique/exclusif-une-reforme-historique-de-limpot-sur-le-revenu-ce-qui-va-changer-pour-les-salaries-des-2027_UBLXPQPXLNEUZLLXYXQQXJ3GE4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Exclusif. Une réforme «historique» de l’Impôt sur le revenu: ce qui va changer pour les salariés dès 2027",
+    "status": "excluded",
+    "checked_at": "2026-10-21T21:46:02.082317+00:00"
   }
 }

@@ -1,5 +1,131 @@
 [
   {
+    "id": "58f3f0924baa5787",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مجلس المستشارين.. فرق الأغلبية تنوه بأولويات البرنامج الحكومي وتدعو إلى الرفع من وتيرة الإصلاحات الهيكلية - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135299.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-21",
+    "first_seen_at": "2026-10-21T21:46:02.082317+00:00",
+    "last_checked_at": "2026-10-21T21:46:02.082317+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربمجلس المستشارين.. فرق الأغلبية تنوه بأولويات البرنامج الحكومي وتدعو إلى الرفع من وتيرة الإصلاحات الهيكلية نوهت مكونات الأغلبية بمجلس المستشارين، اليوم الأربعاء، بأولويات البرنامج",
+    "word_count": 545,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "البرنامج الحكومي",
+            "مشروع قانون"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "اعتبر"
+          ]
+        },
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "تضارب المصالح"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 5,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الأصالة والمعاصرة",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية, التصريحات والمواقف السياسية, المتابعات والعزل والمحاسبة"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_58f3f0924baa",
+    "stance_analyzed_at": "2026-10-21T21:46:02.082317+00:00"
+  },
+  {
     "id": "0143eecd865afa59",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",
