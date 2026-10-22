@@ -20956,5 +20956,89 @@
     "title": "استقالة بنموسى من الـPPS تكشف أزمة الحزب الداخلية بسبب الاستوزار",
     "status": "excluded",
     "checked_at": "2026-10-22T11:58:48.199331+00:00"
+  },
+  "https://alyaoum24.com/2052220.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "عناصر شرطة تشهر السلاح الوظيفي لتوقيف جانح بتزنيت – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-10-22T17:14:37.986842+00:00"
+  },
+  "https://al3omk.com/1199250.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "يهدد سلامة الأطفال والمارة.. سلك كهربائي مكشوف على الأرض ينتظر التدخل بدوار إغرم أزكاغ",
+    "status": "excluded",
+    "checked_at": "2026-10-22T17:14:37.986842+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%b9%d9%84%d9%86%d9%88%d9%86-%d9%85%d9%88%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d8%a4%d8%aa%d9%85%d8%b1-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-1827274.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"الأحرار\" يعلنون موعد المؤتمر الوطني",
+    "status": "excluded",
+    "checked_at": "2026-10-22T17:14:37.986842+00:00"
+  },
+  "https://www.hespress.com/%d9%81%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d9%86%d8%aa%d9%82%d8%af-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1-%d9%88%d8%a8%d9%8a%d8%ac-1827205.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "فريق \"الأحرار\" ينتقد تغيير المسار.. و\"بيجيدي\" ينتظر جهود محاربة الفساد",
+    "status": "excluded",
+    "checked_at": "2026-10-22T17:14:37.986842+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a8%d8%a7%d9%85-%d9%8a%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%a5%d8%b5%d9%84%d8%a7%d8%ad%d8%a7%d8%aa-%d9%84%d9%85%d8%ad%d8%a7%d8%b1%d8%a8%d8%a9-%d8%a7%d9%84%d9%81%d8%b3%d8%a7%d8%af-1827156.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"البام\" يطالب بإصلاحات لمحاربة الفساد.. والاستقلال يثمن إجراءات الدعم",
+    "status": "excluded",
+    "checked_at": "2026-10-22T17:14:37.986842+00:00"
+  },
+  "https://www.hespress.com/%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a-%d9%85%d9%88%d8%b1%d9%8a%d8%aa%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa-%d9%85%d8%b9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a3%d9%83%d8%a8-1827065.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "سياسي موريتاني: العلاقات مع المغرب أكبر من الجدل بشأن الخلافات الحدودية",
+    "status": "excluded",
+    "checked_at": "2026-10-22T17:14:37.986842+00:00"
+  },
+  "https://ar.le360.ma/politique/73IP4WCYSNDX7D2FPM3CTCKYG4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "منها إلغاء تسقيف مباريات التعليم.. المنصوري تسرع إجراءات «100 يوم»",
+    "status": "excluded",
+    "checked_at": "2026-10-22T17:14:37.986842+00:00"
+  },
+  "https://fr.le360.ma/politique/conflits-dinterets-le-gouvernement-el-mansouri-osera-t-il-rouvrir-les-dossiers-sensibles-du_I5CW52NVNRFKHLMFOBRGZTZI44": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Conflits d’intérêts: le gouvernement El Mansouri osera-t-il rouvrir les dossiers sensibles du dessalement et des carburants?",
+    "status": "excluded",
+    "checked_at": "2026-10-22T17:14:37.986842+00:00"
+  },
+  "https://fr.le360.ma/politique/conseil-de-la-concurrence-nomination-imminente-du-successeur-dahmed-rahhou_AAPKPPPAPNFJVPGJP5COAX3RD4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Conseil de la concurrence: nomination imminente du successeur d’Ahmed Rahhou",
+    "status": "excluded",
+    "checked_at": "2026-10-22T17:14:37.986842+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d8%a3%d9%8a-%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d9%85%d9%87%d9%85%d8%a7-%d9%83%d8%a7%d9%86-%d9%85%d8%b3%d8%aa": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "العدالة والتنمية: أي زيارة مهما كان مستواها لن تُغير حقيقة أن سبتة ومليلية والجزر الجعفرية أراضٍ مغربية",
+    "status": "excluded",
+    "checked_at": "2026-10-22T17:14:37.986842+00:00"
+  },
+  "https://www.assahifa.com/%d8%b1%d8%a6%d9%8a%d8%b3-%d9%81%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%84%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%84%d9%84%d9%85%d9%86%d8%b5": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "رئيس فريق التجمع الوطني للأحرار للمنصوري: جعلتم مسار الحكومة السابقة حصان طروادة انتخابياً ثم عدتم لتبنيه",
+    "status": "excluded",
+    "checked_at": "2026-10-22T17:14:37.986842+00:00"
+  },
+  "https://www.assahifa.com/%d8%b4%d8%a8%d8%a7%d8%b7-%d8%aa%d8%b5%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a-%d8%a8%d9%80%d8%a5%d8%b9%d9%84%d8%a7%d9%86-%d9%86%d9%88%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "شباط تصف البرنامج الحكومي بـإعلان نوايا وتسائل المنصوري عن مصير الريع العمومي الذي وزعته الحكومة السابقة",
+    "status": "excluded",
+    "checked_at": "2026-10-22T17:14:37.986842+00:00"
   }
 }

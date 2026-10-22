@@ -1,26 +1,26 @@
 {
-  "run_at": "2026-10-22T11:58:48.199331+00:00",
+  "run_at": "2026-10-22T17:14:37.986842+00:00",
   "sources": 18,
-  "links_discovered": 169,
-  "known_skipped": 150,
-  "new_candidates": 19,
-  "extraction_success": 5,
-  "extraction_failed": 14,
+  "links_discovered": 166,
+  "known_skipped": 143,
+  "new_candidates": 23,
+  "extraction_success": 12,
+  "extraction_failed": 11,
   "new_articles": 0,
   "updated_articles": 0,
-  "excluded": 5,
+  "excluded": 12,
   "total_saved": 369,
   "events": 361,
-  "errors": 19,
+  "errors": 16,
   "source_details": [
     {
       "source_name": "Le360",
       "links_discovered": 24,
-      "known_skipped": 22,
-      "new_candidates": 2,
-      "extraction_success": 0,
+      "known_skipped": 19,
+      "new_candidates": 5,
+      "extraction_success": 3,
       "accepted": 0,
-      "excluded": 0,
+      "excluded": 3,
       "errors": 2
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "source_name": "ThePress",
-      "links_discovered": 7,
-      "known_skipped": 7,
+      "links_discovered": 6,
+      "known_skipped": 6,
       "new_candidates": 0,
       "extraction_success": 0,
       "accepted": 0,
@@ -105,28 +105,28 @@
     },
     {
       "source_name": "الصحيفة",
-      "links_discovered": 5,
-      "known_skipped": 3,
-      "new_candidates": 2,
-      "extraction_success": 2,
+      "links_discovered": 3,
+      "known_skipped": 0,
+      "new_candidates": 3,
+      "extraction_success": 3,
       "accepted": 0,
-      "excluded": 2,
+      "excluded": 3,
       "errors": 0
     },
     {
       "source_name": "العمق المغربي",
-      "links_discovered": 6,
-      "known_skipped": 3,
-      "new_candidates": 3,
-      "extraction_success": 2,
+      "links_discovered": 5,
+      "known_skipped": 4,
+      "new_candidates": 1,
+      "extraction_success": 1,
       "accepted": 0,
-      "excluded": 2,
-      "errors": 1
+      "excluded": 1,
+      "errors": 0
     },
     {
       "source_name": "اليوم24",
-      "links_discovered": 4,
-      "known_skipped": 2,
+      "links_discovered": 5,
+      "known_skipped": 3,
       "new_candidates": 2,
       "extraction_success": 1,
       "accepted": 0,
@@ -135,13 +135,13 @@
     },
     {
       "source_name": "برلمان",
-      "links_discovered": 6,
+      "links_discovered": 4,
       "known_skipped": 0,
-      "new_candidates": 6,
+      "new_candidates": 4,
       "extraction_success": 0,
       "accepted": 0,
       "excluded": 0,
-      "errors": 6
+      "errors": 4
     },
     {
       "source_name": "تارودانت الآن",
@@ -185,12 +185,12 @@
     },
     {
       "source_name": "هسبريس",
-      "links_discovered": 3,
-      "known_skipped": 3,
-      "new_candidates": 0,
-      "extraction_success": 0,
+      "links_discovered": 5,
+      "known_skipped": 1,
+      "new_candidates": 4,
+      "extraction_success": 4,
       "accepted": 0,
-      "excluded": 0,
+      "excluded": 4,
       "errors": 0
     }
   ]
