@@ -20907,5 +20907,19 @@
     "title": "Exclusif. Une réforme «historique» de l’Impôt sur le revenu: ce qui va changer pour les salariés dès 2027",
     "status": "excluded",
     "checked_at": "2026-10-21T21:46:02.082317+00:00"
+  },
+  "https://alyaoum24.com/2051955.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "تأجيل محاكمة « طراكس » وزوجة شقيقها إلى 28 أكتوبر الجاري – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-10-22T04:55:20.720454+00:00"
+  },
+  "https://ar.le360.ma/politique/LMKPI7RQGZEIHIUJBFX243A5R4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "مزور وحجيرة يستهلان عملهما الحكومي بلقاء تواصلي لتحديد أولويات المرحلة المقبلة",
+    "status": "excluded",
+    "checked_at": "2026-10-22T04:55:20.720454+00:00"
   }
 }
