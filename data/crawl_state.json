@@ -21040,5 +21040,215 @@
     "title": "شباط تصف البرنامج الحكومي بـإعلان نوايا وتسائل المنصوري عن مصير الريع العمومي الذي وزعته الحكومة السابقة",
     "status": "excluded",
     "checked_at": "2026-10-22T17:14:37.986842+00:00"
+  },
+  "https://www.chtoukapress.com/307875.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "البرنامج الحكومي يجتاز محطة التصويت.. فاطمة الزهراء المنصوري أمام مرحلة التنفيذ",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://www.hespress.com/%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%aa%d9%86%d8%a7%d9%84-%d8%ab%d9%82%d8%a9-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-1827406.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "حكومة المنصوري تنال ثقة مجلس النواب بأغلبية 204 ومعارضة 127",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%8a%d9%86%d9%87%d9%8a-%d8%aa%d9%88%d8%a7%d8%ac%d8%af-%d8%a7%d9%84%d9%85%d9%8a%d9%86%d9%88%d8%b1%d8%b3%d9%88-%d9%88%d9%8a-1827378.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "مشروع قانون أمريكي ينهي تواجد \"المينورسو\" ويكرس الحكم الذاتي بالصحراء",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://www.hespress.com/%d8%b3%d8%a8%d8%aa%d8%a9-%d9%88%d9%85%d9%84%d9%8a%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%84%d8%aa%d8%a7%d9%86-%d8%aa%d9%88%d8%ad%d8%af%d8%a7%d9%86-%d9%85%d9%88%d8%a7%d9%82%d9%81-%d8%a7-1827361.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "سبتة ومليلية المحتلتان توحدان مواقف الأغلبية والمعارضة بقبة البرلمان",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://agadirinfo.ma/135320.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "فرق المعارضة بمجلس النواب: البرنامج الحكومي يفتقر إلى مؤشرات دقيقة لتنزيل الالتزامات الاقتصادية والاجتماعية - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://agadirinfo.ma/135316.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "الأغلبية بمجلس النواب تثمن الحضور القوي للبعد الاجتماعي في البرنامج الحكومي - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d8%b9%d8%af-%d8%ac%d9%84%d8%b3%d8%a9-%d8%b9%d8%a7%d8%b5%d9%81%d8%a9-%d8%b7%d8%a8%d8%b9%d9%87%d8%a7-%d8%aa%d8%a8%d8%a7%d8%af%d9%84-%d8%a7%d9%84%d8%a7%d8%aa%d9%87%d8%a7%d9%85%d8%a7%d8%aa-%d8%ad": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بعد جلسة عاصفة طبعها تبادل الاتهامات.. حكومة المنصوري تنال ثقة مجلس النواب بـ204 أصوات مقابل معارضة 127 نائبا",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://www.assahifa.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d8%a8%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-%d9%82%d8%b1%d8%b1-%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "تحالف اليسار بمجلس النواب قرر التصويت ضد البرنامج الحكومي ويعلن اعتزامه تقديم مقترح للعفو العام على سجناء حراك الريف وجيل زد",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.le360.ma/politique/NW4LYNN2KFFL7ML5FCL4XLMJCE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "جنايات فاس الاستئنافية تبرئ حامي الدين في قضية مقتل الطالب بنعيسى آيت الجيد",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.le360.ma/politique/GJBXQWNPVNHL5BPOF5LXJVFMQM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "قضية آيت الجيد: استئنافية فاس تؤجل النطق بالحكم في ملف حامي الدين إلى آخر الجلسة",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://fr.le360.ma/politique/vote-de-confiance-le-programme-gouvernemental-adopte-a-la-majorite-absolue_KMBYM6OSMZD4FFYZY5TYRJFURQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Vote de confiance: le programme gouvernemental adopté à la majorité absolue",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://fr.le360.ma/politique/conseil-communal-de-rabat-le-debat-sur-le-budget-2027-tourne-a-laffrontement_HUIF7U5V3RBJRA3OQL5ZVUP34Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Conseil communal de Rabat : le débat sur le budget 2027 tourne à l’affrontement",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://fr.le360.ma/politique/fatima-ezzahra-el-mansouri-monte-au-front-et-defend-les-choix-de-son-gouvernement_GMK6VZAGSFDSDP6EAOGXDCHQXA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fatima Ezzahra El Mansouri monte au front et défend les choix de son gouvernement",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://fr.le360.ma/politique/a-miami-le-maroc-affirme-son-ambition-de-faire-de-lexcellence-politique-maroco-americaine-un-moteur_IHYVVK6SSJHBFJXXREHBKETCMQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "À Miami, le Maroc affirme son ambition de faire de l’excellence politique maroco-américaine un «moteur de prospérité économique»",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://fr.le360.ma/politique/le-limogeage-de-madiha-khayr-une-decision-audacieuse-selon-el-mansouri_W4A2HWKFDZDVVLHIS2FWQPNVBQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "La fin de mission de Madiha Khayr, une décision «audacieuse» selon El Mansouri",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/685332-je-ne-suis-pas-un-lustre-le-tacle-de-fatima-ezzahra-el-mansouri-au-pjd-video.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "« Je ne suis pas un lustre » : le tacle de Fatima Ezzahra El Mansouri au PJD (VIDEO)",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-%d9%8a%d8%b5%d8%a7%d8%af%d9%82-%d8%a8%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%b7%d9%84%d9%82%d8%a9-%d8%b9-1027942.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "مجلس النواب يصادق بالأغلبية المطلقة على البرنامج الحكومي",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d9%8a%d8%ad%d8%af%d8%af-%d9%85%d9%88%d9%82%d9%81%d9%87-%d9%85%d9%86-%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7-1027877.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "العدالة والتنمية يحدد موقفه من البرنامج الحكومي ويطرح 4 مقترحات قوانين",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%a4%d9%83%d8%af-%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85%d9%87-%d8%a8%d9%85%d9%85%d8%a7%d8%b1%d8%b3%d8%a9-%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-1027888.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "\"الأحرار\" يؤكد التزامه بممارسة معارضة قوية وبناءة ومسؤولة",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%a8%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d8%aa%d8%a4%d9%83%d8%af-%d8%aa%d8%b4%d8%a8%d8%ab-%d8%a7%d9%84-1027777.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "أحزاب بالأغلبية الحكومية تؤكد تشبث المغرب بسبتة ومليلية والجزر المحتلة",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/maroc/%d8%b9%d9%83%d8%a7%d8%b4%d8%a9-%d8%a3%d9%85%d8%a7%d9%85-%d9%81%d8%a7%d8%b7%d9%85%d8%a9-%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%84%d9%86-%d9%86-1027794.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "عكاشة أمام فاطمة الزهراء المنصوري: لن نغازل الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-%d9%8a%d8%b9%d9%84%d9%86-%d8%aa%d9%88%d8%b5%d9%84%d9%87-%d8%a8%d8%b7%d9%84%d8%a8-%d8%a7%d8%b3%d8%aa%d9%82%d8%a7%d9%84%d8%a9-%d9%85%d9%86-1027718.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "مجلس النواب يعلن توصله بطلب استقالة من نزار بركة",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d8%ad%d8%af%d8%af-%d9%85%d9%88%d8%b9%d8%af-%d9%85%d8%a4%d8%aa%d9%85%d8%b1%d9%87-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%88%d9%8a%d8%a4%d9%83%d8%af-1027419.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "الأحرار يحدد موعد مؤتمره الوطني ويؤكد استمرار شوكي في قيادة الحزب",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/maroc/%d8%a3%d9%85%d9%86-%d8%aa%d8%b2%d9%86%d9%8a%d8%aa-%d9%8a%d8%b4%d9%87%d8%b1-%d8%a3%d8%b3%d9%84%d8%ad%d8%aa%d9%87-%d8%a7%d9%84%d9%88%d8%b8%d9%8a%d9%81%d9%8a%d8%a9-%d9%84%d8%aa%d9%88%d9%82%d9%8a%d9%81-1027835.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "أمن تزنيت يشهر أسلحته الوظيفية لتوقيف شخص خطير",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d9%8a%d9%86%d8%ac%d8%a7-%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%b7-%d9%8a%d8%b3%d8%aa%d9%82%d9%8a%d9%84-%d9%85%d9%86-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-%d9%88%d9%86%d8%ac%d9%84-1027733.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "ينجا الخطاط يستقيل من مجلس النواب ونجله مرشح لخلافته",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a8%d9%86%d9%85%d9%88%d8%b3%d9%89-%d9%8a%d8%ba%d8%a7%d8%af%d8%b1-%d8%b3%d9%81%d9%8a%d9%86%d8%a9-%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a-1027672.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "بنموسى يغادر سفينة التقدم والاشتراكية ويستقيل من منتدى الاقتصاديين",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/maroc/%d8%aa%d8%b9%d9%86%d9%8a%d9%81-%d9%82%d8%a7%d8%b5%d8%b1-%d9%88%d8%aa%d8%ad%d8%b1%d9%8a%d8%b6-%d9%83%d9%84%d8%a8-%d8%b9%d9%84%d9%89-%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d9%8a%d8%ac%d8%b1%d8%a7%d9%86-%d8%ad-1027654.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "تعنيف قاصر وتحريض كلب على أطفال يجران حارسي أمن إلى العدالة بأكادير",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d8%a8%d8%a7%d9%85%d8%aa%d9%8a%d8%a7%d8%b2-%d9%88%d8%b3%d9%86%d9%86-1027663.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "المنصوري : الحكومة سياسية بامتياز وسنناضل ضد تضارب المصالح ولا نقول \"العام زين\"",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/maroc/%d8%ad%d9%82%d9%88%d9%82%d9%8a-%d9%8a%d8%b1%d9%81%d8%b9-%d8%b4%d9%83%d8%a7%d9%8a%d8%a9-%d8%b6%d8%af-%d9%85%d9%88%d8%b8%d9%81-%d8%a3%d9%85%d9%86-%d8%ae%d8%a7%d8%b5-%d8%a3%d8%b7%d9%84%d9%82-%d9%83%d9%84-1026497.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "حقوقي يرفع شكاية ضد موظف أمن خاص أطلق كلبا على أطفال بمارينا بأكادير -فيديو",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://ar.lesiteinfo.com/politique/%d8%b4%d9%88%d9%83%d9%8a-%d8%a8%d8%b9%d8%af-%d9%84%d9%82%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d8%ad%d8%b2%d8%a8-%d9%85%d8%b3%d8%a4-1022117.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "شوكي بعد لقاء المنصوري: الأحرار حزب مسؤول وسيساهم في المرحلة المقبلة بما يخدم مصالح الوطن -فيديو",
+    "status": "excluded",
+    "checked_at": "2026-10-22T21:40:16.291023+00:00"
   }
 }

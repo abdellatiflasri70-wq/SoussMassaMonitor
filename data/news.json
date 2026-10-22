@@ -1,5 +1,273 @@
 [
   {
+    "id": "b3b14235106c4a26",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "فرق المعارضة بمجلس النواب: البرنامج الحكومي يفتقر إلى مؤشرات دقيقة لتنزيل الالتزامات الاقتصادية والاجتماعية - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135320.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-22",
+    "first_seen_at": "2026-10-22T21:40:16.291023+00:00",
+    "last_checked_at": "2026-10-22T21:40:16.291023+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربفرق المعارضة بمجلس النواب: البرنامج الحكومي يفتقر إلى مؤشرات دقيقة لتنزيل الالتزامات الاقتصادية والاجتماعية اعتبرت فرق المعارضة بمجلس النواب، اليوم الخميس، أن البرنامج الحكومي",
+    "word_count": 586,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "البرنامج الحكومي"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "تحالف",
+            "أغلبية"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر",
+            "انتقد"
+          ]
+        },
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "تضارب المصالح"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 2,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_b3b14235106c",
+    "stance_analyzed_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  {
+    "id": "4d692a944f8a196f",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "الأغلبية بمجلس النواب تثمن الحضور القوي للبعد الاجتماعي في البرنامج الحكومي - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135316.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-22",
+    "first_seen_at": "2026-10-22T21:40:16.291023+00:00",
+    "last_checked_at": "2026-10-22T21:40:16.291023+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربالأغلبية بمجلس النواب تثمن الحضور القوي للبعد الاجتماعي في البرنامج الحكومي أكدت فرق الأغلبية بمجلس النواب، اليوم الخميس، على الحضور القوي للبعد الاجتماعي في",
+    "word_count": 617,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "PAM",
+          "name": "حزب الأصالة والمعاصرة"
+        },
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        },
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "البرنامج الحكومي",
+            "مشروع قانون"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "تحالف",
+            "أغلبية"
+          ]
+        },
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "تضارب المصالح",
+            "ربط المسؤولية بالمحاسبة"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "اعتبر"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PAM",
+        "target_type": "party",
+        "target_name": "حزب الأصالة والمعاصرة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_4d692a944f8a",
+    "stance_analyzed_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  {
     "id": "58f3f0924baa5787",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
