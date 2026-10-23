@@ -21348,5 +21348,103 @@
     "title": "مجلس النواب يصادق على البرنامج الحكومي بـ204 أصوات",
     "status": "excluded",
     "checked_at": "2026-10-23T11:44:38.842814+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d9%8a%d8%b7%d8%b9%d9%86-%d9%81%d9%8a-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8-%d8%b9%d8%b1%d8%b4%d8%a7%d9%86-1827675.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"تحالف اليسار\" يطعن في انتخاب عرشان",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%b5%d8%ad%d8%b1%d8%a7%d9%88%d9%8a-%d9%8a%d8%ab%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%b3%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d8%a9-1827664.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "تحالف صحراوي يثمن المسودة الأمريكية",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://agadir24.info/%d8%b1%d8%a6%d9%8a%d8%b3%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a8%d9%8a%d9%86-%d9%83%d8%a7%d8%b1%d9%8a%d8%b2%d9%85%d8%a7-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d9%88%d8%b1.html": {
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "رئيسة الحكومة بين كاريزما المواجهة ورهان الأثر المجتمعي | agadir24.info",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://alyaoum24.com/2052553.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "السلطات تمنع تنظيم نشاطين لفصيلين من مشجعي الحسنية والدشيرة حفاظا على الأمن العام – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://ar.le360.ma/politique/K4VUD735CZHGDN6LY6J5OXFPSQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "مباشر: تابع آخر مستجدات مشروع قانون المالية 2027",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://ar.le360.ma/politique/FKZO27MSHNDYZIUUN6P3MTMKHY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الحكومة ستعتمد إجراءات واقعية مدعومة بأرقام وتمويل حقيقي لتنفيذ برنامجها",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://fr.le360.ma/politique/le-dahir-de-nomination-du-gouvernement-el-mansouri-publie-au-bulletin-officiel_TQGFYYIQ7VFWDCN62LLKFRQRDI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le dahir de nomination du gouvernement El Mansouri publié au Bulletin officiel",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://al3omk.com/1199682.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أمزازي يكشف تفاصيل تأهيل ملعب أدرار وخطة استقطاب توتنهام وأندية عالمية إلى أكادير",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://al3omk.com/1199860.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "فاطمة الزهراء المنصوري ونكهة النقاش البرلماني",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://al3omk.com/1199695.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أثر السياسة السائلة على السلوك الانتخابي: أزمة ثقة أم أزمة ثقافة إنتخابية؟",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%b1%d9%81%d8%b6-%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%83-%d8%a7%d9%84%d9%85%d8%b3%d8%a8%d9%82-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85%d8%a7%d8%aa": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع يرفض التشكيك المسبق في التزامات الحكومة الجديدة ويدعو المعارضة إلى احترام ذكاء المغاربة بدل ترويج ادعاءات التراجع عن الوعود الانتخابية",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d9%86%d8%ac%d9%84%d9%88%d9%86-%d9%84%d9%80%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d9%81%d8%a9-%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%ad%d9%83": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بنجلون لـالصحيفة: نسخة البرنامج الحكومي التي توصل بها نواب تحالف اليسار خَلت من الالتزام الصريح بتجريم الإثراء غير المشروع رغم تعهد المنصوري بذلك",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%a8%d8%b4%d8%b1-%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa-%d8%a8%d9%8012-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d8%b1%d9%87%d9%85-%d9%88%d8%a7%d8%ae%d8%aa%d8%b5%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع يبشر الجهات بـ12 مليار درهم واختصاصات كاملة مقابل برامج تعاقدية ونتائج قابلة للتتبع والتقييم",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%b9%d9%84%d9%86-%d8%a5%d8%b9%d9%81%d8%a7%d8%a1-%d8%a7%d9%84%d8%a3%d8%ac%d9%88%d8%b1-%d8%a7%d9%84%d8%aa%d9%8a-%d8%aa%d9%82%d9%84-%d8%b9%d9%86-10-%d8%a2%d9%84%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع يعلن إعفاء الأجور التي تقل عن 10 آلاف درهم من الضريبة مع بداية 2027",
+    "status": "excluded",
+    "checked_at": "2026-10-23T17:12:47.432003+00:00"
   }
 }
