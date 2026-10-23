@@ -21446,5 +21446,75 @@
     "title": "لقجع يعلن إعفاء الأجور التي تقل عن 10 آلاف درهم من الضريبة مع بداية 2027",
     "status": "excluded",
     "checked_at": "2026-10-23T17:12:47.432003+00:00"
+  },
+  "https://agadirinfo.ma/135568.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "فوزي لقجع: الأثر الإجمالي لتنزيل الأولويات الاجتماعية في البرنامج الحكومي يقدر بحوالي 62 مليار درهم - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-23T21:27:31.228681+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a%d8%a9-%d8%aa%d8%aa%d9%88%d8%b5%d9%84-%d8%a8%d8%b7%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "المحكمة الدستورية تتوصل بطعن الاتحاد الاشتراكي في مقاعد دائرة طنجة",
+    "status": "excluded",
+    "checked_at": "2026-10-23T21:27:31.228681+00:00"
+  },
+  "https://ar.le360.ma/politique/4XWF6GGNCFFDPEJBOGHQCYYMXY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "مشروع قانون مالية 2027: مساعدات سوسيو-اقتصادية تناهز 62 مليار درهم.. ورهان على صيانة السيادة المالية",
+    "status": "excluded",
+    "checked_at": "2026-10-23T21:27:31.228681+00:00"
+  },
+  "https://fr.le360.ma/politique/gouvernement-el-mansouri-la-chambre-des-representants-lui-accorde-sa-confiance-apres-des-debats_QCPBETNGYVFARKAERLMXPQ7GVQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Gouvernement El Mansouri: la Chambre des représentants lui accorde sa confiance après des débats houleux",
+    "status": "excluded",
+    "checked_at": "2026-10-23T21:27:31.228681+00:00"
+  },
+  "https://fr.le360.ma/politique/plf-2027-les-aides-socio-economiques-a-62-milliards-de-dh-selon-lekjaa_QTVKODAPR5HKXNWIT2P2K672HI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "PLF 2027: les aides socio-économiques à 62 milliards de DH, selon Lekjaa",
+    "status": "excluded",
+    "checked_at": "2026-10-23T21:27:31.228681+00:00"
+  },
+  "https://fr.le360.ma/politique/lettre-ouverte-aux-espagnols-ne-laissez-pas-la-politique-defaire-ce-que-la-geographie-lhistoire-et_WMGYAHZDURGY5DOVEA2JLAXCDI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Lettre ouverte aux Espagnols: ne laissez pas la politique défaire ce que la géographie, l’histoire et les intérêts communs ont construit",
+    "status": "excluded",
+    "checked_at": "2026-10-23T21:27:31.228681+00:00"
+  },
+  "https://al3omk.com/1199925.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "سلطات طنجة تشن حملة لتحرير الملك العام بحي بنكيران",
+    "status": "excluded",
+    "checked_at": "2026-10-23T21:27:31.228681+00:00"
+  },
+  "https://al3omk.com/1199932.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "مصرع مريض بالمستشفى الجامعي بأكادير بعد سقوطه من الطابق الثالث",
+    "status": "excluded",
+    "checked_at": "2026-10-23T21:27:31.228681+00:00"
+  },
+  "https://al3omk.com/1199885.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "حكومة شعبوية تغير الاتجاه ومعارضة “المولوتوف”",
+    "status": "excluded",
+    "checked_at": "2026-10-23T21:27:31.228681+00:00"
+  },
+  "https://al3omk.com/1199888.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "لقجع يكشف كلفة دعم فواتير الكهرباء وزيادات المعاشات والحوار الاجتماعي في 2027",
+    "status": "excluded",
+    "checked_at": "2026-10-23T21:27:31.228681+00:00"
   }
 }
