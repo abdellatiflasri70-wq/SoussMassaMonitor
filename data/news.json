@@ -1,5 +1,87 @@
 [
   {
+    "id": "5351ed324936ee66",
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "أمسكان: قصة تمرد أحرضان على الحسن الثاني وانقلاب قيادة الحركة الشعبية عليه – اليوم 24",
+    "url": "https://alyaoum24.com/videos/%D8%A3%D9%85%D8%B3%D9%83%D8%A7%D9%86-%D9%82%D8%B5%D8%A9-%D8%AA%D9%85%D8%B1%D8%AF-%D8%A3%D8%AD%D8%B1%D8%B6%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%86",
+    "author": "Alyaoum",
+    "published_at": "2026-10-23",
+    "first_seen_at": "2026-10-23T11:44:38.842814+00:00",
+    "last_checked_at": "2026-10-23T11:44:38.842814+00:00",
+    "language": "ar",
+    "excerpt": "شريط الأخبار حاتم عمور وكريمة غيث وفاضل المزروعي يحيون سهرات الدورة الـ19 لموسم طانطان سهرة « عودة الغائب »…صوت فضل شاكر يملأ الرياض وسط إقبال",
+    "word_count": 130,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تزنيت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "MP",
+          "name": "الحركة الشعبية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "محاكمة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: الحركة الشعبية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "MP",
+        "target_type": "party",
+        "target_name": "الحركة الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_5351ed324936",
+    "stance_analyzed_at": "2026-10-23T11:44:38.842814+00:00"
+  },
+  {
     "id": "b3b14235106c4a26",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",

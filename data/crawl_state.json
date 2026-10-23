@@ -21299,5 +21299,54 @@
     "title": "“مدارس الريادة” في البرنامج الحكومي: تناول استشرافي ذكي",
     "status": "excluded",
     "checked_at": "2026-10-23T04:57:17.552560+00:00"
+  },
+  "https://www.hespress.com/%d9%87%d9%84-%d8%a5%d9%8a%d8%af%d8%a7%d8%b9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d8%a8-1826941.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "هل إيداع الحكومة مشروع قانون المالية بالبرلمان قبل التنصيب غير دستوري؟",
+    "status": "excluded",
+    "checked_at": "2026-10-23T11:44:38.842814+00:00"
+  },
+  "https://fr.le360.ma/politique/fatima-ezzahra-el-mansouri-obtient-linvestiture-lors-dune-seance-houleuse-entre-le-pam-et-le-pjd_GHK6K5GC4BFQZNNCQNIDG3G5LU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Fatima-Ezzahra El Mansouri obtient l’investiture lors d’une séance houleuse entre le PAM et le PJD",
+    "status": "excluded",
+    "checked_at": "2026-10-23T11:44:38.842814+00:00"
+  },
+  "https://al3omk.com/1199669.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "“مدارس الريادة” في البرنامج الحكومي: تناول استشرافي ذكي",
+    "status": "excluded",
+    "checked_at": "2026-10-23T11:44:38.842814+00:00"
+  },
+  "https://al3omk.com/1199589.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "فاطمة الزهراء المنصوري تحت قبة البرلمان: قوة الخطاب وامتحان الوفاء بالالتزامات",
+    "status": "excluded",
+    "checked_at": "2026-10-23T11:44:38.842814+00:00"
+  },
+  "https://alyaoum24.com/videos/%d8%a3%d9%85%d8%b3%d9%83%d8%a7%d9%86-%d9%82%d8%b5%d8%a9-%d8%aa%d9%85%d8%b1%d8%af-%d8%a3%d8%ad%d8%b1%d8%b6%d8%a7%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%ad%d8%b3%d9%86-%d8%a7%d9%84%d8%ab%d8%a7%d9%86": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "أمسكان: قصة تمرد أحرضان على الحسن الثاني وانقلاب قيادة الحركة الشعبية عليه – اليوم 24",
+    "status": "accepted",
+    "checked_at": "2026-10-23T11:44:38.842814+00:00"
+  },
+  "https://alyaoum24.com/videos/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%ad%d9%82-%d8%a7%d9%84%d8%aa%d8%a7%d8%b2%d9%8a-%d8%b3%d9%8a%d8%b1%d8%a9-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a-%d9%88%d8%b1%d8%ac%d9%84-%d8%af%d9%88%d9%84%d8%a9": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "عبد الحق التازي.. سيرة سياسي ورجل دولة – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-10-23T11:44:38.842814+00:00"
+  },
+  "https://thepress.ma/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-%d9%8a%d8%b5%d8%a7%d8%af%d9%82-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "مجلس النواب يصادق على البرنامج الحكومي بـ204 أصوات",
+    "status": "excluded",
+    "checked_at": "2026-10-23T11:44:38.842814+00:00"
   }
 }
