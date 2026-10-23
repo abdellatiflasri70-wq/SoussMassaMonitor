@@ -21250,5 +21250,54 @@
     "title": "شوكي بعد لقاء المنصوري: الأحرار حزب مسؤول وسيساهم في المرحلة المقبلة بما يخدم مصالح الوطن -فيديو",
     "status": "excluded",
     "checked_at": "2026-10-22T21:40:16.291023+00:00"
+  },
+  "https://agadirinfo.ma/135328.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مجلس النواب يصادق بالأغلبية المطلقة على البرنامج الحكومي - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-23T04:57:17.552560+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%81%d8%b3%d8%a7%d8%af-%d8%b3%d8%b1%d8%b7%d8%a7%d9%86-%d9%8a%d9%86%d8%ae%d8%b1-%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9-%d9%88%d8%a8-1827538.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "المنصوري: الفساد سرطان ينخر المجتمع.. وبجيجو بريء من تضارب المصالح",
+    "status": "excluded",
+    "checked_at": "2026-10-23T04:57:17.552560+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d8%b9%d8%af-%d8%aa%d9%86%d8%b5%d9%8a%d8%a8-%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d9%88%d8%a7-1827501.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بعد تنصيب الحكومة الجديدة.. الأغلبية والمعارضة تبرران خيارات التصويت",
+    "status": "excluded",
+    "checked_at": "2026-10-23T04:57:17.552560+00:00"
+  },
+  "https://www.lesiteinfo.com/politique/685340-gouvernement-elections-critiques-envers-le-pam-el-mansouri-contre-attaque.html": {
+    "source_id": "lesiteinfo",
+    "source_name": "LeSiteInfo",
+    "title": "Gouvernement, élections, critiques envers le PAM… El Mansouri contre-attaque",
+    "status": "excluded",
+    "checked_at": "2026-10-23T04:57:17.552560+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%ad%d9%83%d9%85-%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a-%d8%a7%d9%84%d8%ad%d9%84-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d9%84%d9%84%d9%86%d8%b2%d8%a7%d8%b9-%d9%88%d8%a5%d8%af%d8%a7%d9%86": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الحكم الذاتي الحل الوحيد للنزاع وإدانة هجوم السمارة وإعادة هيكلة المينورسو.. أبرز ما تتضمنه المسودة الأمريكية الجديدة بشأن الصحراء المقدمة لمجلس الأمن",
+    "status": "excluded",
+    "checked_at": "2026-10-23T04:57:17.552560+00:00"
+  },
+  "https://al3omk.com/1199529.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تحالف اليسار يطعن في نتائج الانتخابات التشريعية بجرادة",
+    "status": "excluded",
+    "checked_at": "2026-10-23T04:57:17.552560+00:00"
+  },
+  "https://al3omk.com/1199519.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "“مدارس الريادة” في البرنامج الحكومي: تناول استشرافي ذكي",
+    "status": "excluded",
+    "checked_at": "2026-10-23T04:57:17.552560+00:00"
   }
 }

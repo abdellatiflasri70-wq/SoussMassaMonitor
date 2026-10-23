@@ -268,6 +268,97 @@
     "stance_analyzed_at": "2026-10-22T21:40:16.291023+00:00"
   },
   {
+    "id": "6f6673126f1121d6",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مجلس النواب يصادق بالأغلبية المطلقة على البرنامج الحكومي - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135328.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-22",
+    "first_seen_at": "2026-10-23T04:57:17.552560+00:00",
+    "last_checked_at": "2026-10-23T04:57:17.552560+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربمجلس النواب يصادق بالأغلبية المطلقة على البرنامج الحكومي صادق مجلس النواب، اليوم الخميس، خلال جلسة عمومية، بالأغلبية المطلقة على البرنامج الحكومي الذي قدمته رئيسة",
+    "word_count": 93,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "أغلبية"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "البرنامج الحكومي"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: فاطمة الزهراء المنصوري",
+        "مواضيع سياسية: التحالفات والخلافات السياسية, السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_6f6673126f11",
+    "stance_analyzed_at": "2026-10-23T04:57:17.552560+00:00"
+  },
+  {
     "id": "58f3f0924baa5787",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
