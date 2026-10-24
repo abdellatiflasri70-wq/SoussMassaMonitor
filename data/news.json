@@ -75,6 +75,90 @@
     "stance_analyzed_at": "2026-10-24T16:00:21.751252+00:00"
   },
   {
+    "id": "e369c441aff20ef1",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مشروع قانون المالية لسنة 2027 يتوخى إحداث 34 ألفا و454 منصبا ماليا جديدا - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135580.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-24",
+    "first_seen_at": "2026-10-24T20:53:35.094838+00:00",
+    "last_checked_at": "2026-10-24T20:53:35.094838+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديمشروع قانون المالية لسنة 2027 يتوخى إحداث 34 ألفا و454 منصبا ماليا جديدا يتوخى مشروع قانون المالية لسنة 2027، الذي جرى تقديمه أمس الجمعة",
+    "word_count": 251,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "مشروع قانون"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_e369c441aff2",
+    "stance_analyzed_at": "2026-10-24T20:53:35.094838+00:00"
+  },
+  {
     "id": "5351ed324936ee66",
     "source_id": "alyaoum24",
     "source_name": "اليوم24",

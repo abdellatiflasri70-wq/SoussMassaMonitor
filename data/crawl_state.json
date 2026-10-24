@@ -21614,5 +21614,47 @@
     "title": "بلاغ نهضة الزمامرة يفتح جبهة جديدة في صراع بلقشور والعصبة… رضوان جيد في قلب العاصفة – اليوم 24",
     "status": "excluded",
     "checked_at": "2026-10-24T16:00:21.751252+00:00"
+  },
+  "https://agadirinfo.ma/135580.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مشروع قانون المالية لسنة 2027 يتوخى إحداث 34 ألفا و454 منصبا ماليا جديدا - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-24T20:53:35.094838+00:00"
+  },
+  "https://www.hespress.com/%d9%87%d9%84-%d9%8a%d8%ac%d8%af%d8%af-%d8%b3%d8%ac%d8%a7%d9%84-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d8%a9-%d8%ab%d9%82-1828283.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "هل يجدد سجال رئيس الحكومة والمعارضة ثقة المغاربة في العمل السياسي؟",
+    "status": "excluded",
+    "checked_at": "2026-10-24T20:53:35.094838+00:00"
+  },
+  "https://alyaoum24.com/2052794.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "المغرب الاقتصادي الجديد: هل يحوّل مشروع قانون المالية 2027 الاستثمار إلى ثروة – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-10-24T20:53:35.094838+00:00"
+  },
+  "https://fr.le360.ma/politique/la-deuxieme-chance-tu-connais_ZAAFU2A6JFGWXB2HMJAQBMHUDE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "La deuxième chance, tu connais?",
+    "status": "excluded",
+    "checked_at": "2026-10-24T20:53:35.094838+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d9%88%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d8%a7%d9%84%d8%a3%d9%83%d8%ab%d8%b1-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الداخلية والدفاع والصحة الأكثر تشغيلا في مشروع قانون مالية 2027.. والمناصب الجديدة تتراجع بأزيد من 2400 مقارنة بالسنة الجارية",
+    "status": "excluded",
+    "checked_at": "2026-10-24T20:53:35.094838+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a-%d8%b3%d8%b9%d8%af-%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a-%d8%b1%d8%a6%d9%8a%d8%b3%d8%a7-%d9%84%d9%84%d8%a8%d8%b1": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "انتخاب السعودي سعد العتيبي رئيسا للبرلمان العربي",
+    "status": "excluded",
+    "checked_at": "2026-10-24T20:53:35.094838+00:00"
   }
 }
