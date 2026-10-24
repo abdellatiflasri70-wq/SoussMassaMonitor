@@ -21572,5 +21572,47 @@
     "title": "وسط تباطؤ الشريك الأوروبي وتصاعد المخاطر الدولية.. لقجع يربط تنويع الأسواق وتقوية الاقتصاد بحماية القرار السيادي المغربي",
     "status": "excluded",
     "checked_at": "2026-10-24T11:08:11.758898+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%b1%d9%83%d9%8a%d8%a8%d8%a9-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%aa%d8%b1%d8%ac%d9%91%d8%ad-%d9%83%d9%81%d8%a9-%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7-%d9%81%d9%8a-%d8%a7-1828158.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "تركيبة مجلس الأمن ترجّح كفة الرباط في التصويت لصالح مغربية الصحراء",
+    "status": "excluded",
+    "checked_at": "2026-10-24T16:00:21.751252+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-un-projet-de-resolution-americain-preconise-lautonomie-comme-cadre-exclusif-de-reglement_B2SZBH27G5GP3D36LDRCZCXVRY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: un projet de résolution américain préconise l’autonomie comme cadre exclusif de règlement",
+    "status": "excluded",
+    "checked_at": "2026-10-24T16:00:21.751252+00:00"
+  },
+  "https://www.assahifa.com/%d8%aa%d8%b4%d9%85%d9%84-%d8%a3%d8%b1%d8%a8%d8%a7%d8%ad-%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7-%d9%88%d8%a7%d9%84%d8%aa%d8%b0%d8%a7%d9%83%d8%b1-%d9%88%d8%ac%d9%88%d8%a7%d8%a6%d8%b2-%d8%a7%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "تشمل أرباح الفيفا والتذاكر وجوائز اللاعبين وحقوق البث التلفزيوني.. مشروع قانون مالية 2027 يتضمن قائمة من الإعفاءات الضريبية في إطار تنظيم مونديال 2030",
+    "status": "excluded",
+    "checked_at": "2026-10-24T16:00:21.751252+00:00"
+  },
+  "https://alyaoum24.com/videos/%f0%9f%94%b4%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a-%d9%88%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%85%d8%a7": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "🔴مباشر: البرنامج الحكومي وقانون المالية 2027. بين الوعود الانتخابية والتنزيل الاقتصادي – اليوم 24",
+    "status": "accepted",
+    "checked_at": "2026-10-24T16:00:21.751252+00:00"
+  },
+  "https://alyaoum24.com/2052765.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "مشروع قانون المالية 2027… إعفاءات ضريبية واسعة لفائدة « فيفا » وشركائها استعدادا لمونديال 2030 – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-10-24T16:00:21.751252+00:00"
+  },
+  "https://alyaoum24.com/2052749.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "بلاغ نهضة الزمامرة يفتح جبهة جديدة في صراع بلقشور والعصبة… رضوان جيد في قلب العاصفة – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-10-24T16:00:21.751252+00:00"
   }
 }

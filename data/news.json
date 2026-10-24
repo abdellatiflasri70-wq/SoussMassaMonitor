@@ -1,5 +1,80 @@
 [
   {
+    "id": "e1f35cb9f90d79e0",
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "🔴مباشر: البرنامج الحكومي وقانون المالية 2027. بين الوعود الانتخابية والتنزيل الاقتصادي – اليوم 24",
+    "url": "https://alyaoum24.com/videos/%F0%9F%94%B4%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%88%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%A7",
+    "author": "Alyaoum",
+    "published_at": "2026-10-24",
+    "first_seen_at": "2026-10-24T16:00:21.751252+00:00",
+    "last_checked_at": "2026-10-24T16:00:21.751252+00:00",
+    "language": "ar",
+    "excerpt": "شريط الأخبار الكولونيل محمد الشرقاوي على رأس القيادة الإقليمية للدرك الملكي بمراكش أمن الدار البيضاء يوقف ثلاثينيا بحوزته 1873 قسيمة مهلوسة من مخدر LSD وفاة",
+    "word_count": 120,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت باها",
+        "بلفاع"
+      ],
+      "secondary_provinces": [
+        "تزنيت"
+      ],
+      "secondary_places": [
+        "تزنيت"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "البرنامج الحكومي"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "محاكمة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_e1f35cb9f90d",
+    "stance_analyzed_at": "2026-10-24T16:00:21.751252+00:00"
+  },
+  {
     "id": "5351ed324936ee66",
     "source_id": "alyaoum24",
     "source_name": "اليوم24",
