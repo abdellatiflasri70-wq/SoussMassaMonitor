@@ -21516,5 +21516,40 @@
     "title": "لقجع يكشف كلفة دعم فواتير الكهرباء وزيادات المعاشات والحوار الاجتماعي في 2027",
     "status": "excluded",
     "checked_at": "2026-10-23T21:27:31.228681+00:00"
+  },
+  "https://agadirinfo.ma/135573.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "لقجع يقدم مشروع قانون المالية لسنة 2027 أمام لجنة المالية بمجلس النواب - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-24T04:42:21.884499+00:00"
+  },
+  "https://www.chtoukapress.com/307904.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "الريسوني يكشف تفاصيل جديدة عن استقالته من رئاسة اتحاد علماء المسلمين ويتهم المخابرات الجزائرية بالضغط عليه",
+    "status": "excluded",
+    "checked_at": "2026-10-24T04:42:21.884499+00:00"
+  },
+  "https://www.chtoukapress.com/307901.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "لقجع: زيادة 700 درهم في معاشات التقاعد ابتداء من فاتح يناير المقبل",
+    "status": "excluded",
+    "checked_at": "2026-10-24T04:42:21.884499+00:00"
+  },
+  "https://fr.le360.ma/politique/en-direct-budget-2027-les-dernieres-infos_UH5USHZC4VCL7DFCMI2BJHPDDA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "EN DIRECT. Budget 2027: les dernières infos",
+    "status": "excluded",
+    "checked_at": "2026-10-24T04:42:21.884499+00:00"
+  },
+  "https://al3omk.com/1199946.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "“ملكة القطن” تتوج في مهرجان وجدة.. حكاية فتاة سودانية تصارع سلطة العائلة وصراع الأرض والذاكرة",
+    "status": "excluded",
+    "checked_at": "2026-10-24T04:42:21.884499+00:00"
   }
 }

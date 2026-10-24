@@ -182,6 +182,90 @@
     "stance_analyzed_at": "2026-10-23T21:27:31.228681+00:00"
   },
   {
+    "id": "2ead1ae44abde315",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "لقجع يقدم مشروع قانون المالية لسنة 2027 أمام لجنة المالية بمجلس النواب - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135573.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-23",
+    "first_seen_at": "2026-10-24T04:42:21.884499+00:00",
+    "last_checked_at": "2026-10-24T04:42:21.884499+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديلقجع يقدم مشروع قانون المالية لسنة 2027 أمام لجنة المالية بمجلس النواب قدم وزير الاقتصاد والمالية والنجاعة العمومية، فوزي لقجع، اليوم الجمعة، مشروع قانون",
+    "word_count": 384,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "مشروع قانون"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 2,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_2ead1ae44abd",
+    "stance_analyzed_at": "2026-10-24T04:42:21.884499+00:00"
+  },
+  {
     "id": "b3b14235106c4a26",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
