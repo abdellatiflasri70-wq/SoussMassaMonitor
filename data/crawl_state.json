@@ -21705,5 +21705,33 @@
     "title": "بانتظار نتائج الانتخابات الإسرائيلية والأمريكية… قراءة في الاحتمالات",
     "status": "excluded",
     "checked_at": "2026-10-25T16:28:04.142018+00:00"
+  },
+  "https://www.assahifa.com/%d8%af%d9%81%d8%a7%d8%b9%d8%a7-%d8%b9%d9%86-%d9%81%d8%a7%d8%b7%d9%85%d8%a9-%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%88%d8%b9%d9%86-%d8%ad": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "دفاعا عن فاطمة الزهراء المنصوري وعن حقها في أن تتكلم كما هي",
+    "status": "excluded",
+    "checked_at": "2026-10-25T20:54:54.001107+00:00"
+  },
+  "https://al3omk.com/1200307.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "حين تتجاور الشرعيتان: سؤال استمرار الحركة في ظل حقٍ محفوظٍ للجمع بين الدين والسياسة",
+    "status": "excluded",
+    "checked_at": "2026-10-25T20:54:54.001107+00:00"
+  },
+  "https://fr.le360.ma/politique/un-mouvement-correctif-au-sein-de-lugtm-le-syndicat-de-listiqlal_DLVJNEXU2ZDVNJR4ZAV56W3J54": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Un mouvement correctif au sein de l’UGTM, le syndicat de l’Istiqlal",
+    "status": "excluded",
+    "checked_at": "2026-10-25T20:54:54.001107+00:00"
+  },
+  "https://fr.le360.ma/politique/archives-du-quai-dorsay-ep-2-le-jour-ou-le-polisario-a-abattu-un-avion-scientifique-allemand-et_VHQKPW37MRASDPTDDUSBCWBMAM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Archives du Quai d’Orsay. Ep 2. Le jour où le Polisario a abattu un avion scientifique allemand et assassiné ses pilotes au Sahara",
+    "status": "excluded",
+    "checked_at": "2026-10-25T20:54:54.001107+00:00"
   }
 }
