@@ -159,6 +159,83 @@
     "stance_analyzed_at": "2026-10-24T20:53:35.094838+00:00"
   },
   {
+    "id": "565016fe3bf3d82a",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Code de la famille, prisons, caméras piétonnes: la feuille de route sécuritaire et judiciaire du PLF 2027",
+    "url": "https://fr.le360.ma/politique/code-de-la-famille-prisons-cameras-pietonnes-la-feuille-de-route-securitaire-et-judiciaire-du-plf_3HM6PDELHJAGLMANZEQQW347DM",
+    "author": "Camilia Serraj",
+    "published_at": "2026-10-24",
+    "first_seen_at": "2026-10-25T16:28:04.142018+00:00",
+    "last_checked_at": "2026-10-25T16:28:04.142018+00:00",
+    "language": "fr",
+    "excerpt": "Le document présente la justice à la fois comme un droit fondamental et comme un levier de confiance et de compétitivité. Le gouvernement y fixe",
+    "word_count": 1584,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت",
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تارودانت",
+        "تزنيت"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "gouvernement",
+            "projet de loi"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "régionales"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_565016fe3bf3",
+    "stance_analyzed_at": "2026-10-25T16:28:04.142018+00:00"
+  },
+  {
     "id": "5351ed324936ee66",
     "source_id": "alyaoum24",
     "source_name": "اليوم24",

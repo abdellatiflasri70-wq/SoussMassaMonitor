@@ -21670,5 +21670,40 @@
     "title": "إسبانيا: موجة مظاهرات ضد تصاعد العنصرية ومزايدات اليمين المتطرف",
     "status": "excluded",
     "checked_at": "2026-10-25T11:37:52.286146+00:00"
+  },
+  "https://alyaoum24.com/2052934.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "الخبير العلاوي: تقييم الأثر الفعلي للاعفاء الضريبي على الدخل رهين بما سيتضمنه مشروع قانون المالية( فيديو) – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-10-25T16:28:04.142018+00:00"
+  },
+  "https://fr.le360.ma/politique/code-de-la-famille-prisons-cameras-pietonnes-la-feuille-de-route-securitaire-et-judiciaire-du-plf_3HM6PDELHJAGLMANZEQQW347DM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Code de la famille, prisons, caméras piétonnes: la feuille de route sécuritaire et judiciaire du PLF 2027",
+    "status": "accepted",
+    "checked_at": "2026-10-25T16:28:04.142018+00:00"
+  },
+  "https://fr.le360.ma/politique/reprise-de-la-mar-pequena-tarfaya-en-1490-acte-fondateur-des-saadiens_3MBSBWIZ45FXZKIVYTDZQVAHS4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Reprise de la Mar Pequeña (Tarfaya) en 1490, acte fondateur des Saâdiens?",
+    "status": "excluded",
+    "checked_at": "2026-10-25T16:28:04.142018+00:00"
+  },
+  "https://al3omk.com/1200232.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "من أجل معارضة بناءة وفاعلة!",
+    "status": "excluded",
+    "checked_at": "2026-10-25T16:28:04.142018+00:00"
+  },
+  "https://al3omk.com/1200230.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "بانتظار نتائج الانتخابات الإسرائيلية والأمريكية… قراءة في الاحتمالات",
+    "status": "excluded",
+    "checked_at": "2026-10-25T16:28:04.142018+00:00"
   }
 }
