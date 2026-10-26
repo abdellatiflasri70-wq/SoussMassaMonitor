@@ -21775,5 +21775,68 @@
     "title": "العصبة تنقل مباراة الرجاء وحسنية أكادير من مركب محمد الخامس إلى ملعب العربي الزاولي – اليوم 24",
     "status": "excluded",
     "checked_at": "2026-10-26T13:10:39.187282+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d9%8a%d8%b4%d9%83%d9%83-%d9%81%d9%8a-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d9%88%d9%8a%d9%87-1829218.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بنكيران \"يشكك\" في نتائج الانتخابات ويهاجم قيادات \"البام\" بشأن المخدرات",
+    "status": "excluded",
+    "checked_at": "2026-10-26T22:42:58.852104+00:00"
+  },
+  "https://agadirinfo.ma/135602.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخابات 2026.. إيداع حسابات الحملات الانتخابية داخل أجل 90 يوما من تاريخ الإعلان عن النتائج النهائية - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-26T22:42:58.852104+00:00"
+  },
+  "https://al3omk.com/1200686.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "مسيرة إلى الرباط وإضراب عن الطعام.. بائعو الهواتف بإنزكان يصعّدون ضد السلطات",
+    "status": "excluded",
+    "checked_at": "2026-10-26T22:42:58.852104+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d8%b3%d8%aa%d8%b7%d9%84%d8%a7%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d8%a3%d9%8a-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%b6%d8%b9-%d8%a7%d9%84%d8%ad%d8%b2%d8%a8-%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "استطلاعات الرأي الإسبانية تضع الحزب الشعبي في الصدارة وتكشف تقاربا متزايدا مع فوكس.. أزمة سبتة والعلاقات مع المغرب تتحول إلى ورقة انتخابية في مواجهة سانشيز",
+    "status": "excluded",
+    "checked_at": "2026-10-26T22:42:58.852104+00:00"
+  },
+  "https://fr.le360.ma/politique/chabab-al-massira-ould-errachid-perd-la-bataille-pour-la-presidence-du-club-face-a-derham_T2U5WIK7DZEFTMG6YTDY2K3PZE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Chabab Al Massira: Ould Errachid perd la bataille pour la présidence du club face à Derham",
+    "status": "accepted",
+    "checked_at": "2026-10-26T22:42:58.852104+00:00"
+  },
+  "https://fr.le360.ma/politique/pouvoir-dachat-le-gouvernement-mise-sur-une-nouvelle-etape-proactive-dans-le-projet-de-loi-de_VLVWEG2SWBA2LDH3MMA3POHAYE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Pouvoir d’achat: le gouvernement mise sur une nouvelle étape proactive dans le projet de loi de finances",
+    "status": "excluded",
+    "checked_at": "2026-10-26T22:42:58.852104+00:00"
+  },
+  "https://fr.le360.ma/politique/moyen-orient-les-origines-du-conflit-avec-les-houthis-expliquees-par-lambassadeur-du-yemen-au-maroc_7HJHKD5OHZFUVBNWJ7DRCKQXNM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Moyen-Orient: les origines du conflit avec les Houthis expliquées par l’ambassadeur du Yémen au Maroc",
+    "status": "excluded",
+    "checked_at": "2026-10-26T22:42:58.852104+00:00"
+  },
+  "https://fr.le360.ma/politique/riyad-hammouchi-a-la-52eme-reunion-du-conseil-superieur-de-luniversite-naif-des-sciences-de-la_YNR6I4JSKZC65KCEGX5IV6Q3IM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Riyad: Hammouchi à la 52ème réunion du Conseil supérieur de l’Université Naif des sciences de la sécurité",
+    "status": "excluded",
+    "checked_at": "2026-10-26T22:42:58.852104+00:00"
+  },
+  "https://fr.le360.ma/politique/loi-de-finances-un-projet-axe-sur-lemploi-le-pouvoir-dachat-et-la-fiscalite_Y2JTJYVKBZCHVP47VVILZF77DM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Loi de finances: un projet axé sur l’emploi, le pouvoir d’achat et la fiscalité",
+    "status": "excluded",
+    "checked_at": "2026-10-26T22:42:58.852104+00:00"
   }
 }

@@ -1,5 +1,155 @@
 [
   {
+    "id": "45c44e404fb58af4",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "انتخابات 2026.. إيداع حسابات الحملات الانتخابية داخل أجل 90 يوما من تاريخ الإعلان عن النتائج النهائية - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135602.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-26",
+    "first_seen_at": "2026-10-26T22:42:58.852104+00:00",
+    "last_checked_at": "2026-10-26T22:42:58.852104+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديانتخابات 2026.. إيداع حسابات الحملات الانتخابية داخل أجل 90 يوما من تاريخ الإعلان عن النتائج النهائية دعا المجلس الأعلى للحسابات جميع وكلاء لوائح الترشيح",
+    "word_count": 320,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "اقتراع"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بيان",
+            "بلاغ"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "electoral_campaign",
+          "name": "الحملة الانتخابية",
+          "hits": [
+            "الحملة الانتخابية"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع, التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_45c44e404fb5",
+    "stance_analyzed_at": "2026-10-26T22:42:58.852104+00:00"
+  },
+  {
+    "id": "25c63a20479c9e36",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Chabab Al Massira: Ould Errachid perd la bataille pour la présidence du club face à Derham",
+    "url": "https://fr.le360.ma/politique/chabab-al-massira-ould-errachid-perd-la-bataille-pour-la-presidence-du-club-face-a-derham_T2U5WIK7DZEFTMG6YTDY2K3PZE",
+    "author": "Hassan Benadad",
+    "published_at": "2026-10-26",
+    "first_seen_at": "2026-10-26T22:42:58.852104+00:00",
+    "last_checked_at": "2026-10-26T22:42:58.852104+00:00",
+    "language": "fr",
+    "excerpt": "Le conflit autour de la présidence du club de football Chabab Al Massira est désormais clos, après plusieurs mois de bras de fer et d’affrontements",
+    "word_count": 433,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "conflit",
+            "tensions"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "élection"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التحالفات والخلافات السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_25c63a20479c",
+    "stance_analyzed_at": "2026-10-26T22:42:58.852104+00:00"
+  },
+  {
     "id": "e1f35cb9f90d79e0",
     "source_id": "alyaoum24",
     "source_name": "اليوم24",
