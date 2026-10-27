@@ -21838,5 +21838,47 @@
     "title": "Loi de finances: un projet axé sur l’emploi, le pouvoir d’achat et la fiscalité",
     "status": "excluded",
     "checked_at": "2026-10-26T22:42:58.852104+00:00"
+  },
+  "https://www.hespress.com/%d8%b5%d8%b1%d8%a7%d8%b9-%d8%a7%d9%84%d8%b2%d8%b9%d8%a7%d9%85%d8%a9-%d9%8a%d8%b4%d8%aa%d8%b9%d9%84-%d9%81%d9%8a-%d8%aa%d9%86%d8%af%d9%88%d9%81-%d9%82%d8%a8%d9%8a%d9%84-%d9%82%d8%b1%d8%a7%d8%b1-%d9%85-1829703.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "صراع السلطة والزعامة يشتعل في تندوف قبيل قرار مجلس الأمن حول الصحراء",
+    "status": "excluded",
+    "checked_at": "2026-10-27T12:18:37.337452+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d8%b9%d8%af-%d8%aa%d8%b6%d8%a7%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d9%84%d8%ad-%d9%87%d9%84-%d8%aa%d8%aa%d8%ad%d9%88%d9%84-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%a5-1829511.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بعد تضارب المصالح .. هل تتحول \"المخدرات\" إلى سلاح سياسي بالبرلمان؟",
+    "status": "excluded",
+    "checked_at": "2026-10-27T12:18:37.337452+00:00"
+  },
+  "https://alyaoum24.com/2053193.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "74 هدفا كميا و40 بلا آجال… تقرير يختبر قابلية تنفيذ البرنامج الحكومي – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-10-27T12:18:37.337452+00:00"
+  },
+  "https://al3omk.com/1200772.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الملايين يتوجهون لصناديق الاقتراع.. “طوفان الأقصى” يخيم على انتخابات الاحتلال الإسرائيلي",
+    "status": "excluded",
+    "checked_at": "2026-10-27T12:18:37.337452+00:00"
+  },
+  "https://al3omk.com/1200726.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "حكومة فاطمة الزهراء المنصوري.. وجوه جديدة في الواجهة ووجوه قديمة في مراكز القرار: هل تغيرت الحكومة فعلا؟",
+    "status": "excluded",
+    "checked_at": "2026-10-27T12:18:37.337452+00:00"
+  },
+  "https://al3omk.com/1200804.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "عندما يفقد بنكيران شهية الكلام",
+    "status": "excluded",
+    "checked_at": "2026-10-27T12:18:37.337452+00:00"
   }
 }
