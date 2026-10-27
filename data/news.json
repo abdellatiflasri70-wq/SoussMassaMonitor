@@ -1,5 +1,90 @@
 [
   {
+    "id": "440ae5e7e2610257",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "عبد اللطيف وهبي: تفعيل مسطرة الصلح ساهم في تخفيف العبء عن المحاكم - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135636.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-27",
+    "first_seen_at": "2026-10-27T22:18:18.823682+00:00",
+    "last_checked_at": "2026-10-27T22:18:18.823682+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديعبد اللطيف وهبي: تفعيل مسطرة الصلح ساهم في تخفيف العبء عن المحاكم أكد وزير العدل، عبد اللطيف وهبي، اليوم الثلاثاء بمجلس المستشارين، أن اعتماد",
+    "word_count": 347,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "اعتبر"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: عبد اللطيف وهبي",
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_440ae5e7e261",
+    "stance_analyzed_at": "2026-10-27T22:18:18.823682+00:00"
+  },
+  {
     "id": "45c44e404fb58af4",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
