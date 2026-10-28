@@ -1,5 +1,221 @@
 [
   {
+    "id": "f20c72d6cd7553f3",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "وزير الداخلية يعقد لقاء في إطار التحضير للاستحقاقات الانتخابية المقررة سنة 2027 - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135654.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-28",
+    "first_seen_at": "2026-10-28T22:38:39.206537+00:00",
+    "last_checked_at": "2026-10-28T22:38:39.206537+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديوزير الداخلية يعقد لقاء في إطار التحضير للاستحقاقات الانتخابية المقررة سنة 2027 في إطار التحضير للاستحقاقات الانتخابية المقرر إجراؤها سنة 2027 لتجديد المؤسسات المنتخبة",
+    "word_count": 296,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "استحقاقات",
+            "الاستحقاقات",
+            "انتخابات",
+            "الاستحقاقات الانتخابية",
+            "صناديق الاقتراع"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_f20c72d6cd75",
+    "stance_analyzed_at": "2026-10-28T22:38:39.206537+00:00"
+  },
+  {
+    "id": "49213d9baaee3d09",
+    "source_id": "tiznit24",
+    "source_name": "تيزنيت24",
+    "title": "تيزنيت.. لقاء تواصلي لتعزيز التنسيق بين التعاون الوطني والوكالة الوطنية لمحاربة الأمية",
+    "url": "https://tiznit24.com/?p=195922",
+    "author": null,
+    "published_at": "2026-10-28",
+    "first_seen_at": "2026-10-28T22:38:39.206537+00:00",
+    "last_checked_at": "2026-10-28T22:38:39.206537+00:00",
+    "language": "ar",
+    "excerpt": "في اطار تنزيل اتفاقية التي تجمع مؤسسة التعاون الوطني والوكالة الوطنية لمحاربة الامية احتضنت قاعة الاجتماعات بمركز المواكبة لحماية الطفولة تيزنيت يومه الاربعاء 28 اكتوبر",
+    "word_count": 118,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت باها"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "لقاء تواصلي"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الأنشطة والتنظيمات الحزبية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_49213d9baaee",
+    "stance_analyzed_at": "2026-10-28T22:38:39.206537+00:00"
+  },
+  {
+    "id": "8c61cbcfaba6d86e",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "وفاة سيدة بـ “لدغة أفعى” تفتح ملف التسممات بالبرلمان.. أين ذهبت حصة طاطا من أمصال صيف 2026؟",
+    "url": "https://al3omk.com/1202950.html",
+    "author": "بوكماز محمد",
+    "published_at": "2026-10-28",
+    "first_seen_at": "2026-10-28T22:38:39.206537+00:00",
+    "last_checked_at": "2026-10-28T22:38:39.206537+00:00",
+    "language": "ar",
+    "excerpt": "وجهت النائبة البرلمانية خديجة الباز، عن فريق التقدم والاشتراكية بمجلس النواب، سؤالا كتابيا إلى وزير الصحة والحماية الاجتماعية، بتاريخ 26 أكتوبر 2026، بشأن تقييم أثر",
+    "word_count": 262,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "طاطا"
+      ],
+      "primary_places": [
+        "طاطا"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "secondary_places": [
+        "أكادير",
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PPS",
+          "name": "حزب التقدم والاشتراكية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب التقدم والاشتراكية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PPS",
+        "target_type": "party",
+        "target_name": "حزب التقدم والاشتراكية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_8c61cbcfaba6",
+    "stance_analyzed_at": "2026-10-28T22:38:39.206537+00:00"
+  },
+  {
     "id": "440ae5e7e2610257",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
