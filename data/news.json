@@ -1,5 +1,146 @@
 [
   {
+    "id": "f9ec7897d33f8dc8",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "بلاغ من الديوان الملكي: عدم تمديد ولاية المينورسو خطوة نحو الطي النهائي لملف الصحراء المغربية - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135716.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-30",
+    "first_seen_at": "2026-10-30T22:25:07.137995+00:00",
+    "last_checked_at": "2026-10-30T22:25:07.137995+00:00",
+    "language": "ar",
+    "excerpt": "أنشطة ملكيةبلاغ من الديوان الملكي: عدم تمديد ولاية المينورسو خطوة نحو الطي النهائي لملف الصحراء المغربية في ما يلي بلاغ من الديوان الملكي: “لم يقم",
+    "word_count": 333,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_f9ec7897d33f",
+    "stance_analyzed_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  {
+    "id": "b1845c29114ced0d",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "المجلس الاقليمي لشتوكة ايت باها يواصل دعم اسطول النقل المدرسي، وتحسين الولوج إلى الخدمات والمرافق الاساسية.",
+    "url": "https://www.chtoukapress.com/308066.html",
+    "author": "Chtouka",
+    "published_at": "2026-10-30",
+    "first_seen_at": "2026-10-30T22:25:07.137995+00:00",
+    "last_checked_at": "2026-10-30T22:25:07.137995+00:00",
+    "language": "ar",
+    "excerpt": "المجلس الاقليمي لشتوكة ايت باها يواصل دعم اسطول النقل المدرسي، وتحسين الولوج إلى الخدمات والمرافق الاساسية. عقد المجلس الاقليمي اشتوكة ايت باها اليوم الخميس دورة",
+    "word_count": 303,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت باها"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الإقليمي",
+            "رئيس المجلس",
+            "دورة المجلس"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت"
+          ]
+        },
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_b1845c29114c",
+    "stance_analyzed_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  {
     "id": "f20c72d6cd7553f3",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",

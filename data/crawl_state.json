@@ -22405,5 +22405,173 @@
     "title": "حموشي يمنح ترقية استثنائية للشرطي ضحية الدهس في أكادير مع تولي علاجه",
     "status": "excluded",
     "checked_at": "2026-10-30T13:01:44.269377+00:00"
+  },
+  "https://agadirinfo.ma/135699.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "لقجع يقر بارتفاع الأسعار بالمغرب ويدعو إلى إعادة تنظيم التصدير وإصلاح أسواق الجملة - أكادير انفو - Agadir info",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://agadirinfo.ma/135716.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "بلاغ من الديوان الملكي: عدم تمديد ولاية المينورسو خطوة نحو الطي النهائي لملف الصحراء المغربية - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://www.hespress.com/%d8%b2%d9%84%d8%a7%d8%aa-%d9%84%d8%b3%d8%a7%d9%86-%d8%a8%d9%86%d9%83%d9%8a%d8%b1%d8%a7%d9%86-%d8%aa%d8%b5%d9%84-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%ac%d9%8a%d8%b1%d8%a7%d9%86-%d9%84%d8%a7-1831858.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"زلات بنكيران\" تصل إلى الجيران .. \"لا أستطيع التخلص من مزاح اللسان\"",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://www.hespress.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%82%d8%b1%d8%a7%d8%b1%d8%a7%d8%aa-%d8%ad%d8%a7%d8%b3%d9%85%d8%a9-%d8%aa%d8%aa%d8%b8%d8%b1-%d9%85%d9%84%d9%81-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-1831831.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "لقجع: قرارات حاسمة تنتظر ملف الصحراء",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://www.chtoukapress.com/308079.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "عقب جلسة مجلس الامن بشأن الصحراء..بلاغ هام من الديوان الملكي",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://www.chtoukapress.com/308066.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "المجلس الاقليمي لشتوكة ايت باها يواصل دعم اسطول النقل المدرسي، وتحسين الولوج إلى الخدمات والمرافق الاساسية.",
+    "status": "accepted",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://al3omk.com/1204346.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "استقالة واتهامات بالإقصاء والتسيير الانفرادي تفجر خلافات داخل غرفة الصناعة التقليدية بدرعة تافيلالت",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://al3omk.com/1204238.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "جمعية بالخميسات تتهم المجلس الجماعي بإقصائها من مهرجان المسيرة الخضراء",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://al3omk.com/1204373.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "البرنامج الحكومي في المغرب: من شرعية الثقة إلى امتحان المساءلة",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d9%84%d8%a7%d8%ba-%d9%84%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-%d9%8a%d8%b9%d9%84%d9%86-%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%85%d9%87%d8%a7%d9%85-%d8%a8%d8%b9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بلاغ للديوان الملكي يعلن إنهاء مهام بعثة المينورسو ويمهلها أياما لإخلاء طواقمها ومعداتها ورموزها",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-8-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a-%d8%a3%d9%86%d8%b8%d9%85%d8%a9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع: أكثر من 8 ملايين مغربي خارجي أنظمة التأمين الصحي.. وتصحيح مؤشر الدعم الاجتماعي ضروري",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%b3%d9%8a%d8%ae%d8%b5%d8%b5-38-%d9%85%d9%86%d8%b7%d9%82%d8%a9-%d9%84%d8%a5%d9%82%d8%a7%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%aa": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع: المغرب سيخصص 38 منطقة لإقامة المنتخبات وتوسيع الاستفادة من مونديال 2030",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://ar.le360.ma/politique/FVBZ3Y5XKJG2DIYMKKVTHOYRH4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بلاغ ملكي حاسم: انتهاء مهمة «المينورسو» يسدل الستار نهائيا على ملف الصحراء في أروقة الأمم المتحدة",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://ar.le360.ma/politique/LW2YFMT5PREIZC2537MHECZ4ZA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الملك يعفو عن 907 شخصا بمناسبة الذكرى الأولى لعيد الوحدة",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://ar.le360.ma/politique/4YPIZBOOPND6HF73CTVKI2HWNQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "استحقاقات 2027.. وزير الداخلية يلتقي المركزيات النقابية",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://ar.le360.ma/politique/ABXN7QBTLFGHNAX3OOZURQVPHM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "البرلمان ينتفض ضد دعم «الفراقشية» ومطالب بلجنة لتقصي الحقائق",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://ar.le360.ma/politique/NUZKXICB3FEVNFK6NIZU5RIOEE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "رئيسة الحكومة من موسكو: الملك محمد السادس جعل على الدوام من إفريقيا أولوية قصوى في السياسة الخارجية للمغرب",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://ar.le360.ma/politique/FS6KQS5D6JBSJPTAKISISMNDZE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "استئنافية الرباط تؤيد حكما بسنة حبسا نافذا في حق مسؤول قضائي بفاس في قضية ابتزاز برلماني",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://fr.le360.ma/politique/gouvernement-el-mansouri-des-ministres-delegues-toujours-dans-lattente-de-leurs-prerogatives_F7BB22L5X5E25BOVLS7LY73VWI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Gouvernement El Mansouri: des ministres délégués toujours dans l’attente de leurs prérogatives",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-trois-voix-sur-quinze-le-vrai-poids-du-camp-dalger-a-lonu_QVA5TN4H5BB5BII74S6OLJIAOA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: trois voix sur quinze, le vrai poids du camp d’Alger à l’ONU",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://fr.le360.ma/politique/plf-2027-fouzi-lekjaa-repond-aux-groupes-parlementaires_5IZE3VJQUZBN3A3ODJQAFRX33E": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "PLF 2027: Fouzi Lekjaa répond aux groupes parlementaires",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://fr.le360.ma/politique/premiere-commemoration-de-la-fete-de-lunite-grace-royale-au-profit-de-907-personnes_K2AI4QGTQ5DPZGNR5JWGGLXYRY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Première commémoration de la Fête de l’Unité: grâce royale au profit de 907 personnes",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://fr.le360.ma/politique/le-maroc-le-regime-algerien-la-prison-sansal-ou-la-redoutable-force-de-la-clarte-contre-la-folie_CYSLYMTXXJFITIQOLKPOW6UYP4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le Maroc, le régime algérien, la prison: Sansal ou la redoutable force de la clarté contre la folie",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://fr.le360.ma/politique/comment-le-conseil-de-securite-fait-sienne-linitiative-dautonomie-du-sahara_ESNU2UBCY5EFRO42ZDNKAJ5XWM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Comment le Conseil de sécurité fait sienne l’initiative d’autonomie du Sahara",
+    "status": "excluded",
+    "checked_at": "2026-10-30T22:25:07.137995+00:00"
   }
 }

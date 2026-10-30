@@ -1,27 +1,27 @@
 {
-  "run_at": "2026-10-30T13:01:44.269377+00:00",
+  "run_at": "2026-10-30T22:25:07.137995+00:00",
   "sources": 18,
-  "links_discovered": 169,
-  "known_skipped": 151,
-  "new_candidates": 18,
-  "extraction_success": 4,
-  "extraction_failed": 14,
-  "new_articles": 0,
+  "links_discovered": 152,
+  "known_skipped": 117,
+  "new_candidates": 35,
+  "extraction_success": 24,
+  "extraction_failed": 11,
+  "new_articles": 2,
   "updated_articles": 0,
-  "excluded": 4,
-  "total_saved": 384,
-  "events": 376,
-  "errors": 18,
+  "excluded": 22,
+  "total_saved": 386,
+  "events": 378,
+  "errors": 17,
   "source_details": [
     {
       "source_name": "Le360",
-      "links_discovered": 15,
-      "known_skipped": 15,
-      "new_candidates": 0,
-      "extraction_success": 0,
+      "links_discovered": 16,
+      "known_skipped": 3,
+      "new_candidates": 13,
+      "extraction_success": 12,
       "accepted": 0,
-      "excluded": 0,
-      "errors": 0
+      "excluded": 12,
+      "errors": 1
     },
     {
       "source_name": "LeSiteInfo",
@@ -45,13 +45,13 @@
     },
     {
       "source_name": "ThePress",
-      "links_discovered": 5,
-      "known_skipped": 5,
+      "links_discovered": 2,
+      "known_skipped": 2,
       "new_candidates": 0,
       "extraction_success": 0,
       "accepted": 0,
       "excluded": 0,
-      "errors": 0
+      "errors": 1
     },
     {
       "source_name": "Yabiladi",
@@ -65,13 +65,13 @@
     },
     {
       "source_name": "أكادير أنفو",
-      "links_discovered": 10,
-      "known_skipped": 7,
-      "new_candidates": 3,
-      "extraction_success": 0,
-      "accepted": 0,
-      "excluded": 0,
-      "errors": 3
+      "links_discovered": 9,
+      "known_skipped": 5,
+      "new_candidates": 4,
+      "extraction_success": 2,
+      "accepted": 1,
+      "excluded": 1,
+      "errors": 2
     },
     {
       "source_name": "أكادير24",
@@ -95,32 +95,32 @@
     },
     {
       "source_name": "اشتوكة بريس",
-      "links_discovered": 9,
-      "known_skipped": 7,
-      "new_candidates": 2,
-      "extraction_success": 0,
-      "accepted": 0,
-      "excluded": 0,
+      "links_discovered": 10,
+      "known_skipped": 6,
+      "new_candidates": 4,
+      "extraction_success": 2,
+      "accepted": 1,
+      "excluded": 1,
       "errors": 2
     },
     {
       "source_name": "الصحيفة",
-      "links_discovered": 2,
+      "links_discovered": 4,
       "known_skipped": 0,
-      "new_candidates": 2,
-      "extraction_success": 2,
+      "new_candidates": 4,
+      "extraction_success": 3,
       "accepted": 0,
-      "excluded": 2,
-      "errors": 0
+      "excluded": 3,
+      "errors": 1
     },
     {
       "source_name": "العمق المغربي",
-      "links_discovered": 2,
-      "known_skipped": 2,
-      "new_candidates": 0,
-      "extraction_success": 0,
+      "links_discovered": 4,
+      "known_skipped": 1,
+      "new_candidates": 3,
+      "extraction_success": 3,
       "accepted": 0,
-      "excluded": 0,
+      "excluded": 3,
       "errors": 0
     },
     {
@@ -135,23 +135,23 @@
     },
     {
       "source_name": "برلمان",
-      "links_discovered": 8,
+      "links_discovered": 4,
       "known_skipped": 0,
-      "new_candidates": 8,
+      "new_candidates": 4,
       "extraction_success": 0,
       "accepted": 0,
       "excluded": 0,
-      "errors": 8
+      "errors": 4
     },
     {
       "source_name": "تارودانت الآن",
-      "links_discovered": 10,
-      "known_skipped": 10,
+      "links_discovered": 0,
+      "known_skipped": 0,
       "new_candidates": 0,
       "extraction_success": 0,
       "accepted": 0,
       "excluded": 0,
-      "errors": 0
+      "errors": 1
     },
     {
       "source_name": "تيزبريس",
@@ -165,12 +165,12 @@
     },
     {
       "source_name": "تيزنيت24",
-      "links_discovered": 3,
+      "links_discovered": 2,
       "known_skipped": 2,
-      "new_candidates": 1,
-      "extraction_success": 1,
+      "new_candidates": 0,
+      "extraction_success": 0,
       "accepted": 0,
-      "excluded": 1,
+      "excluded": 0,
       "errors": 0
     },
     {
@@ -185,12 +185,12 @@
     },
     {
       "source_name": "هسبريس",
-      "links_discovered": 6,
-      "known_skipped": 5,
-      "new_candidates": 1,
-      "extraction_success": 1,
+      "links_discovered": 2,
+      "known_skipped": 0,
+      "new_candidates": 2,
+      "extraction_success": 2,
       "accepted": 0,
-      "excluded": 1,
+      "excluded": 2,
       "errors": 0
     }
   ]
