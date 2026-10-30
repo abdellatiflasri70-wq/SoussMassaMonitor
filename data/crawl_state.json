@@ -22356,5 +22356,26 @@
     "title": "Lutte contre les biens mal acquis: Ouahbi relance une polémique",
     "status": "excluded",
     "checked_at": "2026-10-29T22:48:39.293748+00:00"
+  },
+  "https://www.hespress.com/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%aa%d8%b1%d8%b5%d8%af-%d9%85%d9%81%d8%a7%d8%b1%d9%82%d8%a9-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-2026-%d8%aa%d9%81%d8%a7%d8%b9%d9%84-%d8%b1%d9%82-1831534.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "دراسة ترصد مفارقة \"انتخابات 2026\" .. تفاعل رقمي واسع ومشاركة ضعيفة",
+    "status": "excluded",
+    "checked_at": "2026-10-30T05:54:59.942166+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-un-vote-historique-attendu-ce-vendredi-30-octobre-le-mode-demploi_PVMXQPOLQ5GLXKG65TKG4T22QY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: un vote historique attendu ce vendredi 30 octobre, le mode d’emploi",
+    "status": "excluded",
+    "checked_at": "2026-10-30T05:54:59.942166+00:00"
+  },
+  "https://fr.le360.ma/economie/plf-2027-investissement-prive-et-climat-des-affaires_JG3PO6LSRNGLBEIV7JXL4ORGCU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "PLF 2027: investissement privé et climat des affaires",
+    "status": "excluded",
+    "checked_at": "2026-10-30T05:54:59.942166+00:00"
   }
 }
