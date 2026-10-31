@@ -22573,5 +22573,40 @@
     "title": "Comment le Conseil de sécurité fait sienne l’initiative d’autonomie du Sahara",
     "status": "excluded",
     "checked_at": "2026-10-30T22:25:07.137995+00:00"
+  },
+  "https://www.chtoukapress.com/308086.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "برقية تهنئة مرفوعة من رئيس غرفة التجارة والصناعة والخدمات بسوس ماسة إلى السدة العالية بالله بمناسبة الذكرى الأولى لعيد الوحدة المجيد",
+    "status": "excluded",
+    "checked_at": "2026-10-31T05:50:22.274594+00:00"
+  },
+  "https://www.chtoukapress.com/308084.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "برقية تهنئة مرفوعة من رئيس غرفة الصناعة التقليدية بسوس ماسة إلى السدة العالية بالله بمناسبة الذكرى الأولى لعيد الوحدة المجيد",
+    "status": "excluded",
+    "checked_at": "2026-10-31T05:50:22.274594+00:00"
+  },
+  "https://ar.le360.ma/politique/QG5REO5CANELNF5GINKPMTSDGE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الصحراء المغربية: 3 أصوات من أصل 15.. الحجم الحقيقي لحلف الجزائر في مجلس الأمن",
+    "status": "excluded",
+    "checked_at": "2026-10-31T05:50:22.274594+00:00"
+  },
+  "https://thepress.ma/%d8%a8%d9%84%d8%a7%d8%ba-%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-%d8%ad%d9%88%d9%84-%d8%b9%d8%af%d9%85-%d8%aa%d9%85%d8%af%d9%8a%d8%af-%d9%85%d9%87%d9%85%d8%a9": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "بلاغ الديوان الملكي حول عدم تمديد مهمة \"المينورسو\"",
+    "status": "excluded",
+    "checked_at": "2026-10-31T05:50:22.274594+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%85-%d9%88%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a%d8%a9-%d9%8a%d8%b5%d9%81-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%85%d8%a7%d9%84%d9%8a%d8%a9-2027-%d8%a8": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "التقدم والاشتراكية يصف مشروع مالية 2027 بالواعد والطموح",
+    "status": "excluded",
+    "checked_at": "2026-10-31T05:50:22.274594+00:00"
   }
 }
