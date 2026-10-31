@@ -22608,5 +22608,40 @@
     "title": "التقدم والاشتراكية يصف مشروع مالية 2027 بالواعد والطموح",
     "status": "excluded",
     "checked_at": "2026-10-31T05:50:22.274594+00:00"
+  },
+  "https://ar.le360.ma/politique/IDDJMGNLEVGFHJ6PN55DS6YRQY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الصحراء: رغم الفيتو الروسي.. المشروع الأمريكي يكرس الإجماع الدولي حول مبادرة الحكم الذاتي",
+    "status": "excluded",
+    "checked_at": "2026-10-31T12:39:41.761201+00:00"
+  },
+  "https://ar.le360.ma/politique/JJYXFRXWNZG2NNLKRR3D6D6PLM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "مواجهة ساخنة بلجنة المالية: الحكومة تحاصر الوسطاء.. واليسار يلوّح بتعديلات على قانون المالية",
+    "status": "excluded",
+    "checked_at": "2026-10-31T12:39:41.761201+00:00"
+  },
+  "https://fr.le360.ma/politique/le-veto-russe-ou-le-service-involontaire-rendu-au-maroc_2ULKCHVKJBHMPNI5IZ52WSO3ZY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le veto russe, ou le service involontaire rendu au Maroc",
+    "status": "excluded",
+    "checked_at": "2026-10-31T12:39:41.761201+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%b5%d8%b1%d8%a7%d8%b9-%d9%85%d9%88%d8%b3%d9%83%d9%88-%d9%88%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86-%d9%8a": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "الصحراء المغربية.. صراع موسكو وواشنطن يربك المينورسو ويخدم الموقف المغربي",
+    "status": "excluded",
+    "checked_at": "2026-10-31T12:39:41.761201+00:00"
+  },
+  "https://thepress.ma/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%aa%d8%b4%d8%b1%d8%b9-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%ad%d8%b6%d9%8a%d8%b1-%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "وزارة الداخلية تشرع في التحضير لانتخابات ممثلي المأجورين ومجلس المستشارين لسنة 2027",
+    "status": "excluded",
+    "checked_at": "2026-10-31T12:39:41.761201+00:00"
   }
 }

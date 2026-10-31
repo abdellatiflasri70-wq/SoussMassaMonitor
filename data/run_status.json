@@ -1,8 +1,8 @@
 {
-  "run_at": "2026-10-31T05:50:22.274594+00:00",
+  "run_at": "2026-10-31T12:39:41.761201+00:00",
   "sources": 18,
-  "links_discovered": 164,
-  "known_skipped": 147,
+  "links_discovered": 152,
+  "known_skipped": 135,
   "new_candidates": 17,
   "extraction_success": 5,
   "extraction_failed": 12,
@@ -15,13 +15,13 @@
   "source_details": [
     {
       "source_name": "Le360",
-      "links_discovered": 14,
-      "known_skipped": 12,
-      "new_candidates": 2,
-      "extraction_success": 1,
+      "links_discovered": 7,
+      "known_skipped": 4,
+      "new_candidates": 3,
+      "extraction_success": 3,
       "accepted": 0,
-      "excluded": 1,
-      "errors": 1
+      "excluded": 3,
+      "errors": 0
     },
     {
       "source_name": "LeSiteInfo",
@@ -95,28 +95,28 @@
     },
     {
       "source_name": "اشتوكة بريس",
-      "links_discovered": 11,
+      "links_discovered": 9,
       "known_skipped": 7,
-      "new_candidates": 4,
-      "extraction_success": 2,
+      "new_candidates": 2,
+      "extraction_success": 0,
       "accepted": 0,
-      "excluded": 2,
+      "excluded": 0,
       "errors": 2
     },
     {
       "source_name": "الصحيفة",
-      "links_discovered": 4,
-      "known_skipped": 3,
-      "new_candidates": 1,
+      "links_discovered": 3,
+      "known_skipped": 1,
+      "new_candidates": 2,
       "extraction_success": 0,
       "accepted": 0,
       "excluded": 0,
-      "errors": 1
+      "errors": 2
     },
     {
       "source_name": "العمق المغربي",
-      "links_discovered": 4,
-      "known_skipped": 4,
+      "links_discovered": 3,
+      "known_skipped": 3,
       "new_candidates": 0,
       "extraction_success": 0,
       "accepted": 0,
@@ -185,8 +185,8 @@
     },
     {
       "source_name": "هسبريس",
-      "links_discovered": 1,
-      "known_skipped": 1,
+      "links_discovered": 0,
+      "known_skipped": 0,
       "new_candidates": 0,
       "extraction_success": 0,
       "accepted": 0,
