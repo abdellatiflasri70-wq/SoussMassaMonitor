@@ -1,5 +1,162 @@
 [
   {
+    "id": "0c919e94647d063a",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "الناطق الرسمي باسم الحكومة: بلاغ الديوان الملكي يكرس الاعتراف الدولي بسيادة المغرب على صحرائه - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135756.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-10-31",
+    "first_seen_at": "2026-10-31T21:39:48.530717+00:00",
+    "last_checked_at": "2026-10-31T21:39:48.530717+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربالناطق الرسمي باسم الحكومة: بلاغ الديوان الملكي يكرس الاعتراف الدولي بسيادة المغرب على صحرائه أكد وزير إعداد التراب الوطني والتعمير والإسكان وسياسة المدينة، الناطق",
+    "word_count": 445,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ",
+            "أكد",
+            "اعتبر"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_0c919e94647d",
+    "stance_analyzed_at": "2026-10-31T21:39:48.530717+00:00"
+  },
+  {
+    "id": "bbc46b931649fd4a",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "الحكومة تتعهد بتعديل كفتي الصحة والتعليم.. لقجع: ثمار “المونديال” ستشمل مختلف الجهات",
+    "url": "https://al3omk.com/1204553.html",
+    "author": "خالد فاتيحي",
+    "published_at": "2026-10-31",
+    "first_seen_at": "2026-10-31T21:39:48.530717+00:00",
+    "last_checked_at": "2026-10-31T21:39:48.530717+00:00",
+    "language": "ar",
+    "excerpt": "أكد فوزي لقجع، الوزير المنتدب لدى وزيرة الاقتصاد والمالية المكلف بالميزانية، أن المرحلة المقبلة ستشهد دخول مجموعة من المستشفيات الجامعية حيز الخدمة، في إطار تعزيز",
+    "word_count": 982,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "اعتبر"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "مشروع قانون"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 12,
+        "editorial_segment_count": 5,
+        "reported_segment_count": 7,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_bbc46b931649",
+    "stance_analyzed_at": "2026-10-31T21:39:48.530717+00:00"
+  },
+  {
     "id": "f9ec7897d33f8dc8",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
