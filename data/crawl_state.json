@@ -22797,5 +22797,40 @@
     "title": "Le précieux cadeau diplomatique de Moscou emballé dans un veto",
     "status": "excluded",
     "checked_at": "2026-10-31T21:39:48.530717+00:00"
+  },
+  "https://alyaoum24.com/2054492.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "البطولة: الفتح الرياضي ينتصر على حسنية أكادير – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-11-01T06:14:03.252630+00:00"
+  },
+  "https://ar.le360.ma/politique/WP7MF7IMXJEEFLCPDKBHFMSJU4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الحكومة المغربية: عدم تمديد ولاية «المينورسو» خطوة حاسمة نحو الإغلاق النهائي لملف الصحراء",
+    "status": "excluded",
+    "checked_at": "2026-11-01T06:14:03.252630+00:00"
+  },
+  "https://thepress.ma/%d8%a8%d9%84%d8%a7%d8%ba-%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-%d8%a3%d9%8a-%d9%85%d8%b1%d8%ad%d9%84%d8%a9-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d9%8a%d9%86": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "بلاغ الديوان الملكي.. أي مرحلة بعد المينورسو؟",
+    "status": "excluded",
+    "checked_at": "2026-11-01T06:14:03.252630+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d9%88%d8%b1%d9%8a%d8%b7%d8%a9-%d9%8a%d8%a4%d9%83%d8%af-%d8%a3%d9%86-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%b3%d9%8a%d8%b9%d9%85%d9%84-%d8%b9%d9%84%d9%89-%d8%a5%d8%ae%d8%b1%d8%a7%d8%ac-%d9%85": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بوريطة يؤكد أن المغرب سيعمل على إخراج ملف الصحراء من اللجنة الرابعة.. ويعتبر أن هذا المسار أسهل بسبب التصويت العددي وعدم وجود فيتو",
+    "status": "excluded",
+    "checked_at": "2026-11-01T06:14:03.252630+00:00"
+  },
+  "https://www.assahifa.com/4-%d9%82%d8%aa%d9%84%d9%89-%d9%8832-%d8%ac%d8%b1%d9%8a%d8%ad%d8%a7-%d9%81%d9%8a-%d8%ad%d8%a7%d8%af%d8%ab-%d8%b3%d9%8a%d8%b1-%d8%ae%d8%b7%d9%8a%d8%b1-%d8%a8%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82-%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "4 قتلى و32 جريحا في حادث سير خطير بالطريق السيار بين مراكش وأكادير",
+    "status": "excluded",
+    "checked_at": "2026-11-01T06:14:03.252630+00:00"
   }
 }
