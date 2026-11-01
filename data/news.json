@@ -1,5 +1,72 @@
 [
   {
+    "id": "4fbb6d70935913d2",
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بيوكرى.. إدانة أستاذ دعم بالسجن النافذ 30 سنة في قضية اغتصاب قاصر",
+    "url": "https://www.chtoukapress.com/308171.html",
+    "author": "Amikkk",
+    "published_at": "2026-11-01",
+    "first_seen_at": "2026-11-01T22:05:54.850120+00:00",
+    "last_checked_at": "2026-11-01T22:05:54.850120+00:00",
+    "language": "ar",
+    "excerpt": "أدانت غرفة الجنايات بمحكمة الاستئناف بمدينة أكادير، نهاية الأسبوع الماضي، أستاذ للدعم المدرسي بمدينة بيوكرى، عاصمة اشتوكة آيت باها، بالسجن النافذ ثلاثين سنة، في قضية",
+    "word_count": 99,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "بيوكرى"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "secondary_places": [
+        "أكادير",
+        "أيت باها"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "إدانة"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: المتابعات والعزل والمحاسبة"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_4fbb6d709359",
+    "stance_analyzed_at": "2026-11-01T22:05:54.850120+00:00"
+  },
+  {
     "id": "0c919e94647d063a",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",

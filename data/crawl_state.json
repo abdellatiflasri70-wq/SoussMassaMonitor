@@ -22881,5 +22881,75 @@
     "title": "وفد أمني رفيع المستوى يزور الضابط الذي تعرض لدهس عمدي بأكادير",
     "status": "excluded",
     "checked_at": "2026-11-01T13:34:57.109191+00:00"
+  },
+  "https://www.hespress.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%ad%d8%b2%d8%a8%d9%8a-%d9%8a%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%aa%d8%ad%d8%b5%d9%8a%d9%86-%d9%85%d9%83%d8%a7%d8%b3%d8%a8-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7-1832901.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "تحالف حزبي يدعو إلى تحصين مكاسب الصحراء وتعزيز الدبلوماسية الموازية",
+    "status": "excluded",
+    "checked_at": "2026-11-01T22:05:54.850120+00:00"
+  },
+  "https://www.chtoukapress.com/308171.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "بيوكرى.. إدانة أستاذ دعم بالسجن النافذ 30 سنة في قضية اغتصاب قاصر",
+    "status": "accepted",
+    "checked_at": "2026-11-01T22:05:54.850120+00:00"
+  },
+  "https://alyaoum24.com/2054664.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "مؤسسة ورزازات الكبرى تثمن بلاغ الديوان الملكي بشأن الصحراء وتؤكد تجندها خلف الملك محمد السادس – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-11-01T22:05:54.850120+00:00"
+  },
+  "https://al3omk.com/1205044.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "قضية الصحراء المغربية ما بعد اجتماع مجلس الأمن وصدور بلاغ الديوان الملكي",
+    "status": "excluded",
+    "checked_at": "2026-11-01T22:05:54.850120+00:00"
+  },
+  "https://ar.le360.ma/politique/7X7AI7OHFZFF7GSYTFXLEWRYWY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "أكادير أوفلا تكتسي الزي الصحراوي.. والشهب الاصطناعية تنير سماء المدينة احتفالا بعيد الوحدة",
+    "status": "excluded",
+    "checked_at": "2026-11-01T22:05:54.850120+00:00"
+  },
+  "https://ar.le360.ma/politique/N5ZKDW5P3NDZZPAPNLYT4ZUL5M": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الاتحاد المغربي للشغل: إنهاء مهام «المينورسو» تحول تاريخي يكرس مغربية الصحراء وينهي تدبير النزاع",
+    "status": "excluded",
+    "checked_at": "2026-11-01T22:05:54.850120+00:00"
+  },
+  "https://fr.le360.ma/societe/un-ancien-ministre-et-un-president-de-commune-juges-pour-detournement-de-fonds_BE453N2ROBB5LKV5T67TZCBHH4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Un ancien ministre et un président de commune jugés pour détournement de fonds",
+    "status": "excluded",
+    "checked_at": "2026-11-01T22:05:54.850120+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-marocain-lanme-appelle-a-lunite-du-front-mediatique_BYZJRGI4LBEOBIMTIAWZTI5DYM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara marocain: l’ANME appelle à l’unité du front médiatique",
+    "status": "excluded",
+    "checked_at": "2026-11-01T22:05:54.850120+00:00"
+  },
+  "https://fr.le360.ma/politique/voici-ce-qui-change-avec-le-non-renouvellement-du-mandat-de-la-minurso-selon-nasser-bourita_RFPKFUCHGNGOTHTOGKEQZFE2UE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara marocain. Voici ce qui change avec le non-renouvellement du mandat de la MINURSO, selon Nasser Bourita",
+    "status": "excluded",
+    "checked_at": "2026-11-01T22:05:54.850120+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%86%d8%b6%d9%85-%d8%a5%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%84%d9%84%d9%88%d8%b5%d9%88%d9%84-%d8%a5%d9%84%d9%89-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d9%85%d9%84%d9%85%d9%88": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "انضم إليه المغرب للوصول إلى نتائج ملموسة في فض النزاعات.. هل يكون مجلس السلام بديلا للأمم المتحدة في إيجاد حل سياسي لنزاع الصحراء؟",
+    "status": "excluded",
+    "checked_at": "2026-11-01T22:05:54.850120+00:00"
   }
 }
