@@ -22958,5 +22958,89 @@
     "title": "\"البيجيدي\" يفتح ملف الإصلاح الانتخابي",
     "status": "excluded",
     "checked_at": "2026-11-02T06:14:59.822495+00:00"
+  },
+  "https://al3omk.com/1205156.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "روسيا والمغرب والصحراء: حين تتقدم المصالح الاستراتيجية على منطق التحالفات والانتظارات الدبلوماسية",
+    "status": "excluded",
+    "checked_at": "2026-11-02T16:14:03.756240+00:00"
+  },
+  "https://al3omk.com/1205448.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "لقجع والمصحات الخاصة: حماية المريض مسؤولية حكومية مشتركة",
+    "status": "excluded",
+    "checked_at": "2026-11-02T16:14:03.756240+00:00"
+  },
+  "https://thepress.ma/%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d8%aa%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%b3%d8%b1%d8%a7%d8%ad-%d8%a7%d9%84": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "فيدرالية اليسار تدعو إلى إطلاق سراح المعتقلين السياسيين",
+    "status": "excluded",
+    "checked_at": "2026-11-02T16:14:03.756240+00:00"
+  },
+  "https://ar.le360.ma/politique/5IHI3GPUR5BOHAWW2UYSKSGJ4A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "جماعة الجديرية تثمن المكاسب التاريخية للمغرب بعد نهاية مهمة «المينورسو»",
+    "status": "excluded",
+    "checked_at": "2026-11-02T16:14:03.756240+00:00"
+  },
+  "https://ar.le360.ma/politique/AJNWVZZ2GNFYFF74HHILELW5MM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "خبير إسباني: عدم تمديد مهمة بعثة «المينورسو» يعزز الدينامية الدولية الداعمة لمخطط الحكم الذاتي المغربي",
+    "status": "excluded",
+    "checked_at": "2026-11-02T16:14:03.756240+00:00"
+  },
+  "https://ar.le360.ma/politique/FKZR6HXY7BAAZILB6O2ZYMDQ3A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "كواليس «الفيتو» الروسي حول الصحراء.. بوريطة يكشف تفاصيل التنسيق الاستباقي ومحددات المقاربة المغربية",
+    "status": "excluded",
+    "checked_at": "2026-11-02T16:14:03.756240+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-suivez-en-direct-la-seance-commune-du-parlement-consacree-aux-derniers-developpements-du_JEPUAZGYZNGY3NOEDTPLVY7QJA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara. Suivez en direct la séance commune du Parlement consacrée aux derniers développements du dossier",
+    "status": "accepted",
+    "checked_at": "2026-11-02T16:14:03.756240+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%a3%d8%b5%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b5%d8%b1%d8%a9-%d9%8a%d8%af%d8%b9%d9%88-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%88%d8%ac%d9%88%d8%af-%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الأصالة والمعاصرة يدعو لإنهاء وجود المينورسو على أرض الواقع وسحب ملف الصحراء من مجلس الأمن",
+    "status": "excluded",
+    "checked_at": "2026-11-02T16:14:03.756240+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d8%a9-%d8%af%d9%81%d8%a7%d8%b9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%b9%d9%86-%d9%88%d8%ad%d8%af%d8%aa%d9%87": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "العدالة والتنمية: دفاع المغرب عن وحدته الترابية يقترن بالحرص على لمّ شمل العائلات الصحراوية وبناء مستقبل مشترك مع الجزائر",
+    "status": "excluded",
+    "checked_at": "2026-11-02T16:14:03.756240+00:00"
+  },
+  "https://www.assahifa.com/%d8%b3%d9%8a%d9%85%d9%8a%d8%a7%d8%a6%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%b7%d9%88%d8%b1%d8%a9-%d9%88%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a9-%d8%aa%d9%81%d9%83%d9%8a%d9%83-%d8%ae%d8%b7%d8%a7%d8%a8": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "سيميائية الأسطورة والسلطة تفكيك خطاب “الحياد” في بيان الخارجية الجزائرية 31 أكتوبر 2026",
+    "status": "excluded",
+    "checked_at": "2026-11-02T16:14:03.756240+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d8%b9%d8%aa%d8%a8%d8%b1-%d8%a3%d9%86-%d9%88%d8%ac%d9%88%d8%af-%d8%a7%d9%84%d8%a8%d8%b9%d8%ab%d8%a9-%d8%a7%d9%84%d8%a3%d9%85%d9%85%d9%8a%d8%a9-%d9%84%d9%85-%d9%8a%d8%b9%d8%af-%d9%85%d8%a8%d9%8e": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "اعتبر أن وجود البعثة الأممية لم يعد مبَرَّرا.. رئيس سابق للمينورسو ينتقد عرقلة الجزائر للتسوية ويدعو للانتقال إلى حل سياسي قائم على الحكم الذاتي المغربي",
+    "status": "excluded",
+    "checked_at": "2026-11-02T16:14:03.756240+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%84%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d8%a9-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "التجمع الوطني للأحرار: المرحلة الجديدة لقضية الصحراء تفرض تعبئة استراتيجية دائمة",
+    "status": "excluded",
+    "checked_at": "2026-11-02T16:14:03.756240+00:00"
   }
 }
