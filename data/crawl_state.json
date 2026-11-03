@@ -23042,5 +23042,124 @@
     "title": "التجمع الوطني للأحرار: المرحلة الجديدة لقضية الصحراء تفرض تعبئة استراتيجية دائمة",
     "status": "excluded",
     "checked_at": "2026-11-02T16:14:03.756240+00:00"
+  },
+  "https://agadirinfo.ma/135804.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "الصحراء المغربية.. أعضاء البرلمان بمجلسيه يثمنون عاليا مضامين بلاغ الديوان الملكي ويشيدون بجهود الدبلوماسية المغربية - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://alyaoum24.com/2054807.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "“تضارب المصالح” يُبعد المهدي بنسعيد عن رئاسة اتحاد يعقوب المنصور – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://al3omk.com/1205709.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "بسبب “اختلالات تنظيمية وانتخابية”.. الاتحاد الاشتراكي يطرد كاتبه الإقليمي بصفرو",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://al3omk.com/1205691.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "وفاة سائحين بريطانيين بأكادير.. مصدر يستبعد تسرب الغاز ويرجح فرضية التسمم الغذائي",
+    "status": "accepted",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d9%81%d9%8a%d8%aa%d9%88-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a-%d9%88%d8%a7%d9%84%d8%b1%d9%87%d8%a7%d9%86-%d8%a7%d9%84%d8%a3": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الصحراء بين الفيتو الروسي والرهان الأمريكي.. صراع النفوذ وتعقيدات التسوية وكلفة الانتظار",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://www.assahifa.com/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d9%8a%d9%86%d8%a8%d8%ba%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a3%d9%84%d8%a7-%d9%8a%d8%ac%d8%b9%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "تحالف اليسار: ينبغي على المغرب ألا يجعل مستقبل قضية الصحراء رهينا بمواقف دول تتغير مصالحها.. وندعو لتقوية الجبهة الداخلية عبر انفراج سياسي",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://ar.le360.ma/politique/EIREMV4ZWZBBRIZANY4LQNS2VI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "وهبي: سنخرج مشاريع قوانين خاصة بتضارب المصالح والإثراء غير المشروع وتبييض الأموال بداية 2027",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://ar.le360.ma/politique/XDSHVQG22FFFPLZ5OVHIIZC6KQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "محمد ولد الرشيد: المستجدات الأخيرة تفتح أفقا جديدا نحو الطي النهائي لملف الصحراء المغربية",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://ar.le360.ma/politique/SDUYVFUJPJGJHP6P56QXKY35GE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "مباشر: تابع جلسة البرلمان المشتركة لمواكبة التطورات الحاسمة لقضية الصحراء",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-un-ancien-chef-de-la-minurso-accuse-lalgerie-davoir-entrave-toute-avancee_THME7DZLN5EZFC7YBQG2IWVTMU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: un ancien chef de la MINURSO accuse l’Algérie d’avoir entravé toute avancée",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://fr.le360.ma/politique/les-deputes-saluent-la-decision-dabdellatif-ouahbi-de-presenter-des-projets-de-loi-contre-le_Z7UQN6UQBVCWTBFYTCYAFV4DUI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Les députés saluent la décision d’Abdellatif Ouahbi de présenter des projets de loi contre le blanchiment d’argent, l’enrichissement illicite, les conflits d’intérêts et la corruption",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://fr.le360.ma/politique/enseignement-de-lamazighe-mohamed-nabil-benabdallah-reporte-lexamen-des-revendications-des_SHPZGNLIOBAE3GTA6HMZQWU7SQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Enseignement de l’amazigh: Mohamed Nabil Benabdallah reporte l’examen des revendications des enseignants",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://fr.le360.ma/politique/chambre-des-representants-echange-tendu-entre-ouahbi-et-le-pjd-autour-de-la-lutte-contre_WTA3ECBXH5CF5GYPCVM3BLS2IU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Chambre des représentants: échange tendu entre Ouahbi et le PJD autour de la lutte contre l’enrichissement illicite",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://fr.le360.ma/politique/abstention-defiance-desillusion-le-mouvement-damir-salarme_4VCVSBZKMFD6VH36VXTPA7OHZA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Abstention, défiance, désillusion… Le Mouvement Damir s’alarme",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-marocain-le-parlement-pointe-la-responsabilite-dalger-et-appelle-a-la-liberation-des_6NX6GCH2XVGYFPMSJI3ABK675E": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara marocain: le Parlement pointe la responsabilité d’Alger et appelle à la libération des séquestrés de Tindouf",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://fr.le360.ma/politique/espagne-feijoo-pp-invoque-le-bon-voisinage-avec-le-maroc-mais-fait-campagne-sur-la-confrontation_K4IW4UBRUNGEPGPTITC4XM5C2U": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Espagne: Feijóo (PP) invoque le bon voisinage avec le Maroc, mais fait campagne sur la confrontation",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-marocain-la-fin-dune-mascarade-geopolitique_2TUPNB7GPBB7XKN2KVCFVTBVYY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara marocain: la fin d’une mascarade géopolitique",
+    "status": "excluded",
+    "checked_at": "2026-11-03T01:01:37.988093+00:00"
   }
 }

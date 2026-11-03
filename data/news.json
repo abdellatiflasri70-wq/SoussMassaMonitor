@@ -210,6 +210,132 @@
     "stance_analyzed_at": "2026-11-02T16:14:03.756240+00:00"
   },
   {
+    "id": "b72e620e971f3549",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "الصحراء المغربية.. أعضاء البرلمان بمجلسيه يثمنون عاليا مضامين بلاغ الديوان الملكي ويشيدون بجهود الدبلوماسية المغربية - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135804.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-11-02",
+    "first_seen_at": "2026-11-03T01:01:37.988093+00:00",
+    "last_checked_at": "2026-11-03T01:01:37.988093+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربالصحراء المغربية.. أعضاء البرلمان بمجلسيه يثمنون عاليا مضامين بلاغ الديوان الملكي ويشيدون بجهود الدبلوماسية المغربية ثمن أعضاء البرلمان بمجلسيه عاليا مضامين بلاغ الديوان الملكي",
+    "word_count": 410,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ",
+            "اعتبر"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_b72e620e971f",
+    "stance_analyzed_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  {
+    "id": "43dbca08a7187bc9",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "وفاة سائحين بريطانيين بأكادير.. مصدر يستبعد تسرب الغاز ويرجح فرضية التسمم الغذائي",
+    "url": "https://al3omk.com/1205691.html",
+    "author": "حفيظ مركوك",
+    "published_at": "2026-11-02",
+    "first_seen_at": "2026-11-03T01:01:37.988093+00:00",
+    "last_checked_at": "2026-11-03T01:01:37.988093+00:00",
+    "language": "ar",
+    "excerpt": "وفاة سائحين بريطانيين بأكادير.. مصدر يستبعد تسرب الغاز ويرجح فرضية التسمم الغذائي استبعد مصدر مطلع على مستجدات واقعة وفاة سائحين يحملان الجنسية البريطانية داخل إحدى",
+    "word_count": 279,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر",
+            "بلاغ"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_43dbca08a718",
+    "stance_analyzed_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  {
     "id": "4fbb6d70935913d2",
     "source_id": "chtoukapress",
     "source_name": "اشتوكة بريس",
