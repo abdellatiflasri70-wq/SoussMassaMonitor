@@ -23161,5 +23161,61 @@
     "title": "Sahara marocain: la fin d’une mascarade géopolitique",
     "status": "excluded",
     "checked_at": "2026-11-03T01:01:37.988093+00:00"
+  },
+  "https://www.hespress.com/%d8%a5%d8%b4%d8%a7%d8%af%d8%a9-%d8%a8%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86-1833410.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "إشادة بالانتخابات المغربية من الأردن",
+    "status": "excluded",
+    "checked_at": "2026-11-03T14:23:03.525868+00:00"
+  },
+  "https://ar.le360.ma/politique/ROBZFZJG2BC4VDZREQLHW3MO6E": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بنطلحة: مخيمات تندوف تخرق القانون الدولي عبر الاحتجاز تحت قناع اللجوء",
+    "status": "excluded",
+    "checked_at": "2026-11-03T14:23:03.525868+00:00"
+  },
+  "https://www.assahifa.com/%d8%a3%d9%8a%d8%b2%d9%86%d9%83%d9%88%d8%aa-%d9%8a%d8%aa%d9%82%d8%af%d9%85-%d9%81%d9%8a-%d8%b3%d8%a8%d8%a7%d9%82-%d8%ae%d9%84%d8%a7%d9%81%d8%a9-%d9%86%d8%aa%d9%86%d9%8a%d8%a7%d9%87%d9%88-%d9%88%d8%b3": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "أيزنكوت يتقدم في سباق خلافة نتنياهو وسط تقاطعات اليمين والمعارضة والأحزاب العربية..هل يقود عسكري من أصول مغربية الحكومة الإسرائيلية المقبلة؟",
+    "status": "excluded",
+    "checked_at": "2026-11-03T14:23:03.525868+00:00"
+  },
+  "https://al3omk.com/1205843.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "ابتدائية صفرو تؤجل محاكمة لخصم على خلفية تبديد أموال عمومية",
+    "status": "excluded",
+    "checked_at": "2026-11-03T14:23:03.525868+00:00"
+  },
+  "https://al3omk.com/1205754.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "فيضانات 2024 لم تبرح الأذهان.. تأخر إصلاح سور بطاطا ينذر بكارثة مع حلول موسم الأمطار",
+    "status": "excluded",
+    "checked_at": "2026-11-03T14:23:03.525868+00:00"
+  },
+  "https://al3omk.com/1205765.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "لقجع والمصحات الخاصة: حماية المريض مسؤولية حكومية مشتركة",
+    "status": "excluded",
+    "checked_at": "2026-11-03T14:23:03.525868+00:00"
+  },
+  "https://al3omk.com/1205735.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "محاكمة طبيب التخدير بمستشفى ابن رشد بين الخصاص الطبي ومحاربة الفساد الإداري",
+    "status": "excluded",
+    "checked_at": "2026-11-03T14:23:03.525868+00:00"
+  },
+  "https://al3omk.com/1205763.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "840 ألف فرصة شغل ونمو تراكمي بـ 21%.. لقجع يطلع النواب على الأثر الاقتصادي لمونديال 2030",
+    "status": "accepted",
+    "checked_at": "2026-11-03T14:23:03.525868+00:00"
   }
 }
