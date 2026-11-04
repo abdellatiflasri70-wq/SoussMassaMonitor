@@ -23301,5 +23301,19 @@
     "title": "ONU: quand le veto russe traduit une humiliation et une perte d’autonomie de l’Algérie",
     "status": "excluded",
     "checked_at": "2026-11-03T23:26:56.710632+00:00"
+  },
+  "https://al3omk.com/1206153.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "زلزال الحوز.. برلماني من “الأحرار” يطالب بتسوية ملفات الأسر غير المستفيدة من إعادة الإعمار",
+    "status": "excluded",
+    "checked_at": "2026-11-04T06:31:51.820636+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d8%b1%d9%85%d9%8a%d8%af-%d9%8a%d8%af%d8%ae%d9%84-%d8%b9%d9%84%d9%89-%d8%ae%d8%b7-%d9%88%d8%a7%d9%82%d8%b9%d8%a9-%d8%af%d9%87%d8%b3-%d8%b4%d8%b1%d8%b7%d9%8a-%d8%a8%d8%a3%d9%83%d8%a7%d8%af": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "الرميد يدخل على خط واقعة دهس شرطي بأكادير.. ويثير مسألة استعمال السلاح الوظيفي",
+    "status": "accepted",
+    "checked_at": "2026-11-04T06:31:51.820636+00:00"
   }
 }

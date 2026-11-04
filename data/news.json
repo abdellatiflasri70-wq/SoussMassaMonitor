@@ -84,6 +84,78 @@
     "stance_analyzed_at": "2026-11-03T14:23:03.525868+00:00"
   },
   {
+    "id": "804125cf8aedd35a",
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "الرميد يدخل على خط واقعة دهس شرطي بأكادير.. ويثير مسألة استعمال السلاح الوظيفي",
+    "url": "https://thepress.ma/%D8%A7%D9%84%D8%B1%D9%85%D9%8A%D8%AF-%D9%8A%D8%AF%D8%AE%D9%84-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7-%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%AF%D9%87%D8%B3-%D8%B4%D8%B1%D8%B7%D9%8A-%D8%A8%D8%A3%D9%83%D8%A7%D8%AF",
+    "author": "خولة الطهيري",
+    "published_at": "2026-11-03",
+    "first_seen_at": "2026-11-04T06:31:51.820636+00:00",
+    "last_checked_at": "2026-11-04T06:31:51.820636+00:00",
+    "language": "ar",
+    "excerpt": "أعاد حادث الاعتداء الخطير الذي استهدف شرطيا أثناء أداء مهامه بمدينة أكادير، الأسبوع الماضي، النقاش حول حماية موظفي إنفاذ القانون وحدود استعمالهم للسلاح الوظيفي في",
+    "word_count": 318,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "اعتبر",
+            "انتقد",
+            "بلاغ"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "إدانة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_804125cf8aed",
+    "stance_analyzed_at": "2026-11-04T06:31:51.820636+00:00"
+  },
+  {
     "id": "5b4d473d11d6c54e",
     "source_id": "le360",
     "source_name": "Le360",

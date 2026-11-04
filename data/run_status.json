@@ -1,26 +1,26 @@
 {
-  "run_at": "2026-11-03T23:26:56.710632+00:00",
+  "run_at": "2026-11-04T06:31:51.820636+00:00",
   "sources": 18,
   "links_discovered": 155,
-  "known_skipped": 131,
-  "new_candidates": 24,
-  "extraction_success": 12,
+  "known_skipped": 141,
+  "new_candidates": 14,
+  "extraction_success": 2,
   "extraction_failed": 12,
-  "new_articles": 0,
+  "new_articles": 1,
   "updated_articles": 0,
-  "excluded": 12,
-  "total_saved": 393,
-  "events": 385,
+  "excluded": 1,
+  "total_saved": 394,
+  "events": 386,
   "errors": 16,
   "source_details": [
     {
       "source_name": "Le360",
       "links_discovered": 14,
-      "known_skipped": 6,
-      "new_candidates": 8,
-      "extraction_success": 8,
+      "known_skipped": 14,
+      "new_candidates": 0,
+      "extraction_success": 0,
       "accepted": 0,
-      "excluded": 8,
+      "excluded": 0,
       "errors": 0
     },
     {
@@ -45,11 +45,11 @@
     },
     {
       "source_name": "ThePress",
-      "links_discovered": 2,
+      "links_discovered": 3,
       "known_skipped": 2,
-      "new_candidates": 0,
-      "extraction_success": 0,
-      "accepted": 0,
+      "new_candidates": 1,
+      "extraction_success": 1,
+      "accepted": 1,
       "excluded": 0,
       "errors": 0
     },
@@ -66,11 +66,11 @@
     {
       "source_name": "أكادير أنفو",
       "links_discovered": 9,
-      "known_skipped": 6,
-      "new_candidates": 3,
-      "extraction_success": 1,
+      "known_skipped": 7,
+      "new_candidates": 2,
+      "extraction_success": 0,
       "accepted": 0,
-      "excluded": 1,
+      "excluded": 0,
       "errors": 2
     },
     {
@@ -115,12 +115,12 @@
     },
     {
       "source_name": "العمق المغربي",
-      "links_discovered": 4,
+      "links_discovered": 3,
       "known_skipped": 2,
-      "new_candidates": 2,
-      "extraction_success": 2,
+      "new_candidates": 1,
+      "extraction_success": 1,
       "accepted": 0,
-      "excluded": 2,
+      "excluded": 1,
       "errors": 0
     },
     {
@@ -166,11 +166,11 @@
     {
       "source_name": "تيزنيت24",
       "links_discovered": 2,
-      "known_skipped": 1,
-      "new_candidates": 1,
-      "extraction_success": 1,
+      "known_skipped": 2,
+      "new_candidates": 0,
+      "extraction_success": 0,
       "accepted": 0,
-      "excluded": 1,
+      "excluded": 0,
       "errors": 0
     },
     {
