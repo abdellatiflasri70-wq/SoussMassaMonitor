@@ -23315,5 +23315,124 @@
     "title": "الرميد يدخل على خط واقعة دهس شرطي بأكادير.. ويثير مسألة استعمال السلاح الوظيفي",
     "status": "accepted",
     "checked_at": "2026-11-04T06:31:51.820636+00:00"
+  },
+  "https://agadirinfo.ma/135837.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "بلاغ من الديوان الملكي: جلالة الملك يترأس جلسة عمل حول مرحلة ما بعد انتهاء مهام بعثة المينورسو بالصحراء المغربية - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://www.hespress.com/%d8%ad%d9%82%d9%8a%d9%82%d8%a9-%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1834650.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "حقيقة تأسيس \"حزب عبري\" في المغرب",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a-%d8%a7%d9%84%d9%85%d9%88%d8%ad%d8%af-%d9%8a%d8%aa%d8%b4%d8%a8%d8%ab-%d8%a8%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-1834075.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "الاشتراكي الموحد يتشبث بتحالف اليسار",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://alyaoum24.com/2055295.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "أي أفق لتعزيز رقمنة الاستحقاقات الانتخابية العامة بالمغرب؟ – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://al3omk.com/1206404.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أي أفق لتعزيز رقمنة الاستحقاقات الانتخابية العامة بالمغرب؟",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://al3omk.com/1206233.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "ضربة قوية لترامب.. الديمقراطيون ينتزعون مجلسي الكونغرس في انتخابات التجديد النصفي الأمريكية",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://ar.le360.ma/politique/MLS7TLFAGJHXHLVCLT4FCWA56Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "باستثمار يناهز 687 مليون درهم.. الحكومة تعلن جهة العيون الساقية الحمراء بدون صفيح",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://fr.le360.ma/politique/mondial-2030-a-la-chambre-des-representants-lekjaa-defend-un-projet-national-a-forts-leviers_RBKGIKFNPFES7GWYHBAIEHROXM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Mondial 2030: à la Chambre des représentants, Lekjaa défend un projet national à forts leviers économiques",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://fr.le360.ma/societe/creation-dun-parti-politique-a-reference-hebraique-un-recepisse-sans-valeur-juridique_O6OTRLR3GNFOTC45W7PSHJZGOE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Création d’un parti politique «à référence hébraïque»: un récépissé sans valeur juridique",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://fr.le360.ma/politique/la-disparition-de-la-minurso-revele-35-ans-de-parti-pris-du-secretariat-de-lonu-et-dechecs_BAB2JEBPBBFFZKDGMH7I7SD7S4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "La disparition de la MINURSO révèle 35 ans de parti pris du Secrétariat de l’ONU et d’échecs diplomatiques",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://fr.le360.ma/politique/parlement-fouzi-lekjaa-refute-toute-collusion-entre-responsabilites-gouvernementales-et-gestion-du_M5VSEIW6FBBOJPMAKYGA4T74HU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Parlement: Fouzi Lekjaa réfute toute collusion entre responsabilités gouvernementales et gestion du football",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://fr.le360.ma/politique/moralisation-de-la-vie-publique-la-justice-sur-la-piste-de-pres-de-400-elus-locaux_CMHNTJS4WJCKLF27SMZ5LNAEAA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Moralisation de la vie publique: la justice sur la piste de près de 400 élus locaux",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://fr.le360.ma/societe/flambee-des-prix-et-crise-sociale-le-parlement-convoque-plusieurs-ministres_BAY32SX4JFDWPCDXDROOPBSAVQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Flambée des prix et crise sociale: le Parlement convoque plusieurs ministres",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://www.assahifa.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%8a%d8%aa%d9%88%d8%b9%d8%af-%d8%a8%d8%b9%d8%b2%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%b8%d9%81%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d8%aa%d8%ba%d9%8a%d8%a8%d9%8a%d9%86-%d8%b9%d9%86": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "وهبي يتوعد بعزل الموظفين المتغيبين عن المحاكم ويكشف أن تغذية الموضوعين رهن الحراسة النظرية تكلف وزارة العدل 70 مليون درهم",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85%d9%86-%d9%85%d8%b9-%d8%a7%d8%b3%d8%aa%d9%82%d8%a7%d9%84%d8%a9-%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d9%86%d9%82%d9%84-%d8%a8%d8%b3%d8%a8%d8%a8-%d9%81%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بالتزامن مع استقالة وزير النقل بسبب فاجعة توليدو.. حادث قطارات جديد في برشلونة يضع تردي شبكة السكك الحديدية الإسبانية تحت المجهر",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d8%b9%d8%af-%d8%a3%d9%86-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%b9%d9%84%d9%91%d9%82%d9%87%d8%a7-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%84%d8%ab%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%a3%d8%b4%d9%87%d8%b1": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بعد أن ترامب علّقها ترامب لثمانية أشهر.. انتخابات الكونغرس تُطيح بالسيناتور الذي اقترح إلغاء الرسوم على الأسمدة المغربية",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  "https://www.assahifa.com/%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d8%b9%d9%84%d9%89-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86-%d9%85%d9%86-%d8%a3%d8%b3%d8%a8%d8%a7%d8%a8-%d8%ae%d8%b3%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "ترامب: الحرب على إيران من أسباب خسارة الجمهوريين للانتخابات",
+    "status": "excluded",
+    "checked_at": "2026-11-04T19:49:20.884324+00:00"
   }
 }

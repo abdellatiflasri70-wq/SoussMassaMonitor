@@ -1,5 +1,108 @@
 [
   {
+    "id": "9242e3ccfbf89205",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "بلاغ من الديوان الملكي: جلالة الملك يترأس جلسة عمل حول مرحلة ما بعد انتهاء مهام بعثة المينورسو بالصحراء المغربية - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/135837.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-11-04",
+    "first_seen_at": "2026-11-04T19:49:20.884324+00:00",
+    "last_checked_at": "2026-11-04T19:49:20.884324+00:00",
+    "language": "ar",
+    "excerpt": "أنشطة ملكيةبلاغ من الديوان الملكي: جلالة الملك يترأس جلسة عمل حول مرحلة ما بعد انتهاء مهام بعثة المينورسو بالصحراء المغربية في ما يلي بلاغ من",
+    "word_count": 412,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "person_027",
+          "name": "عبد الوافي لفتيت",
+          "tier": "priority"
+        },
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ",
+            "أكد"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_027",
+        "target_type": "person",
+        "target_name": "عبد الوافي لفتيت",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_9242e3ccfbf8",
+    "stance_analyzed_at": "2026-11-04T19:49:20.884324+00:00"
+  },
+  {
     "id": "d6275618caebe4c3",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",
