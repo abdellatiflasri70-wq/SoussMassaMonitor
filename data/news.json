@@ -1,5 +1,160 @@
 [
   {
+    "id": "06d76aceb6c73a6a",
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "المحكمة الدستورية ترفض تجريد ماديحة خيير من عضوية مجلس النواب",
+    "url": "https://www.hespress.com/%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%81%D8%B6-%D8%AA%D8%AC%D8%B1%D9%8A%D8%AF-%D9%85%D8%A7%D8%AF%D9%8A%D8%AD%D8%A9-%D8%AE-1834996.html",
+    "author": "هسبريس",
+    "published_at": "2026-11-05",
+    "first_seen_at": "2026-11-05T20:00:15.751846+00:00",
+    "last_checked_at": "2026-11-05T20:00:15.751846+00:00",
+    "language": "ar",
+    "excerpt": "بعد الجدل الذي رافق موضوع إعفائها من الوزارة في ظرف 48 ساعة، ومحاولة قيادة حزبها دفعها للاستقالة من مجلس النواب، أعلنت المحكمة الدستورية، أمس الأربعاء،",
+    "word_count": 367,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "person_004",
+          "name": "عبد الصمد قيوح",
+          "tier": "priority"
+        },
+        {
+          "id": "person_002",
+          "name": "عبد اللطيف وهبي",
+          "tier": "priority"
+        },
+        {
+          "id": "person_023",
+          "name": "فاطمة الزهراء المنصوري",
+          "tier": "priority"
+        },
+        {
+          "id": "person_019",
+          "name": "نزار بركة",
+          "tier": "priority"
+        }
+      ]
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "تجريد"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "resignation_defection",
+          "name": "الاستقالة وتغيير الانتماء",
+          "hits": [
+            "استقالة"
+          ]
+        },
+        {
+          "id": "results_polls",
+          "name": "النتائج والاستطلاعات الانتخابية",
+          "hits": [
+            "المقاعد"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: المتابعات والعزل والمحاسبة"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_004",
+        "target_type": "person",
+        "target_name": "عبد الصمد قيوح",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_002",
+        "target_type": "person",
+        "target_name": "عبد اللطيف وهبي",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_023",
+        "target_type": "person",
+        "target_name": "فاطمة الزهراء المنصوري",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_019",
+        "target_type": "person",
+        "target_name": "نزار بركة",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 0,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_06d76aceb6c7",
+    "stance_analyzed_at": "2026-11-05T20:00:15.751846+00:00"
+  },
+  {
     "id": "9242e3ccfbf89205",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
@@ -257,6 +412,69 @@
     "stances": [],
     "event_id": "evt_804125cf8aed",
     "stance_analyzed_at": "2026-11-04T06:31:51.820636+00:00"
+  },
+  {
+    "id": "e6da9a66134d828e",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الاتحاد العام لمقاولات المغرب يشيد بالمنعطف التاريخي الذي يشهده ملف الصحراء المغربية",
+    "url": "https://ar.le360.ma/politique/5CJERJPJ75DIZDWOJEVAXUFWCI",
+    "author": "وكالة المغرب العربي للأنباء",
+    "published_at": "2026-11-03",
+    "first_seen_at": "2026-11-05T20:00:15.751846+00:00",
+    "last_checked_at": "2026-11-05T20:00:15.751846+00:00",
+    "language": "ar",
+    "excerpt": "وأكد الاتحاد العام لمقاولات المغرب، في بلاغ له، أن المنعطف التاريخي الذي يشهده هذا الملف «يكرس وجاهة رؤية الملك محمد السادس، التي مكنت من تعزيز",
+    "word_count": 182,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تزنيت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "بلاغ"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_e6da9a66134d",
+    "stance_analyzed_at": "2026-11-05T20:00:15.751846+00:00"
   },
   {
     "id": "5b4d473d11d6c54e",
