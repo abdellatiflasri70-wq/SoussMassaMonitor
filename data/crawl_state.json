@@ -23560,5 +23560,75 @@
     "title": "بين نتائج الانتخابات النصفية إلى وثوابت واشنطن الاستراتيجية.. توقعات تراجع الدعم الأمريكي لمغربية الصحراء تتهاوى أمام السجل التشريعي للنواب الديمقراطيين",
     "status": "excluded",
     "checked_at": "2026-11-06T06:53:44.992082+00:00"
+  },
+  "https://www.chtoukapress.com/308314.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "إدانة “مول الحوت” بـ 6 أشهر حبساً و5 ملايين في قضية مع الكوكب المراكشي",
+    "status": "excluded",
+    "checked_at": "2026-11-06T19:27:53.300511+00:00"
+  },
+  "https://al3omk.com/1207413.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "بيان البوليساريو بعد فيتو روسيا… انتصار إعلامي موهوم أمام واقع دبلوماسي متغير",
+    "status": "excluded",
+    "checked_at": "2026-11-06T19:27:53.300511+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a-%d9%88%d8%a7%d9%84%d8%b9%d8%aa%d8%a8%d8%a9-%d9%88%d8%a7%d9%84%d9%84%d9%88%d8%a7%d8%a6%d8%ad-%d8%aa%d8%b9": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "القاسم الانتخابي والعتبة واللوائح تعود إلى النقاش.. الأحزاب تستعد لصياغة مقترحاتها بشأن انتخابات 2027 قبل انتهاء مهلة الداخلية",
+    "status": "excluded",
+    "checked_at": "2026-11-06T19:27:53.300511+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d9%84%d9%83-%d8%a8%d9%84%d8%ac%d9%8a%d9%83%d8%a7-%d9%8a%d8%b1%d9%81%d8%b6-%d8%a7%d8%b3%d8%aa%d9%82%d8%a7%d9%84%d8%a9-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "ملك بلجيكا يرفض استقالة رئيس الوزراء لتفادي أزمة سياسية طويلة",
+    "status": "excluded",
+    "checked_at": "2026-11-06T19:27:53.300511+00:00"
+  },
+  "https://ar.le360.ma/politique/TZXKQK5MWRA3FAYCXAWNONZEMU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "المحكمة الدستورية تجرد المنصوري و9 وزراء من مقاعدهم النيابية وترفض إسقاط عضوية ماديحة خيير",
+    "status": "excluded",
+    "checked_at": "2026-11-06T19:27:53.300511+00:00"
+  },
+  "https://ar.le360.ma/politique/YTE6MEQP3ZB3VJ4PNOJXX72ZME": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "غلاء أسعار تذاكر الطيران وانعكاسه على الجالية يسائل قيوح أمام البرلمان",
+    "status": "excluded",
+    "checked_at": "2026-11-06T19:27:53.300511+00:00"
+  },
+  "https://fr.le360.ma/politique/marche-verte-le-combat-pour-le-sahara-entre-dans-une-nouvelle-phase_AF6KUYWNPVFMBB34F3N67Y6KV4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Marche verte: le combat pour le Sahara entre dans une nouvelle phase",
+    "status": "excluded",
+    "checked_at": "2026-11-06T19:27:53.300511+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-marocain-de-la-gestion-a-la-consolidation-institutionnelle-des-acquis_P5JKUO2WPVCGREVVESHDOFTADU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara marocain: de la gestion à la consolidation institutionnelle des acquis",
+    "status": "excluded",
+    "checked_at": "2026-11-06T19:27:53.300511+00:00"
+  },
+  "https://fr.le360.ma/politique/la-cour-constitutionnelle-a-tranche-madiha-khayr-conserve-son-siege-de-deputee_WWOGGPSU5VHEVF5KRMHOS2RR6Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "La Cour constitutionnelle a tranché, Madiha Khayr conserve son siège de députée",
+    "status": "excluded",
+    "checked_at": "2026-11-06T19:27:53.300511+00:00"
+  },
+  "https://fr.le360.ma/politique/boualem-sansal-aux-dirigeants-algeriens-arretez-de-faire-la-guerre-a-tout-le-monde_ZNEB5KETG5FWNDHUIT7NILJ7IQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Boualem Sansal aux dirigeants algériens: «Arrêtez de faire la guerre à tout le monde»",
+    "status": "excluded",
+    "checked_at": "2026-11-06T19:27:53.300511+00:00"
   }
 }
