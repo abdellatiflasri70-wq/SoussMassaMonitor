@@ -1,5 +1,69 @@
 [
   {
+    "id": "714cbf9c0454304e",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تارودانت.. غياب المجلس الجماعي يدفع سكان “أيت معلا” لإصلاح الطريق على نفقتهم",
+    "url": "https://al3omk.com/1207666.html",
+    "author": "أميمة حدري",
+    "published_at": "2026-11-07",
+    "first_seen_at": "2026-11-07T13:09:39.491189+00:00",
+    "last_checked_at": "2026-11-07T13:09:39.491189+00:00",
+    "language": "ar",
+    "excerpt": "يواصل سكان دوار أيت معلا، التابع لجماعة وقيادة تافنݣولت بدائرة أولاد برحيل بإقليم تارودانت، أشغال إصلاح الطريق المؤدية إلى دوارهم، اعتمادا على مساهمات ذاتية ودعم",
+    "word_count": 545,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تارودانت"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "أولاد برحيل"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الجماعي"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_714cbf9c0454",
+    "stance_analyzed_at": "2026-11-07T13:09:39.491189+00:00"
+  },
+  {
     "id": "06d76aceb6c73a6a",
     "source_id": "hespress",
     "source_name": "هسبريس",
