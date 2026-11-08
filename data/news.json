@@ -144,6 +144,80 @@
     "stance_analyzed_at": "2026-11-08T06:08:42.244099+00:00"
   },
   {
+    "id": "e61031594735b1f3",
+    "source_id": "agadir24",
+    "source_name": "أكادير24",
+    "title": "مؤتمر طب الأسنان بتيزنيت يجمع خبراء مغاربة وأجانب بأكادير.. الابتكار والتكوين المستمر لخدمة المرضى (+روبورتاج) | agadir24.info",
+    "url": "https://agadir24.info/%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%B7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86-%D8%A8%D8%AA%D9%8A%D8%B2%D9%86%D9%8A%D8%AA-%D9%8A%D8%AC%D9%85%D8%B9-%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1-%D9%85%D8%BA.html",
+    "author": "أكادير",
+    "published_at": "2026-11-07",
+    "first_seen_at": "2026-11-08T22:11:05.331826+00:00",
+    "last_checked_at": "2026-11-08T22:11:05.331826+00:00",
+    "language": "ar",
+    "excerpt": "تحتضن مدينة أكادير، خلال الفترة الممتدة من 5 إلى 7 نونبر 2026، الدورة الرابعة للمؤتمر الوطني لطب الأسنان بتيزنيت، الذي تنظمه جمعية أطباء الأسنان بتيزنيت",
+    "word_count": 546,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان",
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": [
+        "ماسة"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الإقليمي",
+            "مجلس الجهة"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_e61031594735",
+    "stance_analyzed_at": "2026-11-08T22:11:05.331826+00:00"
+  },
+  {
     "id": "06d76aceb6c73a6a",
     "source_id": "hespress",
     "source_name": "هسبريس",
