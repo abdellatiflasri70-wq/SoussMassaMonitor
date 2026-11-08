@@ -64,6 +64,86 @@
     "stance_analyzed_at": "2026-11-07T13:09:39.491189+00:00"
   },
   {
+    "id": "dbf50bd454d62817",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "تأخر صرف منحة دعم إنتاج الطماطم يثير غضب فلاحي طاطا وبرلماني يطالب وزير الفلاحة بالتدخل",
+    "url": "https://al3omk.com/1207824.html",
+    "author": "جمال زروال",
+    "published_at": "2026-11-07",
+    "first_seen_at": "2026-11-08T06:08:42.244099+00:00",
+    "last_checked_at": "2026-11-08T06:08:42.244099+00:00",
+    "language": "ar",
+    "excerpt": "أثار الحسين بوزحاي، عضو الفريق الاستقلالي للوحدة والتعادلية بمجلس النواب، إشكالية التأخر في صرف منحة دعم إنتاج الطماطم لفلاحي إقليم طاطا برسم الموسم الفلاحي 2024-2025،",
+    "word_count": 267,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "طاطا"
+      ],
+      "primary_places": [
+        "طاطا"
+      ],
+      "secondary_provinces": [
+        "اشتوكة أيت باها",
+        "تزنيت"
+      ],
+      "secondary_places": [
+        "أيت باها",
+        "تزنيت"
+      ]
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "PI",
+          "name": "حزب الاستقلال"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: حزب الاستقلال"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "PI",
+        "target_type": "party",
+        "target_name": "حزب الاستقلال",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_dbf50bd454d6",
+    "stance_analyzed_at": "2026-11-08T06:08:42.244099+00:00"
+  },
+  {
     "id": "06d76aceb6c73a6a",
     "source_id": "hespress",
     "source_name": "هسبريس",
