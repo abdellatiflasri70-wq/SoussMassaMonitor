@@ -1,5 +1,75 @@
 [
   {
+    "id": "92620b4ef0f298ad",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مجلس الحكومة يصادق على مشروع قانون يتعلق بتحويل المكتب الوطني للمطارات إلى شركة مساهمة - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/136034.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-11-12",
+    "first_seen_at": "2026-11-12T19:59:01.044494+00:00",
+    "last_checked_at": "2026-11-12T19:59:01.044494+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديمجلس الحكومة يصادق على مشروع قانون يتعلق بتحويل المكتب الوطني للمطارات إلى شركة مساهمة صادق مجلس الحكومة، اليوم الخميس، على مشروع قانون يتعلق بتحويل",
+    "word_count": 223,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "مشروع قانون"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_92620b4ef0f2",
+    "stance_analyzed_at": "2026-11-12T19:59:01.044494+00:00"
+  },
+  {
     "id": "714cbf9c0454304e",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",
