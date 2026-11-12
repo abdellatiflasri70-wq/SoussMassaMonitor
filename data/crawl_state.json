@@ -24050,5 +24050,33 @@
     "title": "الشروع في إحصاء المقاولات والمؤسسات المهنية استعدادا لانتخابات الأجراء",
     "status": "excluded",
     "checked_at": "2026-11-11T19:39:21.966491+00:00"
+  },
+  "https://www.assahifa.com/%d9%81%d9%8a%d9%8a%d8%ae%d9%88-%d9%82%d8%a7%d9%84-%d8%a5%d9%86%d9%87-%d9%84%d8%a7-%d9%8a%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d8%ae%d9%84%d9%82-%d8%a3%d8%b2%d9%85%d8%a9-%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "فييخو قال إنه لا يستهدف خلق أزمة دبلوماسية مع المغرب.. الانسحاب من مونديال 2030 يتسبب في صراع بين زعيم الحزب الشعبي ورئيس الاتحاد الإسباني",
+    "status": "excluded",
+    "checked_at": "2026-11-12T07:17:45.044691+00:00"
+  },
+  "https://ar.le360.ma/politique/CANGRRLVNVC45OTCIMG3PQASDA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "رئيسة الحكومة تضع وزراءها أمام محك المائة يوم",
+    "status": "excluded",
+    "checked_at": "2026-11-12T07:17:45.044691+00:00"
+  },
+  "https://fr.le360.ma/politique/gouvernement-el-mansouri-soumet-ses-ministres-au-test-des-100-jours_KMVOOX4L7RABHDAFRFOYWRHGJ4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Gouvernement: El Mansouri soumet ses ministres au test des 100 jours",
+    "status": "excluded",
+    "checked_at": "2026-11-12T07:17:45.044691+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-la-sierra-leone-reaffirme-son-soutien-au-plan-marocain-dautonomie_P573YDYBSNFMNORX4ZFYPBTGIQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: la Sierra Leone réaffirme son soutien au plan marocain d’autonomie",
+    "status": "excluded",
+    "checked_at": "2026-11-12T07:17:45.044691+00:00"
   }
 }
