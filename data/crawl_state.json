@@ -24176,5 +24176,117 @@
     "title": "إنزكان تشرع في اعتماد السوار الإلكتروني لمراقبة المتابعين في قضايا الشيكات",
     "status": "excluded",
     "checked_at": "2026-11-13T06:51:42.699400+00:00"
+  },
+  "https://agadirinfo.ma/136038.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "لجنة المالية بمجلس النواب تصادق على الجزء الأول من مشروع قانون المالية لسنة 2027 بالأغلبية - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://agadirinfo.ma/136057.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "الصحراء المغربية.. فرنسا تجدد تأكيد موقفها الداعم لسيادة المغرب وللحكم الذاتي باعتباره “الأساس الوحيد للتوصل إلى حل سياسي” - أكادير انفو - Agadir info",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d9%8a%d9%86%d8%aa%d9%82%d8%af%d9%88%d9%86-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d9%88%d9%8a%d8%ad%d8%b0%d8%b1%d9%88%d9%86-%d9%85%d9%86-%d8%ba-1839242.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"الأحرار\" ينتقدون المالية .. ويحذرون من غموض شركات التوزيع الجهوية",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d9%8a%d8%b3%d8%aa%d8%ba%d8%b1%d9%82-55-%d8%b3%d8%a7%d8%b9%d8%a9-%d9%85%d9%86-%d8%a7%d9%84-1839074.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "مشروع قانون المالية يستغرق 55 ساعة من المناقشة باللجنة النيابية المختصة",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://ar.le360.ma/politique/TUIJPFYNVBCDPPCOJVHYE5JE4A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الحكومة تضع خارطة طريق شاملة لحماية القدرة الشرائية وتعلن إجراءات حاسمة لتأمين التموين الاستباقي للأسواق",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://fr.le360.ma/politique/aide-sociale-directe-le-gouvernement-releve-le-minimum-a-600-dirhams_ZXM5UB4F6FAITI4TP6WCK5TYFQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Aide sociale directe: le gouvernement relève le minimum à 600 dirhams",
+    "status": "accepted",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://fr.le360.ma/politique/plf-2027-la-commission-des-finances-adopte-la-premiere-partie-apres-18-heures-de-debats_YFALEFPKXJDRVCORGCGBU4FXYM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "PLF 2027: la commission des Finances adopte la première partie après 18 heures de débats",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://www.assahifa.com/%d9%86%d9%88%d8%a7%d8%a8-%d8%a7%d9%84%d8%a8%d9%8a%d8%ac%d9%8a%d8%af%d9%8a-%d9%88%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d8%a9-%d9%88%d8%a7%d9%84%d9%8a%d8%b3%d8%a7%d8%b1-%d9%8a%d8%b5%d9%88%d8%aa": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "نواب البيجيدي والحركة واليسار يصوتون ضد رفع الضريبة على أرباح شركات المحروقات.. مخاوف من ارتفاع الأسعار أم حسابات سياسية أوقعتهم في تناقض الخطاب؟",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%aa%d8%ad%d8%b5%d8%af-%d8%a7%d9%84%d9%86%d8%b5%d9%8a%d8%a8-%d8%a7%d9%84%d8%a3%d9%83%d8%a8%d8%b1-%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "الأغلبية تحصد النصيب الأكبر من التعديلات المقبولة على مشروع قانون المالية لسنة 2027.. 33 مقترحا مقابل 5 فقط للعدالة والتنمية وتحالف اليسار",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://alyaoum24.com/videos/%f0%9f%94%b4%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1%d8%8c-%d9%88%d9%84%d9%82%d8%ac%d8%b9-%d9%88-%d8%a7%d9%84": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "🔴مباشر: الأسود أمام النيجر، ولقجع و الولاية الجديدة..العرجون تحت الاختبار أين التعيينات؟ – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://alyaoum24.com/videos/%d8%a3%d9%85%d8%b3%d9%83%d8%a7%d9%86-%d9%84%d9%87%d8%b0%d8%a7-%d9%83%d8%a7%d9%86-%d8%a3%d8%ad%d8%b1%d8%b6%d8%a7%d9%86-%d8%a8%d9%85%d8%ab%d8%a7%d8%a8%d8%a9-%d8%a8%d9%88%d8%af%d8%a7-%d9%81%d9%8a": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "أمسكان: لهذا كان أحرضان بمثابة « بودا » في الحركة الشعبية – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://alyaoum24.com/videos/%d8%a7%d9%84%d8%ad%d8%b3%d9%86-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d9%85%d8%a4%d8%b4%d8%b1-%d9%85%d9%87%d9%85": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "الحسن: نتائج انتخابات أمريكا مؤشر مهم.. وبدون تكامل عربي سنواجه مزيدا من الاضطرابات – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://alyaoum24.com/2057020.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "من تزنيت إلى الكركرات… كيف تصنع المشاريع الطرقية بالأقاليم الجنوبية بوابة المغرب نحو إفريقيا؟ – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://thepress.ma/%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%b3%d8%a7%d8%a6%d9%84-%d9%86%d8%b2%d8%a7%d8%b1-%d8%a8%d8%b1%d9%83%d8%a9-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a7%d8%b6%d8%b7%d8%b1%d8%a7%d8%a8%d8%a7": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "برلمانية تسائل نزار بركة بشأن اضطرابات توزيع الماء الصالح للشرب بالعيون",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://al3omk.com/1210068.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "في أول تجربة أوروبية.. وليد الركراكي مرشح لتدريب لانس الفرنسي",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  "https://al3omk.com/1209983.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "رئيس المجلس الاقتصادي في ضيافة رئيسة الحكومة",
+    "status": "excluded",
+    "checked_at": "2026-11-13T19:46:42.013679+00:00"
   }
 }

@@ -1,5 +1,215 @@
 [
   {
+    "id": "2c762c6d1930c960",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "لجنة المالية بمجلس النواب تصادق على الجزء الأول من مشروع قانون المالية لسنة 2027 بالأغلبية - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/136038.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-11-13",
+    "first_seen_at": "2026-11-13T19:46:42.013679+00:00",
+    "last_checked_at": "2026-11-13T19:46:42.013679+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديلجنة المالية بمجلس النواب تصادق على الجزء الأول من مشروع قانون المالية لسنة 2027 بالأغلبية صادقت لجنة المالية والتنمية الاقتصادية بمجلس النواب، خلال اجتماعها",
+    "word_count": 106,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_031",
+          "name": "فوزي لقجع",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "أغلبية",
+            "تحالف",
+            "معارضة"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "مشروع قانون"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 6,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار, حزب العدالة والتنمية",
+        "شخصيات رئيسية: فوزي لقجع",
+        "مواضيع سياسية: التحالفات والخلافات السياسية, السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "person_031",
+        "target_type": "person",
+        "target_name": "فوزي لقجع",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_2c762c6d1930",
+    "stance_analyzed_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  {
+    "id": "84697eb258a4a4d8",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Aide sociale directe: le gouvernement relève le minimum à 600 dirhams",
+    "url": "https://fr.le360.ma/politique/aide-sociale-directe-le-gouvernement-releve-le-minimum-a-600-dirhams_ZXM5UB4F6FAITI4TP6WCK5TYFQ",
+    "author": "La Rédaction",
+    "published_at": "2026-11-13",
+    "first_seen_at": "2026-11-13T19:46:42.013679+00:00",
+    "last_checked_at": "2026-11-13T19:46:42.013679+00:00",
+    "language": "fr",
+    "excerpt": "Réuni jeudi, le Conseil de gouvernement a adopté un projet de décret relatif au régime d’aide sociale directe. «Le texte relève le montant de l’aide",
+    "word_count": 770,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "أيت باها"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "gouvernement",
+            "ministre"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "communiqué"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: السياسات والحصيلة الحكومية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_84697eb258a4",
+    "stance_analyzed_at": "2026-11-13T19:46:42.013679+00:00"
+  },
+  {
     "id": "92620b4ef0f298ad",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
