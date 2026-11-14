@@ -24414,5 +24414,61 @@
     "title": "Sahara: La France réaffirme sa position «intangible» de soutien à la souveraineté du Maroc",
     "status": "excluded",
     "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-%d9%8a%d8%b5%d8%a7%d8%af%d9%82-%d8%a8%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-5-1840061.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "مجلس النواب يصادق بالأغلبية على مشروع قانون المالية لسنة 2027",
+    "status": "excluded",
+    "checked_at": "2026-11-14T22:29:29.766929+00:00"
+  },
+  "https://www.hespress.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d9%88%d8%ab%d9%8a%d9%82%d8%a9-%d9%88%d8%a7%d8%b6%d8%ad%d8%a9-%d9%84-1839623.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "لقجع: مشروع قانون المالية وثيقة واضحة لتغيير اختلالات المسار السابق",
+    "status": "excluded",
+    "checked_at": "2026-11-14T22:29:29.766929+00:00"
+  },
+  "https://ar.le360.ma/politique/WQX5KZGPD5CXREZCHBFN6D7FKE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "أكادير .. دبلوماسي أمريكي ينوه بالشراكة «المتميزة» القائمة بين الرباط وواشنطن",
+    "status": "excluded",
+    "checked_at": "2026-11-14T22:29:29.766929+00:00"
+  },
+  "https://ar.le360.ma/politique/NNUZHIG4ANFUNMZN2DLZCUWUFA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع: تمويل الأولويات الاجتماعية يقتضي توسيع الوعاء الجبائي وإدماج الأنشطة غير المهيكلة",
+    "status": "excluded",
+    "checked_at": "2026-11-14T22:29:29.766929+00:00"
+  },
+  "https://al3omk.com/1210384.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أعطاب حافلات خنيفرة تفرض “المشي الإجباري” على الركاب.. ومطالب بربط المسؤولية بالمحاسبة",
+    "status": "excluded",
+    "checked_at": "2026-11-14T22:29:29.766929+00:00"
+  },
+  "https://al3omk.com/1210171.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "لقجع يدافع عن فرضية نمو بـ3.7% ويتوقع مداخيل جبائية بـ423 مليار درهم في 2027",
+    "status": "excluded",
+    "checked_at": "2026-11-14T22:29:29.766929+00:00"
+  },
+  "https://www.assahifa.com/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8-%d9%8a%d8%b1%d9%81%d8%b6-%d8%a5%d9%84%d8%ba%d8%a7%d8%a1-%d8%a5%d8%b9%d9%81%d8%a7%d8%a1-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "مجلس النواب يمرر الجزء الأول من مشروع قانون المالية بـ179 صوتا مقابل 126.. ويرفض إلغاء إعفاء واردات المواشي واللحوم",
+    "status": "excluded",
+    "checked_at": "2026-11-14T22:29:29.766929+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%82%d8%b7%d8%a7%d8%b9-%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d9%88%d9%82%d8%a7%d8%aa-%d9%8a%d8%b9%d9%8a%d8%b4-%d8%b4%d8%a8%d9%87-%d8%a7%d8%ad%d8%aa%d9%83%d8%a7%d8%b1-%d9%88": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع: قطاع المحروقات يعيش شبه احتكار ورفع الضريبة لن يؤثر في الأسعار",
+    "status": "excluded",
+    "checked_at": "2026-11-14T22:29:29.766929+00:00"
   }
 }
