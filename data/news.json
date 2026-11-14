@@ -1,5 +1,76 @@
 [
   {
+    "id": "388ed925828c0a28",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "سوس ماسة.. نقابة صحية تقاطع اجتماعا رسميا وتطالب بتدخل وزير الصحة",
+    "url": "https://al3omk.com/1210178.html",
+    "author": "العمق المغربي",
+    "published_at": "2026-11-14",
+    "first_seen_at": "2026-11-14T18:10:26.835293+00:00",
+    "last_checked_at": "2026-11-14T18:10:26.835293+00:00",
+    "language": "ar",
+    "excerpt": "واجهت الدعوة الموجهة من المديرية العامة المساعدة للفرع الإداري، لحضور اجتماع حول مأسسة الحوار الاجتماعي بالمجموعة الصحية الترابية لجهة سوس ماسة يوم الجمعة 13 نونبر",
+    "word_count": 711,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "أكد",
+            "بلاغ"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "توتر"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_388ed925828c",
+    "stance_analyzed_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  {
     "id": "2c762c6d1930c960",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",

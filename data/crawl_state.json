@@ -24295,5 +24295,124 @@
     "title": "تيزنيت : جمعية أبرناز تحذر من التشويش على مشروع تهيئة واحة تاركا وتؤكد الحقوق التاريخية في مياه عين الركادة /بلاغ",
     "status": "excluded",
     "checked_at": "2026-11-14T06:31:33.975478+00:00"
+  },
+  "https://agadirinfo.ma/136069.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "فاطمة الزهراء المنصوري تحل بعاصمة كمبوديا لتمثيل جلالة الملك في القمة الـ20 للفرنكوفونية - أكادير انفو - Agadir info",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://tiznit24.com/?p=196494": {
+    "source_id": "tiznit24",
+    "source_name": "تيزنيت24",
+    "title": "أمزازي يستحضر بأكادير متانة العلاقات التاريخية والاستراتيجية بين المغرب والولايات المتحدة",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://al3omk.com/1210178.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "سوس ماسة.. نقابة صحية تقاطع اجتماعا رسميا وتطالب بتدخل وزير الصحة",
+    "status": "accepted",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://al3omk.com/1210260.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "خطر الانهيار يهدد ساكنة إغرم أزكاغ بزاكورة.. وعمليات هدم متعثرة تثير المخاوف",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%b1%d9%81%d8%b6-%d9%85%d9%82%d8%aa%d8%b1%d8%ad%d8%a7%d8%aa-%d8%aa%d8%b9%d8%af%d9%8a%d9%84%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a5%d8%b9%d9%81%d8%a7%d8%a1%d8%a7%d8%aa": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع يرفض مقترحات تعديلات على إعفاءات الفيفا ويربط تقديم الأرقام بحسم تفاصيل مونديال 2030",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d9%83%d8%b4%d9%81-%d8%aa%d8%b9%d8%a8%d8%a6%d8%a9-350-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d8%b1%d9%87%d9%85-%d9%84%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%82%d8%af%d8%b1": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع يكشف تعبئة 350 مليار درهم لدعم القدرة الشرائية و6 مليارات لإدماج الشباب ضمن مشروع ميزانية 2027",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%af%d8%b9%d9%88-%d9%84%d8%aa%d9%88%d8%b3%d9%8a%d8%b9-%d8%a7%d9%84%d9%88%d8%b9%d8%a7%d8%a1-%d8%a7%d9%84%d8%b6%d8%b1%d9%8a%d8%a8%d9%8a-%d9%88%d9%85%d8%ad%d8%a7%d8%b1": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع يدعو لتوسيع الوعاء الضريبي ومحاربة الغش لتمويل 62 مليار درهم من النفقات الاجتماعية",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://www.assahifa.com/%d9%81%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d8%a8%d9%8a%d8%ac%d9%8a%d8%af%d9%8a-%d8%b5%d9%88%d8%aa%d9%86%d8%a7-%d8%b6%d8%af-%d8%b1%d9%81%d8%b9-%d8%a7%d9%84%d8%b6%d8%b1%d9%8a%d8%a8%d8%a9-%d8%b9%d9%84": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "فريق البيجيدي: صوتنا ضد رفع الضريبة على المحروقات لرفض الحكومة تعميمه على الاتصالات والإسمنت",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://ar.le360.ma/politique/F27HL6NIEJFP5KAGSJACJ2HWFY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "فاطمة الزهراء المنصوري تحل ببنوم بنه لتمثيل الملك في القمة الـ20 للفرنكوفونية",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://ar.le360.ma/politique/IPENXLOYWFH65B6WKXFWAR2UGY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "لقجع: الرؤية الاقتصادية للحكومة تقوم على تأطير ودعم المبادرة الخاصة كنقيض لمنطق الامتياز والريع",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://fr.le360.ma/societe/a-agadir-le-sommet-freedom-250-celebre-lindependance-americaine-et-met-a-lhonneur-les-anciens_TUIJ3LKJERB6JHHOXXBO65IBAY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "À Agadir, le sommet «Freedom 250» célèbre l’indépendance américaine et met à l’honneur les anciens participants marocains aux programmes d’échange",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://fr.le360.ma/politique/plf-2027-le-pjd-explique-pourquoi-il-a-vote-contre-la-surtaxe-de-40-sur-les-societes-petrolieres_GFODRTQAURE3HEBJ4Y7KL7IQNQ": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "PLF 2027: le PJD explique pourquoi il a voté contre la surtaxe de 40% sur les sociétés pétrolières",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://fr.le360.ma/politique/commission-de-discipline-pour-un-depute-pjd-apres-un-incident-de-seance_5OUX4MLDLNDNLFOO3N5L2ZNA7Y": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Commission de discipline pour un député PJD après un incident de séance",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://fr.le360.ma/politique/israel-palestine-bourita-detaille-les-initiatives-du-maroc-en-faveur-de-la-paix_UWTI3DU2OZAOHOWQJEYGZTZDFE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Israël-Palestine: Bourita détaille les initiatives du Maroc en faveur de la paix",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://fr.le360.ma/politique/impot-sur-les-societes-le-ciblage-du-secteur-des-hydrocarbures-ravive-le-debat-sur-la-justice_KJFGEUW5LBFYFCE5WOQD22I6IU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Impôt sur les sociétés: le ciblage du secteur des hydrocarbures ravive le débat sur la justice fiscale",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://fr.le360.ma/politique/hatimi-annonce-un-audit-de-largent-public-depense-dans-les-programmes-agricoles_G6JF2Z2KDNAYPAGSXISZN6C6NA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Hatimi annonce un audit de l’argent public dépensé dans les programmes agricoles",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-la-france-reaffirme-sa-position-intangible-de-soutien-a-la-souverainete-du-maroc_QDQ3EQW3ZNA67CBPAQSUUVHZJU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: La France réaffirme sa position «intangible» de soutien à la souveraineté du Maroc",
+    "status": "excluded",
+    "checked_at": "2026-11-14T18:10:26.835293+00:00"
   }
 }
