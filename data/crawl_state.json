@@ -24484,5 +24484,68 @@
     "title": "غرف عمليات لم تشتغل منذ التدشين وأجهزة معطلة.. نقابة تكشف اختلالات مستشفى أيت أورير",
     "status": "accepted",
     "checked_at": "2026-11-15T06:40:59.217193+00:00"
+  },
+  "https://alyaoum24.com/2057619.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "تأسيس الاتحاد العام لوكالات الأسفار المغربية وانتخاب إيمان المراني رئيسة له – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-11-15T18:54:31.736081+00:00"
+  },
+  "https://agadirinfo.ma/136119.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مجلس النواب يصادق بالأغلبية على مشروع قانون المالية لسنة 2027 - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-11-15T18:54:31.736081+00:00"
+  },
+  "https://agadirinfo.ma/136111.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "فاطمة الزهراء المنصوري تمثل جلالة الملك في القمة العشرين للفرنكوفونية بكمبوديا - أكادير انفو - Agadir info",
+    "status": "excluded",
+    "checked_at": "2026-11-15T18:54:31.736081+00:00"
+  },
+  "https://thepress.ma/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%b1%d9%81%d8%b6-%d8%a5%d8%ae%d8%b6%d8%a7%d8%b9-%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7-%d9%84%d9%84%d8%b6%d8%b1%d8%a7%d8%a6%d8%a8-%d8%a7%d9%84%d9%85%d8%ba": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "لقجع يرفض إخضاع «الفيفا» للضرائب المغربية في مونديال 2030",
+    "status": "excluded",
+    "checked_at": "2026-11-15T18:54:31.736081+00:00"
+  },
+  "https://ar.le360.ma/politique/ZWJMSRWXAVB4FHZ4G643XHOAW4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "مجلس النواب يصادق بالأغلبية على مشروع قانون المالية لسنة 2027",
+    "status": "excluded",
+    "checked_at": "2026-11-15T18:54:31.736081+00:00"
+  },
+  "https://fr.le360.ma/politique/archives-du-quai-dorsay-ep-5-lalliance-que-le-polisario-proposait-a-la-mauritanie-entre-deux_77DB7522LFCMHMJXBK2DDESX4A": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Archives du Quai d’Orsay. Ep. 5. L’alliance que le Polisario proposait à la Mauritanie entre deux bombardements",
+    "status": "excluded",
+    "checked_at": "2026-11-15T18:54:31.736081+00:00"
+  },
+  "https://fr.le360.ma/politique/plf-2027-la-chambre-des-representants-adopte-le-premier-budget-du-nouveau-gouvernement_GH7LLWLN3NEXVGOT4CL3BLQB5E": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "PLF 2027: la Chambre des représentants adopte le premier budget du nouveau gouvernement",
+    "status": "excluded",
+    "checked_at": "2026-11-15T18:54:31.736081+00:00"
+  },
+  "https://fr.le360.ma/politique/sommet-de-la-francophonie-fatima-ezzahra-el-mansouri-represente-le-roi-mohammed-vi-au-cambodge_A4P5RFZ6ARDUXLCT3O3SZXNDHU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sommet de la Francophonie: Fatima Ezzahra El Mansouri représente le roi Mohammed VI au Cambodge",
+    "status": "excluded",
+    "checked_at": "2026-11-15T18:54:31.736081+00:00"
+  },
+  "https://fr.le360.ma/politique/teddy-riner-un-marrakchi-a-lelysee_DSRUL3DQQ5HTVE4VGPS2FKXHZM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Teddy Riner, un Marrakchi à l’Élysée?",
+    "status": "excluded",
+    "checked_at": "2026-11-15T18:54:31.736081+00:00"
   }
 }

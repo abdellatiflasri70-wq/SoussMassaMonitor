@@ -71,6 +71,139 @@
     "stance_analyzed_at": "2026-11-15T06:40:59.217193+00:00"
   },
   {
+    "id": "bc1a0ceddc0955db",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "مجلس النواب يصادق بالأغلبية على مشروع قانون المالية لسنة 2027 - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/136119.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-11-15",
+    "first_seen_at": "2026-11-15T18:54:31.736081+00:00",
+    "last_checked_at": "2026-11-15T18:54:31.736081+00:00",
+    "language": "ar",
+    "excerpt": "خبار بلاديمجلس النواب يصادق بالأغلبية على مشروع قانون المالية لسنة 2027 صادق مجلس النواب، في جلسة عمومية عقدها مساء يوم أمس السبت، بالأغلبية، على مشروع",
+    "word_count": 525,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        },
+        {
+          "id": "MP",
+          "name": "الحركة الشعبية"
+        },
+        {
+          "id": "PJD",
+          "name": "حزب العدالة والتنمية"
+        }
+      ]
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "alliances_conflicts",
+          "name": "التحالفات والخلافات السياسية",
+          "hits": [
+            "أغلبية",
+            "تحالف"
+          ]
+        },
+        {
+          "id": "government_politics",
+          "name": "السياسات والحصيلة الحكومية",
+          "hits": [
+            "مشروع قانون"
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "التصويت"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التحالفات والخلافات السياسية, السياسات والحصيلة الحكومية, الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "MP",
+        "target_type": "party",
+        "target_name": "الحركة الشعبية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      },
+      {
+        "target_id": "PJD",
+        "target_type": "party",
+        "target_name": "حزب العدالة والتنمية",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_bc1a0ceddc09",
+    "stance_analyzed_at": "2026-11-15T18:54:31.736081+00:00"
+  },
+  {
     "id": "388ed925828c0a28",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",
