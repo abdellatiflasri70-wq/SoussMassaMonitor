@@ -24561,5 +24561,75 @@
     "title": "Loi de finances 2027: l’absentéisme sauve la majorité à la Chambre des représentants",
     "status": "excluded",
     "checked_at": "2026-11-16T06:37:53.356423+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d8%a6%d8%aa%d9%84%d8%a7%d9%81-%d9%85%d8%af%d9%86%d9%8a-%d9%8a%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%a5%d9%86%d8%b5%d8%a7%d9%81-%d8%a7%d9%84%d8%ac%d8%a8%d9%84-1840384.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "ائتلاف مدني يدعو إلى \"إنصاف الجبل\"",
+    "status": "excluded",
+    "checked_at": "2026-11-16T22:10:42.382827+00:00"
+  },
+  "https://al3omk.com/1210729.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "انتخاب النائب الفلسطيني أحمد الطيبي نائبا لرئيس الكنيست الاسرائيلي",
+    "status": "excluded",
+    "checked_at": "2026-11-16T22:10:42.382827+00:00"
+  },
+  "https://fr.le360.ma/politique/espagne-le-maroc-au-coeur-de-la-campagne-electorale_7TEV5VKQT5EVPN6I52QELCBUOE": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Espagne: le Maroc au cœur de la campagne électorale",
+    "status": "excluded",
+    "checked_at": "2026-11-16T22:10:42.382827+00:00"
+  },
+  "https://fr.le360.ma/politique/parlement-lopposition-a-loffensive-la-majorite-en-ordre-disperse_V63LXD4I5BBPNOYYS6HOQTCTZA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Parlement: l’opposition à l’offensive, la majorité en ordre dispersé",
+    "status": "excluded",
+    "checked_at": "2026-11-16T22:10:42.382827+00:00"
+  },
+  "https://fr.le360.ma/politique/sebta-les-renseignements-espagnols-concluent-a-labsence-de-toute-preuve-contre-le-maroc_CIXQOYTSRVDIBGKQ3HWIZ7WMAU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sebta: les renseignements espagnols concluent à l’absence de toute preuve contre le Maroc",
+    "status": "excluded",
+    "checked_at": "2026-11-16T22:10:42.382827+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-marocain-le-temps-des-ambiguites-touche-a-sa-fin_CXYHMOJE6NANBABKMD5LHV7CK4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara Marocain, le temps des ambiguïtés touche à sa fin…",
+    "status": "excluded",
+    "checked_at": "2026-11-16T22:10:42.382827+00:00"
+  },
+  "https://fr.le360.ma/politique/cybersecurite-les-far-dejouent-plus-de-2-150-tentatives-de-cyberattaques_JFDNCZDFOJHDHE7A6TCM5GJIKM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Cybersécurité: les FAR déjouent plus de 2 150 tentatives de cyberattaques",
+    "status": "excluded",
+    "checked_at": "2026-11-16T22:10:42.382827+00:00"
+  },
+  "https://fr.le360.ma/politique/20e-sommet-de-la-francophonie-fatima-ezzahra-el-mansouri-prend-part-a-la-reception-offerte-par-le_YNILUDJFJZGAXIFGJX5BQSV73Q": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "20e Sommet de la francophonie: Fatima Ezzahra El Mansouri prend part à la réception offerte par le roi du Cambodge",
+    "status": "excluded",
+    "checked_at": "2026-11-16T22:10:42.382827+00:00"
+  },
+  "https://fr.le360.ma/politique/espagne-vox-veut-reviser-la-nationalite-de-300000-espagnols-dorigine-marocaine_PSSRI2FOQ5DLHGJO42OWHFK24I": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Espagne: Vox veut réviser la nationalité de 300.000 Espagnols d’origine marocaine",
+    "status": "excluded",
+    "checked_at": "2026-11-16T22:10:42.382827+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-mike-waltz-attendu-au-maroc-pour-reaffirmer-le-soutien-americain-au-plan-dautonomie_JN7YXXIN5VDPTPAQNSUHEVL5QI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: Mike Waltz attendu au Maroc pour réaffirmer le soutien américain au plan d’autonomie",
+    "status": "excluded",
+    "checked_at": "2026-11-16T22:10:42.382827+00:00"
   }
 }
