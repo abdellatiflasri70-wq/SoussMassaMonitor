@@ -24631,5 +24631,19 @@
     "title": "Sahara: Mike Waltz attendu au Maroc pour réaffirmer le soutien américain au plan d’autonomie",
     "status": "excluded",
     "checked_at": "2026-11-16T22:10:42.382827+00:00"
+  },
+  "https://ar.le360.ma/politique/2LU4FQTWRBCHXO7DN7HPDH5VWM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "بعد هدنة قصيرة.. المحامون يصعدون من جديد",
+    "status": "excluded",
+    "checked_at": "2026-11-17T07:59:43.898187+00:00"
+  },
+  "https://www.assahifa.com/%d8%b2%d9%8a%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%af%d9%88%d8%a8-%d8%a7%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%84%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "زيارة المندوب الأمريكي للمغرب انطلاقة فعلية لحوار سياسي أمريكي مع الأطراف لتنفيذ الحكم الذاتي",
+    "status": "excluded",
+    "checked_at": "2026-11-17T07:59:43.898187+00:00"
   }
 }
