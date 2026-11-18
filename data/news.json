@@ -1,5 +1,89 @@
 [
   {
+    "id": "9df91b17c6599dcc",
+    "source_id": "tizpress",
+    "source_name": "تيزبريس",
+    "title": "زلزال الإعفاءات والافتحاص يضرب إرث أخنوش في الفلاحة \"حاتمي\" يفتح ملفات الماضي، وتيزنيت تترقب دورها وسط ركام المشاريع الموبوءة - Tizpress",
+    "url": "https://www.tizpress.com/191811/%D8%B2%D9%84%D8%B2%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B9%D9%81%D8%A7%D8%A1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A7%D9%81%D8%AA%D8%AD%D8%A7%D8%B5-%D9%8A%D8%B6%D8%B1%D8%A8-%D8%A5%D8%B1%D8%AB-%D8%A3%D8%AE",
+    "author": "جريدة تيزبريس",
+    "published_at": "2026-11-18",
+    "first_seen_at": "2026-11-18T20:37:04.912811+00:00",
+    "last_checked_at": "2026-11-18T20:37:04.912811+00:00",
+    "language": "ar",
+    "excerpt": "في سياق متصل بحركة الإعفاءات الواسعة التي أطلقها وزير الفلاحة والصيد البحري والتنمية القروية والمياه والغابات، أحمد حاتمي، لطي صفحة مرحلة امتدت منذ سنة 2007",
+    "word_count": 315,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "اشتوكة أيت باها"
+      ],
+      "primary_places": [
+        "ماسة"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_001",
+          "name": "عزيز أخنوش",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "legal_accountability",
+          "name": "المتابعات والعزل والمحاسبة",
+          "hits": [
+            "ربط المسؤولية بالمحاسبة"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: عزيز أخنوش",
+        "مواضيع سياسية: المتابعات والعزل والمحاسبة"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_001",
+        "target_type": "person",
+        "target_name": "عزيز أخنوش",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "medium",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 2,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 1,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_9df91b17c659",
+    "stance_analyzed_at": "2026-11-18T20:37:04.912811+00:00"
+  },
+  {
     "id": "4fdf4b489c83859b",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",
