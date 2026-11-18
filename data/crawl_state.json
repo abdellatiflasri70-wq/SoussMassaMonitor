@@ -24841,5 +24841,47 @@
     "title": "مواقيت الصلاة في اكادير",
     "status": "excluded",
     "checked_at": "2026-11-17T20:59:09.441410+00:00"
+  },
+  "https://barlamane.com/%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1-%d9%84%d9%82%d8%ac%d8%b9-%d9%85%d8%ad%d8%a7%d8%b1%d8%a8%d8%a9-%d8%a7%d9%84%d8%b1%d9%8a%d8%b9-%d9%88%d8%a7%d9%84%d9%81%d8%b3%d8%a7%d8%af-%d8%b4%d8%b1%d8%b7-%d9%84": {
+    "source_id": "barlamane",
+    "source_name": "برلمان",
+    "title": "الوزير لقجع: محاربة الريع والفساد شرط لنجاح السياسات العمومية.. والوساطات الريعية انتشرت بشكل رهيب - برلمان.كوم",
+    "status": "excluded",
+    "checked_at": "2026-11-18T07:35:48.245397+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208000/espagne-pourquoi-droite-l-extreme-droite.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Espagne : Pourquoi la droite et l’extrême droite font-elles du Maroc un épouvantail électoral ?",
+    "status": "excluded",
+    "checked_at": "2026-11-18T07:35:48.245397+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208011/tourisme-interne-offres-vacances-tarifs.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Tourisme interne : des offres de vacances à tarifs adaptés aux familles en préparation",
+    "status": "excluded",
+    "checked_at": "2026-11-18T07:35:48.245397+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208001/maroc-fatima-zahra-mansouri-recoit-l-ambassadeur.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Maroc : Fatima-Zahra Mansouri reçoit l’ambassadeur américain à l’ONU",
+    "status": "excluded",
+    "checked_at": "2026-11-18T07:35:48.245397+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/67539/comment-sources-medievales-arabes-permis.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Comment les sources médiévales arabes ont permis d’écrire l’histoire d’Al Andalus",
+    "status": "excluded",
+    "checked_at": "2026-11-18T07:35:48.245397+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/207961/naturalisation-sahraouis-espagne-polisario-denonce.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Naturalisation des Sahraouis en Espagne : Le Polisario dénonce une manœuvre favorable au Maroc",
+    "status": "excluded",
+    "checked_at": "2026-11-18T07:35:48.245397+00:00"
   }
 }
