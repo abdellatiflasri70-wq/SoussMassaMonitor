@@ -1,5 +1,68 @@
 [
   {
+    "id": "cd88c2e85677c25d",
+    "source_id": "tiznit24",
+    "source_name": "تيزنيت24",
+    "title": "المجلس الإقليمي لتيزنيت يطلق مشروعا استراتيجيا لتثمين الواجهة الساحلية وتعزيز جاذبيتها السياحية",
+    "url": "https://tiznit24.com/?p=196616",
+    "author": null,
+    "published_at": "2026-11-19",
+    "first_seen_at": "2026-11-19T20:42:18.113739+00:00",
+    "last_checked_at": "2026-11-19T20:42:18.113739+00:00",
+    "language": "ar",
+    "excerpt": "في إطار رؤيته الرامية إلى تعزيز البنيات التحتية وتثمين المؤهلات الطبيعية والسياحية لإقليم تيزنيت، أطلق المجلس الإقليمي لتيزنيت مشروع تهيئة كورنيش أكلو، في إطار شراكة",
+    "word_count": 270,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "أكلو"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elected_councils",
+          "name": "المجالس المنتخبة والتدبير المحلي",
+          "hits": [
+            "المجلس الإقليمي",
+            "رئيس المجلس"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: المجالس المنتخبة والتدبير المحلي"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_cd88c2e85677",
+    "stance_analyzed_at": "2026-11-19T20:42:18.113739+00:00"
+  },
+  {
     "id": "9df91b17c6599dcc",
     "source_id": "tizpress",
     "source_name": "تيزبريس",
