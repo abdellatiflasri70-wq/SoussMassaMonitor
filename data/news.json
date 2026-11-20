@@ -63,6 +63,73 @@
     "stance_analyzed_at": "2026-11-19T20:42:18.113739+00:00"
   },
   {
+    "id": "3f8c71c12dc94fed",
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Appel à des frappes de drones contre des villes marocaines: une ONG saisit la justice française",
+    "url": "https://fr.le360.ma/politique/appel-a-des-frappes-de-drones-contre-des-villes-marocaines-une-ong-saisit-la-justice-francaise_ROSKJO4THREVBAU2OEXLDK77XI",
+    "author": "La Rédaction",
+    "published_at": "2026-11-19",
+    "first_seen_at": "2026-11-20T07:23:28.447964+00:00",
+    "last_checked_at": "2026-11-20T07:23:28.447964+00:00",
+    "language": "fr",
+    "excerpt": "Une publication diffusée le 15 novembre sur le réseau social X suscite une vive réaction. Dans un communiqué, l’ONG DiplomAtlas a annoncé, mercredi 19 novembre,",
+    "word_count": 384,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تزنيت"
+      ],
+      "primary_places": [
+        "تزنيت"
+      ],
+      "secondary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "secondary_places": [
+        "أكادير"
+      ]
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "communiqué",
+            "estime"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_3f8c71c12dc9",
+    "stance_analyzed_at": "2026-11-20T07:23:28.447964+00:00"
+  },
+  {
     "id": "9df91b17c6599dcc",
     "source_id": "tizpress",
     "source_name": "تيزبريس",

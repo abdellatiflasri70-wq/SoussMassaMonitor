@@ -25114,5 +25114,61 @@
     "title": "114 صفحة دون ذكر المغرب أو الصحراء.. الحزب الاشتراكي الإسباني يختار القضايا الداخلية أمام هوس اليمين بتحويل ملفات الجوار إلى عناوين انتخابية",
     "status": "excluded",
     "checked_at": "2026-11-19T20:42:18.113739+00:00"
+  },
+  "https://fr.le360.ma/politique/appel-a-des-frappes-de-drones-contre-des-villes-marocaines-une-ong-saisit-la-justice-francaise_ROSKJO4THREVBAU2OEXLDK77XI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Appel à des frappes de drones contre des villes marocaines: une ONG saisit la justice française",
+    "status": "accepted",
+    "checked_at": "2026-11-20T07:23:28.447964+00:00"
+  },
+  "https://al3omk.com/1212128.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "مجموعة سوس ماسة الصحية تشدد الرقابة على التصوير والنشر داخل المؤسسات الاستشفائية",
+    "status": "excluded",
+    "checked_at": "2026-11-20T07:23:28.447964+00:00"
+  },
+  "https://barlamane.com/%d8%ab%d9%82%d9%84-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a-%d9%85%d8%aa%d8%b5%d8%a7%d8%b9%d8%af-%d8%a3%d8%b5%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%ba%d8%a7%d8%b1%d8%a8%d8%a9-%d8%a7%d9%84%d8%a5": {
+    "source_id": "barlamane",
+    "source_name": "برلمان",
+    "title": "ثقل انتخابي متصاعد.. أصوات المغاربة الإسبان على موعد مع انتخابات 29 نونبر - برلمان.كوم",
+    "status": "excluded",
+    "checked_at": "2026-11-20T07:23:28.447964+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208181/polisario-nouvelle-contestation-veut-faire.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Polisario : Une nouvelle contestation veut faire pression sur Brahim Ghali avant le congrès",
+    "status": "excluded",
+    "checked_at": "2026-11-20T07:23:28.447964+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208126/elections-espagne-pensent-partis-politiques.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Élections en Espagne : que pensent les partis politiques du Maroc et du Sahara ?",
+    "status": "excluded",
+    "checked_at": "2026-11-20T07:23:28.447964+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208186/defense-delegation-supervise-exercice-forces.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Défense : Une délégation des FAR supervise un exercice des forces spéciales de la Mauritanie",
+    "status": "excluded",
+    "checked_at": "2026-11-20T07:23:28.447964+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208178/drones-shahed-vers-maroc-signale.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Drones Shahed vers le Maroc : Une ONG signale les propos de Salim Djellab",
+    "status": "excluded",
+    "checked_at": "2026-11-20T07:23:28.447964+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208167/apres-revirement-sahara-somalie-expulse.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Après son revirement sur le Sahara, la Somalie expulse l’ambassadeur des Emirats",
+    "status": "excluded",
+    "checked_at": "2026-11-20T07:23:28.447964+00:00"
   }
 }
