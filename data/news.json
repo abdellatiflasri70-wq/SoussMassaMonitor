@@ -1,5 +1,143 @@
 [
   {
+    "id": "280cdd743a6abd58",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أزيلال: مطالب بإحداث إعدادية لإنهاء معاناة تلاميذ مع التنقل بمنطقة تالوين",
+    "url": "https://al3omk.com/1212192.html",
+    "author": "العمق المغربي",
+    "published_at": "2026-11-20",
+    "first_seen_at": "2026-11-20T20:26:59.923262+00:00",
+    "last_checked_at": "2026-11-20T20:26:59.923262+00:00",
+    "language": "ar",
+    "excerpt": "برزت مطالب نيابية عاجلة موجهة إلى وزير التربية الوطنية، تدعو إلى التدخل لإحداث مؤسسة للتعليم الثانوي الإعدادي بمنطقة تالوين، التابعة لجماعة أيت ماجدين بإقليم أزيلال،",
+    "word_count": 307,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "تارودانت"
+      ],
+      "primary_places": [
+        "تالوين"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [
+        {
+          "id": "RNI",
+          "name": "التجمع الوطني للأحرار"
+        }
+      ],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "أحزاب رئيسية: التجمع الوطني للأحرار"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "RNI",
+        "target_type": "party",
+        "target_name": "التجمع الوطني للأحرار",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_280cdd743a6a",
+    "stance_analyzed_at": "2026-11-20T20:26:59.923262+00:00"
+  },
+  {
+    "id": "d5d3ba4453998e83",
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "منظمة غير حكومية تتقدم ببلاغ إلى النيابة العامة الفرنسية بشأن منشور يظهر هجمات بمسيرات على مدن مغربية",
+    "url": "https://ar.yabiladi.com/articles/details/208179/%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%BA%D9%8A%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9-%D8%AA%D8%AA%D9%82%D8%AF%D9%85-%D8%A8%D8%A8%D9%84%D8%A7%D8%BA.html",
+    "author": "Yabiladi com; هيئة التحرير",
+    "published_at": "2026-11-20",
+    "first_seen_at": "2026-11-20T20:26:59.923262+00:00",
+    "last_checked_at": "2026-11-20T20:26:59.923262+00:00",
+    "language": "ar",
+    "excerpt": "أبلغت منظمة «ديبلوم أطلس» غير الحكومية، ومقرها باريس، النيابة العامة في روان بمنشور على مواقع التواصل الاجتماعي منسوب إلى سليم جلاب، العضو السابق في مجلس",
+    "word_count": 163,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ",
+            "بيان",
+            "أكد"
+          ]
+        }
+      ],
+      "secondary": []
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 2,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: التصريحات والمواقف السياسية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_d5d3ba445399",
+    "stance_analyzed_at": "2026-11-20T20:26:59.923262+00:00"
+  },
+  {
     "id": "cd88c2e85677c25d",
     "source_id": "tiznit24",
     "source_name": "تيزنيت24",
