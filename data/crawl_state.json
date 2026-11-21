@@ -25352,5 +25352,54 @@
     "title": "وفد عسكري مغربي يتابع تدريبات للقوات الخاصة الموريتانية",
     "status": "excluded",
     "checked_at": "2026-11-20T20:26:59.923262+00:00"
+  },
+  "https://www.hespress.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%aa%d8%aa%d8%b4%d8%a7%d9%88%d8%b1-%d9%85%d8%b9-%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%a8%d8%b4%d8%a3%d9%86-1843086.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "وزارة الداخلية تتشاور مع الأحزاب بخصوص تعديل قوانين \"انتخابات 2027\"",
+    "status": "excluded",
+    "checked_at": "2026-11-21T07:16:29.677136+00:00"
+  },
+  "https://fr.le360.ma/politique/espagne-comment-feijoo-fait-du-maroc-le-grand-mechant-loup-de-son-duel-face-a-sanchez_LPU4FDNZ4JDCHOSSJZCQUYDLDA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Espagne: comment Feijóo fait du Maroc le grand méchant loup de son duel face à Sánchez",
+    "status": "excluded",
+    "checked_at": "2026-11-21T07:16:29.677136+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d8%b1%d9%81%d8%b9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b4%d8%a7%d8%aa-%d8%a5%d9%84%d9%89-1700-%d8%af%d8%b1%d9%87%d9%85-%d8%b3%d9%8a%d9%87%d9%85-557-%d8%a3%d9%84%d9%81-%d9%85": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع: رفع المعاشات إلى 1700 درهم سيهم 557 ألف متقاعد وأرملة ابتداء من يناير وسيتكلف 3,3 ملايير درهم.. والهدف الوصول 1,2 مليون شخص مستقبلا",
+    "status": "excluded",
+    "checked_at": "2026-11-21T07:16:29.677136+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208327/mohammed-ordonne-hausse-progressive-l-allocation.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Le roi Mohammed VI ordonne une hausse progressive de l’allocation des imams",
+    "status": "excluded",
+    "checked_at": "2026-11-21T07:16:29.677136+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208315/ouverture-festival-film-marrakech-entre.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Ouverture du 23e Festival du film de Marrakech, entre projections et course à l’Étoile d’or",
+    "status": "excluded",
+    "checked_at": "2026-11-21T07:16:29.677136+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208303/البنك-الإفريقي-للتنمية-يستعرض-حصيلة.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "البنك الإفريقي للتنمية يستعرض حصيلة تمويلاته لقطاع النقل في المغرب منذ 1987",
+    "status": "excluded",
+    "checked_at": "2026-11-21T07:16:29.677136+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208316/international-تطلق-دليلا-رقميا-للوقاية.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "BLS International تطلق دليلا رقميا للوقاية من الاحتيال في طلبات التأشيرة بالمغرب",
+    "status": "excluded",
+    "checked_at": "2026-11-21T07:16:29.677136+00:00"
   }
 }
