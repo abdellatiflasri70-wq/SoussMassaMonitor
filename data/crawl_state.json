@@ -25401,5 +25401,61 @@
     "title": "BLS International تطلق دليلا رقميا للوقاية من الاحتيال في طلبات التأشيرة بالمغرب",
     "status": "excluded",
     "checked_at": "2026-11-21T07:16:29.677136+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%86%d8%aa%d9%87%d8%a7%d8%a1-%d9%85%d9%87%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d9%8a%d9%86%d9%88%d8%b1%d8%b3%d9%88-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a3": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بعد انتهاء مهمة المينورسو.. الاتحاد الأوروبي يتحدث عن مباحثات مثمرة مع دي ميستورا ويشدد على ضرورة البحث عن حل سياسي لنزاع الصحراء",
+    "status": "excluded",
+    "checked_at": "2026-11-21T19:21:03.173674+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208356/cree-feminine-u-17-ouvre-candidatures.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "La CAF crée une CAN féminine U-17 et ouvre les candidatures pour l’édition 2028",
+    "status": "excluded",
+    "checked_at": "2026-11-21T19:21:03.173674+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208348/l-algerie-annonce-mort-deux-marocains.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "L’Algérie annonce la mort de deux Marocains accusés de trafic de drogue",
+    "status": "excluded",
+    "checked_at": "2026-11-21T19:21:03.173674+00:00"
+  },
+  "https://barlamane.com/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%b3%d8%ac%d9%86-%d9%88%d8%a7%d8%af%d9%8a-%d8%b2%d9%85-%d8%aa%d9%83%d8%b4%d9%81-%d8%ad%d9%82%d9%8a%d9%82%d8%a9-%d8%aa%d8%ac%d8%b1%d9%8a%d8%af-%d8%b3%d8%ac%d9%8a%d9%86": {
+    "source_id": "barlamane",
+    "source_name": "برلمان",
+    "title": "إدارة سجن وادي زم تكشف حقيقة تجريد سجين من أغراضه الشخصية - برلمان.كوم",
+    "status": "excluded",
+    "checked_at": "2026-11-21T19:21:03.173674+00:00"
+  },
+  "https://barlamane.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d9%83%d8%b4%d9%81-%d8%aa%d8%b3%d9%88%d9%8a%d8%a9-%d9%88%d8%b6%d8%b9%d9%8a%d8%a9-145-%d8%a3%d9%84%d9%81-%d8%a3%d8%ac%d9%8a%d8%b1-%d9%84%d8%af%d9%89-%d8%a7%d9%84%d8%b6": {
+    "source_id": "barlamane",
+    "source_name": "برلمان",
+    "title": "لقجع يكشف تسوية وضعية 145 ألف أجير لدى الضمان الاجتماعي خلال 2025 - برلمان.كوم",
+    "status": "excluded",
+    "checked_at": "2026-11-21T19:21:03.173674+00:00"
+  },
+  "https://barlamane.com/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d8%af%d9%85-%d9%8a%d8%b9%d9%84%d9%86-%d8%af%d8%b9%d9%85%d9%87": {
+    "source_id": "barlamane",
+    "source_name": "برلمان",
+    "title": "الاتحاد الأفريقي لكرة القدم يعلن دعمه لجياني إنفانتينو في انتخابات “الفيفا” - برلمان.كوم",
+    "status": "excluded",
+    "checked_at": "2026-11-21T19:21:03.173674+00:00"
+  },
+  "https://thepress.ma/%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a3%d8%ad%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d8%a9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d9%8a%d8%ac%d8%a8-%d8%a3%d9%84": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "رئيس «الأحرار»: السياحة الوطنية يجب ألا تقتصر على الفئات الميسورة",
+    "status": "excluded",
+    "checked_at": "2026-11-21T19:21:03.173674+00:00"
+  },
+  "https://thepress.ma/%d8%b2%d9%88%d8%a7%d8%b1%d9%82-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%aa%d8%b9%d8%aa%d8%b1%d8%b6-%d8%a3%d8%b4%d8%ba%d8%a7%d9%84-%d8%aa%d9%85%d8%af%d9%8a%d8%af-%d8%a7%d9%84%d8%ad%d8%a7%d8%ac%d8%b2": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "زوارق مغربية تعترض أشغال تمديد الحاجز البحري الإسباني بسبتة وسط خلاف حول الحدود البحرية",
+    "status": "excluded",
+    "checked_at": "2026-11-21T19:21:03.173674+00:00"
   }
 }
