@@ -25457,5 +25457,54 @@
     "title": "زوارق مغربية تعترض أشغال تمديد الحاجز البحري الإسباني بسبتة وسط خلاف حول الحدود البحرية",
     "status": "excluded",
     "checked_at": "2026-11-21T19:21:03.173674+00:00"
+  },
+  "https://al3omk.com/1212790.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "أكادير تستعد لمونديال 2030.. تأهيل ملعبي أدرار ومودانيب وتوسيع العرض الفندقي ومناطق المشجعين",
+    "status": "excluded",
+    "checked_at": "2026-11-22T06:56:56.904320+00:00"
+  },
+  "https://fr.le360.ma/politique/dialogue-social-fatima-ezzahra-el-mansouri-rencontrera-mardi-les-leaders-des-syndicats_M3SMPR4MGZEKJMI6BEOE2DA3S4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Dialogue social: Fatima-Ezzahra El Mansouri rencontrera mardi les leaders syndicaux",
+    "status": "excluded",
+    "checked_at": "2026-11-22T06:56:56.904320+00:00"
+  },
+  "https://fr.le360.ma/politique/le-roi-ordonne-laugmentation-progressive-au-cours-des-quatre-prochaines-annees-de-lallocation_VYY5NYDMANBUZAMQMUTKB36EDI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Le Roi ordonne l’augmentation progressive au cours des quatre prochaines années de l’allocation mensuelle accordée aux imams",
+    "status": "excluded",
+    "checked_at": "2026-11-22T06:56:56.904320+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208380/election-fifa-rabat-l-afrique-l-amerique.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Élection à la FIFA à Rabat : l’Afrique et l’Amérique du Sud soutiennent Gianni Infantino",
+    "status": "excluded",
+    "checked_at": "2026-11-22T06:56:56.904320+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208377/fmej-appelle-discussions-urgentes-avec.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "La FMEJ appelle à des discussions urgentes avec le gouvernement sur les subventions à la presse",
+    "status": "excluded",
+    "checked_at": "2026-11-22T06:56:56.904320+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208378/دعم-إفريقي-وأمريكي-جنوبي-يعزز.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "دعم إفريقي وأمريكي جنوبي يعزز حظوظ إنفانتينو في انتخابات رئاسة فيفا بالرباط",
+    "status": "excluded",
+    "checked_at": "2026-11-22T06:56:56.904320+00:00"
+  },
+  "https://thepress.ma/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d8%af%d8%a7%d9%81%d8%b9-%d8%b9%d9%86-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d9%85%d8%aa%d8%b9%d8%af%d8%af%d8%a9-%d8%a7%d9%84%d8%b3%d9%86%d9%88%d8%a7%d8%aa-%d9%88": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "لقجع يدافع عن البرمجة متعددة السنوات ويؤكد احترام الدور الرقابي للبرلمان",
+    "status": "excluded",
+    "checked_at": "2026-11-22T06:56:56.904320+00:00"
   }
 }
