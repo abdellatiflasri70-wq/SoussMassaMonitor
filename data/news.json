@@ -1,5 +1,108 @@
 [
   {
+    "id": "4f6463c497dd0430",
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "تحضيرا لانتخابات 2027.. وزير الداخلية يعقد لقاء مع قادة ومسؤولي الأحزاب السياسية المتوفرة على فريق أو مجموعة برلمانية - أكادير انفو - Agadir info",
+    "url": "https://agadirinfo.ma/136300.html",
+    "author": "اكادير انفو",
+    "published_at": "2026-11-24",
+    "first_seen_at": "2026-11-24T22:30:36.019624+00:00",
+    "last_checked_at": "2026-11-24T22:30:36.019624+00:00",
+    "language": "ar",
+    "excerpt": "البولتيك بالمغربتحضيرا لانتخابات 2027.. وزير الداخلية يعقد لقاء مع قادة ومسؤولي الأحزاب السياسية المتوفرة على فريق أو مجموعة برلمانية عقد وزير الداخلية السيد عبد الوافي",
+    "word_count": 293,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "أكادير إداوتنان"
+      ],
+      "primary_places": [
+        "أكادير"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [
+        {
+          "id": "person_027",
+          "name": "عبد الوافي لفتيت",
+          "tier": "priority"
+        }
+      ],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "elections",
+          "name": "الانتخابات والاقتراع",
+          "hits": [
+            "انتخابات",
+            "استحقاقات",
+            "الاستحقاقات الانتخابية",
+            "اللوائح الانتخابية",
+            "الاستحقاقات"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بلاغ"
+          ]
+        },
+        {
+          "id": "candidacy_nomination",
+          "name": "الترشح والتزكية",
+          "hits": [
+            "الترشح"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "strong",
+      "geographic_score": 4,
+      "political_score": 4,
+      "decision_reason": "صلة جغرافية وسياسية قوية",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "شخصيات رئيسية: عبد الوافي لفتيت",
+        "مواضيع سياسية: الانتخابات والاقتراع"
+      ],
+      "accepted": true
+    },
+    "stances": [
+      {
+        "target_id": "person_027",
+        "target_type": "person",
+        "target_name": "عبد الوافي لفتيت",
+        "label": "neutral",
+        "label_ar": "محايد أو إخباري",
+        "confidence": "low",
+        "positive_score": 0,
+        "negative_score": 0,
+        "mention_count": 1,
+        "editorial_segment_count": 1,
+        "reported_segment_count": 0,
+        "evidence": []
+      }
+    ],
+    "event_id": "evt_4f6463c497dd",
+    "stance_analyzed_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  {
     "id": "280cdd743a6abd58",
     "source_id": "al3omk",
     "source_name": "العمق المغربي",

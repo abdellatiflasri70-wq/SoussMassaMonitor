@@ -25793,5 +25793,271 @@
     "title": "إدارية فاس تقضي بتجريد مصطفى لخصم من رئاسة وعضوية مجلس إيموزار كندر",
     "status": "excluded",
     "checked_at": "2026-11-24T09:59:02.031812+00:00"
+  },
+  "https://agadirinfo.ma/136300.html": {
+    "source_id": "agadirinfo",
+    "source_name": "أكادير أنفو",
+    "title": "تحضيرا لانتخابات 2027.. وزير الداخلية يعقد لقاء مع قادة ومسؤولي الأحزاب السياسية المتوفرة على فريق أو مجموعة برلمانية - أكادير انفو - Agadir info",
+    "status": "accepted",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.chtoukapress.com/308822.html": {
+    "source_id": "chtoukapress",
+    "source_name": "اشتوكة بريس",
+    "title": "الجامعة الملكية المغربية تطعن في قرار الطاس..بلاغ",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://taroudantalaan.ma/politique/trade-unions-demand-wage-pension-increase-government-consultations": {
+    "source_id": "taroudantalaan",
+    "source_name": "تارودانت الآن",
+    "title": "المركزيات النقابية تطالب بالرفع من الأجور ومعاشات التقاعد",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://al3omk.com/1213618.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "البرهان على أن من يستحق جائزة نوبل هو بنكيران",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://al3omk.com/1213508.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "المنصوري تفوض للقجع صلاحيات للاقتراض داخليا وخارجيا وتدبير مديونية الدولة",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d9%8a%d8%ab%d8%a7%d9%82-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d9%8a%d9%88%d8%b2%d8%b9-%d9%85%d9%87%d8%a7%d9%85-%d8%a7%d9%84%d8%aa-1845325.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "ميثاق الأغلبية الحكومية يوزع مهام التنسيق",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.hespress.com/%d9%84%d8%b4%d9%83%d8%b1-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83%d9%8a-%d9%85%d8%b1%d8%aa%d8%a7%d8%ad-%d8%a8%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85-1845298.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "لشكر: الاتحاد الاشتراكي مرتاح بالحكومة.. وتعيين المنصوري مكسب للمغربيات",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.hespress.com/%d9%85%d9%8a%d8%ab%d8%a7%d9%82-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a-%d9%8a%d8%b1%d8%b3%d9%85-%d9%85%d8%b9%d8%a7%d9%84%d9%85-%d9%88%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%ba-1845270.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "\"ميثاق سياسي\" يرسم معالم وقواعد الاشتغال المشترك بين الأحزاب الحكومية",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d8%aa%d8%aa%d9%81%d9%82-%d8%b9%d9%84%d9%89-%d9%85%d8%b1%d8%b4%d8%ad-%d9%85-1845263.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بركة: الأغلبية الحكومية تتفق على \"مرشح استقلالي\" لرئاسة مجلس المستشارين",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.hespress.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%a8%d8%af%d8%a7%d9%8a%d8%a9-%d9%86%d8%a7%d8%ac%d8%ad%d8%a9-%d9%84%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88-1845236.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "المنصوري: \"بداية ناجحة\" للأغلبية الحكومية .. والإرادة حقيقية لتغيير المسار",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://ar.le360.ma/politique/UK7Q2F7RH5D3VO5AU2EOPGY4XI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "انتخابات 2027.. وزير الداخلية يعقد لقاء مع قادة ومسؤولي الأحزاب السياسية",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://ar.le360.ma/politique/6Q4AM77ZVJB7FPULCIBAXSL72I": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "التويزي يتوعد «سلايتية» البرلمان بالاقتطاع",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-youssef-amrani-affirme-a-washington-que-la-dynamique-de-reglement-se-poursuit-malgre-le-veto_PQQ45H7PMVFENJD7HWXU2PRNO4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: Youssef Amrani affirme à Washington que la dynamique de règlement se poursuit malgré le veto russe",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://fr.le360.ma/politique/mustapha-lakhsem-ecarte-de-la-presidence-de-la-commune-dimouzzer-kandar_DY6K7PZBWZEOJP2TPA62OSNOFY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Mustapha Lakhsem écarté de la présidence de la commune d’Imouzzer Kandar",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://fr.le360.ma/politique/ce-que-lambassadeur-de-france-et-les-elus-de-dakhla-se-sont-dit-ce-lundi_25YLF26P2JGPZFS6WH36CMFPG4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Ce que l’ambassadeur de France et les élus de Dakhla se sont dit ce lundi",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://fr.le360.ma/politique/investissement-mezzour-denonce-les-blocages-des-walis_M2LTRPVTWVFFRIFUA2UQIBGINU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Investissement: Mezzour dénonce les blocages des walis",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://fr.le360.ma/politique/social-mehdi-bensaid-place-linsertion-des-jeunes-au-coeur-des-priorites-gouvernementales_JK7QMUX6K5CXRBBOUJYDMQJ7NY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Social: Mehdi Bensaïd place l’insertion des jeunes au cœur des priorités gouvernementales",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.assahifa.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8d-%d9%84%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad-%d8%a7%d8%b3%d9%85-%d8%a7%d8%b3%d8%aa": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "المنصوري تكشف عن اتفاقٍ لترشيح اسم استقلالي لرئاسة مجلس المستشارين في انتخابات 2027 مع التنسيق بين ستة أحزاب",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.assahifa.com/%d8%a8%d8%b9%d8%af-%d9%84%d9%82%d8%a7%d8%a6%d9%87%d9%85-%d8%a8%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d9%82%d8%a7%d8%af%d8%a9-%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "بعد لقائهم بوزير الداخلية.. قادة أحزاب الأغلبية يجمعون على ضرورة التوافق قبل تغيير القوانين الانتخابية استعدادا لاستحقاقات 2027",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.assahifa.com/%d9%84%d9%82%d8%ac%d8%b9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%b5%d9%86%d8%af%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%8a%d8%af%d8%a7": {
+    "source_id": "assahifa",
+    "source_name": "الصحيفة",
+    "title": "لقجع يكشف عن مشروع لتحديث صندوق الإيداع والتدبير.. والجواهري يدعو إلى توجيه الادخار نحو الاستثمار المنتج",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7-%d9%8a%d8%b6%d8%b9": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "اجتماع الأغلبية الحكومية بالرباط يضع قواعد التنسيق ويفتح باب التعاون الانتخابي",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://barlamane.com/%d9%85%d9%8a%d8%ab%d8%a7%d9%82-%d8%a7%d9%84%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d9%8a%d8%b1%d8%b3%d9%85-%d8%ae%d8%a7%d8%b1%d8%b7%d8%a9-%d8%a7%d9%84": {
+    "source_id": "barlamane",
+    "source_name": "برلمان",
+    "title": "ميثاق الأغلبية الحكومية يرسم خارطة التنسيق بين ستة أحزاب ويضع مكافحة الفساد واستعادة القدرة الشرائية ضمن الأولويات - برلمان.كوم",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://barlamane.com/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a-%d9%84%d8%a7-%d9%86%d8%b1%d9%8a%d8%af-%d8%a3%d8%ba%d9%84%d8%a8%d9%8a%d8%a9-%d8%b9%d8%af%d8%af%d9%8a%d8%a9-%d8%a8%d9%84-%d8%a3%d8%ba%d9%84%d8%a8%d9%8a": {
+    "source_id": "barlamane",
+    "source_name": "برلمان",
+    "title": "المنصوري: لا نريد أغلبية عددية بل أغلبية سياسية منسجمة.. وبركة وبنعبد الله يؤكدان على العمل بروح الفريق لتنزيل البرنامج الحكومي - برلمان.كوم",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://barlamane.com/%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1-%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d8%aa%d8%b6%d9%8a%d9%8a%d9%82-%d8%b9%d9%84%d9%89-%d8%ad%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa": {
+    "source_id": "barlamane",
+    "source_name": "برلمان",
+    "title": "نظام العسكر يواصل التضييق على حرية التعبير في الجزائر.. إدانة ناشط حقوقي بالحبس النافذ - برلمان.كوم",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://barlamane.com/%d8%a7%d9%84%d8%a3%d8%b5%d8%a7%d9%84%d8%a9-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b5%d8%b1%d8%a9-%d9%8a%d8%aa%d8%af%d8%a7%d9%88%d9%84-%d9%85%d9%8a%d8%ab%d8%a7%d9%82-%d8%a7%d9%84%d8%a3%d8%ba%d9%84": {
+    "source_id": "barlamane",
+    "source_name": "برلمان",
+    "title": "الأصالة والمعاصرة يتداول ميثاق الأغلبية الحكومية ويستعد لاستحقاقات 2027 - برلمان.كوم",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://barlamane.com/%d8%a2%d9%8a%d8%aa-%d9%85%d9%84%d9%88%d9%84-%d8%a5%d8%ad%d8%a7%d9%84%d8%a9-%d8%b4%d8%ae%d8%b5-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9": {
+    "source_id": "barlamane",
+    "source_name": "برلمان",
+    "title": "آيت ملول.. إحالة شخص على النيابة العامة بشبهة تورطه في السياقة في حالة سكر والتسبب في حادثة سير - برلمان.كوم",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://barlamane.com/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d9%85%d8%ad%d9%83%d9%85%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a6%d9%86%d8%a7%d9%81-%d9%81%d9%8a-%d9%81%d8%b1%d8%b3%d8%a7%d9%8a-%d8%aa%d8%ad%d9%8a%d9%84-%d8%a7%d9%84": {
+    "source_id": "barlamane",
+    "source_name": "برلمان",
+    "title": "فرنسا.. محكمة الاستئناف في فرساي تحيل الشرطي المتهم بقتل الفتى نائل للمحاكمة بتهمة القتل العمد - برلمان.كوم",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208637/elections-2027-ministre-l-interieur-reunit.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Élections de 2027 : le ministre de l’Intérieur réunit des responsables de partis à Rabat",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208633/decision-releve-aucune-erreur-droit.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "La décision du TAS ne relève aucune erreur de droit dans la décision de l’arbitre",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208598/vente-pyramidal-maroc-entreprise-cosmetiques.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Vente pyramidal : Au Maroc, une entreprise de cosmétiques soutenue par des influenceurs dans la tourmente",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208607/films-marocains-competition-festival-cine-ville.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Fès : 15 films marocains en compétition au 30è Festival Ciné-ville",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208613/recettes-fiscales-collectivites-territoriales-hausse.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Les recettes fiscales des collectivités territoriales en hausse de 14,1% à fin octobre",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208573/maroc-pres-mmdh-budget-pour.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Maroc : Près de 20 MMDH de budget pour l’aménagement de plus de 811 communes rurales",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208551/elevage-ministere-l-agriculture-prepare-plan.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Élevage: Le ministère de l’Agriculture prépare un plan de reconstitution du cheptel",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208552/transport-soutien-transporteurs-routiers-maintenu.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Transport: Le soutien aux transporteurs routiers maintenu par le gouvernement",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208634/الطاس-توضح-قرارها-المغرب-والسنغال.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "الطاس توضح قرارها: المغرب والسنغال أبديا رغبتهما في مواصلة النهائي",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208626/الجامعة-المغربية-تحتج-على-قرار.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "الجامعة المغربية تحتج على قرار الطاس بشأن نهائي كان 2025 وتعتزم الطعن فيه",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/71374/تاريخ-جيش-التحرير-المغربي-تحول.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "تاريخ جيش التحرير المغربي (3): تحول بعض أعضاء المقاومة داخل المنظمات السرية بالمدن إلى المساهمة في قيادة جيش التحرير المغربي",
+    "status": "excluded",
+    "checked_at": "2026-11-24T22:30:36.019624+00:00"
   }
 }
