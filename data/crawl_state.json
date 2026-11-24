@@ -25779,5 +25779,19 @@
     "title": "البيجيدي يدعو الحكومة إلى اعتماد اللغة العربية في عقود البنوك وشركات التأمين",
     "status": "excluded",
     "checked_at": "2026-11-23T23:57:44.095023+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208554/l-universite-tofail-premiere-maroc-dans.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "L’Université Ibn Tofaïl première au Maroc dans un classement sur la recherche interdisciplinaire",
+    "status": "excluded",
+    "checked_at": "2026-11-24T09:59:02.031812+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208558/إدارية-فاس-تقضي-بتجريد-مصطفى.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "إدارية فاس تقضي بتجريد مصطفى لخصم من رئاسة وعضوية مجلس إيموزار كندر",
+    "status": "excluded",
+    "checked_at": "2026-11-24T09:59:02.031812+00:00"
   }
 }
