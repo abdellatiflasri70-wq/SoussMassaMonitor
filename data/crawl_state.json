@@ -26059,5 +26059,33 @@
     "title": "تاريخ جيش التحرير المغربي (3): تحول بعض أعضاء المقاومة داخل المنظمات السرية بالمدن إلى المساهمة في قيادة جيش التحرير المغربي",
     "status": "excluded",
     "checked_at": "2026-11-24T22:30:36.019624+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208658/ministere-l-agriculture-envisage-soutien-exportations.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Le ministère de l’Agriculture envisage un soutien aux exportations d’olives",
+    "status": "excluded",
+    "checked_at": "2026-11-25T08:42:33.266587+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208657/syndicats-reclament-hausse-salaires-pensions.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Les syndicats réclament une hausse des salaires et des pensions à Rabat",
+    "status": "excluded",
+    "checked_at": "2026-11-25T08:42:33.266587+00:00"
+  },
+  "https://fr.le360.ma/politique/majorite-gouvernementale-une-charte-dethique-signee-et-un-accord-sur-la-presidence-de-la-chambre-des_AQDCBOGBLRATLJCY2DYINWCIR4": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Majorité gouvernementale: une charte d’éthique signée et un accord sur la présidence de la Chambre des conseillers au profit de l’Istiqlal",
+    "status": "excluded",
+    "checked_at": "2026-11-25T08:42:33.266587+00:00"
+  },
+  "https://fr.le360.ma/politique/espagne-le-pp-ressort-la-carte-marocaine-et-meme-lia-ne-sauve-pas-son-montage_MIJXYJSKVVBHZBW4NZDSIKKYRI": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Espagne: le PP ressort la carte marocaine et même l’IA ne sauve pas son montage",
+    "status": "excluded",
+    "checked_at": "2026-11-25T08:42:33.266587+00:00"
   }
 }
