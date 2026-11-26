@@ -26297,5 +26297,236 @@
     "title": "Mondial 2030 : 840.000 emplois attendus au Maroc grâce aux investissements",
     "status": "excluded",
     "checked_at": "2026-11-26T08:26:55.142025+00:00"
+  },
+  "https://www.hespress.com/%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d9%88%d8%b1%d8%a7%d8%aa-%d9%85%d8%b9-%d8%a7%d9%84%d8%a3-1846422.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "وزارة الداخلية تواصل المشاورات مع الأحزاب بخصوص \"استحقاقات 2027\"",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://www.hespress.com/%d8%a8%d9%84%d9%81%d9%82%d9%8a%d9%87-%d9%8a%d9%88%d8%b6%d8%ad-%d8%ae%d9%84%d9%81%d9%8a%d8%a7%d8%aa-%d8%aa%d9%81%d9%88%d9%8a%d8%b6%d8%a7%d8%aa-%d9%84%d9%82%d8%ac%d8%b9-1846359.html": {
+    "source_id": "hespress",
+    "source_name": "هسبريس",
+    "title": "بلفقيه يوضح خلفيات \"تفويضات لقجع\"",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://barlamane.com/%d8%a5%d8%b9%d9%81%d8%a7%d8%a1-%d9%85%d8%b3%d8%a4%d9%88%d9%84-%d8%b3%d8%a7%d8%a8%d9%82-%d8%a8%d9%88%d8%b2%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d9%81%d8%b1": {
+    "source_id": "barlamane",
+    "source_name": "برلمان",
+    "title": "إعفاء مسؤول سابق بوزارة الداخلية الفرنسية وسط تحقيقات بشأن تسريب وثائق لحزب لوبان - برلمان.كوم",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://barlamane.com/%d8%a8%d8%b9%d8%af-%d8%aa%d8%af%d8%a7%d9%88%d9%84-%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d8%a7%d9%84%d8%b3%d8%b1%d9%82%d8%a9-%d8%a3%d9%85%d9%86-%d8%a5%d9%86%d8%b2%d9%83%d8%a7%d9%86-%d9%8a%d8%b7%d9%8a%d8%ad": {
+    "source_id": "barlamane",
+    "source_name": "برلمان",
+    "title": "بعد تداول فيديو السرقة.. أمن إنزكان يطيح بمشتبه فيهما في قضية استهداف قاصر - برلمان.كوم",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://al3omk.com/1214392.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "انتقادات للمعارضة الإسبانية إثر فبركة فيديو بالذكاء الاصطناعي يظهر سانشيز بقميص المغرب",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://al3omk.com/1214449.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "هيئة حقوقية بطاطا تدين نقل سيدة على ظهر دابة بسبب غياب المسالك الطرقية",
+    "status": "accepted",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://al3omk.com/1214237.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "رسالة مفتوحة إلى الرفيق نبيل بنعبد الله بشأن الطلبة الـ22 المطرودين من جامعة ابن طفيل بالقنيطرة",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://thepress.ma/%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86-%d9%8a%d8%aa%d9%88%d8%ac%d9%87%d9%88%d9%86-%d8%a5%d9%84%d9%89-%d8%b5%d9%86%d8%a7%d8%af%d9%8a%d9%82-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%b9-%d8%a7": {
+    "source_id": "thepress",
+    "source_name": "ThePress",
+    "title": "الإسبان يتوجهون إلى صناديق الاقتراع الأحد.. 38.6 مليون ناخب لاختيار برلمان جديد",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://ar.le360.ma/politique/YZAUHIIYAJELTKAKDAZAZWN6QY": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "وزارة الداخلية تواصل مشاورات انتخابات 2027 وتعرض التوجهات العامة لتخليق ورقمنة العمليات الانتخابية",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://fr.le360.ma/politique/communales-2027-cinq-nouvelles-villes-pourraient-adopter-le-systeme-des-conseils-darrondissement_SMZK5LPE7BGT3C4QS4LMBGS6FA": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Communales 2027: cinq nouvelles villes pourraient adopter le système des conseils d’arrondissement",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://fr.le360.ma/economie/des-fonctionnaires-civils-de-linterieur-reclament-le-droit-dadherer-a-un-parti-et-de-se-presenter_FJ4HV2X2NNDXDIHN3URYSIVR3I": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Des fonctionnaires civils de l’Intérieur réclament le droit d’adhérer à un parti et de se présenter aux élections",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://fr.le360.ma/politique/cooperation-militaire-le-maroc-et-lallemagne-signent-une-declaration-dintention-commune_55VCIGEYVBCTNPC23KD7C2SB74": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Coopération militaire: le Maroc et l’Allemagne signent une déclaration d’intention commune",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://fr.le360.ma/politique/reconstitution-du-cheptel-les-eleveurs-face-a-un-programme-sans-nouveaute_MZYZN4YAVVHKXL2TQ6B7OCD5GM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Reconstitution du cheptel: les éleveurs face à un programme sans nouveauté",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208857/pollution-l-oued-mouilah-alger-accuse.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Pollution de l’oued Mouilah : Alger accuse le Maroc de «crime contre l’humanité»",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208841/tata-periple-d-une-jeune-femme.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "À Tata, le périple d’une jeune femme malade transportée à dos de mulet",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208860/laftit-rencontre-dirigeants-partis-politiques.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Laftit rencontre les dirigeants des partis politiques pour préparer les élections de 2027",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208853/maroc-accueillera-forum-economique-japon-afrique.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Le Maroc accueillera un forum économique Japon-Afrique en juillet 2027",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208846/maroc-israel-conviennent-d-elaborer-plan.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Le Maroc et Israël conviennent d’élaborer un plan militaire conjoint pour 2027",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208837/migration-garde-contre-pression-maroc.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Migration : le PP met en garde contre une pression du Maroc sur l’Espagne",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208828/snrt-avant-programmes-environnementaux-chaine.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "La SNRT met en avant les programmes environnementaux de la chaîne Attaqafia",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208824/rome-journaliste-marocain-hicham-sans.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "À Rome le journaliste marocain Hicham sans abri hospitalisé grâce au consulat du Maroc",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208819/port-almeria-deux-personnes-arretees.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Port Almería : deux personnes arrêtées avec 200 capsules de cannabis dans le corps",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208816/ceuta-madrid-dement-avoir-efface.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Ceuta : Madrid dément avoir effacé les références au Maroc d’un rapport de la Garde civile",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208790/mauritanie-dement-excuses-attribuees-chef.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "La Mauritanie dément les excuses attribuées à son chef d’état-major au Polisario",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208858/لفتيت-يلتقي-قادة-أحزاب-سياسية.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "لفتيت يلتقي قادة أحزاب سياسية لمناقشة التحضيرات لانتخابات 2027",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208839/سكان-دوار-بإقليم-طاطا-يستغيثون.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "سكان دوار بإقليم طاطا يستغيثون بعد اضطرارهم إلى نقل شابة مريضة على ظهر بغل بسبب انقطاع الطريق منذ شهرين",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208847/المغرب-وإسرائيل-يتفقان-على-إعداد.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "المغرب وإسرائيل يتفقان على إعداد خطة عسكرية مشتركة لعام 2027",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208811/يونس-ميكري-يشكر-الملك-محمد.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "يونس ميكري يشكر الملك محمد السادس خلال حفل تكريمه في المهرجان الدولي للفيلم بمراكش",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208833/متحدث-الحزب-الشعبي-الإسباني-يحذر.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "متحدث الحزب الشعبي الإسباني يحذر من استخدام المغرب والجزائر الهجرة للضغط على إسبانيا وأوروبا",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208825/بعد-سنوات-من-انقطاع-أخباره.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "بعد سنوات من انقطاع أخباره عن أسرته.. القنصلية المغربية بروما تتدخل لإدخال صحافي مغربي إلى المستشفى",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208810/متطوعا-أمريكيا-يستعدون-لمواكبة-الشباب.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "45 متطوعا أمريكيا يستعدون لمواكبة الشباب في مناطق مختلفة من المغرب",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208817/توقيف-شخصين-قادمين-من-المغرب.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "توقيف شخصين قادمين من المغرب وبداخل جسميهما 200 كبسولة من الحشيش",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208793/المغرب-والصين-يوقعان-اتفاقا-للنقل.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "المغرب والصين يوقّعان اتفاقا للنقل الجوي يشمل 14 خطا",
+    "status": "excluded",
+    "checked_at": "2026-11-26T21:38:42.972128+00:00"
   }
 }

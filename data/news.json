@@ -1,5 +1,75 @@
 [
   {
+    "id": "6c540b969c03cc74",
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "هيئة حقوقية بطاطا تدين نقل سيدة على ظهر دابة بسبب غياب المسالك الطرقية",
+    "url": "https://al3omk.com/1214449.html",
+    "author": "جمال زروال",
+    "published_at": "2026-11-26",
+    "first_seen_at": "2026-11-26T21:38:42.972128+00:00",
+    "last_checked_at": "2026-11-26T21:38:42.972128+00:00",
+    "language": "ar",
+    "excerpt": "أدان المكتب الإقليمي للهيئة المغربية لحقوق الإنسان والبيئة بإقليم طاطا، ما تعرضت له سيدة بدوار إغيل نيݣران التابع لجماعة ألوكوم، بعد نقلها فوق ظهر دابة",
+    "word_count": 287,
+    "geography": {
+      "region": "سوس ماسة",
+      "primary_provinces": [
+        "طاطا"
+      ],
+      "primary_places": [
+        "طاطا"
+      ],
+      "secondary_provinces": [],
+      "secondary_places": []
+    },
+    "parties": {
+      "primary": [],
+      "secondary": []
+    },
+    "persons": {
+      "primary": [],
+      "secondary": []
+    },
+    "topics": {
+      "primary": [
+        {
+          "id": "party_activity",
+          "name": "الأنشطة والتنظيمات الحزبية",
+          "hits": [
+            "المكتب الإقليمي"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "id": "political_statements",
+          "name": "التصريحات والمواقف السياسية",
+          "hits": [
+            "بيان"
+          ]
+        }
+      ]
+    },
+    "relevance": {
+      "level": "medium",
+      "geographic_score": 4,
+      "political_score": 3,
+      "decision_reason": "صلة جغرافية وسياسية مقبولة",
+      "geographic_reasons": [
+        "إقليم رئيسي داخل سوس ماسة",
+        "مدينة أو مكان رئيسي داخل سوس ماسة"
+      ],
+      "political_reasons": [
+        "مواضيع سياسية: الأنشطة والتنظيمات الحزبية"
+      ],
+      "accepted": true
+    },
+    "stances": [],
+    "event_id": "evt_6c540b969c03",
+    "stance_analyzed_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  {
     "id": "4f6463c497dd0430",
     "source_id": "agadirinfo",
     "source_name": "أكادير أنفو",
