@@ -26255,5 +26255,47 @@
     "title": "الأغلبية الحكومية توقع ميثاقا للتنسيق في الرباط",
     "status": "excluded",
     "checked_at": "2026-11-25T21:45:24.610196+00:00"
+  },
+  "https://al3omk.com/1214124.html": {
+    "source_id": "al3omk",
+    "source_name": "العمق المغربي",
+    "title": "انتخاب التهامي بن حدش رئيساً جديداً للمجلس الإقليمي لتاونات",
+    "status": "excluded",
+    "checked_at": "2026-11-26T08:26:55.142025+00:00"
+  },
+  "https://alyaoum24.com/2059773.html": {
+    "source_id": "alyaoum24",
+    "source_name": "اليوم24",
+    "title": "المجلس الجماعي للسمارة يصادق بالإجماع على ميزانية 2027 وسط نقاش حول الأولويات المالية وتحويل الاعتمادات – اليوم 24",
+    "status": "excluded",
+    "checked_at": "2026-11-26T08:26:55.142025+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208786/dialogue-social-cheffe-gouvernement-rencontre.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Dialogue social : la cheffe du gouvernement rencontre trois centrales syndicales",
+    "status": "excluded",
+    "checked_at": "2026-11-26T08:26:55.142025+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208785/maroc-parmi-partenaires-d-un-programme.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Le Maroc parmi les partenaires d’un programme néerlandais de formation",
+    "status": "excluded",
+    "checked_at": "2026-11-26T08:26:55.142025+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208784/maroc-chine-signent-accord-pour.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Le Maroc et la Chine signent un accord pour renforcer leurs services aériens",
+    "status": "excluded",
+    "checked_at": "2026-11-26T08:26:55.142025+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208783/mondial-2030-emplois-attendus-maroc.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Mondial 2030 : 840.000 emplois attendus au Maroc grâce aux investissements",
+    "status": "excluded",
+    "checked_at": "2026-11-26T08:26:55.142025+00:00"
   }
 }
