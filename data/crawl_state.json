@@ -26528,5 +26528,47 @@
     "title": "المغرب والصين يوقّعان اتفاقا للنقل الجوي يشمل 14 خطا",
     "status": "excluded",
     "checked_at": "2026-11-26T21:38:42.972128+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208870/gouvernement-adopte-decret-suivi-securite.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Le gouvernement adopte un décret sur le suivi de la sécurité des barrages",
+    "status": "excluded",
+    "checked_at": "2026-11-27T08:42:09.810939+00:00"
+  },
+  "https://www.yabiladi.com/articles/details/208868/saham-bank-moulay-mhamed-elalamy.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "Saham Bank : Moulay Mhamed Elalamy prendra la tête du directoire en janvier",
+    "status": "excluded",
+    "checked_at": "2026-11-27T08:42:09.810939+00:00"
+  },
+  "https://ar.yabiladi.com/articles/details/208875/عطاف-الجزائر-تبحث-مع-الأمم.html": {
+    "source_id": "yabiladi",
+    "source_name": "Yabiladi",
+    "title": "عطاف: الجزائر تبحث مع الأمم المتحدة استمرار مهام المينورسو بعد انتهاء ولايتها",
+    "status": "excluded",
+    "checked_at": "2026-11-27T08:42:09.810939+00:00"
+  },
+  "https://ar.le360.ma/politique/BBMM2D75LBE43PO36OFGN35MBU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "الحوار الاجتماعي: المنصوري تؤكد التزام الحكومة بتنفيذ اتفاقي 2022 و2024 بغلاف مالي يناهز 50 مليار درهم",
+    "status": "excluded",
+    "checked_at": "2026-11-27T08:42:09.810939+00:00"
+  },
+  "https://ar.le360.ma/politique/IFJ53NZEXJBTHKMFZ2H25XENXM": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "رئيس اللجنة التنفيذية لشبكة البرلمانيين الأفارقة يؤكد أهمية ترسيخ ثقافة تقييم السياسات العمومية بإفريقيا",
+    "status": "excluded",
+    "checked_at": "2026-11-27T08:42:09.810939+00:00"
+  },
+  "https://fr.le360.ma/politique/sahara-le-burundi-reitere-son-soutien-constant-a-lintegrite-territoriale-du-maroc_3XVZK3Z3ERBL5D5SMHOUIILZWU": {
+    "source_id": "le360",
+    "source_name": "Le360",
+    "title": "Sahara: le Burundi réitère son soutien constant à l’intégrité territoriale du Maroc",
+    "status": "excluded",
+    "checked_at": "2026-11-27T08:42:09.810939+00:00"
   }
 }
